@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankovní úrokové sazby - Vklady",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Domácnosti"
+        },
+        "2": {
+            "title": "Podniky"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Jednodenní úrokové sazby",
+            "definition": "Jednodenní vklady domácností eurozóny v eurech (v % p.a., nové obchody a nesplacené zůstatky se shodují)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x ≤ 1Y",
+            "definition": "Vklady domácností eurozóny v eurech s dohodnutou splatností do jednoho roku (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x > 1Y",
+            "definition": "Vklady domácností eurozóny v eurech s dohodnutou splatností od jednoho roku (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; 1Y < x ≤ 2Y",
+            "definition": "Vklady domácností eurozóny v eurech s dohodnutou splatností od jednoho roku do dvou let (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x ≤ 2Y",
+            "definition": "Vklady domácností eurozóny v eurech s dohodnutou splatností do dvou let (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x > 2Y",
+            "definition": "Vklady domácností eurozóny v eurech s dohodnutou splatností od dvou let (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Vklady s výpovědní lhůtou; x ≤ 3M",
+            "definition": "Vklady domácností eurozóny v eurech s výpovědní lhůtou do tří měsíců (v % p.a., nové obchody a nesplacené zůstatky se shodují)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo operace",
+            "definition": "Repo operace domácností a nefinančních podniků eurozóny v eurech (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Jednodenní úrokové sazby",
+            "definition": "Jednodenní vklady nefinančních podniků eurozóny v eurech (v % p.a., nové obchody a nesplacené zůstatky se shodují)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x ≤ 1Y",
+            "definition": "Vklady nefinančních podniků eurozóny v eurech s dohodnutou splatností do jednoho roku (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x > 1Y",
+            "definition": "Vklady nefinančních podniků eurozóny v eurech s dohodnutou splatností od jednoho roku (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; 1Y < x ≤ 2Y",
+            "definition": "Vklady nefinančních podniků eurozóny v eurech s dohodnutou splatností od jednoho roku do dvou let (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x ≤ 2Y",
+            "definition": "Vklady nefinančních podniků eurozóny v eurech s dohodnutou splatností do dvou let (v % p.a., sazby z nových obchodů)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá splatnost; x > 2Y",
+            "definition": "Vklady nefinančních podniků eurozóny v eurech s dohodnutou splatností od dvou let (v % p.a., sazby z nových obchodů)"
+        }
+    }
+}

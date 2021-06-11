@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}        </p>\r\n<p>Priemonė: trumpalaikiai skolos vertybiniai popieriai</p>\r\n<p>Visa turima suma: %{sumOut} %{unit}</p>\r\n<p>Visa emisijų suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Investuojantis sektorius: %{from}</p>\r\n<p>Turima suma: %{value} %{unit}</p>\r\n<p>Priemonė: trumpalaikiai skolos vertybiniai popieriai</p>\r\n<p>Sektorius emitentas: %{to}</p>\r\n<p>Visų turimų pozicijų dalis: %{percentFrom}</p>\r\n<p>Visų emisijų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Investuojantis sektorius: %{from}; sektorius emitentas: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: ilgalaikiai skolos vertybiniai popieriai</p>\r\n<p>Visa turima suma: %{sumOut} %{unit}</p>\r\n<p>Visa emisijų suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Investuojantis sektorius: %{from}</p>\r\n<p>Turima suma: %{value} %{unit}</p>\r\n<p>Priemonė: ilgalaikiai skolos vertybiniai popieriai</p>\r\n<p>Sektorius emitentas: %{to}</p>\r\n<p>Visų turimų pozicijų dalis: %{percentFrom}</p>\r\n<p>Visų emisijų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Investuojantis sektorius: %{from}; sektorius emitentas: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: trumpalaikės paskolos</p>\r\n<p>Visa paskolinta suma: %{sumOut} %{unit}</p>\r\n<p>Visa pasiskolinta suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Skolinantis sektorius: %{from}</p>\r\n<p>Paskolinta suma: %{value} %{unit}</p>\r\n<p>Priemonė: trumpalaikės paskolos</p>\r\n<p>Sektorius, kuris skolinasi: %{to}</p>\r\n<p>Visų paskolų dalis: %{percentFrom}</p>\r\n<p>Visų pasiskolintų sumų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Skolinantis sektorius: %{from}; sektorius, kuris skolinasi: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: ilgalaikės paskolos</p>\r\n<p>Visa paskolinta suma: %{sumOut} %{unit}</p>\r\n<p>Visa pasiskolinta suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Skolinantis sektorius: %{from}</p>\r\n<p>Paskolinta suma: %{value} %{unit}</p>\r\n<p>Priemonė: ilgalaikės paskolos</p>\r\n<p>Sektorius, kuris skolinasi: %{to}</p>\r\n<p>Visų paskolų dalis: %{percentFrom}</p>\r\n<p>Visų pasiskolintų sumų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Skolinantis sektorius: %{from}; sektorius, kuris skolinasi: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: indėliai</p>\r\n<p>Visa įnešta suma: %{sumOut} %{unit}</p>\r\n<p>Visa gauta suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Įnešantis sektorius: %{from}</p>\r\n<p>Įnešta suma: %{value}%{unit}</p>\r\n<p>Priemonė: indėliai</p>\r\n<p>Gaunantis sektorius: %{to}</p>\r\n<p>Visų įneštų indėlių dalis: %{percentFrom}</p>\r\n<p>Visų gautų indėlių dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Įnešantis sektorius: %{from}; gaunantis sektorius: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: biržinės akcijos</p>\r\n<p>Visa turima suma: %{sumOut} %{unit}</p>\r\n<p>Visa emisijų suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Investuojantis sektorius: %{from}</p>\r\n<p>Turima suma: %{value} %{unit}</p>\r\n<p>Priemonė: biržinės akcijos</p>\r\n<p>Sektorius emitentas: %{to}</p>\r\n<p>Visų turimų pozicijų dalis: %{percentFrom}</p>\r\n<p>Visų emisijų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Investuojantis sektorius: %{from}; sektorius emitentas: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Laikotarpis: %{date}</p>\r\n<p>Sektorius: %{name}       </p>\r\n<p>Priemonė: investicinių fondų akcijos / vienetai</p>\r\n<p>Visa turima suma: %{sumOut} %{unit}</p>\r\n<p>Visa emisijų suma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Laikotarpis: %{date}</p>\r\n<p>Investuojantis sektorius: %{from}</p>\r\n<p>Turima suma: %{value} %{unit}</p>\r\n<p>Priemonė: investicinių fondų akcijos / vienetai</p>\r\n<p>Sektorius emitentas: %{to}</p>\r\n<p>Visų turimų pozicijų dalis: %{percentFrom}</p>\r\n<p>Visų emisijų dalis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Investuojantis sektorius: %{from}; sektorius emitentas: %{to}</p>",
+                "incoming": "<p>Įsipareigojimai</p>",
+                "missing": {
+                    "incoming": "<p>– duomenų nėra / duomenys netaikytini</p>",
+                    "outgoing": "<p>– duomenų nėra / duomenys netaikytini</p>"
+                },
+                "outgoing": "<p>Turtas</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>sektoriaus vidaus likučių</p>"
+            },
+            "title": "<p>Likučiai</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Skiltyje „Finansavimo ir investavimo dinamika“ esančioje diagramoje pateikti duomenys yra paimti iš sektorių sąskaitų; jos yra išsamus ir nuoseklus visų institucinių sektorių rezidentų ketvirtinių duomenų rinkinys. Diagramoje matyti finansinės sąsajos institucinių sektorių viduje, jų tarpusavio finansinės sąsajos ir finansinės sąsajos su likusio pasaulio sektoriumi. Joje parodytos vienų sektorių finansinės pozicijos kituose sektoriuose (ECB viešose duomenų bazėse pateikti ir duomenys apie srautus). Iš finansavimo priemonės rūšies (nuosavybės ar skolos priemonė) ir tos priemonės gavėjo matyti, kaip sektoriai skirsto finansavimą. Prie kiekvieno sektoriaus yra juostelė – joje rodomas turtas ir įsipareigojimai pagal atitinkamą to sektoriaus priemonę. Dėl skolintų vertybinių popierių, t. y. vertybinių popierių ir kitų finansinių priemonių, kurie nuosavybės teise nepriklauso pardavėjui, pardavimo gali būti rodomi  neigiami likučiai. Rodyklės rodo atitinkamo sektoriaus pozicijas kituose sektoriuose. Pozicijos sektoriaus viduje parodytos šalia sektoriaus pavadinimo.</p>\r\n<p>Duomenys pagrįsti 2010 m. Europos sąskaitų sistema (ESA2010). Sektoriai: ne finansų bendrovės, pinigų finansų įstaigos, investiciniai fondai (išskyrus pinigų rinkos fondus), kitos finansų įstaigos, draudimo bendrovės, pensijų fondai, valdžia, namų ūkiai (įskaitant namų ūkiams paslaugas teikiančias ne pelno institucijas), likęs pasaulis (rezidentų ir nerezidentų tarpusavio pozicijos). Priemonės: indėliai, trumpalaikiai skolos vertybiniai popieriai, ilgalaikiai skolos vertybiniai popieriai, trumpalaikės paskolos, ilgalaikės paskolos, biržinės akcijos, investicinių fondų akcijos / vienetai. Pateikiami nekonsoliduoti duomenys, t. y. į tam tikros priemonės bendras sumas ir procentines dalis įtrauktos sektoriaus vidaus finansinės pozicijos (pvz., bankų vienų kitiems suteiktos paskolos); rodomos ataskaitinio laikotarpio – ketvirčio – pabaigos balanso pozicijos; duomenys nepakoreguoti nei dėl sezoniškumo, nei pagal kalendorių; sumos rodomos milijardais eurų; trumpalaikės priemonės – iki 1 m. pirminio termino; ilgalaikės priemonės – ilgesnio kaip 1 m. arba nenurodyto pirminio termino; rodomi euro zonos agreguoti duomenys, ženklas „–“ reiškia, kad duomenų nėra arba jie netaikytini.   </p>\r\n<p>Parodytos priemonės neatskleidžia išsamaus finansinio turto ir įsipareigojimų vaizdo, nes nėra rodomi grynieji pinigai, nebiržinės akcijos ir kitos nuosavybės priemonės, draudimo ir pensijų sistemos, išvestinės finansinės priemonės ir kitos gautinos ir (arba) mokėtinos sąskaitos. Išsamesni duomenys pateikti adresu <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Finansavimo ir investavimo dinamika</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Trumpalaikiai skolos vertybiniai popieriai</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Ilgalaikiai skolos vertybiniai popieriai</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Trumpalaikės paskolos</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Ilgalaikės paskolos</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Indėliai</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Biržinės akcijos</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>likusio pasaulio sektorius</p>",
+                "S11": "<p>bendrovės</p>",
+                "S124": "<p>investiciniai fondai</p>",
+                "S128": "<p>draudikai</p>",
+                "S129": "<p>pensijų fondai</p>",
+                "S12K": "<p>bankai</p>",
+                "S12O": "<p>kitos finansų įstaigos</p>",
+                "S13": "<p>valdžia</p>",
+                "S1M": "<p>namų ūkiai</p>",
+                "WLD": "<p>iš viso</p>"
+            },
+            "title": "<p>Investicinių fondų akcijos / vienetai</p>"
+        }
+    }
+}

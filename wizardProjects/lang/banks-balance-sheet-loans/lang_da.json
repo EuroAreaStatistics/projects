@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Andre finansielle, i alt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Forsikringsselskaber og pensionskasser, i alt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Virksomheder, i alt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Husholdninger, i alt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Andre finansielle, i alt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Forsikringsselskaber og pensionskasser, i alt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Virksomheder, i alt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån i alt til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Husholdninger, i alt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for samlede lån til andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Andre finansielle, i alt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for samlede lån til forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Forsikringsselskaber og pensionskasser, i alt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for samlede lån til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Virksomheder, i alt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for samlede lån til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Husholdninger, i alt</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på op til et år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Virksomheder; x ≤ 1Å</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på op til et år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Virksomheder; x ≤ 1Å</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for lån med en løbetid på op til et år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Virksomheder; x ≤ 1Å</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på over et år og op til fem år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Virksomheder; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på over et år og op til fem år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Virksomheder; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for lån til ikke-finansielle selskaber i euroområdet med en løbetid på over et år og op til fem år (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Virksomheder; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på over fem år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Virksomheder; x &gt; 5Å</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån med en løbetid på over fem år til ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Virksomheder; x &gt; 5Å</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for lån til ikke-finansielle selskaber i euroområdet med en løbetid på over fem år (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Virksomheder; x &gt; 5Å</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, samlede lån til ikke-finansielle selskaber i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Virksomheder, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, samlet udlån til husholdninger i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Husholdninger, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, samlet udlån til ikke-finansielle selskaber i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Virksomheder, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, samlet udlån til husholdninger i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Husholdninger, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for samlet udlån til ikke-finansielle selskaber i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Virksomheder, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækst i samlet udlån til husholdninger i euroområdet korrigeret for salg af lån, securitisering af lån og notionel likviditetspooling (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.). Lån korrigeret for salg og securitisering af lån omfatter lån, som er solgt eller securitiseret og ikke længere medtaget på bankernes balancer.</p>",
+            "title": "<p>Husholdninger, i alt (korrigeret)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån til forbrug til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Husholdninger, lån til forbrug</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån til forbrug til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Husholdninger, lån til forbrug</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for lån til forbrug til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Husholdninger, lån til forbrug</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån til boligkøb til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Husholdninger, lån til boligkøb</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, lån til boligkøb til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Husholdninger, lån til boligkøb</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for lån til boligkøb til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Husholdninger, lån til boligkøb</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, øvrige lån til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)</p>",
+            "title": "<p>Husholdninger, øvrige lån</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, øvrige lån til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)</p>",
+            "title": "<p>Husholdninger, øvrige lån</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, vækstrater for øvrige lån til husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)</p>",
+            "title": "<p>Husholdninger, øvrige lån</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Balancestatistik for monetære finansielle institutioner, forhold mellem samlede ud- og indlån vis-à-vis ikke-finansielle selskaber og husholdninger i euroområdet og ikke-finansielle selskaber, husholdninger og andre finansielle institutioner end banker uden for euroområdet (ekskl. offentlig forvaltning og service, i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, i pct., kvartalsvis)</p>",
+            "title": "<p>Forhold mellem udlån og indlån</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankernes balance - Lån</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Beholdninger</p>"
+        },
+        "2": {
+            "title": "<p>Strømme</p>"
+        },
+        "3": {
+            "title": "<p>Vækstrater</p>"
+        },
+        "4": {
+            "title": "<p>Forhold mellem udlån og indlån</p>"
+        }
+    }
+}

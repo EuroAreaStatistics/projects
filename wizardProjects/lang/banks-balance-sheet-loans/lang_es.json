@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a otros intermediarios financieros de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Otras instituciones financieras, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a empresas de seguros y fondos de pensiones de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Seguros y pensiones, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a sociedades no financieras de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Sociedades, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Hogares, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a otros intermediarios financieros de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Otras instituciones financieras, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a empresas de seguros y fondos de pensiones de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Seguros y pensiones, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a sociedades no financieras de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Sociedades, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Hogares, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a otros intermediarios financieros de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Otras instituciones financieras, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a empresas de seguro y fondos de pensiones de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Seguros y pensiones, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a sociedades no financieras de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Sociedades, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a hogares de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Hogares, total</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento hasta un año a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Sociedades; x ≤ 1 año</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento hasta un año a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Sociedades; x ≤ 1 año</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos con vencimiento hasta un año a sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Sociedades; x ≤ 1 año</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento superior a un año y hasta cinco años a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Sociedades; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento superior a un año y hasta cinco años a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Sociedades; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos con vencimiento superior a un año y hasta cinco años a sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Sociedades; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento superior a cinco años a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Sociedades; x &gt; 5 años</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos con vencimiento superior a cinco años a sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Sociedades; x &gt; 5 años</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos con vencimiento superior a cinco años a sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Sociedades; x &gt; 5 años</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a sociedades no financieras de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Sociedades, total (ajustado)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a hogares de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Hogares, total (ajustado)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a sociedades no financieras de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Sociedades, total (ajustado)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos totales a hogares de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Hogares, total (ajustado)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a sociedades no financieras de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanual). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Sociedades, total (ajustado)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos totales a hogares de la zona del euro ajustados de ventas, titulizaciones y centralización nocional de tesorería (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanual). Los préstamos ajustados de ventas y titulizaciones incluyen los préstamos vendidos o titulizados dados de baja de los balances de las entidades de crédito.</p>",
+            "title": "<p>Hogares, total (ajustado)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para consumo a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Hogares, consumo</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para consumo a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Hogares, consumo</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos para consumo a hogares de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Hogares, consumo</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para adquisición de vivienda a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Hogares, adquisición vivienda</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para adquisición de vivienda a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Hogares, adquisición vivienda</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos para adquisición de vivienda a hogares de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Hogares, adquisición vivienda</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para otros fines a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)</p>",
+            "title": "<p>Hogares, otros préstamos</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, préstamos para otros fines a hogares de la zona del euro (en todas las monedas, todos los plazos, denominados en euros, sin desestacionalizar, operaciones financieras)</p>",
+            "title": "<p>Hogares, otros préstamos</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los préstamos para otros fines a hogares de la zona del euro (en todas las monedas, todos los plazos, sin desestacionalizar, tasas de variación interanuales)</p>",
+            "title": "<p>Hogares, otros préstamos</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Estadísticas de los balances de las instituciones financieras monetarias, ratio préstamos totales/depósitos totales frente a sociedades no financieras y hogares de la zona del euro y sociedades no financieras, hogares e instituciones financieras no bancarias no pertenecientes a la zona del euro (excluidas Administraciones Públicas, en todas las monedas, todos los plazos, sin desestacionalizar, porcentajes, trimestrales)</p>",
+            "title": "<p>Ratio préstamos/depósitos</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Balances bancarios - Préstamos y créditos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Saldos</p>"
+        },
+        "2": {
+            "title": "<p>Flujos</p>"
+        },
+        "3": {
+            "title": "<p>Tasas de crecimiento</p>"
+        },
+        "4": {
+            "title": "<p>Ratio préstamos/depósitos</p>"
+        }
+    }
+}

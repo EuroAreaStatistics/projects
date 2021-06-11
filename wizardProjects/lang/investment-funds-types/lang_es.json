@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Fondos de inversión - Por tipo de fondo",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Saldos"
+        },
+        "2": {
+            "title": "Flujos"
+        },
+        "3": {
+            "title": "Tasas de crecimiento"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión de capital variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital variable (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión de capital fijo",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital fijo (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión de capital variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital variable (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión de capital fijo",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital fijo (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos de inversión de capital variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital variable (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos de inversión de capital fijo",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por tipo de fondo: fondos de capital fijo (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        }
+    }
+}

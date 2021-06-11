@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Värdepapper - Skuldförbindelser",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställning"
+        },
+        "2": {
+            "title": "Nyemissioner"
+        },
+        "3": {
+            "title": "Nettoemissioner"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banker, ställning",
+            "definition": "Utestående belopp av skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banker, ställning; x ≤ 1Y",
+            "definition": "Utestående belopp av kortfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banker, ställning; x &gt; 1Y",
+            "definition": "Utestående belopp av långfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Företag, ställning",
+            "definition": "Utestående belopp av skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Företag, ställning; x ≤ 1Y",
+            "definition": "Utestående belopp av kortfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Företag, ställning; x &gt; 1Y",
+            "definition": "Utestående belopp av långfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Stat, ställning",
+            "definition": "Utestående belopp av skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Stat, ställning; x ≤ 1Y",
+            "definition": "Utestående belopp av kortfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Stat, ställning; x &gt; 1Y",
+            "definition": "Utestående belopp av långfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Övr. finans.inst., ställning",
+            "definition": "Utestående belopp av skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Övr. finans.inst., ställning; x ≤ 1Y",
+            "definition": "Utestående belopp av kortfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Övr. finans.inst., ställning; x &gt; 1Y",
+            "definition": "Utestående belopp av långfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Totalt, ställning",
+            "definition": "Totala utestående belopp av skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Totalt, ställning; x ≤ 1Y",
+            "definition": "Totala utestående belopp av kortfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Totalt, ställning; x &gt; 1Y",
+            "definition": "Totala utestående belopp av långfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banker, nya",
+            "definition": "Bruttoemissioner av skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banker, nya; x ≤ 1Y",
+            "definition": "Bruttoemissioner av kortfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banker, nya; x &gt; 1Y",
+            "definition": "Bruttoemissioner av långfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Företag, nya",
+            "definition": "Bruttoemissioner av skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Företag, nya; x ≤ 1Y",
+            "definition": "Bruttoemissioner av kortfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Företag, nya; x &gt; 1Y",
+            "definition": "Bruttoemissioner av långfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Stat, nya",
+            "definition": "Bruttoemissioner av skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Stat, nya; x ≤ 1Y",
+            "definition": "Bruttoemissioner av kortfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Stat, nya; x &gt; 1Y",
+            "definition": "Bruttoemissioner av långfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Övr. finans.inst., nya",
+            "definition": "Bruttoemissioner av skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Övr. finans.inst., nya; x ≤ 1Y",
+            "definition": "Bruttoemissioner av kortfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Övr. finans.inst., nya; x &gt; 1Y",
+            "definition": "Bruttoemissioner av långfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Totalt, nya",
+            "definition": "Totala bruttoemissioner av skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Totalt, nya; x &gt; 1Y",
+            "definition": "Totala bruttoemissioner av långfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Totalt, nya; x ≤ 1Y",
+            "definition": "Totala bruttoemissioner av kortfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banker, netto",
+            "definition": "Nettoemissioner av skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banker, netto; x ≤ 1Y",
+            "definition": "Nettoemissioner av kortfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banker, netto; x &gt; 1Y",
+            "definition": "Nettoemissioner av långfristiga skuldförbindelser utgivna av monetära finansinstitut (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Företag, netto",
+            "definition": "Nettoemissioner av skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Företag, netto; x ≤ 1Y",
+            "definition": "Nettoemissioner av kortfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Företag, netto; x &gt; 1Y",
+            "definition": "Nettoemissioner av långfristiga skuldförbindelser utgivna av icke-finansiella företag (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Stat, netto",
+            "definition": "Nettoemissioner av skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Stat, netto; x ≤ 1Y",
+            "definition": "Nettoemissioner av kortfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Stat, netto; x &gt; 1Y",
+            "definition": "Nettoemissioner av långfristiga skuldförbindelser utgivna av den offentliga sektorn (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Övr. finans.inst., netto",
+            "definition": "Nettoemissioner av skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Övr. finans.inst., netto; x ≤ 1Y",
+            "definition": "Nettoemissioner av kortfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Övr. finans.inst., netto; x &gt; 1Y",
+            "definition": "Nettoemissioner av långfristiga skuldförbindelser utgivna av finansinstitut andra än monetära finansinstitut, (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Totalt, netto",
+            "definition": "Totala nettoemissioner av skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Totalt, netto; x ≤ 1Y",
+            "definition": "Totala nettoemissioner av kortfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Totalt, netto; x &gt; 1Y",
+            "definition": "Totala nettoemissioner av långfristiga skuldförbindelser (nominellt värde, alla valutor sammanlagt, i euro, inhemsk utgivning)"
+        }
+    }
+}

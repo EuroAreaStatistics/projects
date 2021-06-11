@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote do 0,25 mil. € s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do troch mesiacov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Malé úvery; ≤ 0,25; x ≤ 3 mesiace</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote do 1 mil. € s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Malé úvery; x ≤ 1 rok</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote nad 1 mil. € s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Veľké úvery; x ≤ 1 rok</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote do 1 mil. € s počiatočnou dobou fixácie nad jeden rok až do päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Malé úvery; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote nad 1 mil. € s počiatočnou dobou fixácie nad jeden rok až do päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Veľké úvery; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote do 1 mil. € s počiatočnou dobou fixácie nad päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Malé úvery; x &gt; 5 rokov</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Eurové úvery nefinančných spoločností eurozóny v hodnote nad 1 mil. € s počiatočnou dobou fixácie nad päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Veľké úvery; x &gt; 5 rokov</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové spotrebiteľské úvery domácností eurozóny s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Spotrebiteľské úvery; x ≤ 1 rok</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové spotrebiteľské úvery domácností eurozóny s počiatočnou dobou fixácie nad jeden rok až do päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Spotrebiteľské úvery; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové spotrebiteľské úvery domácností eurozóny s počiatočnou dobou fixácie nad päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Spotrebiteľské úvery; x &gt; 5 rokov</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Ukazovateľ zložených úverových nákladov nových úverov domácností na kúpu nehnuteľností na bývanie (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úverové náklady domácností</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na kúpu nehnuteľností na bývanie s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úvery na kúpu nehnuteľností na bývanie; x ≤ 1 rok</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na kúpu nehnuteľností na bývanie s počiatočnou dobou fixácie nad jeden rok až do päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úvery na kúpu nehnuteľností na bývanie; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na kúpu nehnuteľností na bývanie s počiatočnou dobou fixácie nad päť rokov až do desať rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úvery na kúpu nehnuteľností na bývanie; 5 rokov &lt; x ≤ 10 rokov</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na kúpu nehnuteľností na bývanie s počiatočnou dobou fixácie nad desať rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úvery na kúpu nehnuteľností na bývanie; x &gt; 10 rokov</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na iné účely s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Ostatné úvery; x ≤ 1 rok</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na iné účely vrátane úverov samostatne zárobkovo činných osôb a neregistrovaných spoločností s pohyblivou úrokovou sadzbou alebo počiatočnou dobou fixácie do jedného roka (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Ostatné úvery; samostatne zárobkovo činné osoby; x ≤ 1 rok</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na iné účely s počiatočnou dobou fixácie nad jeden rok až do päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Ostatné úvery; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové úvery domácností eurozóny na iné účely s počiatočnou dobou fixácie nad päť rokov (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Ostatné úvery; x &gt; 5 rokov</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Ukazovateľ zložených úverových nákladov nových úverov nefinančných spoločností (v % p. a., sadzby nových obchodov)</p>",
+            "title": "<p>Úverové náklady podnikov</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Ukazovateľ zložených úverových nákladov krátkodobých úverov domácností i nefinančných spoločností</p>",
+            "title": "<p>Krátkodobé úverové náklady</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Ukazovateľ zložených úverových nákladov dlhodobých úverov domácností i nefinančných spoločností</p>",
+            "title": "<p>Dlhodobé úverové náklady</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Eurové revolvingové, kontokorentné a spotrebiteľské úvery a úvery z kreditných kariet nefinančných spoločností eurozóny (v % p. a., nové obchody zodpovedajú stavom)</p>",
+            "title": "<p>Revolvingové a kontokorentné úvery</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Eurové revolvingové, kontokorentné a spotrebiteľské úvery a úvery z kreditných kariet domácností eurozóny (v % p. a., nové obchody zodpovedajú stavom)</p>",
+            "title": "<p>Revolvingové a kontokorentné úvery</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Úvery domácnostiam v eurozóne na kúpu nehnuteľností na bývanie, celkový objem úverov s pohyblivou sadzbou alebo počiatočnou dobou fixácie (v % p. a., sadzby nových úverov)</p>",
+            "title": "<p>Úvery na kúpu nehnuteľností na bývanie, spolu</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankové úrokové sadzby - Úvery</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Domácnosti</p>"
+        },
+        "2": {
+            "title": "<p>Podniky</p>"
+        },
+        "3": {
+            "title": "<p>Zložené úverové náklady</p>"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruttoudlandsgæld (den samlede økonomis gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Nettoudlandsgæld (passiver minus aktiver; den samlede økonomis nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruttoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (den samlede økonomis gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Brutto (i pct.)</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Nettoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (passiver minus aktiver; den samlede økonomis nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruttoudlandsgæld (monetære finansielle institutioners gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Nettoudlandsgæld (passiver minus aktiver; monetære finansielle institutioners nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruttoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (monetære finansielle institutioners gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Brutto (i pct.)</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Nettoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (passiver minus aktiver, monetære finansielle institutioners nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruttoudlandsgæld (offentlig forvaltning og services gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Nettoudlandsgæld (passiver minus aktiver; offentlig forvaltning og services nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruttoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (offentlig forvaltning og services gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Brutto (i pct.)</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Nettoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (passiver minus aktiver; offentlig forvaltning og services gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruttoudlandsgæld (sektorers, ekskl. MFI'ers og offentlig forvaltning og service, gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Nettoudlandsgæld (sektorers, ekskl. MFI'ers og offentlig forvaltning og service, gæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruttoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (sektorers, ekskl. MFI'ers og offentlig forvaltning og service, nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Brutto (i pct.)</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Nettoudlandsgæld som procentdel af bruttonationalproduktet (BNP) i markedspriser (passiver minus aktiver, sektorers, ekskl. MFI'ers og offentlig forvaltning og service, nettogæld til ikkeresidenter; position ultimo kvartalet; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ekstern sektor - Udlandsgæld</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Den samlede økonomi</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetære finansielle institutioner</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Offentlig forvaltning og service</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Andre sektorer</p>"
+        }
+    }
+}

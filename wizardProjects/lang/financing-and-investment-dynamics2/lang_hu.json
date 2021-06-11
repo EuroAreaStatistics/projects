@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: rövid lejáratú hitelpapír</p>\r\n<p>Tulajdonában lévő teljes állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes kibocsátott állomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Tulajdonos szektor: %{from}</p>\r\n<p>Állományérték: %{value} %{unit}</p>\r\n<p>Instrumentum: rövid lejáratú hitelpapír</p>\r\n<p>Kibocsátó szektor: %{to}</p>\r\n<p>Az összállomány arányában: %{percentFrom}</p>\r\n<p>Az összes kibocsátás arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Tulajdonos szektor: %{from}; kibocsátó szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: hosszú lejáratú hitelpapír</p>\r\n<p>Tulajdonában lévő teljes állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes kibocsátott állomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Tulajdonos szektor: %{from}</p>\r\n<p>Állományérték: %{value} %{unit}</p>\r\n<p>Instrumentum: hosszú lejáratú hitelpapír</p>\r\n<p>Kibocsátó szektor: %{to}</p>\r\n<p>Az összállomány arányában: %{percentFrom}</p>\r\n<p>Az összes kibocsátás arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Tulajdonos szektor: %{from}; kibocsátó szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: rövid lejáratú kölcsön</p>\r\n<p>Teljes kihelyezett állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes felvett kölcsönállomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Kölcsönt nyújtó szektor: %{from}</p>\r\n<p>Kihelyezett összeg: %{value} %{unit}</p>\r\n<p>Instrumentum: rövid lejáratú kölcsön</p>\r\n<p>Kölcsönfelvevő szektor: %{to}</p>\r\n<p>Az összes kihelyezés arányában: %{percentFrom}</p>\r\n<p>Az összes kölcsönfelvétel arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Kölcsönt nyújtó szektor: %{from}; kölcsönfelvevő szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: hosszú lejáratú kölcsön</p>\r\n<p>Teljes kihelyezett állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes felvett kölcsönállomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Kölcsönt nyújtó szektor: %{from}</p>\r\n<p>Kihelyezett összeg %{value} %{unit}</p>\r\n<p>Instrumentum: hosszú lejáratú kölcsön</p>\r\n<p>Kölcsönfelvevő szektor: %{to}</p>\r\n<p>Az összes kihelyezés arányában: %{percentFrom}</p>\r\n<p>Az összes kölcsönfelvétel arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Kölcsönt nyújtó szektor: %{from}; kölcsönfelvevő szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: betét</p>\r\n<p>Teljes elhelyezett összeg: %{sumOut} %{unit}</p>\r\n<p>Teljes fogadott összeg: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Elhelyező szektor: %{from}</p>\r\n<p>Elhelyezett összeg: %{value}%{unit}</p>\r\n<p>Instrumentum: betét</p>\r\n<p>Fogadó szektor: %{to}</p>\r\n<p>Az elhelyezett összes betét arányában: %{percentFrom}</p>\r\n<p>A fogadott összes betét arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Elhelyező szektor: %{from}; fogadó szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: tőzsdei részvény</p>\r\n<p>Tulajdonában lévő teljes állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes kibocsátott állomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Tulajdonos szektor: %{from}</p>\r\n<p>Állományérték: %{value} %{unit}</p>\r\n<p>Instrumentum: tőzsdei részvény</p>\r\n<p>Kibocsátó szektor: %{to}</p>\r\n<p>Az összállomány arányában: %{percentFrom}</p>\r\n<p>Az összes kibocsátás arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Tulajdonos szektor: %{from}; kibocsátó szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Időszak: %{date}</p>\r\n<p>Szektor: %{name}       </p>\r\n<p>Instrumentum: befektetési jegy/egység</p>\r\n<p>Tulajdonában lévő teljes állomány: %{sumOut} %{unit}</p>\r\n<p>Teljes kibocsátott állomány: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Időszak: %{date}</p>\r\n<p>Tulajdonos szektor: %{from}</p>\r\n<p>Állományérték: %{value} %{unit}</p>\r\n<p>Instrumentum: befektetési jegy/egység</p>\r\n<p>Kibocsátó szektor: %{to}</p>\r\n<p>Az összállomány arányában: %{percentFrom}</p>\r\n<p>Az összes kibocsátás arányában: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Tulajdonos szektor: %{from}; kibocsátó szektor: %{to}</p>",
+                "incoming": "<p>Kötelezettségek</p>",
+                "missing": {
+                    "incoming": "<p>- nincs adat / adat nem jellemző</p>",
+                    "outgoing": "<p>- nincs adat / adat nem jellemző</p>"
+                },
+                "outgoing": "<p>Eszközök</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Szektoron belüli állományok</p>"
+            },
+            "title": "<p>Kinnlevőségek</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>A „Finanszírozási és befektetési dinamika” hálózati ábrán látható adatokat a szektorszámlákról vettük, amelyek az összes rezidens intézményi szektor teljes és konzisztens negyedéves adatait mutatják be. Az ábrán az egyes intézményi szektorokon belüli, azok közötti, valamint a szektorok és a külföld közötti kölcsönös pénzügyi kapcsolatrendszer látható. A szektorközi pénzügyi pozíciókat szemlélteti (a forgalmi adatok szintén rendelkezésre állnak az EKB nyilvános adatbázisaiban). A finanszírozási forma – részvény, hitelpapír –, valamint ugyanazon instrumentum alkalmazási helye mutatja, hogyan oszlik meg a szektorok között a finanszírozás. Az egyes szektorokhoz tartozó oszlopok az adott szektornak az adott instrumentumhoz tartozó eszközeit és kötelezettségeit ábrázolják. Short ügyletek (más néven rövidre eladás, azaz az eladó birtokában nem lévő értékpapír vagy más pénzügyi instrumentum eladása) miatt negatív kinnlevőség is megjelenhet. A nyilak a többi szektorral szembeni pozíciókat jelölik. A szektoron belüli pozíciók a szektorok fejlécei mellett vannak feltüntetve.</p>\r\n<p>Az adatok a 2010-es nemzeti számlák európai rendszerén (ESA2010) alapulnak. Szektorok: nem pénzügyi vállalatok, monetáris pénzügyi intézmények, befektetési alapok (a pénzpiaci alapokon kívül), egyéb pénzügyi intézmények, biztosítótársaságok, nyugdíjpénztárak, államháztartás, háztartások (köztük a háztartásokat segítő nonprofit intézmények), külföld (amely a rezidensek és a nem rezidensek közötti pozíciókra utal). Instrumentumok: betét, rövid lejáratú értékpapír, hosszú lejáratú értékpapír, rövid lejáratú kölcsön, hosszú lejáratú kölcsön, tőzsdei részvény, befektetési jegy/egység. Az adatok nem összevont alapúak, azaz az egyes instrumentumokra vonatkozó összesen adatok és százalékos adatok a szektoron belüli pénzügyi pozíciókat (pl. bankközi kölcsön) tartalmazzák; a záró mérlegpozíciók negyedév végiek; az adatok sem szezonálisan, sem naptári hatással nincsenek kiigazítva; az összegek milliárd euróban vannak feltüntetve; a rövid távú eredeti futamidő legfeljebb egy év, a hosszú távú eredeti futamidő pedig vagy egy év felett van, vagy nincs megadva lejárat; az adatok euroövezeti szinten aggregáltak, a „-” azt jelenti, hogy nincs adat, illetve nem jellemző adat.   </p>\r\n<p>A bemutatott instrumentumok nem számolnak be az összes pénzügyi eszközről, illetve kötelezettségről kimerítően, mivel nem tartalmaznak információt a devizáról, a tőzsdén kívüli részvényekről és egyéb részesedésekről, a biztosítási és nyugdíjrendszerekről, a származtatott pénzügyi eszközökről és egyéb követelésekről, illetve tartozásokról. További adatokat lásd: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>EKB</p>"
+        },
+        "title": "<p>Finanszírozási és befektetési dinamika</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjpénztárak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Rövid lejáratú hitelpapír</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Hosszú lejáratú hitelpapír</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Rövid lejáratú kölcsön</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Hosszú lejáratú kölcsön</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Betétek</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Tőzsdei részvények</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>külföld</p>",
+                "S11": "<p>vállalatok</p>",
+                "S124": "<p>befektetési alapok</p>",
+                "S128": "<p>biztosítók</p>",
+                "S129": "<p>nyugdíjak</p>",
+                "S12K": "<p>bankok</p>",
+                "S12O": "<p>egyéb pénzügyi közvetítők</p>",
+                "S13": "<p>kormányzat</p>",
+                "S1M": "<p>háztartások</p>",
+                "WLD": "<p>összesen</p>"
+            },
+            "title": "<p>Befektetési jegy/egység</p>"
+        }
+    }
+}

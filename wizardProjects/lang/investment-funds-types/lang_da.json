@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investeringsforeninger - Type investeringsforening",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Beholdninger"
+        },
+        "2": {
+            "title": "Strømme"
+        },
+        "3": {
+            "title": "Vækstrater"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Åbne investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter type investeringsforening: åben (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Lukkede investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter type investeringsforening: lukket (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Åbne investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter type investeringsforening: åben (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Lukkede investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter type investeringsforening: lukket (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Åbne investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, afdelinger fordelt efter investortype: åben (samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Lukkede investeringsforeninger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, afdelinger fordelt efter investortype: lukket (samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        }
+    }
+}

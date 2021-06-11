@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Titoli - Ishma elenkati",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stokks"
+        },
+        "2": {
+            "title": "Ħruġ ġdid"
+        },
+        "3": {
+            "title": "Ħruġ nett"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banek, stokks",
+            "definition": "Ammonti pendenti ta' ishma elenkati maħruġin minn istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Korporazzjonijiet, stokks",
+            "definition": "Ammonti pendenti ta' ishma elenkati maħruġin minn korporazzjonijiet mhux finanzjarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Titoli finanzjarji oħra, stokks",
+            "definition": "Ammonti pendenti ta' ishma elenkati maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total, stokks",
+            "definition": "Ammonti pendenti totali ta' ishma elenkati (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banek, ġodda",
+            "definition": "Ħruġ gross ta' ishma elenkati minn istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Korporazzjonijiet, ġodda",
+            "definition": "Ħruġ gross ta' ishma elenkati minn korporazzjonijiet mhux finanzjarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Titoli finanzjarji oħra, ġodda",
+            "definition": "Ħruġ gross ta' ishma elenkati minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total, ġodda",
+            "definition": "Ħruġ gross totali ta' ishma elenkati (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banek, netti",
+            "definition": "Ħruġ nett ta' ishma elenkati minn istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Korporazzjonijiet, netti",
+            "definition": "Ħruġ nett ta' ishma elenkati minn korporazzjonijiet mhux finanzjarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Titoli finanzjarji oħra, netti",
+            "definition": "Ħruġ nett ta' ishma elenkati minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total, netti",
+            "definition": "Ħruġ nett totali ta' ishma elenkati (valur tas-suq, denominati fl-euro, maħruġin minn residenti)"
+        }
+    }
+}

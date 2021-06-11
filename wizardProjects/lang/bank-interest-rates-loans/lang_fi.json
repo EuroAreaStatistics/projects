@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet vaihtuvakorkoiset tai koroltaan alun perin enintään kolmeksi kuukaudeksi sidotut enintään 0,25 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Pienet lainat, x ≤ 0,25 milj. €; x ≤ 3 kk</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut enintään 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Pienet lainat, koron kiinnitys: x ≤ 1 v</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut yli 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Suuret lainat, koron kiinnitys: x ≤ 1 v</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet, koroltaan alun perin yli yhdeksi ja enintään viideksi vuodeksi sidotut enintään 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Pienet lainat, koron kiinnitys: 1 v &lt; x ≤ 5 v</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet, koroltaan alun perin yli yhdeksi ja enintään viideksi vuodeksi sidotut yli 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Suuret lainat, koron kiinnitys: 1 v &lt; x ≤ 5 v</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet, koroltaan alun perin yli viideksi vuodeksi sidotut enintään 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Pienet lainat, koron kiinnitys: x &gt; 5 v</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten uudet, koroltaan alun perin yli viideksi vuodeksi sidotut yli 1 miljoonan euron lainat (vuosikorko)</p>",
+            "title": "<p>Suuret lainat, koron kiinnitys: x &gt; 5 v</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut euromääräiset kulutusluotot (vuosikorko)</p>",
+            "title": "<p>Kulutusluotot, koron kiinnitys: x ≤ 1 v</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet, koroltaan alun perin yli yhdeksi ja enintään viideksi vuodeksi sidotut euromääräiset kulutusluotot (vuosikorko)</p>",
+            "title": "<p>Kulutusluotot, koron kiinnitys: 1 v &lt; x ≤ 5 v</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet, koroltaan alun perin yli viideksi vuodeksi sidotut euromääräiset kulutusluotot (vuosikorko)</p>",
+            "title": "<p>Kulutusluotot, koron kiinnitys: x &gt; 5 v</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Kotitalouksien uusien asuntolainojen kustannusindikaattori (vuosikorko)</p>",
+            "title": "<p>Kotitalouksien lainanottokustannukset</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut euromääräiset asuntolainat (vuosikorko)</p>",
+            "title": "<p>Asuntolainat, koron kiinnitys: x ≤ 1 v</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet, koroltaan alun perin yli yhdeksi ja enintään viideksi vuodeksi sidotut euromääräiset asuntolainat (vuosikorko)</p>",
+            "title": "<p>Asuntolainat, koron kiinnitys: 1 v &lt; x ≤ 5 v</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet, koroltaan alun perin yli viideksi ja enintään kymmeneksi vuodeksi sidotut euromääräiset asuntolainat (vuosikorko)</p>",
+            "title": "<p>Asuntolainat, koron kiinnitys: 5 v &lt; x ≤ 10 v</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien uudet, koroltaan alun perin yli kymmeneksi vuodeksi sidotut euromääräiset asuntolainat (vuosikorko)</p>",
+            "title": "<p>Asuntolainat, koron kiinnitys: x &gt; 10 v</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Muut euroalueen kotitalouksien uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut euromääräiset lainat (vuosikorko)</p>",
+            "title": "<p>Muut lainat, koron kiinnitys: x ≤ 1 v</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Muut euroalueen kotitalouksien uudet vaihtuvakorkoiset tai koroltaan alun perin enintään vuodeksi sidotut euromääräiset lainat, ml. lainat yksityisille elinkeinonharjoittajille ja kumppanuuksille (vuosikorko)</p>",
+            "title": "<p>Muut lainat, elinkeinonharjoittajat: x ≤ 1 v</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Muut euroalueen kotitalouksien uudet, koroltaan alun perin yli yhdeksi ja enintään viideksi vuodeksi sidotut euromääräiset lainat (vuosikorko)</p>",
+            "title": "<p>Muut lainat, koron kiinnitys: 1 v &lt; x ≤ 5 v</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Muut euroalueen kotitalouksien uudet, koroltaan alun perin yli viideksi vuodeksi sidotut euromääräiset lainat (vuosikorko)</p>",
+            "title": "<p>Muut lainat, koron kiinnitys: x &gt; 5 v</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Yritysten uusien lainojen kustannusindikaattori (vuosikorko)</p>",
+            "title": "<p>Yritysten lainanottokustannukset</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Kotitalouksien ja yritysten lyhyiden lainojen kustannusindikaattori</p>",
+            "title": "<p>Lainanottokustannukset (lyhyet lainat)</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Kotitalouksien ja yritysten pitkien lainojen kustannusindikaattori</p>",
+            "title": "<p>Lainanottokustannukset (pitkät lainat)</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Euroalueen yritysten euromääräiset valmiusluottolimiitit, tililuotot sekä pidennetyt ja maksuaikaa sisältävät luottokorttilainat (vuosikorko, uudet luotot = luottokanta)</p>",
+            "title": "<p>Valmiusluottolimiitit ja tililuotot</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Euroalueen kotitalouksien euromääräiset valmiusluottolimiitit, tililuotot sekä pidennetyt ja maksuaikaa sisältävät luottokorttilainat (vuosikorko, uudet luotot = luottokanta)</p>",
+            "title": "<p>Valmiusluottolimiitit ja tililuotot</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Euroalueen kotitalouksien uudet vaihtuvakorkoiset tai koroltaan alun perin sidotut euromääräiset asuntolainat yhteensä (vuosikorko)</p>",
+            "title": "<p>Asuntolainat yhteensä</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Pankkikorot - Lainat</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kotitaloudet</p>"
+        },
+        "2": {
+            "title": "<p>Yritykset</p>"
+        },
+        "3": {
+            "title": "<p>Lainanottokustannukset</p>"
+        }
+    }
+}

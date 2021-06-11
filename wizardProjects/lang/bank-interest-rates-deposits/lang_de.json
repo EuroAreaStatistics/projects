@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankzinssätze - Einlagen",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Private Haushalte"
+        },
+        "2": {
+            "title": "Kapitalgesellschaften"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Täglich fällig",
+            "definition": "Auf Euro lautende täglich fällige Einlagen privater Haushalte im Euro-Währungsgebiet (in % p. a., Neugeschäft entspricht Beständen)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x ≤ 1J",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x > 1J",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als einem Jahr (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; 1J < x ≤ 2J",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als einem und bis zu zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x ≤ 2J",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x > 2J",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Mit vereinbarter Kündigungsfrist; x ≤ 3M",
+            "definition": "Auf Euro lautende Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (in % p. a., Neugeschäft entspricht Beständen)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repogeschäfte",
+            "definition": "Auf Euro lautende Repogeschäfte privater Haushalte und nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Täglich fällig",
+            "definition": "Auf Euro lautende täglich fällige Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (in % p. a., Neugeschäft entspricht Beständen)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x ≤ 1J",
+            "definition": "Auf Euro lautende Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x > 1J",
+            "definition": "Auf Euro lautende Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als einem Jahr (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; 1J < x ≤ 2J",
+            "definition": "Auf Euro lautende Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als einem und bis zu zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x ≤ 2J",
+            "definition": "Auf Euro lautende Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Mit vereinbarter Laufzeit; x > 2J",
+            "definition": "Auf Euro lautende Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (in % p. a., Zinssätze im Neugeschäft)"
+        }
+    }
+}

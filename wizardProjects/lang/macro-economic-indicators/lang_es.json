@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>El déficit (-) o superávit (+) público en relación con el PIB se refiere a los criterios de Maastricht. Las estadísticas de déficit público incluyen liquidaciones de acuerdos de permutas financieras (swaps). (Flujos no financieros, a precios corrientes, en porcentajes, datos sin desestacionalizar y sin ajustar por días laborables). Los dos últimos años presentados en los gráficos se basan en las previsiones de la Comisión Europea (Dirección General de Asuntos Económicos y Financieros). El valor de referencia para el déficit presupuestario fijado en el Pacto de Estabilidad y Crecimiento es del 3 %.</p>",
+            "title": "<p>Ratio de déficit/superávit público</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>La ratio de la deuda pública en relación con el PIB se refiere a los criterios de Maastricht. Las estadísticas de deuda pública utilizadas son las que se emplean en el contexto del procedimiento de déficit excesivo. (Saldos financieros en valor nominal, en porcentajes, datos sin desestacionalizar y sin ajustar por días laborables). Los dos últimos años presentados en los gráficos se basan en las previsiones de la Comisión Europea (Dirección General de Asuntos Económicos y Financieros). El valor de referencia fijado en los criterios de Maastricht es del 60 %.</p>",
+            "title": "<p>Ratio de deuda pública</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Producto interior bruto a precios de mercado, total economía, en euros, volúmenes encadenados (cambio de base, año de referencia 2010), datos desestacionalizados y ajustados por días laborables. Fuente: Eurostat</p>",
+            "title": "<p>Volumen</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Producto interior bruto a precios de mercado, total economía, moneda nacional (puede incluir importes convertidos a la moneda corriente a tipo fijo), volúmenes encadenados (cambio de base), tasa de crecimiento interanual, datos desestacionalizados y ajustados por días laborables. Fuente: Eurostat</p>",
+            "title": "<p>Tasa de crecimiento interanual</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio de endeudamiento de los hogares en relación con la renta bruta disponible (sin consolidar, a precios corrientes, en porcentajes, datos sin desestacionalizar y sin ajustar por días laborables).</p>",
+            "title": "<p>Ratio de endeudamiento de los hogares (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio de endeudamiento de las sociedades no financieras en relación con el PIB. El endeudamiento incluye los préstamos contraídos y los valores representativos de deuda emitidos. (Datos consolidados, a precios de mercado, en porcentajes, sin desestacionalizar y sin ajustar por días laborables).</p>",
+            "title": "<p>Ratio de endeudamiento de las sociedades</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio de endeudamiento de los hogares en relación con la renta bruta disponible. (Datos sin consolidar, a precios corrientes, en porcentajes, datos sin desestacionalizar y sin ajustar por días laborables). Los datos que no se muestran no están disponibles.</p>",
+            "title": "<p>Ratio de endeudamiento de los hogares (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Tasa de desempleo armonizada (en porcentaje de la población activa civil), normalizada entre países, todas las edades, hombres y mujeres, datos desestacionalizados, sin ajustar por días laborables. Fuente: Eurostat</p>",
+            "title": "<p>Tasa de desempleo</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indicadores macroeconómicos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PIB</p>"
+        },
+        "2": {
+            "title": "<p>Desempleo</p>"
+        },
+        "3": {
+            "title": "<p>Endeudamiento</p>"
+        }
+    }
+}

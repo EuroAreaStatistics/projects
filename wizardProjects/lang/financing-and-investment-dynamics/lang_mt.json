@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: titoli tad-dejn b’terminu qasir</p>\r\n<p>Ammont totali miżmum: %{sumOut} %{unit}</p>\r\n<p>Ammont totali maħruġ: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur tal-investiment: %{from}</p>\r\n<p>Ammont miżmum: %{value} %{unit}</p>\r\n<p>Strument: titoli tad-dejn b’terminu qasir</p>\r\n<p>Settur tal-ħruġ: %{to}</p>\r\n<p>Proporzjon tal-investiment totali: %{percentFrom}</p>\r\n<p>Proporzjon tal-ħruġ totali: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur tal-investiment: %{from}; settur tal-ħruġ: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: titoli tad-dejn b’terminu twil</p>\r\n<p>Ammont totali miżmum: %{sumOut} %{unit}</p>\r\n<p>Ammont totali maħruġ: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur tal-investiment: %{from}</p>\r\n<p>Ammont miżmum: %{value} %{unit}</p>\r\n<p>Strument: titoli tad-dejn b’terminu twil</p>\r\n<p>Settur tal-ħruġ: %{to}</p>\r\n<p>Proporzjon tal-investiment totali: %{percentFrom}</p>\r\n<p>Proporzjon tal-ħruġ totali: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur tal-investiment: %{from}; settur tal-ħruġ: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: self b’terminu qasir</p>\r\n<p>Ammont totali misluf: %{sumOut} %{unit}</p>\r\n<p>Ammont totali missellef: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur li jislef: %{from}</p>\r\n<p>Ammont misluf: %{value} %{unit}</p>\r\n<p>Strument: self b’terminu qasir</p>\r\n<p>Settur li jissellef: %{to}</p>\r\n<p>Proporzjon tat-total misluf: %{percentFrom}</p>\r\n<p>Proporzjon tat-total missellef: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur li jislef: %{from}; settur li jissellef: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: self b’terminu twil</p>\r\n<p>Ammont totali misluf: %{sumOut} %{unit}</p>\r\n<p>Ammont totali missellef: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur li jislef: %{from}</p>\r\n<p>Ammont misluf: %{value} %{unit}</p>\r\n<p>Strument: self b’terminu twil</p>\r\n<p>Settur li jissellef: %{to}</p>\r\n<p>Proporzjon tat-total misluf: %{percentFrom}</p>\r\n<p>Proporzjon tat-total missellef: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur li jislef: %{from}; settur li jissellef: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: depożiti</p>\r\n<p>Ammont totali mqiegħed: %{sumOut} %{unit}</p>\r\n<p>Ammont totali mdaħħal: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur tad-depożiti: %{from}</p>\r\n<p>Ammont imqiegħed: %{value}%{unit}</p>\r\n<p>Strument: depożiti</p>\r\n<p>Settur tad-dħul: %{to}</p>\r\n<p>Proporzjon tad-depożiti totali mqiegħda: %{percentFrom}</p>\r\n<p>Proporzjon tad-depożiti totali mdaħħla: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur tad-depożiti: %{from}; settur tad-dħul: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: ishma elenkati</p>\r\n<p>Ammont totali miżmum: %{sumOut} %{unit}</p>\r\n<p>Ammont totali maħruġ: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur tal-investiment: %{from}</p>\r\n<p>Ammont miżmum: %{value} %{unit}</p>\r\n<p>Strument: ishma elenkati</p>\r\n<p>Settur tal-ħruġ: %{to}</p>\r\n<p>Proporzjon tal-investiment totali: %{percentFrom}</p>\r\n<p>Proporzjon tal-ħruġ totali: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur tal-investiment: %{from}; settur tal-ħruġ: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perjodu: %{date}</p>\r\n<p>Settur: %{name}       </p>\r\n<p>Strument: ishma/unitajiet f’fondi tal-investiment</p>\r\n<p>Ammont totali miżmum: %{sumOut} %{unit}</p>\r\n<p>Ammont totali maħruġ: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perjodu: %{date}</p>\r\n<p>Settur tal-investiment: %{from}</p>\r\n<p>Ammont miżmum: %{value} %{unit}</p>\r\n<p>Strument: ishma/unitajiet f’fondi tal-investiment</p>\r\n<p>Settur tal-ħruġ: %{to}</p>\r\n<p>Proporzjon tal-investiment totali: %{percentFrom}</p>\r\n<p>Proporzjon tal-ħruġ totali: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Settur tal-investiment: %{from}; settur tal-ħruġ: %{to}</p>",
+                "incoming": "<p>Obbligazzjonijiet</p>",
+                "missing": {
+                    "incoming": "<p>- m’hemmx dejta/dejta ma tapplikax</p>",
+                    "outgoing": "<p>- m’hemmx dejta/dejta ma tapplikax</p>"
+                },
+                "outgoing": "<p>Assi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stokks fi ħdan is-settur</p>"
+            },
+            "title": "<p>Ammonti pendenti</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Id-dejta li tidher fil-grafika tan-netwerk “Żviluppi fil-finanzjament u l-investiment” ittieħdet mill-kontijiet tas-setturi, li juru sett sħiħ u konsistenti ta’ dejta trimestrali għas-setturi istituzzjonali residenti kollha. Il-grafika turi l-interkonnettività finanzjarja fi ħdan u bejn is-setturi istituzzjonali u bejniethom u l-bqija tad-dinja. Turi l-pożizzjonijiet finanzjarji bejn is-setturi (id-dejta tal-flussi tinsab ukoll fil-bażijiet tad-dejta pubbliċi tal-BĊE). L-oriġini tat-tip ta’ finanzjament – ekwità jew dejn – u d-destinazzjoni tal-istess strument juru kif is-setturi jallokaw il-finanzjament. Il-kolonni għal kull settur juru l-assi u l-obbligazzjonijiet ta’ settur partikolari għal strument partikolari. Jistgħu jidhru ammonti pendenti negattivi minħabba bejgħ qasir (<em>short-selling</em>), i.e. il-bejgħ ta’ titoli jew strumenti finanzjarji oħra li ma jkunux ta’ min ibigħhom. Il-vleġeġ jindikaw il-pożizzjonijiet ma’ setturi oħra. Il-pożizzjonijiet fi ħdan is-setturi huma identifikati ħdejn l-ismijiet tas-setturi.</p>\r\n<p>Id-dejta hija bażata fuq is-Sistema Ewropea tal-Kontijiet 2010 (ESA2010). Setturi: korporazzjonijiet mhux finanzjarji, istituzzjonijiet finanzjarji monetarji, fondi tal-investiment (barra fondi tas-suq monetarju), istituzzjonijiet finanzjarji oħra, korporazzjonijiet tal-assigurazzjoni, fondi tal-pensjoni, amministrazzjoni pubblika, individwi (fosthom istituzzjonijiet bla skop ta’ qligħ li jaqdu individwi), bqija tad-dinja (tirreferi għall-pożizzjonijiet bejn residenti u mhux residenti). Strumenti: depożiti, titoli tad-dejn b’terminu qasir, titoli tad-dejn b’terminu twil, self b’terminu qasir, self b’terminu twil, ishma elenkati, ishma/unitajiet f’fondi tal-investiment. Id-dejta mhijiex ta’ bażi konsolidata, i.e. it-totali u l-perċentwali tal-istrumenti jinkludu pożizzjonijiet finanzjarji fi ħdan setturi (e.g. self mogħti minn banek lil banek oħra); il-pożizzjonijiet tal-għeluq tal-karti tal-bilanċ huma ta’ tmiem it-trimestru; id-dejta mhix aġġustata għall-istaġun u l-kalendarju; l-ammonti huma denominati f’biljuni ta’ euro; il-maturità oriġinali b’terminu qasir hija sa sena, il-maturità oriġinali b’terminu twil hija iżjed minn sena jew mhix dikjarata; id-dejta hija tal-aggregat taż-żona tal-euro, \"-\" tfisser li m’hemmx dejta jew li ma tapplikax.   </p>\r\n<p>L-istrumenti murija ma jagħtux stampa sħiħa tal-assi u l-obbligazzjonijiet finanzjarji kollha, billi l-munita, l-ishma mhux elenkati u ekwità oħra, l-iskemi tal-assigurazzjoni u tal-pensjoni, id-derivattivi finanzjarji u kontijiet oħra riċevibbli jew pagabbli mhumiex inklużi. Għal iżjed dejta ara: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>BĊE</p>"
+        },
+        "title": "<p>Żviluppi fil-finanzjament u l-investiment</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>fondi tal-pensjoni</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Titoli tad-dejn b’terminu qasir</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Titoli tad-dejn b’terminu twil</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Self b’terminu qasir</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Self b’terminu twil</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Depożiti</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Ishma elenkati</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>bqija tad-dinja</p>",
+                "S11": "<p>korporattivi</p>",
+                "S124": "<p>fondi tal-investiment</p>",
+                "S128": "<p>assiguraturi</p>",
+                "S129": "<p>pensjonijiet</p>",
+                "S12K": "<p>banek</p>",
+                "S12O": "<p>finanzjarji oħra</p>",
+                "S13": "<p>gvern</p>",
+                "S1M": "<p>individwi</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Ishma f’fondi tal-investiment</p>"
+        }
+    }
+}

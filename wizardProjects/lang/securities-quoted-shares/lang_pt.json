@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Títulos - Ações cotadas",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "“Stocks”"
+        },
+        "2": {
+            "title": "Emissões novas"
+        },
+        "3": {
+            "title": "Emissões líquidas"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Bancos: “stocks”",
+            "definition": "Saldos de ações cotadas emitidas por instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Empresas: “stocks”",
+            "definition": "Saldos de ações cotadas emitidas por sociedades não financeiras (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Outros intermediários financeiros (OIF): “stocks”",
+            "definition": "Saldos de ações cotadas emitidas por sociedades financeiras, exceto instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total: “stocks”",
+            "definition": "Saldos totais de ações cotadas (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Bancos: emissões novas",
+            "definition": "Emissões brutas de ações cotadas por instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Empresas: emissões novas",
+            "definition": "Emissões brutas de ações cotadas por sociedades não financeiras (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "OIF: emissões novas",
+            "definition": "Emissões brutas de ações cotadas por sociedades financeiras, exceto instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total: emissões novas",
+            "definition": "Total de emissões brutas de ações cotadas (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Bancos: emissões líquidas",
+            "definition": "Emissões líquidas de ações cotadas por instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Empresas: emissões líquidas",
+            "definition": "Emissões líquidas de ações cotadas por sociedades não financeiras (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "OIF: emissões líquidas",
+            "definition": "Emissões líquidas de ações cotadas por sociedades financeiras, exceto instituições financeiras monetárias (valor de mercado; expresso em euros; emitidas por residentes)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total: emissões líquidas",
+            "definition": "Total de emissões líquidas de ações cotadas (valor de mercado; expresso em euros; emitidas por residentes)"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an sonstige Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Sonstige Finanzintermediäre, insgesamt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Versicherungen und Pensionskassen, insgesamt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Private Haushalte, insgesamt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an sonstige Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Sonstige Finanzintermediäre, insgesamt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Versicherungen und Pensionskassen, insgesamt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Private Haushalte, insgesamt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Gesamtkredite an sonstige Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Sonstige Finanzintermediäre, insgesamt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Gesamtkredite an Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Versicherungen und Pensionskassen, insgesamt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Gesamtkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Gesamtkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Private Haushalte, insgesamt</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite mit einer Laufzeit von bis zu einem Jahr an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Kapitalgesellschaften; x ≤ 1J</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von bis zu einem Jahr (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Kapitalgesellschaften; x ≤ 1J</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von bis zu einem Jahr (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Kapitalgesellschaften; x ≤ 1J</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite mit einer Laufzeit von mehr als einem Jahr und bis zu fünf Jahren an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Kapitalgesellschaften; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von mehr als einem Jahr und bis zu fünf Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Kapitalgesellschaften; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von mehr als einem Jahr und bis zu fünf Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Kapitalgesellschaften; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite mit einer Laufzeit von mehr als fünf Jahren an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Kapitalgesellschaften; x &gt; 5J</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von mehr als fünf Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Kapitalgesellschaften; x &gt; 5J</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet mit einer Laufzeit von mehr als fünf Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Kapitalgesellschaften; x &gt; 5J</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Private Haushalte, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Private Haushalte, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Veränderung gegen Vorjahr in %). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Kapitalgesellschaften, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an private Haushalte im Euro-Währungsgebiet, bereinigt um Kreditverkäufe, Verbriefungen und fiktives Cash-Pooling (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Veränderung gegen Vorjahr in %). Die um Verkäufe und Verbriefungen bereinigten Kredite umfassen Kredite, die veräußert oder verbrieft wurden und nicht mehr in den Bankbilanzen erfasst werden.</p>",
+            "title": "<p>Private Haushalte, insgesamt (bereinigt)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Konsumentenkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Private Haushalte, Konsum</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Konsumentenkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Private Haushalte, Konsum</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Konsumentenkredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Private Haushalte, Konsum</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Private Haushalte, Wohnungsbau</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Private Haushalte, Wohnungsbau</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Private Haushalte, Wohnungsbau</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, sonstige Kredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)</p>",
+            "title": "<p>Private Haushalte, sonstige</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Bilanzstatistik der MFIs, sonstige Kredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)</p>",
+            "title": "<p>Private Haushalte, sonstige</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Bilanzstatistik der MFIs, Wachstumsraten der sonstigen Kredite an private Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)</p>",
+            "title": "<p>Private Haushalte, sonstige</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften und private Haushalte im Euro-Währungsgebiet sowie an nichtfinanzielle Kapitalgesellschaften, private Haushalte und Finanzinstitute (ohne Banken) außerhalb des Euro-Währungsgebiets im Verhältnis der zu deren Gesamteinlagen (ohne öffentliche Haushalte, alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, in Prozent, vierteljährlich)</p>",
+            "title": "<p>Verhältnis von Krediten zu Einlagen</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankenbilanz - Kredite</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Bestände</p>"
+        },
+        "2": {
+            "title": "<p>Veränderungen</p>"
+        },
+        "3": {
+            "title": "<p>Wachstumsraten</p>"
+        },
+        "4": {
+            "title": "<p>Verhältnis von Krediten zu Einlagen</p>"
+        }
+    }
+}

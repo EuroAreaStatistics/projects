@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Beleggingsfondsen - Activa",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Stromen"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Deposito's en leningsvorderingen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: deposito's en leningsvorderingen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Schuldbewijzen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: waardepapieren anders dan aandelen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Aandelen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: aandelen en overige deelnemingen exclusief participaties in beleggingsfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Deelnemingen in investeringsfondsen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: aandelen/deelnemingen in beleggingsfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Niet-financiële activa",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: niet-financiële activa (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Overige activa",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: overige activa (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, totale activa/passiva (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Deposito's en leningsvorderingen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: deposito's en leningsvorderingen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Schuldbewijzen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: waardepapieren anders dan aandelen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Aandelen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: aandelen en overige deelnemingen exclusief participaties in beleggingsfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Deelnemingen in investeringsfondsen",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: aandelen/deelnemingen in beleggingsfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Niet-financiële activa",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: niet-financiële activa (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Overige activa",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, activacategorie: overige activa (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, totale activa/passiva (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        }
+    }
+}

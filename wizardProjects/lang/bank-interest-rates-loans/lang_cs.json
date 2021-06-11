@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech do 0,25 mil. EUR; pohyblivá sazba nebo počáteční fixace úrokové sazby do tří měsíců nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Malé úvěry ≤ 0,25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech do 1 mil. EUR; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Malé úvěry; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech nad 1 mil. EUR; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Velké úvěry; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech do 1 mil. EUR; počáteční fixace od jednoho roku do pěti let nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Malé úvěry; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech nad 1 mil. EUR; počáteční fixace od jednoho roku do pěti let nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Velké úvěry; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech do 1 mil. EUR; počáteční fixace úrokové sazby od pěti let nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Malé úvěry; x &gt; 5Y</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Úvěry v eurech nad 1 mil. EUR; počáteční fixace úrokové sazby nad pět let nefinančním podnikům v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Velké úvěry; x &gt; 5Y</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Spotřební úvěry v eurech; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Spotřebitelské úvěry; x ≤ 1Y</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Spotřebitelské úvěry v eurech; počáteční fixace úrokové sazby od jednoho roku do pěti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Spotřebitelské úvěry; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Spotřebitelské úvěry v eurech; počáteční fixace úrokové sazby od pěti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Spotřebitelské úvěry; x &gt; 5Y</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Kompozitní ukazatel nákladů na nové úvěry domácnostem určené na nákup rezidenč. nemovitostí (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Náklady domácností na úvěrování</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na nákup rezidenč. nemovitostí v eurech; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Úvěry na nákup rezidenč. nemovitostí; x ≤ 1Y</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na nákup rezidenč. nemovitostí v eurech; počáteční fixace úrokové sazby od jednoho roku do pěti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Úvěry na nákup rezidenč. nemovitostí; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na nákup rezidenč. nemovitostí v eurech; počáteční fixace úrokové sazby od pěti do deseti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Úvěry na nákup rezidenč. nemovitostí; 5Y &lt; x ≤ 10Y</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na nákup rezidenč. nemovitostí v eurech; počáteční fixace od deseti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Úvěry na nákup rezidenč. nemovitostí; x &gt; 10Y</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na jiné účely v eurech; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Ostatní úvěry; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Úvěry na jiné účely v eurech včetně úvěrů výlučným vlastníkům a nezapsaným partnerstvím; pohyblivá sazba nebo počáteční fixace úrokové sazby do jednoho roku domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Ostatní úvěry; výluční vlastníci; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na jiné účely v eurech; počáteční fixace úrokové sazby od jednoho roku do pěti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Ostatní úvěry; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Úvěry na jiné účely v eurech; počáteční fixace úrokové sazby od pěti let domácnostem v eurozóně (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Ostatní úvěry; x &gt; 5Y</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Kompozitní ukazatel nákladů na nové úvěry nefinančním podnikům (v % p.a., sazby z nových obchodů)</p>",
+            "title": "<p>Náklady podniků na úvěrování</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Kompozitní ukazatel nákladů na krátkodobé úvěry domácnostem i nefinančním podnikům</p>",
+            "title": "<p>Krátkodobé náklady úvěrování</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Kompozitní ukazatel nákladů na dlouhodobé úvěry domácnostem a nefinančním podnikům</p>",
+            "title": "<p>Dlouhodobé náklady úvěrování</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Revolvingové a kontokorentní úvěry, bezúročné a úročené úvěry v eurech nefinančním podnikům v eurozóně (v % p.a., nové obchody a nesplacené zůstatky se shodují)</p>",
+            "title": "<p>Revolvingové a kontokorentní úvěry</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Revolvingové a kontokorentní úvěry, bezúročné a úročené úvěry v eurech domácnostem v eurozóně (v % p.a., nové obchody a nesplacené zůstatky se shodují)</p>",
+            "title": "<p>Revolvingové a kontokorentní úvěry</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Úvěry v eurech na nákup rezidenčních nemovitostí; celková pohyblivá sazba nebo počáteční fixace pro domácnosti v eurozóně (procenta za rok, sazby z nových obchodů)</p>",
+            "title": "<p>Úvěry na nákup rezidenč. nemov.; celkem</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankovní úrokové sazby - Úvěry</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Domácnosti</p>"
+        },
+        "2": {
+            "title": "<p>Podniky</p>"
+        },
+        "3": {
+            "title": "<p>Kompozitní náklady úvěrování</p>"
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Értékpapír - Hitelpapír",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állományadatok"
+        },
+        "2": {
+            "title": "Új kibocsátás"
+        },
+        "3": {
+            "title": "Nettó kibocsátás"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Bankok, állományok",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Bankok, állományok; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, rövid lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Bankok, állományok; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, hosszú lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Vállalatok, állományok",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Vállalatok, állományok; x ≤ 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, rövid lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Vállalatok, állományok; x &gt; 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, hosszú lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Államháztartás, állományok",
+            "definition": "Államháztartás által kibocsátott hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Államháztartás, állományok; x ≤ 1É",
+            "definition": "Államháztartás által kibocsátott, rövid lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Államháztartás, állományok; x &gt; 1É",
+            "definition": "Államháztartás által kibocsátott, hosszú lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, állományok",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, állományok; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott, rövid lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, állományok; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott, hosszú lejáratú hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Összesen, állományok",
+            "definition": "Teljes hitelpapír-állomány (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Összesen, állományok; x ≤ 1É",
+            "definition": "Rövid lejáratú hitelpapírok teljes állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Összesen, állományok; x &gt; 1É",
+            "definition": "Hosszú lejáratú hitelpapírok teljes állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Bankok, új",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Bankok, új; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, rövid lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Bankok, új; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, hosszú lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Vállalatok, új",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Vállalatok, új; x ≤ 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, rövid lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Vállalatok, új; x &gt; 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, hosszú lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Államháztartás, új",
+            "definition": "Államháztartás által kibocsátott hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Államháztartás, új; x ≤ 1É",
+            "definition": "Államháztartás által kibocsátott, rövid lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Államháztartás, új; x &gt; 1É",
+            "definition": "Államháztartás által kibocsátott, hosszú lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, új",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, új; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi társaságok által kibocsátott, rövid lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, új; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott, hosszú lejáratú hitelpapírok bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Összesen, új",
+            "definition": "Hitelpapírok teljes bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Összesen, új; x &gt; 1É",
+            "definition": "A hosszú lejáratú hitelpapírok teljes bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Összesen, új; x ≤ 1É",
+            "definition": "A rövid lejáratú hitelpapírok teljes bruttó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Bankok, nettó",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Bankok, nettó; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, rövid lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Bankok, nettó; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott, hosszú lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Vállalatok, nettó",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Vállalatok, nettó; x ≤ 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, rövid lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Vállalatok, nettó; x &gt; 1É",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott, hosszú lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Államháztartás, nettó",
+            "definition": "Államháztartás által kibocsátott hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Államháztartás, nettó; x ≤ 1É",
+            "definition": "Államháztartás által kibocsátott, rövid lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Államháztartás, nettó; x &gt; 1É",
+            "definition": "Államháztartás által kibocsátott, hosszú lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, nettó",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi társaságok által kibocsátott hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, nettó; x ≤ 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi társaságok által kibocsátott, rövid lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Egyéb pénzügyi, nettó; x &gt; 1É",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi társaságok által kibocsátott, hosszú lejáratú hitelpapírok nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Összesen, nettó",
+            "definition": "Hitelpapírok teljes nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Összesen, nettó; x ≤ 1É",
+            "definition": "A rövid lejáratú hitelpapírok teljes nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Összesen, nettó; x &gt; 1É",
+            "definition": "A hosszú lejáratú hitelpapírok teljes nettó állománya (névérték, összes pénznem együttesen, euróban denominálva, rezidensek általi kibocsátás)"
+        }
+    }
+}

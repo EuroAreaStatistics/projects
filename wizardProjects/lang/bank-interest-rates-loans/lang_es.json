@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros hasta 0,25 millones de euros; créditos a las sociedades no financieras de la zona del euro a tipo flexible y hasta 3 meses de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Pequeños préstamos ≤ 0,25; x ≤ 3 meses</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros hasta 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Pequeños préstamos; x ≤ 1 año</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros de más de 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Grandes préstamos; x ≤ 1 año</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros hasta 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a más de 1 año y hasta 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Pequeños préstamos; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros de más de 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a más de 1 año y hasta 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Grandes préstamos; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros hasta 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a más de 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Pequeños préstamos; x &gt; 5 años</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Créditos denominados en euros de más de 1 millón de euros; créditos a las sociedades no financieras de la zona del euro a más de 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Grandes préstamos; x &gt; 5 años</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos al consumo denominados en euros; créditos a los hogares de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito al consumo; x ≤ 1 año</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos al consumo denominados en euros; créditos a los hogares de la zona del euro a más de 1 año y hasta 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito al consumo; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos al consumo denominados en euros; créditos a los hogares de la zona del euro a más de 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito al consumo; x &gt; 5 años</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicador sintético del coste de financiación de los nuevos créditos a los hogares para adquisición de vivienda (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Coste de financiación hogares</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para adquisición de vivienda denominados en euros; créditos a los hogares de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito para adquisición de vivienda; x ≤ 1 año</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para adquisición de vivienda denominados en euros; créditos a los hogares de la zona del euro a más de 1 año y hasta 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito para adquisición de vivienda; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para adquisición de vivienda denominados en euros; créditos a los hogares de la zona del euro a más de 5 años y hasta 10 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito para adquisición de vivienda; 5 años &lt; x ≤ 10 años</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para adquisición de vivienda denominados en euros; créditos a los hogares de la zona del euro a más de 10 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito para adquisición de vivienda; x &gt; 10 años</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para otros fines denominados en euros; créditos a los hogares de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Otros créditos; x ≤ 1 año</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Créditos para otros fines denominados en euros, incluidos préstamos a empresarios individuales y a sociedades sin personalidad jurídica; créditos a los hogares de la zona del euro a tipo flexible y hasta 1 año de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Otros créditos; empresarios individuales; x ≤ 1 año</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para otros fines denominados en euros; créditos a los hogares de la zona del euro a más de 1 año y hasta 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Otros créditos; 1 año &lt; x ≤ 5 años</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos para otros fines denominados en euros; créditos a los hogares de la zona del euro a más de 5 años de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Otros créditos; x &gt; 5 años</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicador sintético del coste de financiación de los nuevos créditos a las sociedades no financieras (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Coste de financiación empresas</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicador sintético del coste de financiación de los créditos a corto plazo concedidos a hogares y sociedades no financieras</p>",
+            "title": "<p>Coste de financiación corto plazo</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicador sintético del coste de financiación de los créditos a largo plazo concedidos a hogares y sociedades no financieras</p>",
+            "title": "<p>Coste de financiación largo plazo</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Créditos renovables y descubiertos denominados en euros, saldos de tarjetas de crédito de pago único contado y de pago aplazado de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones y saldos vivos coinciden)</p>",
+            "title": "<p>Créditos renovables y descubiertos</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Créditos renovables y descubiertos denominados en euros, saldos de tarjetas de crédito de pago único contado y de pago aplazado de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones y saldos vivos coinciden)</p>",
+            "title": "<p>Créditos renovables y descubiertos</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Créditos para adquisición de vivienda denominados en euros; créditos a los hogares de la zona del euro a tipo flexible o con período de fijación del tipo inicial (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Crédito para adquisición de vivienda, total</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Tipos de interés bancarios - Préstamos y créditos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Hogares</p>"
+        },
+        "2": {
+            "title": "<p>Empresas</p>"
+        },
+        "3": {
+            "title": "<p>Coste de financiación sintético</p>"
+        }
+    }
+}

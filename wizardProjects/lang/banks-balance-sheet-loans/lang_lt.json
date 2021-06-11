@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos kitiems finansiniams tarpininkams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Kitos finansų bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos draudimo bendrovėms ir pensijų fondams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Draudimas ir pensijos, iš viso</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Namų ūkiai, iš viso</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos kitiems finansiniams tarpininkams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Kitos finansų bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos draudimo bendrovėms ir pensijų fondams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Draudimas ir pensijos, iš viso</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Namų ūkiai, iš viso</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos kitiems finansiniams tarpininkams augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Kitos finansų bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos draudimo bendrovėms ir pensijų fondams augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Draudimas ir pensijos, iš viso</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos ne finansų bendrovėms augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Bendrovės, iš viso</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos namų ūkiams augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Namų ūkiai, iš viso</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, iki vienų metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Bendrovės; x ≤ 1 m.</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, iki vienų metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Bendrovės; x ≤ 1 m.</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, iki vienų metų trukmės paskolų euro zonos ne finansų bendrovėms augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Bendrovės; x ≤ 1 m.</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo vienų iki penkerių metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Bendrovės; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo vienų iki penkerių metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Bendrovės; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo vienų iki penkerių metų trukmės paskolų euro zonos ne finansų bendrovėms augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Bendrovės; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo penkerių metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Bendrovės; x &gt; 5 m.</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo penkerių metų trukmės paskolos euro zonos ne finansų bendrovėms (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Bendrovės; x &gt; 5 m.</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, nuo penkerių metų trukmės paskolų euro zonos ne finansų bendrovėms augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Bendrovės; x &gt; 5 m.</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos ne finansų bendrovėms, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Bendrovės, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos namų ūkiams, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Namų ūkiai, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos ne finansų bendrovėms, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Bendrovės, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visos paskolos euro zonos namų ūkiams, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Namų ūkiai, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos ne finansų bendrovėms augimo tempas, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Bendrovės, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, visų paskolų euro zonos namų ūkiams augimo tempas, pakoreguota atsižvelgiant į paskolų pardavimą, pakeitimą vertybiniais popieriais ir tariamąjį lėšų sujungimą (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais). Į paskolas, pakoreguotas atsižvelgiant į pardavimą ir pakeitimą vertybiniais popieriais, įeina paskolos, kurios buvo parduotos ar pakeistos vertybiniais popieriais ir nebėra įtrauktos į bankų balansą.</p>",
+            "title": "<p>Namų ūkiai, iš viso (pakoreguota)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, vartojimo paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Namų ūkiai, vartojimo paskolos</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, vartojimo paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Namų ūkiai, vartojimo paskolos</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, vartojimo paskolų euro zonos namų ūkiams augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Namų ūkiai, vartojimo paskolos</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, paskolos euro zonos namų ūkiams būstui įsigyti (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Namų ūkiai, paskolos būstui įsigyti</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, paskolos euro zonos namų ūkiams būstui įsigyti (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Namų ūkiai, paskolos būstui įsigyti</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, paskolų euro zonos namų ūkiams būstui įsigyti augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Namų ūkiai, paskolos būstui įsigyti</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, kitos paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)</p>",
+            "title": "<p>Namų ūkiai, kitos paskolos</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, kitos paskolos euro zonos namų ūkiams (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)</p>",
+            "title": "<p>Namų ūkiai, kitos paskolos</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, kitų paskolų euro zonos namų ūkiams augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)</p>",
+            "title": "<p>Namų ūkiai, kitos paskolos</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių ir namų ūkių ir ne euro zonos ne finansų bendrovių, namų ūkių ir finansų įstaigų, išskyrus bankus, visų paskolų ir visų indėlių santykis (išskyrus valdžios sektorių, visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, procentais, ketvirčio duomenys)</p>",
+            "title": "<p>Paskolų ir indėlių santykis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankų balansas - Paskolos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Likučiai</p>"
+        },
+        "2": {
+            "title": "<p>Srautai</p>"
+        },
+        "3": {
+            "title": "<p>Augimo tempas</p>"
+        },
+        "4": {
+            "title": "<p>Paskolų ir indėlių santykis</p>"
+        }
+    }
+}

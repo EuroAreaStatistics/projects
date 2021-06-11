@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Vaihtotaseen ali- tai ylijäämä suhteessa bruttokansantuotteeseen (prosentteina, kolmen vuoden liukuva keskiarvo laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> ohjeellinen alijäämäraja on -4 % ja ylijäämäraja +6 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Vaihtotaseen ali-/ylijäämä</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Ulkomainen nettovarallisuus suhteessa bruttokansantuotteeseen (prosentteina, vuotuinen nettovarallisuusasema laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on -35 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Ulkomainen varallisuusasema</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Euron reaalinen efektiivinen valuuttakurssi (YKHI-/KHI-deflatoidun valuuttakurssin kolmen vuoden prosenttimuutos suhteessa 41 muun teollisuusmaan valuuttoihin). Euroopan komission arvioidessa euroalueen maiden <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on -5 % / +5 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Reaalinen efektiivinen valuuttakurssi</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Vientimarkkinaosuudet (viennin arvon viiden vuoden prosenttimuutos laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on -6 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Vientimarkkinaosuus</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nimelliset yksikkötyökustannukset (työllistä kohden, kolmen vuoden prosenttimuutos). Yksikkötyökustannuksilla mitataan kokonaistyövoimakustannuksia tuotantoyksikköä kohden, ja ne lasketaan työntekijää kohden laskettujen työvoimakustannusten suhteena työn tuottavuuteen (määriteltynä työllistä kohden lasketuksi BKT:ksi). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on +9 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Nimelliset yksikkötyökustannukset</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Asuntojen hinnat suhteessa Eurostatin yksityisen kulutuksen deflaattoriin (vuotuinen prosenttimuutos, uudet ja vanhat asunnot). Euroalueen asuntohintojen indikaattorina käytetään yhdenmukaistamattomien kansallisten indikaattorien keskiarvoa. Kattavuus vaihtelee jonkin verran maittain. Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 6 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Asuntojen hinnat</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Luotonanto yksityiselle sektorille suhteessa bruttokansantuotteeseen (konsolidoidut tiedot, prosentteina, laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 15 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Luotonanto yksityiselle sektorille</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Yksityisen sektorin velka suhteessa bruttokansantuotteeseen (konsolidoidut tiedot, prosentteina, laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 133 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Yksityisen sektorin velkasuhde</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Julkisyhteisösektorin velka suhteessa bruttokansantuotteeseen (prosentteina, laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 60 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Julkisen talouden velkasuhde</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Finanssisektorin yhteenlaskettujen velkojen vuosimuutos (konsolidoimattomat tiedot, laskettuna kansainvälisten standardien kuten IMF:n maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaisesti). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 16,5 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Finanssisektorin velkojen kehitys</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Yhdenmukaistettu työttömyysaste (kolmen vuoden liukuva keskiarvo). Euroopan komission arvioidessa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makrotalouden epätasapainoa</a> indikaattorin ohjeellinen raja-arvo on 10 %. Lähteet: EKP ja Euroopan komissio (Eurostat ja talouden ja rahoituksen pääosasto).</p>",
+            "title": "<p>Työttömyysaste</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makrotalouden epätasapainon seuranta</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ulkoiset/kilpailukyvyn indikaattorit</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Sisäiset indikaattorit</p>"
+        }
+    }
+}

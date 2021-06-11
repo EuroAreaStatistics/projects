@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investeringsfonder - Per investeringsslag",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställning"
+        },
+        "2": {
+            "title": "Flöden"
+        },
+        "3": {
+            "title": "Tillväxttakter"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obligationsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: obligationsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Aktiefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: aktiefonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Blandfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: blandfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fastighetsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: fastighetsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedgefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: hedgefonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Övriga fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: övriga fonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obligationsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: obligationsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Aktiefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: aktiefonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Blandfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: blandfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fastighetsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: fastighetsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedgefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: hedgefonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Övriga fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: övriga fonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obligationsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: obligationsfonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Aktiefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: aktiefonder (årlig tillväxttakt,<strong> </strong>total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Blandfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: blandfonder (årlig tillväxttakt,total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fastighetsfonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: fastighetsfonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedgefonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: hedgefonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Övriga fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per investeringsslag: andra fonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        }
+    }
+}

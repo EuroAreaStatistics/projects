@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruto inozemni dug (obveze ukupnog gospodarstva prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Neto inozemni dug (obveze umanjene za imovinu, neto obveze ukupnog gospodarstva prema nerezidentima; stanje na kraju tromjesečja bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze ukupnog gospodarstva prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Bruto omjer</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Neto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze umanjene za imovinu, neto obveze ukupnog gospodarstva prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruto inozemni dug (obveze monetarnih financijskih institucija prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Neto inozemni dug (obveze umanjene za imovinu, neto obveze monetarnih financijskih institucija prema nerezidentima; stanje na kraju tromjesečja bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze monetarnih financijskih institucija prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Bruto omjer</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Neto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze umanjene za imovinu, neto obveze monetarnih financijskih institucija prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruto inozemni dug (obveze opće države prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Neto inozemni dug (obveze umanjene za imovinu, neto obveze opće države prema nerezidentima; stanje na kraju tromjesečja bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze opće države prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Bruto omjer</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Neto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze umanjene za imovinu, neto obveze opće države prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruto inozemni dug (obveze sektora koji nisu monetarne financijske institucije i opća država prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Neto inozemni dug (obaveze umanjene za imovinu, neto obveze sektora koji nisu monetarne financijske institucije i opća država prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze sektora koji nisu monetarne financijske institucije i opća država prema nerezidentima; stanje na kraju tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Bruto omjer</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Neto inozemni dug kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze umanjene za imovinu, neto obveze sektora koji nisu monetarne financijske institucije i opća država prema nerezidentima; stanje na kraju tromjesečja; nominirano u eurima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Vanjski sektor - inozemni dug</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ukupno gospodarstvo</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetarne financijske institucije</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Opća država</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Ostali sektori</p>"
+        }
+    }
+}

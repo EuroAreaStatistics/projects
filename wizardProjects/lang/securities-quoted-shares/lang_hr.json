@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Vrijednosni papiri - dionice koje kotiraju na burzi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Nova izdanja"
+        },
+        "3": {
+            "title": "Neto izdanja"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banke, stanje",
+            "definition": "Stanje dionica koje kotiraju na burzi, a koje su izdale monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Nefinancijska društva, stanje",
+            "definition": "Stanje dionica koje kotiraju na burzi, a koje su izdala nefinancijska društva (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Ostale financijske institucije, stanje",
+            "definition": "Stanje dionica koje kotiraju na burzi, a koje su izdala financijska društva koja nisu monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Ukupno, stanje",
+            "definition": "Ukupno stanje dionica koje kotiraju na burzi (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banke, novo",
+            "definition": "Bruto iznos dionica koje kotiraju na burzi, a koje su izdale monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Nefinancijska društva, novo",
+            "definition": "Bruto iznos dionica koje kotiraju na burzi, a koje su izdala nefinancijska društva (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Ostale financijske institucije, novo",
+            "definition": "Bruto iznos dionica koje kotiraju na burzi, a koje su izdala financijska društva koja nisu monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Ukupno, novo",
+            "definition": "Ukupni bruto iznos dionica koje kotiraju na burzi (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banke, neto",
+            "definition": "Neto iznos dionica koje kotiraju na burzi, a koje su izdale monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Nefinancijska društva, neto",
+            "definition": "Neto iznos dionica koje kotiraju na burzi, a koje su izdala nefinancijska društva (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Ostale financijske institucije, neto",
+            "definition": "Neto iznos dionica koje kotiraju na burzi, a koje su izdala financijska društva koja nisu monetarne financijske institucije (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Ukupno, neto",
+            "definition": "Ukupni neto iznos dionica koje kotiraju na burzi (tržišna vrijednost, izraženo u eurima, izdali rezidenti)"
+        }
+    }
+}

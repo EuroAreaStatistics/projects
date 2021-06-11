@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna netto (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna – aktywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna – pasywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna netto jako procent PKB w cenach rynkowych (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna – aktywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna – pasywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Pasywa jako % PKB</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo inwestycji bezpośrednich (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje bezpośrednie – aktywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje bezpośrednie – pasywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo inwestycji bezpośrednich jako procent PKB w cenach rynkowych (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje bezpośrednie – aktywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje bezpośrednie – pasywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Pasywa jako % PKB</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo inwestycji portfelowych (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje portfelowe – aktywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje portfelowe – pasywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo inwestycji portfelowych jako procent PKB w cenach rynkowych (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna – inwestycje porfelowe – aktywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: inwestycje porfelowe – pasywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Pasywa jako % PKB</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo pozostałych inwestycji (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: pozostałe inwestycje – aktywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: pozostałe inwestycje – pasywa (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: saldo pozostałych inwestycji jako procent PKB w cenach rynkowych (aktywa minus pasywa; wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: pozostałe inwestycje – aktywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: pozostałe inwestycje – pasywa jako procent PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Pasywa jako % PKB</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sektor zewnętrzny - Międzynarodowa pozycja inwestycyjna</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ogółem</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Inwestycje bezpośrednie</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Inwestycje portfelowe</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Pozostałe inwestycje</p>"
+        }
+    }
+}

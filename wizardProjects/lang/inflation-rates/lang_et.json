@@ -1,0 +1,71 @@
+{
+    "charts": {
+        "ICP.M..N.000000.4.ANR": {
+            "definition": "<p>Ühtlustatud tarbijahinnaindeks (ÜTHI). Üldine inflatsioonimäär (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Koguinflatsioon</p>"
+        },
+        "ICP.M..N.010000.4.ANR": {
+            "definition": "<p>Alarühma „toit ja mittealkohoolsed joogid” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Toiduained ja joogid</p>"
+        },
+        "ICP.M..N.020000.4.ANR": {
+            "definition": "<p>Alarühma „alkohoolsed joogid, tubakas” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. See mõõdab kodumajapidamiste poolt tarbekaupade ja teenuste ostukorvi eest makstud hindade keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Alkohol, tubakas</p>"
+        },
+        "ICP.M..N.030000.4.ANR": {
+            "definition": "<p>Alarühma „riietus ja jalatsid” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. See mõõdab kodumajapidamiste poolt tarbekaupade ja teenuste ostukorvi eest makstud hindade keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Riietus, jalatsid</p>"
+        },
+        "ICP.M..N.040000.4.ANR": {
+            "definition": "<p>Alarühma „eluruum, vesi, elekter, gaas ja muud kütused” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Eluruumid, elekter, gaas</p>"
+        },
+        "ICP.M..N.050000.4.ANR": {
+            "definition": "<p>Alarühma „sisustus, kodutarbed ja igapäevane majapidamine” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Mööbel jne</p>"
+        },
+        "ICP.M..N.060000.4.ANR": {
+            "definition": "<p>Alarühma „tervishoid” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Tervishoid</p>"
+        },
+        "ICP.M..N.070000.4.ANR": {
+            "definition": "<p>Alarühma „transport” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Transport</p>"
+        },
+        "ICP.M..N.080000.4.ANR": {
+            "definition": "<p>Alarühma „side” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Sideteenused</p>"
+        },
+        "ICP.M..N.090000.4.ANR": {
+            "definition": "<p>Alarühma „vaba aeg ja kultuur” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Vaba aeg, kultuur</p>"
+        },
+        "ICP.M..N.100000.4.ANR": {
+            "definition": "<p>Alarühma „haridus” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Haridus</p>"
+        },
+        "ICP.M..N.110000.4.ANR": {
+            "definition": "<p>Alarühma „restoranid ja hotellid” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Restoranid, hotellid</p>"
+        },
+        "ICP.M..N.120000.4.ANR": {
+            "definition": "<p>Alarühma „mitmesugused kaubad ja teenused” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Muud</p>"
+        },
+        "ICP.M..N.XEF000.4.ANR": {
+            "definition": "<p>Alarühma „kõik komponendid, v.a energia ja toiduained” ühtlustatud tarbijahinnaindeks (ÜTHI) (aastane muutuse määr). ÜTHI koostab Euroopa Liidu statistikaamet Eurostat koostöös riikide statistikaametitega. Selle abil mõõdetakse kodumajapidamiste tarbekaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul ning selle eesmärk on olla ajas representatiivne. EKP eesmärk on hoida ÜTHIs mõõdetavad aastased inflatsioonimäärad keskpika aja jooksul alla 2% taseme, ent selle lähedal. ÜTHI abil hinnatakse ka riigi valmisolekut euroalaga ühinemiseks.</p>",
+            "title": "<p>Inflatsioon (v.a energia ja toiduained)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Inflatsioonimäärad - Tarbijahinnaindeks</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Inflatsioon</p>"
+        }
+    }
+}

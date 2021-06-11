@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Fonduri de investiții - Active",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Fluxuri"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Creanțe din depozite și credite",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: depozite și creanțe din credite (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Titluri de natura datoriei",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: titluri, altele decât acţiuni (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Participații la capital",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: acțiuni și alte participaţii la capital, exceptând unitățile de fond (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Unități ale fondurilor de investiții",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: unități de fond (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Active nefinanciare",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: active nefinanciare (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Alte active",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: alte active (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, active/pasive totale (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Creanțe din depozite și credite",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: depozite și creanțe din credite (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Titluri de natura datoriei",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: titluri, altele decât acţiuni (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Participații la capital",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: acțiuni și alte participații la capital, exceptând unitățile de fond (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Unități ale fondurilor de investiții",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: unități de fond (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Active nefinanciare",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: active nefinanciare (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Alte active",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, categorie de active: alte active (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, active/pasive totale (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date trimestriale)"
+        }
+    }
+}

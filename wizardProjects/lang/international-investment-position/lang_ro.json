@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Poziția investițională internațională netă (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Activele aferente poziției investiționale internaționale (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Pasivele aferente poziției investiționale internaționale (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Poziția investițională internațională netă ca pondere în produsul intern brut (PIB) la prețurile pieței (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Activele aferente poziției investiționale internaționale ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Pasivele aferente poziției investiționale internaționale ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea pasivelor</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Poziția investițională internațională, investiții directe nete (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Poziția investițională internațională, active aferente investițiilor directe (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente investițiilor directe (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Poziția investițională internațională, investițiilor directe nete ca pondere în produsul intern brut (PIB) la prețurile pieței (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Poziția investițională internațională, active aferente investițiilor directe ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente investițiilor directe ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea pasivelor</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Poziția investițională internațională, investiții de portofoliu nete (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Poziția investițională internațională, active aferente investițiilor de portofoliu (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente investițiilor de portofoliu (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Poziția investițională internațională, investiții de portofoliu nete ca pondere în produsul intern brut (PIB) la prețurile pieței (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Poziția investițională internațională, active aferente investițiilor de portofoliu ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente investițiilor de portofoliu ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea pasivelor</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Poziția investițională internațională, alte investiții nete (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Poziția investițională internațională, active aferente altor investiții (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente altor investiții (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Poziția investițională internațională, alte investiții nete ca pondere în produsul intern brut (PIB) la prețurile pieței (active minus pasive, poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Poziția investițională internațională, active aferente altor investiții ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Poziția investițională internațională, pasive aferente altor investiții ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea pasivelor</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector extern - Poziția investițională internațională</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Investiții directe</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Investiții de portofoliu</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Alte investiții</p>"
+        }
+    }
+}

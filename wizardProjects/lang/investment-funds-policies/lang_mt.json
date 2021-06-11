@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fondi tal-investiment - Skont il-polza tal-investiment",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stokks"
+        },
+        "2": {
+            "title": "Flussi"
+        },
+        "3": {
+            "title": "Rati tat-tkabbir"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi ta' bonds",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' bonds (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi azzjonarji",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' ishma (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi mħalltin",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi mħalltin (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi immobiljari",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi immobiljari (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi ħeġġ",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ħeġġ (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi oħra",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi oħra (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, ishma/unitajiet f'fondi tal-investiment (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi ta' bonds",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' bonds (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi azzjonarji",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' ishma (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi mħalltin",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi mħalltin (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi immobiljari",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi immobiljari (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi ħeġġ",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ħeġġ (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi oħra",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi oħra (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, ishma/unitajiet f'fondi tal-investiment (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi ta' bonds",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' bonds (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi azzjonarji",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ta' ishma(rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi mħalltin",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi mħalltin (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi immobiljari",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi immobiljari (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi ħeġġ",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi ħeġġ (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi oħra",
+            "definition": "Ishma/unitajiet f'fondi tal-investiment maħruġin minn fondi tal-investiment li mhumiex fondi tas-suq monetarju, skont il-polza tal-investiment: fondi oħra (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, ishma/unitajiet f'fondi tal-investiment (rata tat-tkabbir annwali, maturità totali, muniti kollha flimkien, tibdil perċentwali annwali, mhux aġġustati għall-istaġun, dejta ta' kull xahar)"
+        }
+    }
+}

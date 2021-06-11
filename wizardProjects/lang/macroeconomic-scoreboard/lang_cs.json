@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo běžného účtu v poměru k hrubému domácímu produktu (HDP) (tříletý pohyblivý průměr, výpočet podle mezinárodních standardů jako BPM6 a ESA 2010). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel +6 % a -4 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Saldo běžného účtu (3 roky)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Čistá mezinárodní investiční pozice v poměru k hrubému domácímu produktu (HDP) (roční, výpočet podle mezinárodních standardů jako BPM6 a ESA 2010). Podle p<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">ostupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel -35 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Mezinárodní investiční pozice (roč.)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Reálný efektivní směnný kurz (HICP/CPI s použitím deflátoru, procentní změny za tři roky ve vztahu k 41 ostatním průmyslovým zemím). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel -/+5 % pro země eurozóny. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Reálný efektivní směnný kurz (3 roky)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Podíl na vývozních trzích (měřeno hodnotami, procentní změny za pět let, výpočet podle mezinárodních standardů jako BPM6). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocovaného Evropskou komisí je indikativní práh pro tento ukazatel -6 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Podíl na vývozních trzích (5 let)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p class=\"MsoNormal\">Nominální jednotkové náklady práce (procentní změny za tři roky, na základě počtu osob). Jednotkové náklady práce jsou ukazatelem celkových nákladů práce na jednotku produkce vypočtené jako poměr odměny na zaměstnance k produktivitě práce (definované jako HDP na zaměstnanou osobu). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel +9 % pro země eurozóny. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Nom. jednotkové náklady práce (3 r.)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Ceny bytových nemovitostí v poměru k deflátoru soukromé spotřeby podle Eurostatu (meziroční procentní změna, nové a stávající nemovitosti). Ukazatel cen bytových nemovitostí pro eurozónu je průměr neharmonizovaných ukazatelů v jednotlivých zemích založený na jejich údajích. Pokrytí se do jisté míry mezi zeměmi mění. Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 6 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Ceny byt. nemov.</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Tok úvěrů soukromému sektoru v poměru k hrubému domácímu produktu (HDP) (po konsolidaci, výpočet podle mezinárodních standardů jako BPM6 a ESA 2010). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 15 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Tok úvěrů soukromému sektoru</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dluh soukromého sektoru v poměru k HDP (po konsolidaci, výpočet podle mezinárodních standardů jako BPM6 a ESA 2010). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 133 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Dluh soukromého sektoru</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dluh vládních institucí v poměru k hrubému domácímu produktu (HDP) (výpočet podle mezinárodních standardů jako BPM6 a ESA 2010). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 60 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Dluh vládních institucí</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Celkové závazky finančního sektoru (meziroční změny, bez konsolidace, výpočet podle mezinárodních standardů jako ESA 2010). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 16,5 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Závazky finančního sektoru</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmonizovaná míra nezaměstnanosti (tříletý pohyblivý průměr). Podle <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu při makroekonomické nerovnováze (MIP)</a> vyhodnocované Evropskou komisí je indikativní práh pro tento ukazatel 10 %. Zdroj: ECB a Evropská komise (Eurostat a Generální ředitelství pro hospodářské a finanční záležitosti).</p>",
+            "title": "<p>Míra nezaměstnanosti (3 roky)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekon. srovnávací přehled</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Vnější ukazatele / ukaz. konkurenceschopnosti</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Vnitřní ukazatele</p>"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Kazalniki konkurenčnosti - Po cenah in stroških",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurenčnost"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indeks cen življenjskih potrebščin",
+            "definition": "Harmonizirani kazalniki konkurenčnosti na podlagi indeksa cen življenjskih potrebščin (povprečje v obdobju; indeks: I 1999 = 100).  Indeks cen življenjskih potrebščin meri, kako so se v določenem obdobju v povprečju spremenile cene, ki jih gospodinjstva plačujejo za košarico potrošniškega blaga in storitev. Harmonizirani kazalniki konkurenčnosti dajejo primerljivo merilo cenovne in stroškovne konkurenčnosti držav euroobmočja, ki je obenem skladno z realnim efektivnim deviznim tečajem eura. Harmonizirani kazalniki konkurenčnosti se izračunavajo z isto metodologijo in viri podatkov kot realni efektivni devizni tečaj eura."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflator BDP",
+            "definition": "Harmonizirani kazalniki konkurenčnosti na podlagi deflatorja BDP (povprečje v obdobju; indeks: I 1999 = 100).  BDP je merilo gospodarske aktivnosti. Predstavlja vrednost skupne proizvodnje blaga in storitev v gospodarstvu, plus neto davke na proizvode in uvoz minus vmesno potrošnjo. Deflator BDP je izpeljan iz četrtletnih nacionalnih računov, ki jih objavlja Eurostat (povprečje v obdobju; indeks: I 1999 = 100). Harmonizirani kazalniki konkurenčnosti dajejo primerljivo merilo cenovne in stroškovne konkurenčnosti držav euroobmočja, ki je obenem skladno z realnim efektivnim deviznim tečajem eura. Harmonizirani kazalniki konkurenčnosti se izračunavajo z isto metodologijo in viri podatkov kot realni efektivni devizni tečaj eura."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Stroški dela na enoto proizvoda",
+            "definition": "Harmonizirani kazalniki konkurenčnosti na podlagi indeksa stroškov dela na enoto proizvoda v celotnem gospodarstvu (povprečje v obdobju; indeks: I 1999 = 100). Stroški dela na enoto proizvoda v celotnem gospodarstvu se izračunavajo kot razmerje med sredstvi za zaposlene na zaposlenega in produktivnostjo dela. Produktivnost dela se meri kot BDP po stalnih cenah, deljeno s skupnim številom zaposlenih, na podlagi četrtletnih nacionalnih računov, ki jih objavlja Eurostat (povprečje v obdobju; indeks: I 1999 = 100). Harmonizirani kazalniki konkurenčnosti dajejo primerljivo merilo cenovne in stroškovne konkurenčnosti držav euroobmočja, ki je obenem skladno z realnim efektivnim deviznim tečajem eura. Harmonizirani kazalniki konkurenčnosti se izračunavajo z isto metodologijo in viri podatkov kot realni efektivni devizni tečaj eura."
+        }
+    }
+}

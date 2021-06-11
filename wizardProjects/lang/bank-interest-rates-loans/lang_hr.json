@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Krediti do 0,25 milijuna EUR izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do tri mjeseca nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Mali krediti ≤ 0,25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Krediti do 1 milijun EUR izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Mali krediti; x ≤ 1G</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Krediti veći od 1 milijun EUR izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Veliki krediti; x ≤ 1G</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Krediti do 1 milijun EUR izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od jedne godine i do pet godina nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Mali krediti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Krediti veći od 1 milijun EUR izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od jedne godine i do pet godina nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Veliki krediti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Krediti do 1 milijun EUR izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od pet godina nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Mali krediti; x &gt; 5G</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Krediti veći od 1 milijun EUR izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od pet godina nefinancijskim društvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Veliki krediti; x &gt; 5G</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Potrošački krediti izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Potrošački krediti; x ≤ 1G</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Potrošački krediti izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od jedne godine i do pet godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Potrošački krediti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Potrošački krediti izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od pet godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Potrošački krediti; x &gt; 5G</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Pokazatelj ukupnih troškova zaduživanja za nove stambene kredite kućanstvima (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Troškovi zaduživanja kućanstava</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Stambeni krediti izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Stambeni krediti; x ≤ 1G</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Stambeni krediti izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od jedne godine i do pet godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Stambeni krediti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Stambeni krediti izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od pet godina i do deset godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Stambeni krediti; 5G &lt; x ≤ 10G</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Stambeni krediti izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od deset godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Stambeni krediti; x &gt; 10G</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Krediti za ostale potrebe izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Ostali krediti; x ≤ 1G</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Krediti za ostale potrebe, uključujući kredite trgovcima pojedincima i društvima osoba bez pravne osobnosti, izraženi u eurima; promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope do jedne godine kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Ostali krediti; trgovci pojedinci; x ≤ 1G</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Krediti za ostale potrebe izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od jedne godine i do pet godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Ostali krediti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Krediti za ostale potrebe izraženi u eurima; razdoblje početnog fiksiranja kamatne stope dulje od pet godina kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Ostali krediti; x &gt; 5G</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Pokazatelj ukupnih troškova zaduživanja za nove kredite nefinancijskim društvima (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Troškovi zaduživanja društava</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Pokazatelj ukupnih troškova zaduživanja za kratkoročne kredite kućanstvima i nefinancijskim društvima</p>",
+            "title": "<p>Kratkoročni troškovi zaduživanja</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Pokazatelji ukupnih troškova zaduživanja za dugoročne kredite kućanstvima i nefinancijskim društvima</p>",
+            "title": "<p>Dugoročni troškovi zaduživanja</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Revolving krediti i prekoračenja po transakcijskim računima te krediti po kreditnim karticama (bez naplate kamate i s naplatom kamate) nefinancijskim društvima europodručja izraženi u eurima (postotci godišnje, novi poslovi i stanja se podudaraju)</p>",
+            "title": "<p>Revolving krediti i prekoračenja</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Revolving krediti i prekoračenja po transakcijskim računima te krediti po kreditnim karticama (bez naplate kamate i s naplatom kamate) kućanstvima europodručja izraženi u eurima (postotci godišnje, novi poslovi i stanja se podudaraju)</p>",
+            "title": "<p>Revolving krediti i prekoračenja</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Stambeni krediti izraženi u eurima; ukupna promjenjiva kamatna stopa ili razdoblje početnog fiksiranja kamatne stope kućanstvima europodručja (postotci godišnje, kamatne stope na nove poslove)</p>",
+            "title": "<p>Stambeni krediti, ukupno</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Kamatne stope banaka - krediti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kućanstva</p>"
+        },
+        "2": {
+            "title": "<p>Društva</p>"
+        },
+        "3": {
+            "title": "<p>Ukupni troškovi zaduživanja</p>"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Vrednostni papirji - Delnice, ki kotirajo na borzi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Nove izdaje"
+        },
+        "3": {
+            "title": "Neto izdaje"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banke, stanje",
+            "definition": "Stanje delnic, ki kotirajo na borzi in so jih izdale denarne finančne institucije (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Družbe, stanje",
+            "definition": "Stanje delnic, ki kotirajo na borzi in so jih izdale nefinančne družbe (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Drugi finančni posredniki, stanje",
+            "definition": "Stanje delnic, ki kotirajo na borzi in so jih izdale finančne družbe razen denarnih finančnih institucij (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Skupaj, stanje",
+            "definition": "Skupaj stanje delnic, ki kotirajo na borzi (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banke, novi",
+            "definition": "Bruto izdaje delnic, ki kotirajo na borzi in so jih izdale denarne finančne institucije (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Družbe, novi",
+            "definition": "Bruto izdaje delnic, ki kotirajo na borzi in so jih izdale nefinančne družbe (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Drugi finančni posredniki, novi",
+            "definition": "Bruto izdaje delnic, ki kotirajo na borzi in so jih izdale finančne družbe razen denarnih finančnih institucij (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Skupaj, novi",
+            "definition": "Skupaj bruto izdaje delnic, ki kotirajo na borzi (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banke, neto",
+            "definition": "Neto izdaje delnic, ki kotirajo na borzi in so jih izdale denarne finančne institucije (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Družbe, neto",
+            "definition": "Neto izdaje delnic, ki kotirajo na borzi in so jih izdale nefinančne družbe (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Drugi finančni posredniki, neto",
+            "definition": "Neto izdaje delnic, ki kotirajo na borzi in so jih izdale finančne družbe razen denarnih finančnih institucij (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Skupaj, neto",
+            "definition": "Skupaj neto izdaje delnic, ki kotirajo na borzi (tržna vrednost, izraženo v eurih, izdajatelji so rezidenti)"
+        }
+    }
+}

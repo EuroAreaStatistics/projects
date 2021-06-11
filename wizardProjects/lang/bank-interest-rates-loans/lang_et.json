@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega kuni 0,25 miljon eurot; ujuv intressimäär või kuni kolmeks kuuks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Väikelaenud ≤ 0,25; x ≤ 3K</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega kuni 1 miljon eurot; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Väikelaenud x ≤ 1A</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega üle 1 miljoni euro; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Suurlaenud x ≤ 1A</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega kuni 1 miljon eurot; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Väikelaenud 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega üle 1 miljoni euro; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Suurlaenud 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega kuni 1 miljon eurot; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Väikelaenud x &gt; 5A</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud laenud suurusega üle 1 miljoni euro; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Suurlaenud x &gt; 5A</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud tarbimislaenud; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Tarbimislaenud x ≤ 1A</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud tarbimislaenud; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Tarbimislaenud 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud tarbimislaenud; rohkem kui viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Tarbimislaenud x &gt; 5A</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Kodumajapidamiste uute eluasemelaenude võtmisega seotud kulude koondnäitaja (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Kodumajapidamiste laenuvõtukulud</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud eluasemelaenud; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Eluasemelaenud x ≤ 1A</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud eluasemelaenud; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Eluasemelaenud 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud eluasemelaenud; rohkem kui viieks aastaks ja kuni kümneks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Eluasemelaenud 5A &lt; x ≤ 10A</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud eluasemelaenud; rohkem kui kümneks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Eluasemelaenud x &gt; 10A</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud muu otstarbega laenud; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Muud laenud x ≤ 1A</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud muu otstarbega laenud, sh laenud füüsilisest isikust ettevõtjatele ja juriidilistele isikutele; ujuv intressimäär või kuni üheks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Muud laenud füüsilisest isikust ettevõtjatele x ≤ 1A</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud muu otstarbega laenud; rohkem kui üheks aastaks ja kuni viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Muud laenud 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud muu otstarbega laenud; rohkem kui viieks aastaks fikseeritud intressimäär (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Muud laenud x &gt; 5A</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Mittefinantsettevõtete uute laenude võtmisega seotud kulude koondnäitaja (protsendid aasta kohta, uute laenude intressimäärad)</p>",
+            "title": "<p>Ettevõtete laenuvõtukulud</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Kodumajapidamiste ja mittefinantsettevõtete lühiajaliste laenude võtmisega seotud kulude koondnäitaja</p>",
+            "title": "<p>Lühiajaliste laenude võtmisega seotud kulud</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Kodumajapidamiste ja mittefinantsettevõtete pikaajaliste laenude võtmisega seotud kulude koondnäitaja</p>",
+            "title": "<p>Pikaajaliste laenude võtmisega seotud kulud</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Euroala mittefinantsettevõtete eurodes nomineeritud automaat- ja arvelduslaenud ning pikaajalised ja pikendatud krediitkaardivõlad (protsendid aasta kohta, uued laenud ja jääk kattuvad)</p>",
+            "title": "<p>Automaat- ja arvelduslaenud</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud automaat- ja arvelduslaenud ning pikaajalised ja pikendatud krediitkaardivõlad (protsendid aasta kohta, uued laenud ja jääk kattuvad)</p>",
+            "title": "<p>Automaat- ja arvelduslaenud</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Euroala kodumajapidamiste eurodes nomineeritud eluasemelaenud; ujuv intressimäär ja fikseeritud intressimäär kokku (protsendid aasta kohta, uued laenud)</p>",
+            "title": "<p>Eluasemelaenud kokku</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Pankade intressimäärad - Laenud</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kodumajapidamised</p>"
+        },
+        "2": {
+            "title": "<p>Ettevõtted</p>"
+        },
+        "3": {
+            "title": "<p>Laenuvõtukulude koondnäitaja</p>"
+        }
+    }
+}

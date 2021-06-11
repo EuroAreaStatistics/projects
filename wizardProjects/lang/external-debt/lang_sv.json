@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruttoskuld mot utlandet (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Nettoskuld mot utlandet (skulder minus tillgångar, nettoskulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruttoskuld mot utlandet i procent av bruttonationalprodukt (BNP) till marknadspriser (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Bruttokvot</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Nettoskuld mot utlandet i procent avbruttonationalprodukt (BNP) till marknadspriser (skulder minus tillgångar,nettoskulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruttoskuld mot utlandet (monetära finansinstituts skulder gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Nettoskuld mot utlandet (skulder minus tillgångar, nettoskuldertotalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ejsäsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruttoskuld mot utlandet i procent av bruttonationalprodukt (BNP) till marknadspriser (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Bruttokvot</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Nettoskuld mot utlandet i procent avbruttonationalprodukt (BNP) till marknadspriser (skulder minus tillgångar,nettoskulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruttoskuld mot utlandet (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Nettoskuld mot utlandet (skulder minus tillgångar, offentliga sektorns nettoskulder gentemot utlandet, ställning vid kvartalsslut,ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruttoskuld mot utlandet i procent av bruttonationalprodukt (BNP) till marknadspriser (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Bruttokvot</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Nettoskuld mot utlandet i procent avbruttonationalprodukt (BNP) till marknadspriser (skulder minus tillgångar,offentliga sektorns nettoskulder gentemot utlandet, ställning vid kvartalsslut,ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruttoskuld mot utlandet (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Nettoskuld mot utlandet (skulder minus tillgångar, nettoskulder för andra sektorer än monetära finansinstitut och offentligasektorn gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensateller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruttoskuld mot utlandet i procent av bruttonationalprodukt (BNP) till marknadspriser (skulder totalt i ekonomin gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Bruttokvot</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Nettoskuld mot utlandet i procent avbruttonationalprodukt (BNP) till marknadspriser (skulder minus tillgångar, nettoskulder för andra sektorer än monetära finansinstitut och offentligasektorn gentemot utlandet, ställning vid kvartalsslut, ej säsongsrensateller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Extern sektor - Utlandsskuld</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totala ekonomin</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetära finansinstitut</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Offentlig sektor</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Övriga sektorer</p>"
+        }
+    }
+}

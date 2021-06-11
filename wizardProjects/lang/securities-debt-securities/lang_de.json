@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Wertpapiere - Schuldverschreibungen",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Neuemissionen"
+        },
+        "3": {
+            "title": "Nettoabsatz"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banken, Bestand",
+            "definition": "Umlauf an von MFIs begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banken, Bestand; x ≤ 1J",
+            "definition": "Umlauf an von MFIs begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banken, Bestand; x &gt; 1J",
+            "definition": "Umlauf an von MFIs begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, Bestand",
+            "definition": "Umlauf an von nichtfinanziellen Kapitalgesellschaften begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, Bestand; x ≤ 1J",
+            "definition": "Umlauf an von nichtfinanziellen Kapitalgesellschaften begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, Bestand; x &gt; 1J",
+            "definition": "Umlauf an von nichtfinanziellen Kapitalgesellschaften begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, Bestand",
+            "definition": "Umlauf an von öffentlichen Haushalten begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, Bestand; x ≤ 1J",
+            "definition": "Umlauf an von öffentlichen Haushalten begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, Bestand; x &gt; 1J",
+            "definition": "Umlauf an von öffentlichen Haushalten begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, Bestand",
+            "definition": "Umlauf an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, Bestand; x ≤1J",
+            "definition": "Umlauf an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, Bestand; x &gt;1J",
+            "definition": "Umlauf an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Insgesamt, Bestand",
+            "definition": "Gesamtumlauf an Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Insgesamt, Bestand; x ≤ 1J",
+            "definition": "Gesamtumlauf an kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Insgesamt, Bestand; x &gt; 1J",
+            "definition": "Gesamtumlauf an langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banken, neu",
+            "definition": "Bruttoabsatz an von MFIs begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banken, neu; x ≤ 1J",
+            "definition": "Bruttoabsatz an von MFIs begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banken, neu; x &gt; 1J",
+            "definition": "Bruttoabsatz an von MFIs begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, neu",
+            "definition": "Bruttoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, neu; x ≤ 1J",
+            "definition": "Bruttoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, neu; x &gt;1J",
+            "definition": "Bruttoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, neu",
+            "definition": "Bruttoabsatz an von öffentlichen Haushalten begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, neu; x ≤ 1J",
+            "definition": "Bruttoabsatz an von öffentlichen Haushalten begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, neu; x &gt; 1J",
+            "definition": "Bruttoabsatz an von öffentlichen Haushalten begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, neu",
+            "definition": "Bruttoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, neu; x ≤ 1J",
+            "definition": "Bruttoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, neu; x &gt;1J",
+            "definition": "Bruttoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Insgesamt, neu",
+            "definition": "Gesamtbruttoabsatz an Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Insgesamt, neu; x &gt; 1J",
+            "definition": "Gesamtbruttoabsatz an langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Insgesamt, neu; x ≤ 1J",
+            "definition": "Gesamtbruttoabsatz an kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banken, netto",
+            "definition": "Nettoabsatz an von MFIs begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banken, netto; x ≤ 1J",
+            "definition": "Nettoabsatz an von MFIs begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banken, netto; x &gt; 1J",
+            "definition": "Nettoabsatz an von MFIs begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, netto",
+            "definition": "Nettoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, netto; x ≤ 1J",
+            "definition": "Nettoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Kapitalgesellschaften, netto; x &gt;1J",
+            "definition": "Nettoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, netto",
+            "definition": "Nettoabsatz an von öffentlichen Haushalten begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, netto; x ≤ 1J",
+            "definition": "Nettoabsatz an von öffentlichen Haushalten begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Öffentliche Haushalte, netto; x &gt; 1J",
+            "definition": "Nettoabsatz an von öffentlichen Haushalten begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, netto",
+            "definition": "Nettoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, netto; x ≤1J",
+            "definition": "Nettoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, netto; x &gt;1J",
+            "definition": "Nettoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Insgesamt, netto",
+            "definition": "Gesamtnettoabsatz an Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Insgesamt, netto; x ≤ 1J",
+            "definition": "Gesamtnettoabsatz an kurzfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Insgesamt, netto; x &gt; 1J",
+            "definition": "Gesamtnettoabsatz an langfristigen Schuldverschreibungen (Nominalwert, alle Währungen zusammen, in Euro, von Ansässigen begeben)"
+        }
+    }
+}

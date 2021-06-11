@@ -1,0 +1,17 @@
+{
+    "project": {
+        "title": "Chart 2 - Bank interest rates on new loans for house purchase (all maturities)"
+    },
+    "charts": {
+        "1": {
+            "title": "Chart 2 - Bank interest rates on new loans for house purchase (all maturities)",
+            "definition": ""
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Insight 9",
+            "teaser": ""
+        }
+    }
+}

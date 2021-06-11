@@ -1,0 +1,45 @@
+{
+    "project": {
+        "title": "Financial Sector - Financial Vehicle Corporations",
+        "options": {
+            "dataSource": "dummy",
+            "dataSourceURL": ""
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Total assets",
+            "definition": "Total assets/liabilities, Total maturity, All currencies combined; data Neither seasonally nor working day adjusted, Outstanding amounts at the end of the period (stocks)"
+        },
+        "c1461747765511": {
+            "title": "Securitised Loans ",
+            "definition": "Assets - Securitised loans, Total FVCs reporting sector, Total maturity, All currencies combined - World (all entities) counterpart, Unspecified counterpart sector sector, All sectors combined, denominated in Euro, data Neither seasonally nor working day adjusted\n(Financial Vehicle Corporation), Outstanding amounts at the end of the period (stocks)"
+        },
+        "c1461748179004": {
+            "title": "Deposits and Claims ",
+            "definition": "Assets - Deposits and loan claims, Euro area (changing composition), Outstanding amounts at the end of the period (stocks), Total FVCs reporting sector - Total maturity, All currencies combined - World (all entities) counterpart, Unspecified counterpart sector sector, Not applicable, denominated in Euro, data Neither seasonally nor working day adjusted"
+        },
+        "c1461748674280": {
+            "title": "Issuance of debt securities ",
+            "definition": "Liabilities - Debt securities issued, Total maturity, All currencies combined - World (all entities) counterpart, Euro area (changing composition), Outstanding amounts at the end of the period (stocks), Total FVCs reporting sector, Unspecified counterpart sector sector, Not applicable, denominated in Euro, data Neither seasonally nor working day adjusted"
+        },
+        "c1461751410147": {
+            "title": "Total Liabilities ",
+            "definition": "Total assets/liabilities, Total maturity, All currencies combined - World (all entities) counterpart, Total FVCs reporting sector, denominated in Euro, data Neither seasonally nor working day adjusted,  Outstanding amounts at the end of the period (stocks)"
+        },
+        "c1461751459267": {
+            "title": "Loans and deposits ",
+            "definition": "Liabilities - Loans and deposits received, Total maturity, All currencies combined - World (all entities) counterpart,  Euro area (changing composition), Outstanding amounts at the end of the period (stocks), Total FVCs reporting sector, Unspecified counterpart sector sector, Not applicable, denominated in Euro, data Neither seasonally nor working day adjusted"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Assets",
+            "teaser": ""
+        },
+        "t1461748663400": {
+            "title": "Liabilities ",
+            "teaser": "Liabilities "
+        }
+    }
+}

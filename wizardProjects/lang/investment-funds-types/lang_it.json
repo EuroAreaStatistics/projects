@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Fondi di investimento - Per tipologia di fondo",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Flussi"
+        },
+        "3": {
+            "title": "Tassi di crescita"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi aperti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi aperti (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi chiusi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi chiusi (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi aperti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi aperti (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi chiusi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi chiusi (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi aperti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi aperti (tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi chiusi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per tipologia di fondo: fondi chiusi (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        }
+    }
+}

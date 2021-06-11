@@ -1,0 +1,176 @@
+{
+    "project": {
+        "title": "Banks balance sheet - Deposits",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Households, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, overnight deposits from euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Households; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity up to two years from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Households; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity over two years from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Households, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, deposits redeemable at notice of up to three months from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Corporates, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, overnight deposits from euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Corporates; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity up to two years from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Corporates; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity over two years from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Corporates, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, deposits redeemable at notice of up to three months from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area insurance corporations and pension funds (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area other financial intermediaries (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Households, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, overnight deposits from euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Households; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity up to two years from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Households; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity over two years from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Households, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, deposits redeemable at notice of up to three months from euro area households (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Corporates, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, overnight deposits from euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Corporates; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity up to two years from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Corporates; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, deposits with agreed maturity over two years from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Corporates, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, deposits redeemable at notice of up to three months from euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area insurance corporations and pension funds (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, total deposits from euro area other financial intermediaries (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total deposits from euro area households (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Households, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of overnight deposits from euro area households (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Households; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits with agreed maturity up to two years from euro area households (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Households; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits with agreed maturity over two years from euro area households (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Households, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits redeemable at notice of up to three months from euro area households (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total deposits from euro area non-financial corporations (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Corporates, overnight",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of overnight deposits from euro area non-financial corporations (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Corporates; agreed maturity ≤ 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits with agreed maturity up to two years from euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Corporates; agreed maturity &gt; 2Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits with agreed maturity over two years from euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Corporates, redeemable at notice; x ≤ 3M",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of deposits redeemable at notice of up to three months from euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total deposits from euro area insurance corporations and pension funds (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total deposits from euro area other financial intermediaries (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Loan-to-deposit ratio",
+            "definition": "Monetary financial institution balance sheet statistics, ratio between total loans and total deposits vis-a-vis euro area non-financial corporations and households and non-euro area non-financial corporations, households and non-bank financial institutions (excluding general government, all currency combined, all maturities, not seasonally adjusted, percentage, quarterly)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Flows",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Growth rates",
+            "teaser": ""
+        },
+        "4": {
+            "title": "Loan-to-deposit ratio",
+            "teaser": ""
+        }
+    }
+}

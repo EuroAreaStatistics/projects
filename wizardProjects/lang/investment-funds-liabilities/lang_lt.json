@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Investiciniai fondai - Įsipareigojimai",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Srautai"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Investicinių fondų vienetai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: investicinių fondų akcijos / vienetai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Gautos paskolos ir indėliai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: gautos paskolos ir indėliai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Kiti įsipareigojimai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: kiti įsipareigojimai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, visas turtas / įsipareigojimai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Investicinių fondų vienetai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: investicinių fondų akcijos / vienetai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Gautos paskolos ir indėliai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: gautos paskolos ir indėliai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Kiti įsipareigojimai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, įsipareigojimų klasė: kiti įsipareigojimai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, visas turtas / įsipareigojimai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        }
+    }
+}

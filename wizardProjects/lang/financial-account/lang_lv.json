@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Finanšu konta saldo % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi mīnus pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Finanšu konta aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Finanšu konta pasīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem un EKS 2010 standartiem).</p>",
+            "title": "<p>Pasīvu rādītājs</p>"
+        },
+        "1": {
+            "definition": "<p>Finanšu konta saldo (aktīvi mīnus pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Finanšu konta aktīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Finanšu konta pasīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Finanšu konts – tiešo investīciju saldo (aktīvi mīnus pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finanšu konts – tiešo investīciju aktīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finanšu konts – tiešo investīciju pasīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Finanšu konts – portfeļieguldījumy saldo (aktīvi mīnus pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finanšu konts – portfeļieguldījumu aktīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finanšu konts – portfeļieguldījumu pasīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Finanšu konts – citu ieguldījumu saldo (aktīvi mīnus pasīvi, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finanšu konts – citu ieguldījumu aktīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finanšu konts – citu ieguldījumu pasīvi (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Ārējais sektors - finanšu konts</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kopā</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Tiešās investīcijas</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfeļieguldījumi</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Citi ieguldījumi</p>"
+        }
+    }
+}

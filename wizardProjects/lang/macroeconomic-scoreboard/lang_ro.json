@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Soldul contului curent ca procent din produsul intern brut (PIB) (medie mobilă pe 3 ani, calculată în conformitate cu standarde internaționale precum MBP6 și SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de +6% și -4%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Soldul contului curent (3A)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Poziția investițională internațională netă ca procent din produsul intern brut (PIB) (date anuale, calculate în conformitate cu standarde internaționale precum MBP6 și SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de -35%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Poziția investițională internațională (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Cursul de schimb efectiv real (deflatat cu IAPC/IPC, variație procentuală pe 3 ani în raport cu alte 41 de țări industrializate). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de  -/+5% pentru țările din zona euro. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Cursul de schimb efectiv real (3A)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Cotele de piață ale exporturilor (măsurate ca valori, variații procentuale pe 5 ani, calculate în conformitate cu standarde internaționale precum MBP6). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de  -6%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Cotele de piață ale exporturilor (5A)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Costul unitar nominal cu forța de muncă (variație procentuală pe 3 ani, pe număr de persoane). Costurile unitare cu forța de muncă reprezintă o măsură a costurilor totale cu forța de muncă pe unitate de producție, calculate ca raport între remunerația pe salariat și productivitatea muncii (definită ca PIB pe salariat). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de +9%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Costul unitar nominal cu forța de muncă (3A)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Prețurile locuințelor în raport cu deflatorul consumului privat al Eurostat (variații procentuale anuale, locuințe noi și existente). Indicatorul prețurilor proprietăților rezidențiale pentru zona euro reprezintă o medie a indicatorilor nearmonizați pe țări, bazați pe date din surse naționale. Sfera de acoperire variază, într-o anumită măsură, de la o țară la alta. Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 6%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Prețurile locuințelor</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Fluxul de credite acordate sectorului privat ca procent din produsul intern brut (PIB) (date consolidate, calculate în conformitate cu standarde internaționale precum MBP6 și SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 15%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Fluxul de credite acordate sectorului privat</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Datoria sectorului privat ca procent din PIB (date consolidate, calculate în conformitate cu standarde internaționale precum MBP6 și SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 133%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Datoria sectorului privat</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Datoria sectoarelor administrației publice ca procent din produsul intern brut (PIB) (calculată în conformitate cu standarde internaționale precum MBP6 și SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 60%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Datoria sectoarelor administrației publice</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Pasivele totale ale sectorului financiar (variații anuale, date neconsolidate, calculate în conformitate cu standarde internaționale precum SEC 2010). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 16,5%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Pasivele sectorului financiar</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Rata armonizată a șomajului (medie mobilă pe 3 ani). Potrivit <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurii privind dezechilibrele macroeconomice (PDM)</a> evaluate de Comisia Europeană, pragul orientativ pentru acest indicator este de 10%. Sursa: BCE și Comisia Europeană (Eurostat și DG Afaceri Economice și Financiare).</p>",
+            "title": "<p>Rata șomajului (3A)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Tablou de bord macroeconomic</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indicatori externi/de competitivitate</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indicatori interni</p>"
+        }
+    }
+}

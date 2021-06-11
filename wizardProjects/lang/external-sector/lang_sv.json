@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Bytesbalans, handelsbalans netto (export minus import, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Bytesbalans varuexport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Export</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Bytesbalans, varuimport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Bytesbalans, tjänstenetto (export minus import, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Bytesbalans, tjänsteexport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Export</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Bytesbalans, tjänsteimport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Bytesbalans i procent av bruttonationalprodukt (BNP) till marknadspriser (kredit minus debet, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Balanstal</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Bytesbalans debet i procent av bruttonationalprodukt (BNP) till marknadspriser (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Debetposition</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Bytesbalans (kredit minus debet, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Bytesbalans kredit (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Bytesbalans debet (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Bytesbalans kredit i procent av bruttonationalprodukt (BNP) till marknadspriser (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Kreditposition</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Bytesbalans, varor och tjänster saldo (export minus import gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Bytesbalans, varor och tjänster export (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Export</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Bytesbalans, varor och tjänster import (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Bytesbalans, primärinkomst (kredit minus debet, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Bytesbalans primärinkomst kredit (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Bytesbalans primärinkomst debet (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Bytesbalans, sekundärinkomst (kredit minus debet, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Bytesbalans sekundärinkomst kredit (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Bytesbalans sekundärinkomst debet (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Debet</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Extern sektor - Bytesbalans</p>\r\n"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Varor</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Tjänster</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Totalt</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Varor och tjänster</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Primärinkomst</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Sekundärinkomst</p>"
+        }
+    }
+}

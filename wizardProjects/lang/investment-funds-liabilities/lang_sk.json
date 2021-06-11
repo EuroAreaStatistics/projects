@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Investičné fondy - Pasíva",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Podielové listy investičných fondov",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: akcie/podielové listy investičných fondov (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Prijaté úvery a vklady",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: prijaté úvery a vklady (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Ostatné pasíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: ostatné pasíva (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, celkové aktíva/pasíva (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Podielové listy investičných fondov",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: akcie/podielové listy investičných fondov (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Prijaté úvery a vklady",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: prijaté úvery a vklady (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Ostatné pasíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda pasív: ostatné pasíva (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, celkové aktíva/pasíva (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        }
+    }
+}

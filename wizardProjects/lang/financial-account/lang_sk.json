@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Čisté saldo finančného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva mínus pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Aktíva finančného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Pasíva finančného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer pasív</p>"
+        },
+        "1": {
+            "definition": "<p>Čisté saldo finančného účtu (aktíva mínus pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté saldo</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Aktíva finančného účtu (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Pasíva finančného účtu (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Čisté saldo finančného účtu, priame investície (aktíva mínus pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté saldo</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finančný účet, aktíva priamych investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finančný účet, pasíva priamych investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Čisté saldo finančného účtu, portfóliové investície (aktíva mínus pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté saldo</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finančný účet, aktíva portfóliových investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finančný účet, pasíva portfóliových investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Čisté saldo finančného účtu, ostatné investície (aktíva mínus pasíva, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté saldo</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finančný účet, aktíva ostatných investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finančný účet, pasíva ostatných investícií (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Externý sektor - Finančný účet</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Spolu</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Priame investície</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfóliové investície</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Ostatné investície</p>"
+        }
+    }
+}

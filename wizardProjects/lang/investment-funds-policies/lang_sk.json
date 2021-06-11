@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investičné fondy - Podľa investičného zamerania",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        },
+        "3": {
+            "title": "Miery rastu"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Dlhopisové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: dlhopisové fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Akciové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: akciové fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Zmiešané fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: zmiešané fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Realitné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: realitné fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedžové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: hedžové fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ostatné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: ostatné fondy (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, akcie/podielové listy investičných fondov (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Dlhopisové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: dlhopisové fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Akciové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: akciové fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Zmiešané fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: zmiešané fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Realitné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: realitné fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedžové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: hedžové fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ostatné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: ostatné fondy (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, akcie/podielové listy investičných fondov (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Dlhopisové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: dlhopisové fondy (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Akciové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: akciové fondy (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Zmiešané fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: zmiešané fondy (celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Realitné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: realitné fondy (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedžové fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: hedžové fondy (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ostatné fondy",
+            "definition": "Akcie/podielové listy emitované investičnými fondmi inými ako fondy peňažného trhu, v členení podľa investičného zamerania: ostatné fondy (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, akcie/podielové listy investičných fondov (ročná miera rastu, celková splatnosť, vo všetkých menách spolu, ročné percentuálne zmeny, neočistené od sezónnych vplyvov, mesačné údaje)"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Jooksevkonto saldo %na SKPst (rahvusvaheliste standardite (nt BPM6 ja ESA 2010) alusel arvutatav kolme aasta libisev keskmine). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus vahemikus +6% kuni -4%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Jooksevkonto saldo (3 a)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Rahvusvaheline netoinvesteerimispositsioon %na SKPst (rahvusvaheliste standardite (nt BPM6 ja ESA 2010) alusel arvutatav aastanäitaja). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus -35%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Rahvusvaheline investeerimispositsioon</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Reaalne efektiivne vahetuskurss (ÜTHI/THI deflaatorid, muutuse % kolme aasta alusel võrreldes ülejäänud 41 tööstusriigi näitajatega). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus euroala riikide puhul ±5%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Reaalne efektiivne vahetuskurss (3 a)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Ekspordi turuosad (mõõdetud väärtused; rahvusvaheliste standardite (nt BPM6) alusel arvutatav muutuse protsent viie aasta alusel). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus -6%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Ekspordi turuosad (5 a)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominaalne tööjõu ühikukulu (muutuse % kolme aasta alusel, töötajate arvu põhjal). Tööjõu ühikukulu mõõdab toodanguühikule kulutatud tööjõukulu töötaja kohta makstava hüvitise ja tööviljakuse suhtarvuna (väljendatuna SKPna tööga hõivatud isiku kohta). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus euroala riikide puhul +9%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Nominaalne tööjõu ühikukulu (3 a)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Eluasemehinnad võrreldes Eurostati eratarbimise deflaatoriga (aastane muutus protsentides, uued ja olemasolevad eluasemed). Euroala eluasemehindade näitaja on riiklikel andmetel põhinevate riikide ühtlustamata näitajate keskmine. Andmete ulatus on riigiti mõnevõrra erinev. Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 6%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Eluasemehinnad</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Erasektori krediidivoog %na SKPst (konsolideeritud, arvutatud rahvusvaheliste standardite (nt BPM6 ja ESA 2010) alusel). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 15%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Erasektori krediidivoog</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Erasektori võlg %na SKPst (konsolideeritud, arvutatud rahvusvaheliste standardite (nt BPM6 ja ESA 2010) alusel). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 133%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Erasektori võlg</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Avaliku sektori võlg %na SKPst (arvutatud rahvusvaheliste standardite (nt BPM6 ja ESA 2010) alusel). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 60%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Avaliku sektori võlg</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Finantssektori kohustused kokku (aastane muutus, konsolideerimata, arvutatud rahvusvaheliste standardite (nt ESA 2010) alusel). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 16,5%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Finantssektori kohustused</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Töötuse ühtlustatud määr (kolme aasta libisev keskmine). Kooskõlas Euroopa Komisjoni <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makromajandusliku tasakaalustamatuse menetlusega</a> on selle näitaja soovituslik künnisväärtus 10%. Allikad: EKP ja Euroopa Komisjon (Eurostat ning majandus- ja rahandusküsimuste peadirektoraat).</p>",
+            "title": "<p>Töötuse määr (3 a)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makromajandustulemused</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Väline tasakaalustamatus / konkurents</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Sisemine tasakaalustamatus</p>"
+        }
+    }
+}

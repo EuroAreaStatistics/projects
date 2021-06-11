@@ -1,0 +1,136 @@
+{
+    "project": {
+        "id": "p1461599119423",
+        "owner": "ECBstage",
+        "title": {
+            "en": "Financial Sector - Insurance Corporations and Pension Funds"
+        },
+        "options": {
+            "dataSource": {
+                "en": "dummy"
+            }
+        },
+        "tabs": [
+            "1"
+        ],
+        "url": "fvc-icpf"
+    },
+    "charts": {
+        "1": {
+            "title": {
+                "en": "Total Assets"
+            },
+            "data": {
+                "dimensions": [
+                    "LOCATION",
+                    "YEAR"
+                ],
+                "keys": [
+                    [
+                        "EUR"
+                    ],
+                    [
+                        "2008-Q1",
+                        "2008-Q2",
+                        "2008-Q3",
+                        "2008-Q4",
+                        "2009-Q1",
+                        "2009-Q2",
+                        "2009-Q3",
+                        "2009-Q4",
+                        "2010-Q1",
+                        "2010-Q2",
+                        "2010-Q3",
+                        "2010-Q4",
+                        "2011-Q1",
+                        "2011-Q2",
+                        "2011-Q3",
+                        "2011-Q4",
+                        "2012-Q1",
+                        "2012-Q2",
+                        "2012-Q3",
+                        "2012-Q4",
+                        "2013-Q1",
+                        "2013-Q2",
+                        "2013-Q3",
+                        "2013-Q4",
+                        "2014-Q1",
+                        "2014-Q2",
+                        "2014-Q3",
+                        "2014-Q4",
+                        "2015-Q1",
+                        "2015-Q2",
+                        "2015-Q3",
+                        "2015-Q4"
+                    ]
+                ],
+                "data": [
+                    [
+                        6393788249733.6,
+                        6342553340148.6,
+                        6272649411446.2,
+                        6149588845423.7,
+                        6165919834680.5,
+                        6310935697496.9,
+                        6505716213777.2,
+                        6633535306906.1,
+                        6879402876063.7,
+                        6902077653989,
+                        7071734280352.9,
+                        7045414484933.8,
+                        7142413225236.9,
+                        7155361687373.5,
+                        7158433643461,
+                        7166896136112.4,
+                        7455821604091.7,
+                        7482505281022,
+                        7693230782990.5,
+                        7802209967813.1,
+                        7948701539126.7,
+                        7895491308113.8,
+                        7984543414819.1,
+                        8065151282917.4,
+                        8368157408825.7,
+                        8603125926234.4,
+                        8800121120626.2,
+                        9000367549425,
+                        9579242776714.4,
+                        9208870646149.3,
+                        9179161060764.2,
+                        9299939738814.5
+                    ]
+                ],
+                "url": "https://sdw-wsrest.ecb.europa.eu/service/data/ICPF/Q.AT+BE+CY+DE+EE+ES+FI+FR+GR+IE+IT+LT+LV+LU+MT+NL+PT+SI+SK+I8+U2.N.V.LE.N_F.S125.A1.S.1.N.E.Z?startPeriod=2000",
+                "fetchDate": "2016-04-27T16:09:26.000Z"
+            },
+            "definition": {
+                "en": "Total Assets (financial and non-financial) - counterpart area World (all entities), counterpart institutional sector Total economy including Rest of the World (all sectors) - Debit (uses/assets) - Non-consolidated, Current prices - Euro, Neither seasonally nor working day adjusted - ESA95 TP table Not applicable"
+            },
+            "options": {
+                "tooltipUnit": "EUR",
+                "tooltipDecimals": "2"
+            },
+            "region": "default",
+            "type": "default"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": {
+                "en": "Assets"
+            },
+            "teaser": {
+                "en": ""
+            },
+            "template": 1,
+            "syncScale": false,
+            "titleDisplay": true,
+            "region": "default",
+            "type": "default",
+            "charts": [
+                "1"
+            ],
+            "labels": []
+        }
+    }
+}

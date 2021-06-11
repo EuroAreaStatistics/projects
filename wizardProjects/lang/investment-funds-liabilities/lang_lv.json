@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Ieguldījumu fondi - pasīvi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Plūsmas"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ieguldījumu fondu akcijas un daļas",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: ieguldījumu fondu akcijas un daļas (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Saņemtie kredīti un noguldījumi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: saņemtie kredīti un noguldījumi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Pārējie pasīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: pārējie pasīvi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, kopējie aktīvi/pasīvi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ieguldījumu fondu akcijas un daļas",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: ieguldījumu fondu akcijas un daļas (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Saņemtie kredīti un noguldījumi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: saņemtie kredīti un noguldījumi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Pārējie pasīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, pasīvu grupa: pārējie pasīvi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, kopējie aktīvi/pasīvi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        }
+    }
+}

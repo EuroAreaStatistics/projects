@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bancaire rentetarieven - Deposito’s",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Huishoudens"
+        },
+        "2": {
+            "title": "Bedrijven"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Girale rentetarieven",
+            "definition": "In euro luidende girale deposito´s van huishoudens uit het eurogebied (in procenten per jaar, nieuwe en bestaande uitzettingen vallen samen)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Deposito met vaste looptijd t/m 1 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd tot en met één jaar, afkomstig van huishoudens uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt; 1 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van meer dan een jaar, afkomstig van huishoudens uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt; 1 jr t/m 2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van langer dan een jaar tot en met twee jaar, afkomstig van huishoudens uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Deposito met vaste looptijd t/m 2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd tot en met twee jaar, afkomstig van huishoudens uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt;2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van meer dan twee jaar, afkomstig van huishoudens uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Deposito met opzegtermijn t/m 3 maanden",
+            "definition": "In euro luidende, binnen drie maanden opvraagbare deposito's van huishoudens uit het eurogebied (in procenten per jaar, nieuwe en bestaande uitzettingen vallen samen)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo's",
+            "definition": "In euro luidende repo´s van huishoudens en niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Girale rentetarieven",
+            "definition": "In euro luidende girale deposito´s van niet-financiële vennootschappen uit het eurogebied (in procenten per jaar, nieuwe en bestaande uitzettingen vallen samen)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Deposito met vaste looptijd t/m 1 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd tot en met één jaar, afkomstig van niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt; 1 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van meer dan een jaar, afkomstig van niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt; 1 jr t/m 2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van langer dan een jaar tot en met twee jaar, afkomstig van niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Deposito met vaste looptijd t/m 2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd tot en met twee jaar, afkomstig van niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Deposito met vaste looptijd van &gt;2 jr",
+            "definition": "In euro luidende deposito's met een vaste looptijd van meer dan twee jaar, afkomstig van niet-financiële ondernemingen uit het eurogebied (in procenten per jaar, tarieven voor nieuwe contracten)"
+        }
+    }
+}

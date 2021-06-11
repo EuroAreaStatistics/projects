@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Saldo financiële rekening als percentage van bruto binnenlands product (bbp) tegen marktprijzen (activa minus passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Saldo in procenten</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Activa financiële rekening als percentage van bruto binnenlands product (bbp) tegen marktprijzen (activa, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Activa in procenten</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Passiva financiële rekening als percentage van bruto binnenlands product (bbp) tegen marktprijzen (passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Passiva in procenten</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo financiële rekening (activa minus passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Activa financiële rekening (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Passiva financiële rekening (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Saldo financiële rekening, directe investeringen (activa minus passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Financiële rekening, directe investeringen – activa (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Financiële rekening, directe investeringen – passiva (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Saldo financiële rekening, effectenverkeer (activa minus passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Financiële rekening, activa effectenverkeer (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Financiële rekening, passiva effectenverkeer (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Saldo financiële rekening, overige investeringen (activa minus passiva, transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Financiële rekening, overige investeringen – activa (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Financiële rekening, overige investeringen – passiva (transacties ten opzichte van niet-ingezetenen; vierkwartaals gecumuleerd; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Externe sector - Financiële rekening</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totaal</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Directe investeringen</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Effectenverkeer</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Overige investeringen</p>"
+        }
+    }
+}

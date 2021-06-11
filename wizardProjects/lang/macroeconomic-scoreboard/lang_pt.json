@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo da balança de transações correntes em percentagem do PIB (média móvel de 3 anos, calculado de acordo com normas internacionais, tais como as estabelecidas no MBP6 e no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de +6% e -4%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Saldo da balança de transações correntes (3A)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Posição de investimento internacional líquida em percentagem do PIB (anual, calculada de acordo com normas internacionais, tais como as estabelecidas no MBP6 e no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de -35%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Posição de investimento internacional (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Taxa de câmbio efetiva real (deflacionada pelo IHPC/IPC, variação percentual ao longo de 3 anos face a 41 outros países industrializados). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de -/+5% para os países da área do euro. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Taxa de câmbio efetiva real (3A)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Quotas de mercado no setor das exportações (medidas em valores, variação percentual ao longo de 5 anos, calculadas de acordo com normas internacionais, tais como as estabelecidas no MBP6). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de -6%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Quotas de mercado no setor das exportações (5A)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Custos unitários do trabalho nominais (variação percentual ao longo de 3 anos, com base em indivíduos). Os custos unitários do trabalho são uma medida dos custos totais do trabalho por unidade de produto, calculada como o rácio entre a remuneração por empregado e a produtividade do trabalho (definida como o PIB por indivíduo empregado). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de +9% para os países da área do euro. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Custos unitários do trabalho nominais (3A)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Preços da habitação em relação a um deflator do consumo privado do Eurostat (variação homóloga em percentagem, casas novas e já existentes). O indicador dos preços dos edifícios residenciais para a área do euro é uma média dos indicadores não harmonizados a nível de cada país com base em dados provenientes de fontes nacionais. A abrangência varia, em certa medida, de país para país. Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 6%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Preços da habitação</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Fluxo de crédito para o setor privado em percentagem do PIB (consolidado, calculado de acordo com normas internacionais, tais como as estabelecidas no MBP6 e no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 15%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Fluxo de crédito para o setor privado</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dívida do setor privado em percentagem do PIB (consolidada, calculada de acordo com normas internacionais, tais como as estabelecidas no MBP6 e no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 133%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Dívida do setor privado</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dívida do setor das administrações públicas em percentagem do PIB (calculada de acordo com normas internacionais, tais como as estabelecidas no MBP6 e no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 60%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Dívida do setor das administrações públicas</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Total de responsabilidades do setor financeiro (variação homóloga, não consolidado, calculado de acordo com normas internacionais, tais como as estabelecidas no SEC 2010). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 16.5%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Responsabilidades do setor financeiro</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Taxa de desemprego harmonizada (média móvel de 3 anos). Segundo o <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedimento relativo aos desequilíbrios macroeconómicos</a> avaliado pela Comissão Europeia, o limiar indicativo para este indicador é de 10%. Fontes: BCE e Comissão Europeia (Eurostat e Direção-Geral dos Assuntos Económicos e Financeiros).</p>",
+            "title": "<p>Taxa de desemprego (3A)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Painel de avaliação macroeconómico</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indicadores externos/de competitividade</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indicadores internos</p>"
+        }
+    }
+}

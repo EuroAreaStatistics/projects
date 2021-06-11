@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Banku bilance - noguldījumi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Plūsmas"
+        },
+        "3": {
+            "title": "Pieauguma temps"
+        },
+        "4": {
+            "title": "Kredītu un noguldījumu attiecība"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi uz nakti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar noteikto termiņu līdz 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi uz nakti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu līdz 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Apdrošināšanas sabiedrības, pensiju fondi, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrību un pensiju fondu noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Citas finanšu iestādes, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, citu euro zonas finanšu starpnieku noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi uz nakti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar noteikto termiņu līdz 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Mājsaimniecības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumi ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi uz nakti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu līdz 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Nefinanšu sabiedrības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumi ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Apdrošināšanas sabiedrības, pensiju fondi, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrību un pensiju fondu noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Citas finanšu iestādes, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, citu euro zonas finanšu starpnieku noguldījumu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Mājsaimniecības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Mājsaimniecības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu uz nakti pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu ar noteikto termiņu līdz 2 gadiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu ar noteikto termiņu ilgāku par 2 gadiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Mājsaimniecības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecību noguldījumu ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Nefinanšu sabiedrības, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Nefinanšu sabiedrības, uz nakti",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu uz nakti pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Nefinanšu sabiedrības, ar noteikto termiņu; ≤ 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu ar noteikto termiņu līdz 2 gadiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Mājsaimniecības, ar noteikto termiņu; &gt; 2G",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu ar noteikto termiņu ilgāku par 2 gadiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Nefinanšu sabiedrības, ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrību noguldījumu ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Apdrošināšanas sabiedrības, pensiju fondi, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrību un pensiju fondu noguldījumu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Citas finanšu iestādes, kopā",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, citu euro zonas finanšu starpnieku noguldījumu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Kredītu un noguldījumu attiecība",
+            "definition": "Monetāro finanšu iestāžu bilances statistika, attiecība starp euro zonas nefinanšu sabiedrību un mājsaimniecību un ārpus euro zonas esošo valstu nefinanšu sabiedrību, mājsaimniecību un nebanku finanšu iestāžu kopējo kredītu atlikumu un kopējo noguldījumu atlikumu (izņemot valdību, visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, %, ceturksnī)"
+        }
+    }
+}

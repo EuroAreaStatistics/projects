@@ -1,0 +1,28 @@
+{
+    "project": {
+        "title": "Competitiveness indicators - By price and cost",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Consumer price indices",
+            "definition": "Harmonised competitiveness indicators (HCIs) based on consumer price indices (period averages; index: Q1 1999=100).  The consumer price indices measure the average change over time in the prices paid by households for a specific basket of consumer goods and services. The purpose of HCIs is to provide comparable measures of euro area countries' price and cost competitiveness that are also consistent with the real effective exchange rates (EERs) of the euro. The HCIs are constructed using the same methodology and data sources that are used for the euro EERs."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "GDP deflators",
+            "definition": "Harmonised competitiveness indicators (HCIs) based on gross domestic product (GDP) deflators (period averages; index: Q1 1999=100).  GDP is a measure of economic activity. It is the value of an economy's total output of goods and services,  plus net taxes on products and imports and minus intermediate consumption. The GDP deflators are derived from quarterly national accounts as published by Eurostat (period averages; index Q1 1999=100). The purpose of HCIs is to provide comparable measures of euro area countries' price and cost competitiveness that are also consistent with the real effective exchange rates (EERs) of the euro. The HCIs are constructed using the same methodology and data sources that are used for the euro EERs."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Unit labour cost",
+            "definition": "Harmonised competitiveness indicators based on unit labour cost indices for the total economy (period averages; index: Q1 1999=100). Unit labour costs for the total economy are calculated as the ratio of compensation per employee to labour productivity. Labour productivity is measured as GDP at constant prices divided by the total number of persons employed using quarterly national accounts as published by Eurostat (period averages; index: Q1 1999=100). The purpose of HCIs is to provide comparable measures of euro area countries' price and cost competitiveness that are also consistent with the real effective exchange rates (EERs) of the euro. The HCIs are constructed using the same methodology and data sources that are used for the euro EERs."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Competitiveness",
+            "teaser": ""
+        }
+    }
+}

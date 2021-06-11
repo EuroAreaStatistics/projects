@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bančne obrestne mere - Vloge",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Gospodinjstva"
+        },
+        "2": {
+            "title": "Družbe"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Obrestne mere čez noč",
+            "definition": "Vloge gospodinjstev euroobmočja čez noč v eurih (v odstotkih na leto, novi posli in stanja se ujemajo)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Vezane vloge; x ≤ 1 L",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih z dogovorjeno zapadlostjo do vključno enega leta (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Vezane vloge; x > 1 L",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih z dogovorjeno zapadlostjo nad enim letom (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Vezane vloge; 1 L < x ≤ 2 L",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih z dogovorjeno zapadlostjo nad enim letom in do vključno dveh let (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Vezane vloge; x ≤ 2 L",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih z dogovorjeno zapadlostjo do vključno dveh let (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Vezane vloge; x > 2 L",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih z dogovorjeno zapadlostjo nad dvema letoma (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Vloge na odpoklic; x ≤ 3 M",
+            "definition": "Vloge gospodinjstev euroobmočja v eurih na odpoklic z odpovednim rokom do vključno treh mesecev (v odstotkih na leto, novi posli in stanja se ujemajo)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo posli",
+            "definition": "Repo posli gospodinjstev in nefinančnih družb v eurih (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Obrestne mere čez noč",
+            "definition": "Vloge nefinančnih družb euroobmočja čez noč v eurih (v odstotkih na leto, novi posli in stanja se ujemajo)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Vezane vloge; x ≤ 1 L",
+            "definition": "Vloge nefinančnih družb euroobmočja v eurih z dogovorjeno zapadlostjo do vključno enega leta (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Vezane vloge; x > 1 L",
+            "definition": "Vloge nefinančnih družb euroobmočja v eurih z dogovorjeno zapadlostjo nad enim letom (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Vezane vloge; 1 L < x ≤ 2 L",
+            "definition": "Vloge nefinančnih družb euroobmočja v eurih z dogovorjeno zapadlostjo nad enim letom in do vključno dveh let (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Vezane vloge; x ≤ 2 L",
+            "definition": "Vloge nefinančnih družb euroobmočja v eurih z dogovorjeno zapadlostjo do vključno dveh let (v odstotkih na leto, obrestne mere za nove posle)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Vezane vloge; x > 2 L",
+            "definition": "Vloge nefinančnih družb euroobmočja v eurih z dogovorjeno zapadlostjo nad dvema letoma (v odstotkih na leto, obrestne mere za nove posle)"
+        }
+    }
+}

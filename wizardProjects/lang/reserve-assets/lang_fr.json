@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Position extérieure, avoirs de réserve (situation en fin de trimestre vis-à-vis des non-résidents, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Avoirs</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Position extérieure, avoirs de réserve en pourcentage du produit intérieur brut (PIB) aux prix du marché (situation en fin de trimestre vis-à-vis des non-résidents, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio d’avoirs</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Secteur extérieur - Avoirs de réserve</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Avoirs de réserve</p>"
+        }
+    }
+}

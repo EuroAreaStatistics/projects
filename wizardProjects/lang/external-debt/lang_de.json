@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruttoauslandsverschuldung (Verbindlichkeiten der Volkswirtschaft gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Nettoauslandsverschuldung (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten der Volkswirtschaft gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruttoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten der Volkswirtschaft gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Bruttoquote</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Nettoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten der Volkswirtschaft gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruttoauslandsverschuldung (Verbindlichkeiten von MFIs gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Nettoauslandsverschuldung (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten von MFIs gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruttoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten von MFIs gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Bruttoquote</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Nettoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten von MFIs gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruttoauslandsverschuldung (Verbindlichkeiten der öffentlichen Haushalte gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Nettoauslandsverschuldung (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten der öffentlichen Haushalte gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruttoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten der öffentlichen Haushalte gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Bruttoquote</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Nettoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten der öffentlichen Haushalte gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruttoauslandsverschuldung (Verbindlichkeiten von Sektoren außer MFIs und öffentlichen Haushalten gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Nettoauslandsverschuldung (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten von Sektoren außer MFIs und öffentlichen Haushalten gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruttoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten von Sektoren außer MFIs und öffentlichen Haushalten gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Bruttoquote</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Nettoauslandsverschuldung in Prozent des BIP zu Marktpreisen (Verbindlichkeiten minus Forderungen, Nettoverbindlichkeiten von Sektoren außer MFIs und öffentlichen Haushalten gegenüber Gebietsfremden; Stand am Quartalsende; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Außenwirtschaft - Auslandsverschuldung</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Volkswirtschaft</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetäre Finanzinstitute (MFIs)</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Öffentliche Haushalte</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Sonstige Sektoren</p>"
+        }
+    }
+}

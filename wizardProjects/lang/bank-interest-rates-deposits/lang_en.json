@@ -1,0 +1,76 @@
+{
+    "project": {
+        "title": "Bank interest rates - Deposits",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Overnight interest rates",
+            "definition": "Euro-denominated overnight deposits from euro area households (percentages per annum, new business and outstanding amounts coincide)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Deposit, agreed maturity; x ≤ 1Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of up to one year from euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Deposit, agreed maturity; x &gt; 1Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of more than one year from euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Deposit, agreed maturity; 1Y &lt; x ≤ 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of over one and up to two years from euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Deposit, agreed maturity; x ≤ 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of up to two years from euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Deposit, agreed maturity; x &gt; 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of more than two years from euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Deposit redeemable at notice; x ≤ 3M",
+            "definition": "Euro-denominated deposits redeemable at a notice of up to three months from euro area households (percentages per annum, new business and outstanding amounts coincide)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repos",
+            "definition": "Euro-denominated repos from euro area households and non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Overnight interest rates",
+            "definition": "Euro-denominated overnight deposits from euro area non-financial corporations (percentages per annum, new business and outstanding amounts coincide)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Deposit, agreed maturity; x ≤ 1Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of up to one year from euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Deposit, agreed maturity; x &gt; 1Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of more than one year from euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Deposit, agreed maturity; 1Y &lt; x ≤ 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of over one and up to two years from euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Deposit, agreed maturity; x ≤ 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of up to two years from euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Deposit, agreed maturity; x &gt; 2Y",
+            "definition": "Euro-denominated deposits with an agreed maturity of more than two years from euro area non-financial corporations (percentages per annum, rates on new business)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Households",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Corporates",
+            "teaser": ""
+        }
+    }
+}

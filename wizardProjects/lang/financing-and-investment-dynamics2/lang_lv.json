@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: īstermiņa parāda vērtspapīri</p>\r\n<p>Kopējais turējumu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais emitētais apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Turētāju sektors: %{from}</p>\r\n<p>Turējumu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: īstermiņa parāda vērtspapīri</p>\r\n<p>Emitentu sektors: %{to}</p>\r\n<p>Īpatsvars kopējā turējumu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā emitētajā apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Turētāju sektors: %{from}; emitentu sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: ilgtermiņa parāda vērtspapīri</p>\r\n<p>Kopējais turējumu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais emitētais apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Turētāju sektors: %{from}</p>\r\n<p>Turējumu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: ilgtermiņa parāda vērtspapīri</p>\r\n<p>Emitentu sektors: %{to}</p>\r\n<p>Īpatsvars kopējā turējumu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā emitētajā apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Turētāju sektors: %{from}; emitentu sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: īstermiņa kredīti</p>\r\n<p>Kopējais izsniegto kredītu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais saņemto kredītu apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Aizdevēju sektors: %{from}</p>\r\n<p>Izsniegto kredītu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: īstermiņa kredīti</p>\r\n<p>Kredītņēmēju sektors: %{to}</p>\r\n<p>Īpatsvars kopējā izsniegto kredītu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā saņemto kredītu apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aizdevēju sektors: %{from}; kredītņēmēju sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: ilgtermiņa kredīti</p>\r\n<p>Kopējais izsniegto kredītu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais saņemto kredītu apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Aizdevēju sektors: %{from}</p>\r\n<p>Izsniegto kredītu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: ilgtermiņa kredīti</p>\r\n<p>Kredītņēmēju sektors: %{to}</p>\r\n<p>Īpatsvars kopējā izsniegto kredītu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā saņemto kredītu apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aizdevēju sektors: %{from}; kredītņēmēju sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: noguldījumi</p>\r\n<p>Kopējais veikto noguldījumu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais saņemto noguldījumu apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Noguldītāju sektors: %{from}</p>\r\n<p>Noguldītais apjoms: %{value}%{unit}</p>\r\n<p>Instruments: noguldījumi</p>\r\n<p>Saņēmēju sektors: %{to}</p>\r\n<p>Īpatsvars kopējā veikto noguldījumu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā saņemto noguldījumu apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Noguldītāju sektors: %{from}; saņēmēju sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: biržas sarakstā iekļautās akcijas</p>\r\n<p>Kopējais turējumu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais emitētais apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Turētāju sektors: %{from}</p>\r\n<p>Turējumu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: biržas sarakstā iekļautās akcijas</p>\r\n<p>Emitentu sektors: %{to}</p>\r\n<p>Īpatsvars kopējā turējumu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā emitētajā apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Turētāju sektors: %{from}; emitentu sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periods: %{date}</p>\r\n<p>Sektors: %{name}       </p>\r\n<p>Instruments: ieguldījumu fondu apliecības/daļas</p>\r\n<p>Kopējais turējumu apjoms: %{sumOut} %{unit}</p>\r\n<p>Kopējais emitētais apjoms: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periods: %{date}</p>\r\n<p>Turētāju sektors: %{from}</p>\r\n<p>Turējumu apjoms: %{value} %{unit}</p>\r\n<p>Instruments: ieguldījumu fondu apliecības/daļas</p>\r\n<p>Emitentu sektors: %{to}</p>\r\n<p>Īpatsvars kopējā turējumu apjomā: %{percentFrom}</p>\r\n<p>Īpatsvars kopējā emitētajā apjomā: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Turētāju sektors: %{from}; emitentu sektors: %{to}</p>",
+                "incoming": "<p>Saistības</p>",
+                "missing": {
+                    "incoming": "<p>- datu nav/dati nav izmantojami</p>",
+                    "outgoing": "<p>- datu nav/dati nav izmantojami</p>"
+                },
+                "outgoing": "<p>Aktīvi</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektora iekšējie atlikumi</p>"
+            },
+            "title": "<p>Apgrozībā esošais apjoms</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Tīkla grafikā \"Finansēšanas un ieguldījumu dinamika\" attēlotie dati ņemti no sektoru kontiem, kas sniedz pilnīgu un konsekventu visu rezidentu institucionālo sektoru ceturkšņa datu kopumu. Grafikā redzamas savstarpējās finansiālās saiknes institucionālo sektoru iekšienē un starp tiem, kā arī starp tiem un pārējo pasauli. Tajā parādītas finanšu pozīcijas starp sektoriem (ECB publiskajās datubāzēs pieejami arī dati par plūsmām). Attiecīgā finansējuma veida (kapitāla vai parāda instruments) izcelsme un tā paša instrumenta galamērķis sniedz ieskatu par finansējuma izvietojumu sektorā. Katram sektoram norādītas šā sektora saistības un aktīvi attiecībā uz konkrēto instrumentu. Negatīvi atlikumi var veidoties saistībā ar īsās pozīcijas pārdošanas darījumiem, t.i., darījumiem, kuros tiek pārdoti vērtspapīri vai citi finanšu instrumenti, kuri nepieder pārdevējam. Ar bultām norādītas pozīcijas attiecībā pret citiem sektoriem. Sektora iekšējās pozīcijas norādītas blakus attiecīgā sektora nosaukumam.</p>\r\n<p>Dati balstās uz Eiropas Kontu sistēmu (EKS 2010). Sektori: nefinanšu sabiedrības, monetārās finanšu iestādes, ieguldījumu fondi (izņemot naudas tirgus fondus), citas finanšu iestādes, apdrošināšanas sabiedrības, pensiju fondi, valdība, mājsaimniecības (t.sk. mājsaimniecības apkalpojošās bezpeļņas organizācijas), pārējā pasaule (attiecas uz pozīcijām starp rezidentiem un nerezidentiem). Instrumenti: noguldījumi, īstermiņa parāda vērtspapīri, ilgtermiņa parāda vērtspapīri, īstermiņa kredīti, ilgermiņa kredīti, biržas sarakstā iekļautās akcijas, ieguldījumu fondu apliecības/daļas. Dati sniegti nekonsolidētā veidā, t.i., instrumentu apjoms un īpatsvars ietver sektoru iekšējās finanšu pozīcijas (piemēram, kredīti, ko bankas izsniegušas citām bankām); slēguma bilances pozīcijas ir pozīcijas ceturkšņa beigās; dati nav sezonāli un ar kalendāro ietekmi izlīdzināti; apjomi izteikti mljrd. euro; īstermiņa instrumentu sākotnējais termiņš ir līdz 1 gadam, ilgtermiņa instrumentu sākotnējais termiņš ir ilgāks par 1 gadu vai bez noteikta termiņa; dati paredzēti euro zonas apkopoto rādītāju aprēķināšanai, \"-\" nozīmē, ka datu nav/dati nav izmantojami.   </p>\r\n<p>Ietvertie instrumenti nesniedz pilnīgu ainu par visiem finanšu aktīviem un saistībām, jo nav parādīta valūta, biržas sarakstā neiekļautās akcijās un citi kapitāla instrumenti, apdrošināšanas un pensiju shēmas, atvasinātie finanšu instrumenti un citas debitoru/kreditoru saistības. Papildu datus sk. <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Finansēšanas un ieguldījumu dinamika</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Īstermiņa parāda vērtspapīri</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Ilgtermiņa parāda vērtspapīri</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Īstermiņa kredīti</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Ilgtermiņa kredīti</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Noguldījumi</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Biržas sarakstā iekļautās akcijas</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>PĀRĒJĀ PASAULE</p>",
+                "S11": "<p>NEFINANŠU SABIEDRĪBAS</p>",
+                "S124": "<p>IEGULDĪJUMU FONDI</p>",
+                "S128": "<p>APDROŠINĀŠANAS SABIEDRĪBAS</p>",
+                "S129": "<p>PENSIJU FONDI</p>",
+                "S12K": "<p>BANKAS</p>",
+                "S12O": "<p>CITAS FINANŠU IESTĀDES</p>",
+                "S13": "<p>VALDĪBA</p>",
+                "S1M": "<p>MĀJSAIMNIECĪBAS</p>",
+                "WLD": "<p>KOPĀ</p>"
+            },
+            "title": "<p>Ieguldījumu fondu apliecības/daļas</p>"
+        }
+    }
+}

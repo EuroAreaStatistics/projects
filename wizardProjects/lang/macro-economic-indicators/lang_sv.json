@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Den offentliga sektorns underskottskvot (-), eller överskottskvot (+), avser Maastrichtkriterierna. Statistikuppgifterna om den offentliga sektorns underskott omfattar avveckling inom ramen för swappar. (Icke-finansiella flöden, löpande priser, procentenheter, ej säsongs- eller kalenderjusterat.) De sista två åren i diagrammen är baserade på Europeiska kommissionens framtidsbedömningar (generaldirektoratet för ekonomi och finans). Referensvärdet för budgetunderskottet inom ramen för stabilitets- och tillväxtpakten är 3 %.</p>",
+            "title": "<p>Offentliga sektorns underskotts-/överskottskvot</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Den offentliga skuldkvoten avser Maastrichtkriterierna. Statistikuppgifterna om den offentliga sektorns skuldsättning är de som används inom ramen för förfarandet vid alltför stora underskott. (Finansiella ställningar till nominellt värde, procentenheter, ej säsongs- eller kalenderjusterat.) De sista två åren i diagrammen är baserade på Europeiska kommissionens framtidsbedömningar (generaldirektoratet för ekonomi och finans). Det referensvärde som fastställts i Maastrichtkriterierna är 60 %.</p>",
+            "title": "<p>Offentliga sektorns skuldkvot</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruttonationalprodukt till marknadspris, totala ekonomin, i euro, kedjeindexerade volymer (ändrat, referensår 2010), säsongsrensat och kalenderkorrigerat. Källa: Eurostat</p>",
+            "title": "<p>Volym</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruttonationalprodukt till marknadspris, totala ekonomin, inhemsk valuta (kan omfatta belopp som omräknats till den aktuella valutan till fast kurs), kedjeindexerade volymer (ändrat), tillväxttakt under ett år, säsongsrensat och kalenderkorrigerat. Källa: Eurostat</p>",
+            "title": "<p>Årlig tillväxttakt</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Hushållens skulder i förhållande till disponibel bruttoinkomst (icke-konsoliderat, löpande priser, procentenheter, ej säsongs- eller kalenderjusterat).</p>",
+            "title": "<p>Hushållens skuldkvot (år)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Icke-finansiella företags skulder i förhållande till BNP. I skuldposten ingår uttagna lån, utfärdade skuldförbindelser, pensionfondsskulder och handelskrediter. (Konsoliderade, marknadspriser, procent, ej säsongs- eller kalenderjusterat.)</p>",
+            "title": "<p>Företagens skuldkvot</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Hushållens skulder i förhållande till disponibel bruttoinkomst (icke-konsoliderat, löpande priser, procentenheter, ej säsongs- eller kalenderjusterat). Om inga data visas, saknas data.</p>",
+            "title": "<p>Hushållens skuldkvot (kv)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmoniserad arbetslöshet (i procent av den civila arbetskraften), standardiserad mellan länder, alla åldrar, män och kvinnor, säsongsrensat, inte kalenderkorrigerat. Källa: Eurostat</p>",
+            "title": "<p>Arbetslöshet</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomiska indikatorer</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BNP</p>"
+        },
+        "2": {
+            "title": "<p>Arbetslöshet</p>"
+        },
+        "3": {
+            "title": "<p>Skuldsättning</p>"
+        }
+    }
+}

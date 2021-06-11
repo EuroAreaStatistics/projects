@@ -1,0 +1,94 @@
+{
+    "project": {
+        "title": "External sector - External debt",
+        "options": {
+            "dataSourceURL": "a",
+            "dataSource": "a",
+            "relatedPublication": "a"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Gross",
+            "definition": "Gross external debt (liabilities of total economy vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452084969422": {
+            "title": "Net",
+            "definition": "Net external debt (liabilities minus assets, net liabilities of total economy vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452085010488": {
+            "title": "Gross ratio",
+            "definition": "Gross external debt as percentage of gross domestic product (GDP) at market prices (liabilities of total economy vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452085022336": {
+            "title": "Net ratio",
+            "definition": "Net external debt as percentage of gross domestic product (GDP) at market prices (liabilities minus assets, net liabilities of total economy vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086278564": {
+            "title": "Gross ",
+            "definition": "Gross external debt (liabilities of monetary financial institutions vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086301523": {
+            "title": "Net ",
+            "definition": "Net external debt (liabilities minus assets, net liabilities of monetary financial institutions vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086317723": {
+            "title": "Gross ratio",
+            "definition": "Gross external debt as percentage of gross domestic product (GDP) at market prices (liabilities of monetary financial institutions vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086333332": {
+            "title": "Net ratio",
+            "definition": "Net external debt as percentage of gross domestic product (GDP) at market prices (liabilities minus assets, net liabilities of monetary financial institutions vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086445464": {
+            "title": "Gross ",
+            "definition": "Gross external debt (liabilities of general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086462084": {
+            "title": "Net ",
+            "definition": "Net external debt (liabilities minus assets, net liabilities of general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086472420": {
+            "title": "Gross ratio",
+            "definition": "Gross external debt as percentage of gross domestic product (GDP) at market prices (liabilities of general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086489956": {
+            "title": "Net ratio",
+            "definition": "Net external debt as percentage of gross domestic product (GDP) at market prices (liabilities minus assets, net liabilities of general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086531957": {
+            "title": "Gross ",
+            "definition": "Gross external debt (liabilities of sectors other than MFIs and general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086541325": {
+            "title": "Net ",
+            "definition": "Net external debt (liabilities minus assets, net liabilities of sectors other than MFIs and general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 standards). "
+        },
+        "1452086545397": {
+            "title": "Gross ratio",
+            "definition": "Gross external debt as percentage of gross domestic product (GDP) at market prices (liabilities of sectors other than MFIs and general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452086552189": {
+            "title": "Net ratio",
+            "definition": "Net external debt as percentage of gross domestic product (GDP) at market prices (liabilities minus assets, net liabilities of sectors other than MFIs and general government vis-à-vis non-residents; position at end of quarter; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Total economy",
+            "teaser": ""
+        },
+        "1452086258866": {
+            "title": "Monetary financial institutions",
+            "teaser": ""
+        },
+        "1452086360286": {
+            "title": "General government",
+            "teaser": ""
+        },
+        "1452086518883": {
+            "title": "Other sectors",
+            "teaser": ""
+        }
+    }
+}

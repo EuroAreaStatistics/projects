@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Valitsussektori eelarvepuudujäägi ja SKP suhe (-) ning valitsussektori eelarveülejäägi ja SKP suhe (+) osutavad Maastrichti kriteeriumidele. Valitsussektori eelarvepuudujäägi statistika hõlmab arveldusi vahetuslepingute alusel. (Mittefinantsvood, kehtivad hinnad, protsentides, hooajaliselt või tööpäevade arvu järgi korrigeerimata). Joonistele märgitud viimase kahe aasta andmed põhinevad Euroopa Komisjoni (majandus- ja rahandusküsimuste peadirektoraat) prognoosidel. Kooskõlas stabiilsuse ja majanduskasvu paktiga on eelarvepuudujäägi kontrollväärtus 3%.</p>",
+            "title": "<p>Valitsussektori eelarvepuudujääk/-ülejääk</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Valitsussektori võlakoormuse suhe SKPsse osutab Maastrichti kriteeriumidele. Kasutatakse ülemäärase eelarvepuudujäägi menetluse raames kasutatavat valitsussektori võlastatistikat. (Finantsseis nominaalväärtuses, protsentides, hooajaliselt või tööpäevade arvu järgi korrigeerimata). Joonistele märgitud viimase kahe aasta andmed põhinevad Euroopa Komisjoni (majandus- ja rahandusküsimuste peadirektoraat) prognoosidel. Maastrichti kriteeriumidega sätestatud kontrollväärtus on 60%.</p>",
+            "title": "<p>Valitsussektori võlakoormus</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Sisemajanduse koguprodukt turuhindades, kogumajandus, eurodes nomineeritud, aheldatud mahud (rebaseeritud, vaatlusaasta 2010), hooajaliselt ja tööpäevade arvu järgi korrigeeritud. Allikas: Eurostat</p>",
+            "title": "<p>Maht</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Sisemajanduse koguprodukt turuhindades, kogumajandus, riigi vääringus (võib hõlmata kehtivasse vääringusse fikseeritud intressimääraga konverteeritud summasid), aheldatud mahud (rebaseeritud), pikem kui aastane kasvumäär, hooajaliselt ja tööpäevade arvu järgi korrigeeritud. Allikas: Eurostat</p>",
+            "title": "<p>Aastane kasvumäär</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Kodumajapidamiste võla ja kasutatava kogutulu suhtarv (konsolideerimata, kehtivates hindades, protsentides, hooajaliselt või tööpäevade arvu järgi korrigeerimata).</p>",
+            "title": "<p>Kodumajapidamiste võlakoormus (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Mittefinantsettevõtete võlakoormuse ja SKP suhe. Võlakoormus hõlmab väljavõetud laene ja emiteeritud võlaväärtpabereid. (Konsolideeritud, turuhindades, protsentides, hooajaliselt või tööpäevade arvu järgi korrigeerimata).</p>",
+            "title": "<p>Ettevõtete võlakoormus</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Kodumajapidamiste võla ja kasutatava kogutulu suhtarv (konsolideerimata, kehtivates hindades, protsentides, hooajaliselt või tööpäevade arvu järgi korrigeerimata). Kui andmed ei ole näha, ei ole need kättesaadavad.</p>",
+            "title": "<p>Kodumajapidamiste võlakoormus (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Ühtlustatud töötuse määr (protsent tsiviiltööjõust), riigiti standarditud, kõik vanuserühmad, mehed ja naised, hooajaliselt korrigeeritud, tööpäevade arvu järgi korrigeerimata. Allikas: Eurostat</p>",
+            "title": "<p>Töötuse määr</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makromajanduslikud näitajad</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>SKP</p>"
+        },
+        "2": {
+            "title": "<p>Tööpuudus</p>"
+        },
+        "3": {
+            "title": "<p>Võlakoormus</p>"
+        }
+    }
+}

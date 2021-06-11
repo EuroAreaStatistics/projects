@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Einamosios sąskaitos kreditas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Kreditas</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Einamosios sąskaitos debetas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Debetas</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Einamosios sąskaitos balansas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (kreditas minus debetas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Balanso rodiklis</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Einamosios sąskaitos kreditas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Kredito santykis</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Einamosios sąskaitos debetas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Debeto santykis</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Einamoji sąskaita, prekių balansas (eksportas minus importas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Balansas</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Einamoji sąskaita, prekių eksportas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Eksportas</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Einamoji sąskaita, prekių importas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Importas</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Einamoji sąskaita, paslaugų balansas (eksportas minus importas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Balansas</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Einamoji sąskaita, paslaugų eksportas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Eksportas</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Einamoji sąskaita, paslaugų importas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Importas</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Einamoji sąskaita, pirminių pajamų balansas (kreditas minus debetas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Balansas</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Einamoji sąskaita, pirminių pajamų kreditas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Kreditas</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Einamoji sąskaita, pirminių pajamų debetas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Debetas</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Einamoji sąskaita, antrinių pajamų balansas (kreditas minus debetas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Balansas</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Einamoji sąskaita, antrinių pajamų kreditas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Kreditas</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Einamoji sąskaita, antrinių pajamų debetas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Debetas</p>"
+        },
+        "1": {
+            "definition": "<p>Einamosios sąskaitos balansas (kreditas minus debetas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Balansas</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Euro zonos einamoji sąskaita pagal pagrindines sandorių šalis</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Prekės</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Paslaugos</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Pirminės pajamos</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Antrinės pajamos</p>"
+        },
+        "1": {
+            "title": "<p>Iš viso</p>"
+        }
+    }
+}

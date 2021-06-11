@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fondos de inversión - Por política de inversión",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Saldos"
+        },
+        "2": {
+            "title": "Flujos"
+        },
+        "3": {
+            "title": "Tasas de crecimiento"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos de renta fija",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta fija (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos de renta variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta variable (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos mixtos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos mixtos (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos inmobiliarios",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos inmobiliarios (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión libre",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de inversión libre (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Otros fondos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: otros fondos (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos de renta fija",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta fija (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos de renta variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta variable (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos mixtos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos mixtos (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos inmobiliarios",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos inmobiliarios (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondos de inversión libre",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de inversión libre (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Otros fondos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: otros fondos (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos de renta fija",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta fija (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos de renta variable",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de renta variable (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos mixtos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos mixtos (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos inmobiliarios",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos inmobiliarios (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondos de inversión libre",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: fondos de inversión libre (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Otros fondos",
+            "definition": "Participaciones en fondos de inversión emitidas por fondos de inversión distintos de los fondos del mercado monetario, detallados por política de inversión: otros fondos (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, participaciones en fondos de inversión (tasa de crecimiento interanual, vencimiento total, en todas las monedas, tasas de variación interanual, sin desestacionalizar, datos mensuales)"
+        }
+    }
+}

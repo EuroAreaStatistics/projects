@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Debito estero lordo (passività del totale dell’economia nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Lordo</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Debito estero netto (passività meno attività, passività nette del totale dell’economia nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Debito estero lordo in percentuale del PIL ai prezzi di mercato (passività del totale dell’economia nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito lordo/PIL</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Debito estero netto in percentuale del PIL ai prezzi di mercato (passività meno attività, passività nette del totale dell’economia nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito netto/PIL</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Debito estero lordo (passività delle istituzioni finanziarie monetarie nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Lordo</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Debito estero netto (passività meno attività, passività nette delle istituzioni finanziarie monetarie nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Debito estero lordo in percentuale del PIL ai prezzi di mercato (passività delle istituzioni finanziarie monetarie nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito lordo/PIL</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Debito estero netto in percentuale del PIL ai prezzi di mercato (passività meno attività, passività nette delle istituzioni finanziarie monetarie nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito netto/PIL</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Debito estero lordo (passività delle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Lordo</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Debito estero netto (passività meno attività, passività nette delle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Debito estero lordo in percentuale del PIL ai prezzi di mercato (passività delle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito lordo/PIL</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Debito estero netto in percentuale del PIL ai prezzi di mercato (passività meno attività, passività nette delle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito netto/PIL</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Debito estero lordo (passività dei settori diversi dalle IFM e dalle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Lordo</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Debito estero netto (passività meno attività, passività nette dei settori diversi dalle IFM e dalle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Debito estero lordo in percentuale del PIL ai prezzi di mercato (passività dei settori diversi dalle IFM e dalle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito lordo/PIL</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Debito estero netto in percentuale del PIL ai prezzi di mercato (passività meno attività, passività nette dei settori diversi dalle IFM e dalle amministrazioni pubbliche nei confronti dei non residenti, posizione a fine trimestre, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debito netto/PIL</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settore esterno - Debito estero</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totale dell’economia</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Istituzioni finanziarie monetarie</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Amministrazioni pubbliche</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Altri settori</p>"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, reservvara (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, reservvara osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Välissektor - Reservvara</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Reservvara</p>"
+        }
+    }
+}

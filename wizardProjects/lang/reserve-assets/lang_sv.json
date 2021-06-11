@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Utlandsställning, valutareserv (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Utlandsställning, valutareserv i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS 2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Extern sektor - Valutareserven</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Valutareserven</p>"
+        }
+    }
+}

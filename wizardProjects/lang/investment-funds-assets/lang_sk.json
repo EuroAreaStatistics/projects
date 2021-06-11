@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investičné fondy - Aktíva",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Vklady a úverové pohľadávky",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: vklady a úverové pohľadávky (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Dlhové cenné papiere",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: cenné papiere iné ako akcie (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Majetkové účasti",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: akcie a iné majetkové účasti okrem akcií investičných fondov (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Podielové listy investičných fondov",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: akcie/podielové listy investičných fondov (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nefinančné aktíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: nefinančné aktíva (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Ostatné aktíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: ostatné aktíva (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, celkové aktíva/pasíva (stav ku koncu obdobia, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Vklady a úverové pohľadávky",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: vklady a úverové pohľadávky (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Dlhové cenné papiere",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: cenné papiere iné ako akcie (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Majetkové účasti",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: akcie a iné majetkové účasti okrem akcií investičných fondov (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Podielové listy investičných fondov",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: akcie/podielové listy investičných fondov (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nefinančné aktíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: nefinančné aktíva (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Ostatné aktíva",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, trieda aktív: ostatné aktíva (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Spolu",
+            "definition": "Investičné fondy iné ako fondy peňažného trhu, celkové aktíva/pasíva (finančné transakcie, celková splatnosť, vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, štvrťročné údaje)"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Balança corrente: bens; saldo (exportações <em>menos</em> importações; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Balança corrente: bens; exportações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Exportações</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Balança corrente: bens; importações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Importações</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Balança corrente: serviços; saldo (exportações <em>menos</em> importações; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Balança corrente: serviços; exportações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Exportações</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Balança corrente: serviços; importações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Importações</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Saldo da balança corrente em percentagem do produto interno bruto (PIB) a preços de mercado (créditos <em>menos</em> débitos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio do saldo</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Débitos da balança corrente em percentagem do produto interno bruto (PIB) a preços de mercado (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos débitos</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Saldo da balança corrente (créditos <em>menos</em> débitos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Créditos da balança corrente (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Créditos</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Débitos da balança corrente (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Débitos</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Créditos da balança corrente em percentagem do produto interno bruto (PIB) a preços de mercado (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos créditos</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Balança corrente: bens e serviços; saldo (exportações <em>menos</em> importações; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Balança corrente: bens e serviços; exportações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Exportações</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Balança corrente: bens e serviços; importações (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Importações</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Balança corrente: saldo do rendimento primário (créditos <em>menos</em> débitos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Balança corrente: créditos do rendimento primário (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Créditos</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Balança corrente: débitos do rendimento primário (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Débitos</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Balança corrente: saldo do rendimento secundário (créditos <em>menos</em> débitos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Balança corrente: créditos do rendimento secundário (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Créditos</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Balança corrente: débitos do rendimento secundário (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Débitos</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Setor externo – Balança corrente</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Bens</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Serviços</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Total</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Bens e serviços</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Rendimento primário</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Rendimento secundário</p>"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investicijski fondovi - prema investicijskoj politici",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        },
+        "3": {
+            "title": "Stope rasta"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obveznički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: obveznički fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Dionički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: dionički fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Mješoviti fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: mješoviti fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondovi za ulaganje u nekretnine",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ulaganje u nekretnine (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondovi za ograničavanje rizika",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ograničavanje rizika (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ostali fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: ostali fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obveznički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: obveznički fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Dionički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: dionički fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Mješoviti fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: mješoviti fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondovi za ulaganje u nekretnine",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ulaganje u nekretnine (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondovi za ograničavanje rizika",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ograničavanje rizika (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ostali fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: ostali fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obveznički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: obveznički fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Dionički fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: dionički fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Mješoviti fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: mješoviti fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondovi za ulaganje u nekretnine",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ulaganje u nekretnine (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondovi za ograničavanje rizika",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: fondovi za ograničavanje rizika (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ostali fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema investicijskoj politici: ostali fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Sijoitusrahastot - Saamiset",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Virrat"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Talletukset ja lainasaamiset",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: talletukset ja lainasaamiset (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Velkapaperit",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut arvopaperit kuin osakkeet (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Osakkeet",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut osakkeet ja osuudet kuin sijoitusrahasto-osuudet (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Sijoitusrahasto-osuudet",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: sijoitusrahasto-osuudet (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Muut varat kuin rahoitusvarat",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut varat kuin rahoitusvarat (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Muut saamiset",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut saamiset (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset/velat yhteensä (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Talletukset ja lainasaamiset",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: talletukset ja lainasaamiset (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Velkapaperit",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut arvopaperit kuin osakkeet (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Osakkeet",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut osakkeet ja osuudet kuin sijoitusrahasto-osuudet (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Sijoitusrahasto-osuudet",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: sijoitusrahasto-osuudet (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Muut varat kuin rahoitusvarat",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut varat kuin rahoitusvarat (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Muut saamiset",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset: muut saamiset (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) saamiset/velat yhteensä (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        }
+    }
+}

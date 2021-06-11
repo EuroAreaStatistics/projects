@@ -1,0 +1,176 @@
+{
+    "project": {
+        "title": "Banks balance sheet - Loans",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "title": "Households, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area households adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "title": "Households, consumption",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for consumption (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "title": "Households, house loans",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for house purchase (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "title": "Households, other loans",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for other purpose (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "title": "Corporates, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area non-financial corporations adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "title": "Corporates; x ≤ 1Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans up to one year maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "title": "Corporates; 1 Y &lt; x ≤ 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans over one and up to five years maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "title": "Corporates; x &gt; 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans over 5 years maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area insurance corporations and pension funds (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area other financial intermediaries (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, outstanding amounts at end of period)"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "title": "Households, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area households adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area households (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "title": "Households, consumption",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for consumption (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "title": "Households, house loans",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for house purchase (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "title": "Households, other loans",
+            "definition": "Monetary financial institution balance sheet statistics, loans to euro area households for other purpose (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "title": "Corporates, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area non-financial corporations adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area non-financial corporations (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "title": "Corporates; x ≤ 1Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans up to one year maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "title": "Corporates; 1 Y &lt; x ≤ 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans over one and up to five years maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "title": "Corporates; x &gt; 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, loans over 5 years maturity to euro area non-financial corporations (all currencies combined, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area insurance corporations and pension funds (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, total loans to euro area other financial intermediaries (all currencies combined, all maturities, denominated in euro, not seasonally adjusted, financial transactions)"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "title": "Households, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area households adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "title": "Households, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area households (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "title": "Households, consumption",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans to euro area households for consumption (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "title": "Households, house loans",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans to euro area households for house purchase (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "title": "Households, other loans",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans to euro area households for other purpose (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "title": "Corporates, total (adjusted)",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area non-financial corporations adjusted for loan sales, securitisation and notional cash pooling (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes). Loans adjusted for sales and securitisation include loans which have been sold or securitised and are no longer reported on banks’ balance sheets."
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "title": "Corporates, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area non-financial corporations (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "title": "Corporates; x ≤ 1Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans up to one year maturity to euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "title": "Corporates; 1 Y &lt; x ≤ 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans over one and up to five years maturity to euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "title": "Corporates; x &gt; 5Y",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of loans over 5 years maturity to euro area non-financial corporations (all currencies combined, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "title": "Insurance and pensions, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area insurance corporations and pension funds (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "title": "Other financials, total",
+            "definition": "Monetary financial institution balance sheet statistics, growth rates of total loans to euro area other financial intermediaries (all currencies combined, all maturities, not seasonally adjusted, annual percentage changes)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Loan-to-deposit ratio",
+            "definition": "Monetary financial institution balance sheet statistics, ratio between total loans and total deposits vis-a-vis euro area non-financial corporations and households and non-euro area non-financial corporations, households and non-bank financial institutions (excluding general government, all currency combined, all maturities, not seasonally adjusted, percentage, quarterly)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Flows",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Growth rates",
+            "teaser": ""
+        },
+        "4": {
+            "title": "Loan-to-deposit ratio",
+            "teaser": ""
+        }
+    }
+}

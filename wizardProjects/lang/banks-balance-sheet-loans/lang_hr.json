@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti drugim financijskim posrednicima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Druge financijske institucije, ukupno</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti osiguravajućim društvima i mirovinskim fondovima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Osigur. društva i mirovinski fondovi, ukupno</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Nefinancijska društva, ukupno</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Kućanstva, ukupno</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti drugim financijskim posrednicima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Druge financijske institucije, ukupno</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti osiguravajućim društvima i mirovinskim fondovima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Osigur. društva i mirovinski fondovi, ukupno</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Nefinancijska društva, ukupno</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Kućanstva, ukupno</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih kredita drugim financijskim posrednicima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Druge financijske institucije, ukupno</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih kredita osiguravajućim društvima i mirovinskim fondovima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Osigur. društva i mirovinski fondovi, ukupno</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih kredita nefinancijskim društvima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Nefinancijska društva, ukupno</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih kredita kućanstvima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Kućanstva, ukupno</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća do jedne godine (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Nefinancijska društva; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća do jedne godine (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Nefinancijska društva; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta kredita nefinancijskim društvima europodručja s rokom dospijeća do jedne godine (sve valute, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Nefinancijska društva; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća duljim od jedne i do pet godina (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Nefinancijska društva; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća duljim od jedne i do pet godina (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Nefinancijska društva; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta kredita nefinancijskim društvima europodručja s rokom dospijeća duljim od jedne i do pet godina (sve valute, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Nefinancijska društva; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća duljim od pet godina (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Nefinancijska društva; x &gt; 5G</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti nefinancijskim društvima europodručja s rokom dospijeća duljim od pet godina (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Nefinancijska društva; x &gt; 5G</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta kredita nefinancijskim društvima europodručja s rokom dospijeća duljim od pet godina (sve valute, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Nefinancijska društva; x &gt; 5G</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka.</p>",
+            "title": "<p>Nefinancijska društva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka.</p>",
+            "title": "<p>Kućanstva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka.</p>",
+            "title": "<p>Nefinancijska društva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka..</p>",
+            "title": "<p>Kućanstva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka.</p>",
+            "title": "<p>Nefinancijska društva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni krediti nefinancijskim društvima europodručja, prilagođeni za prodaju kredita, sekuritizaciju i obračunsko objedinjavanje (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja). Krediti prilagođeni za prodaju i sekuritizaciju obuhvaćaju kredite koji su prodani ili sekuritizirani i više se ne iskazuju u bilancama banaka.</p>",
+            "title": "<p>Kućanstva, ukupno (prilagođeno)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, potrošački krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Kućanstva, potrošački</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, potrošački krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Kućanstva, potrošački</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta potrošačkih kredita kućanstvima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Kućanstva, potrošački</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stambeni krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Kućanstva, stambeni</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stambeni krediti kućanstvima europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Kućanstva, stambeni</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta stambenih kredita kućanstvima europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Kućanstva, stambeni</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti za ostale potrebe kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)</p>",
+            "title": "<p>Kućanstva, ostali</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, krediti za ostale potrebe kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)</p>",
+            "title": "<p>Kućanstva, ostali</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta kredita za ostale potrebe kućanstava europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)</p>",
+            "title": "<p>Kućanstva, ostali</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Statistički podatci iz bilanca monetarnih financijskih institucija, omjer ukupnih kredita i ukupnih depozita u odnosu na nefinancijska društva i kućanstva europodručja te nefinancijska društva, kućanstva i nebankovne financijske institucije izvan europodručja (isključujući opću državu, sve valute, svi rokovi dospijeća, nedesezonirano, postotak, tromjesečno)</p>",
+            "title": "<p>Omjer kredita i depozita</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bilance banaka - krediti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Stanje</p>"
+        },
+        "2": {
+            "title": "<p>Tokovi</p>"
+        },
+        "3": {
+            "title": "<p>Stope rasta</p>"
+        },
+        "4": {
+            "title": "<p>Omjer kredita i depozita</p>"
+        }
+    }
+}

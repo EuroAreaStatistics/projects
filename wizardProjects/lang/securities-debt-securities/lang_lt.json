@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Vertybiniai popieriai - Skolos vertybiniai popieriai",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Nauja emisija"
+        },
+        "3": {
+            "title": "Grynoji emisija"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Bankai, likučiai",
+            "definition": "Pinigų finansų įstaigų išleisti skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Bankai, likučiai; x ≤ 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti trumpalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Bankai, likučiai; x &gt; 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti ilgalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Bendrovės, likučiai",
+            "definition": "Ne finansų bendrovių išleisti skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Bendrovės, likučiai; x ≤ 1 m.",
+            "definition": "Ne finansų bendrovių išleisti trumpalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Bendrovės, likučiai; x &gt; 1 m.",
+            "definition": "Ne finansų bendrovių išleisti ilgalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Valdžios sektorius, likučiai",
+            "definition": "Valdžios sektoriaus išleisti skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Valdžios sektorius, likučiai; x ≤ 1 m.",
+            "definition": "Valdžios sektoriaus išleisti trumpalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Valdžios sektorius, likučiai; x &gt; 1 m.",
+            "definition": "Valdžios sektoriaus išleisti ilgalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, likučiai",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, likučiai; x ≤ 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti trumpalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, likučiai; x &gt; 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti ilgalaikiai skolos vertybiniai popieriai, likučiai (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Iš viso, likučiai",
+            "definition": "Skolos vertybiniai popieriai, likučiai, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Iš viso, likučiai; x ≤ 1 m.",
+            "definition": "Trumpalaikiai skolos vertybiniai popieriai, likučiai, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Iš viso, likučiai; x &gt; 1 m.",
+            "definition": "Ilgalaikiai skolos vertybiniai popieriai, likučiai, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Bankai, nauja emisija",
+            "definition": "Pinigų finansų įstaigų išleisti skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Bankai, nauja emisija; x ≤ 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti trumpalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Bankai, nauja emisija; x &gt; 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti ilgalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Bendrovės, nauja emisija",
+            "definition": "Ne finansų bendrovių išleisti skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Bendrovės, nauja emisija; x ≤ 1 m.",
+            "definition": "Ne finansų bendrovių išleisti trumpalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Bendrovės, nauja emisija; x &gt; 1 m.",
+            "definition": "Ne finansų bendrovių išleisti ilgalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Valdžios sektorius, nauja emisija",
+            "definition": "Valdžios sektoriaus išleisti skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Valdžios sektorius, nauja emisija; x ≤ 1 m.",
+            "definition": "Valdžios sektoriaus išleisti trumpalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Valdžios sektorius, nauja emisija; x &gt; 1 m.",
+            "definition": "Valdžios sektoriaus išleisti ilgalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, nauja emisija",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, nauja emisija; x ≤ 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti trumpalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, nauja emisija; x &gt; 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti ilgalaikiai skolos vertybiniai popieriai, bendroji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Iš viso, nauja emisija",
+            "definition": "Skolos vertybiniai popieriai, bendroji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Iš viso, nauja emisija; x &gt; 1 m.",
+            "definition": "Ilgalaikiai skolos vertybiniai popieriai, bendroji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Iš viso, nauja emisija; x ≤ 1 m.",
+            "definition": "Trumpalaikiai skolos vertybiniai popieriai, bendroji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Bankai, grynoji emisija",
+            "definition": "Pinigų finansų įstaigų išleisti skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Bankai, grynoji emisija; x ≤ 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti trumpalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Bankai, grynoji emisija; x &gt; 1 m.",
+            "definition": "Pinigų finansų įstaigų išleisti ilgalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Bendrovės, grynoji emisija",
+            "definition": "Ne finansų bendrovių išleisti skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Bendrovės, grynoji emisija; x ≤ 1 m.",
+            "definition": "Ne finansų bendrovių išleisti trumpalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Bendrovės, grynoji emisija; x &gt; 1 m.",
+            "definition": "Ne finansų bendrovių išleisti ilgalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Valdžios sektorius, grynoji emisija",
+            "definition": "Valdžios sektoriaus išleisti skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Valdžios sektorius, grynoji emisija; x ≤ 1 m.",
+            "definition": "Valdžios sektoriaus išleisti trumpalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Valdžios sektorius, grynoji emisija; x &gt; 1 m.",
+            "definition": "Valdžios sektoriaus išleisti ilgalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, grynoji emisija",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, grynoji emisija; x ≤ 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti trumpalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Kitos finansų bendrovės, grynoji emisija; x &gt; 1 m.",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleisti ilgalaikiai skolos vertybiniai popieriai, grynoji emisija (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Iš viso, grynoji emisija",
+            "definition": "Skolos vertybiniai popieriai, grynoji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Iš viso, grynoji emisija; x ≤ 1 m.",
+            "definition": "Trumpalaikiai skolos vertybiniai popieriai, grynoji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Iš viso, grynoji emisija; x &gt; 1 m.",
+            "definition": "Ilgalaikiai skolos vertybiniai popieriai, grynoji emisija, iš viso (nominalioji vertė, visomis valiutomis kartu, eurais, išleisti rezidentų)"
+        }
+    }
+}

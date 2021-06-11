@@ -1,0 +1,19 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>denominati f'euro</p>",
+            "title": "<p>denominati f'euro</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>denominati f'euro</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>denominati f'euro</p>"
+        }
+    }
+}

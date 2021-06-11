@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investeringsforeninger - Aktiver",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Beholdninger"
+        },
+        "2": {
+            "title": "Strømme"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Indskud og lånefordringer",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: indskud og lånefordringer (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Gældsinstrumenter",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: værdipapirer undtagen aktier (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Ejerandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: aktier og andre ejerandelsbeviser ekskl. investeringsforeningsandele (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Investeringsforeningsandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: investeringsforeningsandele (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Ikke-finansielle aktiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: ikke-finansielle aktiver (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Andre aktiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: andre aktiver (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktiver/passiver i alt (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Indskud og lånefordringer",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: indskud og lånefordringer (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Gældsinstrumenter",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: værdipapirer undtagen aktier (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Ejerandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: aktier og andre ejerandelsbeviser ekskl. investeringsforeningsandele (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Investeringsforeningsandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: investeringsforeningsandele (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Ikke-finansielle aktiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: ikke-finansielle aktiver (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Andre aktiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktivklasse: andre aktiver (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktiver/passiver i alt (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        }
+    }
+}

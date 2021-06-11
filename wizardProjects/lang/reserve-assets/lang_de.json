@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Auslandsvermögensstatus, Währungsreserven (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Auslandsvermögensstatus, Währungsreserven in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Außenwirtschaft - Währungsreserven</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Währungsreserven</p>"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Investiční pozice vůči zahraničí, rezervní aktiva (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Investiční pozice vůči zahraničí, rezervní aktiva jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externí sektor - Rezervní aktiva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Rezervní aktiva</p>"
+        }
+    }
+}

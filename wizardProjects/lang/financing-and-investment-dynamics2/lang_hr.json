@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kratkoročni dužnički vrijednosni papiri</p>\r\n<p>Ukupan iznos držanja: %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos izdanja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor držatelja: %{from}</p>\r\n<p>Iznos držanja: %{value} %{unit}</p>\r\n<p>Instrument: kratkoročni dužnički vrijednosni papiri</p>\r\n<p>Sektor izdavatelja: %{to}</p>\r\n<p>Udio u ukupnom držanju: %{percentFrom}</p>\r\n<p>Udio u ukupnom izdanju: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor držatelja: %{from}; sektor izdavatelja: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dugoročni dužnički vrijednosni papiri</p>\r\n<p>Ukupan iznos držanja: %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos izdanja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor držatelja: %{from}</p>\r\n<p>Iznos držanja: %{value} %{unit}</p>\r\n<p>Instrument: dugoročni dužnički vrijednosni papiri</p>\r\n<p>Sektor izdavatelja: %{to}</p>\r\n<p>Udio u ukupnom držanju: %{percentFrom}</p>\r\n<p>Udio u ukupnom izdanju: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor držatelja: %{from}; sektor izdavatelja: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kratkoročni krediti</p>\r\n<p>Ukupan iznos kredita: %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos zaduživanja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor vjerovnika: %{from}</p>\r\n<p>Iznos kredita: %{value} %{unit}</p>\r\n<p>Instrument: kratkoročni krediti</p>\r\n<p>Sektor dužnika: %{to}</p>\r\n<p>Udio u ukupnom kreditiranju: %{percentFrom}</p>\r\n<p>Udio u ukupnom zaduživanju %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor vjerovnika: %{from}; sektor dužnika: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dugoročni krediti</p>\r\n<p>Ukupan iznos kredita %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos zaduživanja %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor vjerovnika: %{from}</p>\r\n<p>Iznos kredita: %{value} %{unit}</p>\r\n<p>Instrument: dugoročni krediti</p>\r\n<p>Sektor dužnika: %{to}</p>\r\n<p>Udio u ukupnom kreditiranju: %{percentFrom}</p>\r\n<p>Udio u ukupnom zaduživanju: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor vjerovnika: %{from}; sektor dužnika: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: depoziti</p>\r\n<p>Ukupan položeni iznos: %{sumOut} %{unit}</p>\r\n<p>Ukupan primljeni iznos: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor deponenta: %{from}</p>\r\n<p>Položeni iznos: %{value} %{unit}</p>\r\n<p>Instrument: depoziti</p>\r\n<p>Sektor primatelja depozita: %{to}</p>\r\n<p>Udio u ukupnim položenim depozitima: %{percentFrom}</p>\r\n<p>Udio u ukupnim primljenim depozitima: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor deponenta: %{from}; sektor primatelja depozita: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dionice koje kotiraju na burzi</p>\r\n<p>Ukupan iznos držanja: %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos izdanja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor držatelja: %{from}</p>\r\n<p>Iznos držanja: %{value} %{unit}</p>\r\n<p>Instrument: dionice koje kotiraju na burzi</p>\r\n<p>Sektor izdavatelja: %{to}</p>\r\n<p>Udio u ukupnom držanju: %{percentFrom}</p>\r\n<p>Udio u ukupnom izdanju: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor držatelja: %{from}; sektor izdavatelja: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dionice/udjeli u investicijskim fondovima</p>\r\n<p>Ukupan iznos držanja: %{sumOut} %{unit}</p>\r\n<p>Ukupan iznos izdanja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Razdoblje: %{date}</p>\r\n<p>Sektor držatelja: %{from}</p>\r\n<p>Iznos držanja: %{value} %{unit}</p>\r\n<p>Instrument: dionice/udjeli u investicijskim fondovima</p>\r\n<p>Sektor izdavatelja: %{to}</p>\r\n<p>Udio u ukupnom držanju: %{percentFrom}</p>\r\n<p>Udio u ukupnom izdanju: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor držatelja: %{from}; sektor izdavatelja: %{to}</p>",
+                "incoming": "<p>obveze</p>",
+                "missing": {
+                    "incoming": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>",
+                    "outgoing": "<p>„-” = nema podataka / podatci nisu primjenjivi</p>"
+                },
+                "outgoing": "<p>imovina</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>stanje unutar sektora</p>"
+            },
+            "title": "<p>stanja</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Podatci prikazani u mrežnom dijagramu „Dinamika financiranja i ulaganja” preuzeti su iz sektorskih računa, koji čine cjelovit i dosljedan skup tromjesečnih podataka za sve rezidentne institucionalne sektore. U dijagramu je prikazana financijska povezanost unutar institucionalnih sektora te među njima, kao i njihova povezanost s inozemstvom. Prikazane su financijske pozicije među sektorima (podatci o tokovima mogu se pronaći i u javnim bazama podataka ESB‑a). Izvor vrste financiranja, tj. vlasnički kapital ili dug, i odredište istog instrumenta pokazuju kako sektori raspoređuju sredstva. Trake svakog sektora pokazuju imovinu i obveze tog sektora za određeni instrument. Kratka prodaja, odnosno prodaja vrijednosnih papira ili drugih financijskih instrumenata koji nisu u vlasništvu prodavatelja, može prouzročiti negativna stanja. Strelice označavaju pozicije u odnosu na druge sektore. Pozicije unutar sektora naznačene su pokraj naziva sektora.</p>\r\n<p>Podatci se temelje na Europskom sustavu računa iz 2010. (ESA 2010). Sektori: nefinancijska društva, monetarne financijske institucije, investicijski fondovi (osim novčanih fondova), ostale financijske institucije, osiguravajuća društva, mirovinski fondovi, opća država, kućanstva (uključujući neprofitne organizacije koje služe kućanstvima), inozemstvo (odnosi se na pozicije između rezidenata i nerezidenata). Instrumenti: depoziti, kratkoročni dužnički vrijednosni papiri, dugoročni dužnički vrijednosni papiri, kratkoročni krediti, dugoročni krediti, dionice koje kotiraju na burzi, dionice/udjeli u investicijskim fondovima. Podatci su na nekonsolidiranoj osnovi, tj. ukupni iznosi i postotci instrumenata obuhvaćaju unutarsektorske financijske pozicije (npr. kredite koje su banke odobrile drugim bankama); završne pozicije bilance su na kraju tromjesečja; podatci nisu ni sezonski ni kalendarski prilagođeni; iznosi su nominirani u milijardama eura; kratkoročno izvorno dospijeće iznosi jednu godinu ili manje; dugoročno izvorno dospijeće iznosi više od jedne godine ili dospijeće nije navedeno; podatci za europodručje su agregirani; „-” znači da nema podataka / podatci nisu primjenjivi.   </p>\r\n<p>Prikazani instrumenti ne pružaju cjelovit pregled sve financijske imovine i obveza jer nisu prikazani valuta, dionice koje ne kotiraju na burzi i drugi vlasnički kapital, sustavi osiguranja i mirovinski sustavi, izvedeni financijski instrumenti i ostali računi potraživanja/obveza. Više podataka možete pronaći na: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ESB</p>"
+        },
+        "title": "<p>Dinamika financiranja i ulaganja</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Kratkoročni vrijednosni papiri</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Dugoročni dužnički vrijednosni papiri</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Kratkoročni krediti</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Dugoročni krediti</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Depoziti</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Dionice koje kotiraju na burzi</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>inozemstvo</p>",
+                "S11": "<p>trgovačka društva</p>",
+                "S124": "<p>investicijski fondovi</p>",
+                "S128": "<p>osiguravatelji</p>",
+                "S129": "<p>mirovinski fondovi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>ostale fin. institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>kućanstva</p>",
+                "WLD": "<p>ukupno</p>"
+            },
+            "title": "<p>Dionice/udjeli u investicijskim fondovima</p>"
+        }
+    }
+}

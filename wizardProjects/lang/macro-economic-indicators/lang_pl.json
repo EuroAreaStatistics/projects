@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Wskaźnik deficytu (-) lub nadwyżki (+) sektora instytucji rządowych i samorządowych do PKB według kryteriów z Maastricht. Statystyka deficytu sektora instytucji rządowych i samorządowych obejmuje rozliczenia w ramach transakcji swap. (Przepływy niefinansowe, ceny bieżące, w proc., bez wyrównań sezonowych i wyrównania dniami roboczymi). Dwa ostatnie lata na wykresach według prognoz Komisji Europejskiej (DG ds. Gospodarczych i Finansowych). Wartość odniesienia dla deficytu budżetowego przyjęta w pakcie stabilności i wzrostu wynosi 3% PKB.</p>",
+            "title": "<p>Saldo finansów publicznych</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Wskaźnik długu sektora instytucji rządowych i samorządowych do PKB według kryteriów z Maastricht. Wykorzystano statystyki długu sektora instytucji rządowych i samorządowych używane w procedurze dotyczącej nadmiernego deficytu. (Stany wg wartości nominalnej, w proc., bez wyrównań sezonowych i wyrównania dniami roboczymi). Dwa ostatnie lata na wykresach według prognoz Komisji Europejskiej (DG ds. Gospodarczych i Finansowych). Wartość odniesienia dla długu publicznego przyjęta w kryteriach z Maastricht wynosi 60% PKB.</p>",
+            "title": "<p>Dług publiczny</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>PKB w cenach rynkowych, cała gospodarka, wyrażony w euro, wolumeny nawiązane łańcuchowo (zmiana bazy, rok referencyjny 2010), wyrównanie sezonowe i dniami roboczymi. Źródło: Eurostat</p>",
+            "title": "<p>Wolumen</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>PKB w cenach rynkowych, cała gospodarka, waluta krajowa (mogą być uwzględnione kwoty przeliczone na obecną walutę po stałym kursie), wolumeny nawiązane łańcuchowo (zmiana bazy), stopa wzrostu za jeden rok, wyrównanie sezonowe i dniami roboczymi. Źródło: Eurostat</p>",
+            "title": "<p>Roczna stopa wzrostu</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Relacja zadłużenia sektora gospodarstw domowych do dochodów do dyspozycji brutto (dane nieskonsolidowane, ceny bieżące, w proc., bez wyrównań sezonowych i wyrównania dniami roboczymi).</p>",
+            "title": "<p>Zadłużenie gosp. domowych (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Relacja zadłużenia sektora przedsiębiorstw do PKB. Dług zawiera zaciągnięte kredyty, wyemitowane papiery dłużne, zobowiązania z tytułu funduszy emerytalnych i kredyty kupieckie. (Dane nieskonsolidowane, ceny rynkowe, w proc., bez wyrównań sezonowych i wyrównania dniami roboczymi).</p>",
+            "title": "<p>Zadłużenie przedsiębiorstw</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Relacja zadłużenia sektora gospodarstw domowych do dochodów do dyspozycji brutto (dane nieskonsolidowane, ceny bieżące, w proc., bez wyrównań sezonowych i wyrównania dniami roboczymi). Puste miejsce oznacza brak danych.</p>",
+            "title": "<p>Zadłużenie gosp. domowych (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Zharmonizowana stopa bezrobocia (jako procent cywilnej ludności aktywnej zawodowo), wystandaryzowana dla wszystkich krajów, wszystkie grupy wiekowe, kobiety i mężczyźni, wyrównanie sezonowe, bez wyrównania dniami roboczymi. Źródło: Eurostat</p>",
+            "title": "<p>Stopa bezrobocia</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Wskaźniki makroekonomiczne</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PKB</p>"
+        },
+        "2": {
+            "title": "<p>Bezrobocie</p>"
+        },
+        "3": {
+            "title": "<p>Zadłużenie</p>"
+        }
+    }
+}

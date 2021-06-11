@@ -1,0 +1,676 @@
+{
+  "project": {
+    "id": "financing-and-investment-dynamics",
+    "owner": "ECBstage",
+    "title": {
+      "en": "Funding dynamics"
+    },
+    "definition": {
+      "en": "<p>Sector accounts present a complete and consistent set of quarterly data for all resident institutional sectors. They provide comprehensive information not only on the economic activities of corporates, banks, investment funds, other financials, insurances, pensions, government, households and on the interactions between these sectors and the rest of the world. The interconnectedness between institutional sectors and the rest of the world are shown in the “funding dynamics” visualisation. The “funding dynamics” network graph presents financial positions between sectors. The origins of the financing type – being equity or debt and the corresponding destination of the same financing show the allocation of financing instruments between sectors.</p><p>International standards: ESA2010 quarterly financial and non-financial sector accounts; Sectors: Non-financial Corporations, Non-money market fund (MMF) investment funds, Insurance corporations, Pension funds, Monetary financial institutions, other financial institutions, general government, household, rest of world (where rest of world refers to position between resident and non-residents); Instruments: Totals, Deposits, Short-term debt securities, Long-term debt securities, Short-term loans, Long-term loans, Listed shares, Investment fund shares/units; closing balance sheet positions at end of quarter; neither seasonally adjusted nor calendar adjusted; denominated in billions of euros; short-term original maturity (up to 1 year), long-term original maturity (over 1 year or no stated maturity); Euro area aggregate and euro area countries; The rest of the world sector captures the interactions of the eight sectors, which are considered resident sectors with the non-resident sector i.e. rest of the world.</p>"
+    },
+    "options": {
+      "dataSource": {
+        "en": "ECB"
+      }
+    },
+    "tabs": [
+      "5",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "url": "financing-and-investment-dynamics"
+  },
+  "charts": {
+    "1": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and issued by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of debt securities incurred by all sectors and issued %{sumIn} %{unit} worth of debt securities to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of debt securities issued by %{to}. This represented %{percentFrom} of total debt securities held by %{from} and %{percentTo} of total debt securities issued by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "2": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and issued by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of debt securities incurred by all sectors and issued %{sumIn} %{unit} worth of debt securities to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of debt securities issued by %{to}. This represented %{percentFrom} of total debt securities held by %{from} and %{percentTo} of total debt securities issued by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "3": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and granted by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of short-term loans incurred by all sectors and granted %{sumIn} %{unit} worth of short-term loans to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of short-term loans granted by %{to}. This represented %{percentFrom} of total short-term loans held by %{from} and %{percentTo} of total short-term loans granted by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "4": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and granted by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of long-term loans incurred by all sectors and granted %{sumIn} %{unit} worth of long-term loans to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of long-term loans granted by %{to}. This represented %{percentFrom} of total long-term loans held by %{from} and %{percentTo} of total long-term loans granted by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "5": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR", "downloadColumns": [0,1,3,2,4,5] },
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and granted by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of deposits attributable to all sectors and granted %{sumIn} %{unit} worth of deposits to all sectors."
+
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of deposits granted by %{to}. This represented %{percentFrom} of total deposits held by %{from} and %{percentTo} of total deposits granted by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "6": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and issued by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of listed shares attributable to all sectors and issued %{sumIn} %{unit} worth of listed shares to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of listed shares issued by %{to}. This represented %{percentFrom} of total listed shares held by %{from} and %{percentTo} of total listed shares issued by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    },
+    "7": {
+      "data": {"dimensions":["LOCATION"], "keys":[["AUT","BEL","CYP","DEU","ESP","EST","EUR","FIN","FRA","GRC","IRL","ITA","LTU","LUX","LVA","MLT","NLD","PRT","SVK","SVN"]]},
+      "title": {
+        "en": "Outstanding amounts"
+      },
+      "options": {"tooltipUnit": " EUR"},
+      "indicator": {
+        "title": {
+          "en": "Intra-sector stocks"
+        }
+      },
+      "flow": {
+        "incoming": {
+          "en": "Liabilites"
+        },
+        "outgoing": {
+          "en": "Assets"
+        },
+        "missing": {
+          "incoming": {
+            "en": "No data available for %{list}."
+          },
+          "outgoing": {
+            "en": "No data available for %{list}."
+          }
+        },
+        "fromTo": {
+          "en": "held by %{from} and issued by %{to}"
+        },
+        "context": {
+          "magnet": {
+            "en": "In %{date} %{name} held %{sumOut} %{unit} worth of investment funds shares/units attributable to all sectors and issued %{sumIn} %{unit} worth of investment funds shares/units to all sectors."
+          },
+          "relation": {
+            "en": "In %{date} %{from} held %{value} %{unit} worth of investment funds shares/units issued by %{to}. This represented %{percentFrom} of total investment funds shares/units held by %{from} and %{percentTo} of total investment funds shares/units issued by %{to}."
+          }
+        },
+        "unit": {
+          "full": {
+            "en": "billion euros"
+          },
+          "value": {
+            "en": "<span class='value'>%{number}</span><span class='suffix'>bn</span> <span class='unit'>EUR</span>"
+          }
+        }
+      }
+    }
+  },
+  "tabs": {
+    "1": {
+      "title": {
+        "en": "Short-term debt securities"
+      },
+      "teaser": {
+        "en": ""
+      },
+      "template": "ged-viz-flows",
+      "syncScale": false,
+      "titleDisplay": false,
+      "region": "default",
+      "type": "default",
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "charts": [
+        "1"
+      ],
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      }
+    },
+    "2": {
+      "title": {
+        "en": "Long-term debt securities"
+      },
+      "template": "ged-viz-flows",
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "charts": [
+        "2"
+      ]
+    },
+    "3": {
+      "title": {
+        "en": "Short-term loans"
+      },
+      "template": "ged-viz-flows",
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "charts": [
+        "3"
+      ]
+    },
+    "4": {
+      "title": {
+        "en": "Long-term loans"
+      },
+      "template": "ged-viz-flows",
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "charts": [
+        "4"
+      ]
+    },
+    "5": {
+      "title": {
+        "en": "Deposits"
+      },
+      "template": "ged-viz-flows",
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "charts": [
+        "5"
+      ]
+    },
+    "6": {
+      "title": {
+        "en": "Listed shares"
+      },
+      "template": "ged-viz-flows",
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "charts": [
+        "6"
+      ]
+    },
+    "7": {
+      "title": {
+        "en": "Investment fund shares/units"
+      },
+      "template": "ged-viz-flows",
+      "labels": {
+        "S12K": {
+          "en": "Banks"
+        },
+        "S11": {
+          "en": "Corporates"
+        },
+        "S124": {
+          "en": "Investment funds"
+        },
+        "S128": {
+          "en": "Insurances"
+        },
+        "S129": {
+          "en": "Pensions"
+        },
+        "S12O": {
+          "en": "Other financials"
+        },
+        "S13": {
+          "en": "Government"
+        },
+        "S1M": {
+          "en": "Households"
+        },
+        "ROW": {
+          "en": "Rest of world"
+        },
+        "WLD": {
+          "en": "Total"
+        }
+      },
+      "options": {
+        "selected": [ "S12K", "S11", "S124", "S128", "S129", "S12O", "S13", "S1M", "ROW" ]
+      },
+      "charts": [
+        "7"
+      ]
+    }
+  }
+}

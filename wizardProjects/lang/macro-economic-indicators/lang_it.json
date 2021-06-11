@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Il rapporto disavanzo pubblico/PIL (-) o avanzo pubblico/PIL (+) si riferisce ai criteri di Maastricht. Le statistiche sul disavanzo pubblico includono le operazioni di regolamento nell’ambito di swap. (Flussi non finanziari, prezzi correnti, percentuali, dati non corretti per gli effetti stagionali e il numero di giornate lavorative). Gli ultimi due anni rappresentati nelle figure si basano sulle previsioni della Commissione europea (Direzione Generale degli Affari economici e finanziari). Il valore di riferimento per il disavanzo di bilancio in conformità del Patto di stabilità e crescita è pari al 3%.</p>",
+            "title": "<p>Rapporto disavanzo o avanzo pubblico/PIL</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Il rapporto debito pubblico/PIL si riferisce ai criteri di Maastricht. Le statistiche sul debito pubblico sono quelle utilizzate nel contesto della procedura per i disavanzi eccessivi. (Consistenze finanziarie al valore nominale, percentuali, dati non corretti per gli effetti stagionali e il numero di giornate lavorative). Gli ultimi due anni rappresentati nelle figure si basano sulle previsioni della Commissione europea (Direzione Generale degli Affari economici e finanziari). Il valore di riferimento stabilito dai criteri di Maastricht è pari al 60%.</p>",
+            "title": "<p>Rapporto debito pubblico/PIL</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Prodotto interno lordo ai prezzi di mercato, per l’intera economia, in euro, volumi concatenati (ribasati sul 2010, anno di riferimento), dati corretti per gli effetti stagionali e il numero di giornate lavorative. Fonte: Eurostat.</p>",
+            "title": "<p>Volume</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Prodotto interno lordo ai prezzi di mercato, per l’intera economia, in valuta nazionale (potrebbero essere inclusi importi convertiti in valuta corrente a tasso fisso), volumi concatenati (ribasati), tasso di crescita sul periodo corrispondente, dati corretti per gli effetti stagionali e il numero di giornate lavorative. Fonte: Eurostat.</p>",
+            "title": "<p>Tasso di crescita sul periodo corrispondente</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Rapporto fra debito e reddito disponibile lordo delle famiglie (dati non consolidati, prezzi correnti, percentuali, dati non corretti per gli effetti stagionali e il numero di giornate lavorative).</p>",
+            "title": "<p>Rapporto debito/reddito delle famiglie (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Rapporto fra indebitamento delle società non finanziarie e PIL. Il debito include i prestiti contratti e i titoli di debito emessi. (Dati consolidati, prezzi di mercato, percentuali, dati non corretti per gli effetti stagionali e il numero di giornate lavorative).</p>",
+            "title": "<p>Rapporto debito delle società/PIL</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Rapporto fra debito e reddito disponibile lordo delle famiglie (dati non consolidati, prezzi correnti, percentuali, dati non corretti per gli effetti stagionali e il numero di giornate lavorative). Ove i dati non siano visibili, significa che non sono disponibili.</p>",
+            "title": "<p>Rapporto debito/reddito delle famiglie (T)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Tasso di disoccupazione armonizzato (in percentuale delle forze di lavoro civili), dati standardizzati fra paesi, per tutte le fasce di età e per entrambi i sessi, destagionalizzati e non corretti per il numero di giornate lavorative. Fonte: Eurostat.</p>",
+            "title": "<p>Tasso di disoccupazione</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indicatori macroeconomici</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PIL</p>"
+        },
+        "2": {
+            "title": "<p>Disoccupazione</p>"
+        },
+        "3": {
+            "title": "<p>Indebitamento</p>"
+        }
+    }
+}

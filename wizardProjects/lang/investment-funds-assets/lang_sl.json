@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investicijski skladi - Sredstva",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Terjatve iz naslova vlog in posojil",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: terjatve iz naslova vlog in posojil (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Dolžniški vrednostni papirji",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: vrednostni papirji razen delnic (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Lastniški kapital",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: delnice in drug lastniški kapital razen delnic investicijskih skladov (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Enote investicijskih skladov",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: delnice/enote investicijskih skladov (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nefinančna sredstva",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: nefinančna sredstva (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Druga sredstva",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: druga sredstva (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Skupaj",
+            "definition": "Investicijski skladi razen skladov denarnega trga, skupaj sredstva/obveznosti (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Terjatve iz naslova vlog in posojil",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: terjatve iz naslova vlog in posojil (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Dolžniški vrednostni papirji",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: vrednostni papirji razen delnic (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Lastniški kapital",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: delnice in drug lastniški kapital razen delnic investicijskih skladov (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Enote investicijskih skladov",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: delnice/enote investicijskih skladov (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nefinančna sredstva",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: nefinančna sredstva (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Druga sredstva",
+            "definition": "Investicijski skladi razen skladov denarnega trga, razred sredstev: druga sredstva (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Skupaj",
+            "definition": "Investicijski skladi razen skladov denarnega trga, skupaj sredstva/obveznosti (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, četrtletni podatki)"
+        }
+    }
+}

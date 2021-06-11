@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indicateurs de compétitivité - En termes de prix et de coûts",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Compétitivité"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indices des prix à la consommation",
+            "definition": "Indicateurs harmonisés de compétitivité (IHC) basés sur les indices des prix à la consommation (moyennes sur la période ; indice : T1 1999 = 100).  Les indices des prix à la consommation mesurent la variation moyenne dans le temps des prix payés par les ménages pour un panier déterminé de biens de consommation et de services. L'objectif des IHC est de fournir des mesures comparables de la compétitivité en matière de prix et de coûts des pays de la zone euro qui soient également cohérentes avec le taux de change effectif réel (TCER) de l'euro. Ces indicateurs sont élaborés selon la même méthodologie et à partir des mêmes sources que le TCER de l'euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Déflateurs du PIB",
+            "definition": "Indicateurs harmonisés de compétitivité (IHC) basés sur les déflateurs du PIB (moyennes sur la période ; indice : T1 1999 = 100).  Le PIB est une mesure de l'activité économique. Il correspond à la valeur de la production totale de biens et services dans une économie, plus l'imposition nette sur les produits et les importations, moins les consommations intermédiaires. Les déflateurs du PIB sont calculés à partir des comptes nationaux trimestriels tels que publiés par Eurostat (moyennes sur la période ; indice : T1 1999 = 100). L'objectif des IHC est de fournir des mesures comparables de la compétitivité en matière de prix et de coûts des pays de la zone euro qui soient également cohérentes avec le taux de change effectif réel (TCER) de l'euro. Ces indicateurs sont élaborés selon la même méthodologie et à partir des mêmes sources que le TCER de l'euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Coût unitaire de main-d'œuvre",
+            "definition": "Indicateurs harmonisés de compétitivité basés sur les indices de coûts unitaires de main-d œuvre pour l'économie totale (moyenne pour la période ; indice : T1 1999 = 100). Les coûts unitaires de main-d'œuvre pour l'ensemble de l'économie sont calculés comme le ratio entre la rémunération par tête et la productivité du travail. La productivité du travail est mesurée comme le PIB à prix constants divisé par le nombre total de personnes employées, sur la base des comptes nationaux trimestriels tels que publiés par Eurostat (moyenne pour la période ; indice : T1 1999 = 100). L'objectif des IHC est de fournir des mesures comparables de la compétitivité en matière de prix et de coûts des pays de la zone euro qui soient également cohérentes avec le taux de change effectif réel (TCER) de l'euro. Ces indicateurs sont élaborés selon la même méthodologie et à partir des mêmes sources que le TCER de l'euro."
+        }
+    }
+}

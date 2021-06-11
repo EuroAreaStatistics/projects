@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti līdz 0.25 milj. euro ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 3 mēnešiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Mazi kredīti; ≤ 0.25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti līdz 1 milj. euro ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Mazi kredīti; x ≤ 1G</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti, kas pārsniedz 1 milj. euro, ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Lieli kredīti; x ≤ 1G</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti līdz 1 milj. euro ar procentu likmes darbības sākotnējo periodu 1–5 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Mazi kredīti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti, kas pārsniedz 1 milj. euro, ar procentu likmes darbības sākotnējo periodu 1–5 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Lieli kredīti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti līdz 1 milj. euro ar procentu likmes darbības sākotnējo periodu ilgāku par 5 gadiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Mazi kredīti; x &gt; 5G</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie kredīti, kas pārsniedz 1 milj. euro, ar procentu likmes darbības sākotnējo periodu ilgāku par 5 gadiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Lieli kredīti; x &gt; 5G</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie patēriņa kredīti ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Patēriņa kredīti; x ≤ 1G</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie patēriņa kredīti ar procentu likmes darbības sākotnējo periodu 1–5 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Patēriņa kredīti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie patēriņa kredīti ar procentu likmes darbības sākotnējo periodu ilgāku par 5 gadiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Patēriņa kredīti; x &gt; 5G</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Kopējo aizņemšanās izmaksu rādītājs mājsaimniecībām no jauna izsniegtajiem kredītiem mājokļa iegādei (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredītu izmaksas mājsaimniecībām</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti mājokļa iegādei ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredīti mājokļa iegādei; x ≤ 1G</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti mājokļa iegādei ar procentu likmes darbības sākotnējo periodu 1–5 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredīti mājokļa iegādei; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti mājokļa iegādei ar procentu likmes darbības sākotnējo periodu 5–10 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredīti mājokļa iegādei; 5G &lt; x ≤ 10G</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti mājokļa iegādei ar procentu likmes darbības sākotnējo periodu ilgāku par 10 gadiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredīti mājokļa iegādei; x &gt; 10G</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti citiem mērķiem ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Pārējie kredīti; x ≤ 1G</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām, t.sk. pašnodarbinātām personām un līgumsabiedrībām, izsniegtie euro denominētie kredīti citiem mērķiem ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Pārējie kredīti; pašnodarbinātie; x ≤ 1G</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti citiem mērķiem ar procentu likmes darbības sākotnējo periodu 1–5 gadi (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Pārējie kredīti; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie kredīti citiem mērķiem ar procentu likmes darbības sākotnējo periodu ilgāku par 5 gadiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Pārējie kredīti; x &gt; 5G</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Kopējo aizņemšanās izmaksu rādītājs nefinanšu sabiedrībām no jauna izsniegtajiem kredītiem (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredītu izmaksas nefinanšu sabiedrībām</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Kopējo aizņemšanās izmaksu rādītājs mājsaimniecībām un nefinanšu sabiedrībām izsniegtajiem īstermiņa kredītiem</p>",
+            "title": "<p>Kredītu īstermiņa izmaksas</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Kopējo aizņemšanās izmaksu rādītājs mājsaimniecībām un nefinanšu sabiedrībām izsniegtajiem ilgtermiņa kredītiem</p>",
+            "title": "<p>Kredītu ilgtermiņa izmaksas</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Euro zonas nefinanšu sabiedrībām izsniegtie euro denominētie atjaunojamie kredīti un pārsnieguma kredīti, norēķinu karšu bezprocentu un procentu kredīti (%; gadā; jauno darījumu apjoms un atlikums sakrīt)</p>",
+            "title": "<p>Atjaunojamie un pārsnieguma kredīti</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Euro zonas mājsaimniecībām izsniegtie euro denominētie atjaunojamie kredīti un pārsnieguma kredīti, norēķinu karšu bezprocentu un procentu kredīti (%; gadā; jauno darījumu apjoms un atlikums sakrīt)</p>",
+            "title": "<p>Atjaunojamie un pārsnieguma kredīti</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Euro zonas mājsaimniecībām mājokļa iegādei izsniegtie euro denominētie kredīti ar mainīgo procentu likmi vai ar procentu likmes darbības sākotnējo periodu, kopā (%; gadā; jauno darījumu procentu likmes)</p>",
+            "title": "<p>Kredīti mājokļa iegādei, kopā</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Banku procentu likmes - kredīti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Mājsaimniecības</p>"
+        },
+        "2": {
+            "title": "<p>Nefinanšu sabiedrības</p>"
+        },
+        "3": {
+            "title": "<p>Kopējās kredītu izmaksas</p>"
+        }
+    }
+}

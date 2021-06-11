@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro fino a 0,25 milioni; tasso variabile o periodo di determinazione iniziale del tasso fino a tre mesi per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo contenuto ≤ 0,25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro fino a 1 milione; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo contenuto; x ≤ 1A</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro superiori a 1 milione; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo elevato; x ≤ 1A</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro fino a 1 milione; periodo di determinazione iniziale del tasso superiore a un anno e fino a cinque anni per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo contenuto; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro superiori a 1 milione; periodo di determinazione iniziale del tasso superiore a un anno e fino a cinque anni per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo elevato; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro fino a 1 milione; periodo di determinazione iniziale del tasso superiore a cinque anni per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo contenuto; x &gt; 5A</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Prestiti denominati in euro superiori a 1 milione; periodo di determinazione iniziale del tasso superiore a cinque anni per le società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti di importo elevato; x &gt; 5A</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per consumi denominati in euro; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per consumi; x ≤ 1A</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per consumi denominati in euro; periodo di determinazione iniziale del tasso superiore a un anno e fino a cinque anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per consumi; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per consumi denominati in euro; periodo di determinazione iniziale del tasso superiore a cinque anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per consumi; x &gt; 5A</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicatore sintetico del costo del credito relativo ai nuovi prestiti alle famiglie per l’acquisto di abitazioni (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Costo del credito: famiglie</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per l’acquisto di abitazioni denominati in euro; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per abitazioni; x ≤ 1A</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per l’acquisto di abitazioni denominati in euro; periodo di determinazione iniziale del tasso superiore a un anno e fino a cinque anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per abitazioni; 1A &lt; x &lt; 5A</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per l’acquisto di abitazioni denominati in euro; periodo di determinazione iniziale del tasso superiore a cinque anni e fino a dieci anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per abitazioni; 5A &lt; x ≤ 10A</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per l’acquisto di abitazioni denominati in euro; periodo di determinazione iniziale del tasso superiore a dieci anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per abitazioni; x &gt; 10A</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per altre finalità denominati in euro; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Altri prestiti; x ≤ 1A</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Prestiti per altre finalità denominati in euro, compresi quelli per le imprese individuali e le società di persone; tasso variabile o periodo di determinazione iniziale del tasso fino a un anno per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Altro; imprese indiv.; x ≤ 1A</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per altre finalità denominati in euro; periodo di determinazione iniziale del tasso superiore a un anno e fino a cinque anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Altri prestiti; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti per altre finalità denominati in euro; periodo di determinazione iniziale del tasso superiore a cinque anni per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Altri prestiti; x &gt; 5A</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicatore sintetico del costo del credito per i nuovi prestiti alle società non finanziarie (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Costo del credito: società</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicatore sintetico del costo del credito per i prestiti a breve termine alle famiglie e alle società non finanziarie</p>",
+            "title": "<p>Costo del credito a breve termine</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicatore sintetico del costo del credito per i prestiti a lungo termine alle famiglie e alle società non finanziarie</p>",
+            "title": "<p>Costo del credito a lungo termine</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Prestiti rotativi e scoperti di conto corrente, prestiti tramite carte di credito a saldo e revolving denominati in euro alle società non finanziarie dell’area dell’euro (percentuali annue, le nuove operazioni coincidono con le consistenze in essere)</p>",
+            "title": "<p>Prestiti rotativi e scoperti</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Prestiti rotativi e scoperti di conto corrente, prestiti tramite carte di credito a saldo e revolving denominati in euro alle famiglie dell’area dell’euro (percentuali annue, le nuove operazioni coincidono con le consistenze in essere)</p>",
+            "title": "<p>Prestiti rotativi e scoperti</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Prestiti per l’acquisto di abitazioni denominati in euro; totale per il tasso variabile o il periodo di determinazione iniziale del tasso per le famiglie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)</p>",
+            "title": "<p>Prestiti per abitazioni, totale</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Tassi di interesse bancari - Prestiti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Famiglie</p>"
+        },
+        "2": {
+            "title": "<p>Società</p>"
+        },
+        "3": {
+            "title": "<p>Costo sintetico del credito</p>"
+        }
+    }
+}

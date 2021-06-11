@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Saldo rachunku finansowego jako procent PKB w cenach rynkowych (aktywa minus pasywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Saldo jako % PKB</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Rachunek finansowy – aktywa jako procent PKB w cenach rynkowych (aktywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Rachunek finansowy – pasywa jako procent PKB w cenach rynkowych (aktywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Pasywa jako % PKB</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo rachunku finansowego (aktywa minus pasywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Rachunek finansowy – aktywa (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Rachunek finansowy – pasywa (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Rachunek finansowy – saldo inwestycji bezpośrednich (aktywa minus pasywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Rachunek finansowy – inwestycje bezpośrednie po stronie aktywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Rachunek finansowy – inwestycje bezpośrednie po stronie pasywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Rachunek finansowy – saldo inwestycji portfelowych (aktywa minus pasywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Rachunek finansowy – inwestycje portfelowe po stronie aktywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Rachunek finansowy – inwestycje portfelowe po stronie pasywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Rachunek finansowy – saldo pozostałych inwestycji (aktywa minus pasywa, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Rachunek finansowy – pozostałe inwestycje po stronie aktywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Rachunek finansowy – pozostałe inwestycje po stronie pasywów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Pasywa</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Sektor zewnętrzny – Rachunek finansowy</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ogółem</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Inwestycje bezpośrednie</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Inwestycje portfelowe</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Pozostałe inwestycje</p>"
+        }
+    }
+}

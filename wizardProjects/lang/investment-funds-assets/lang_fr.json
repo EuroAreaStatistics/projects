@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "OPCVM - Actifs",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Flux"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Dépôts et créances de prêts",
+            "definition": "OPCVM non monétaires, classe d'actifs : dépôts et créances de prêts (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Titres de créance",
+            "definition": "OPCVM non monétaires, classe d'actifs : titres autres que les actions (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Actions",
+            "definition": "OPCVM non monétaires, classe d'actifs : actions et autres participations hors parts d'OPCVM (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Parts d'OPCVM",
+            "definition": "OPCVM non monétaires, classe d'actifs : parts d'OPCVM (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Actifs non financiers",
+            "definition": "OPCVM non monétaires, classe d'actifs : actifs non financiers (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Autres actifs",
+            "definition": "OPCVM non monétaires, classe d'actifs : autres actifs (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires, total des actifs/passifs (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Dépôts et créances de prêts",
+            "definition": "OPCVM non monétaires, classe d'actifs : dépôts et créances de prêts (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Titres de créance",
+            "definition": "OPCVM non monétaires, classe d'actifs : titres autres que les actions (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Actions",
+            "definition": "OPCVM non monétaires, classe d'actifs : actions et autres participations hors parts d’OPCVM (transactions financières, durée totale, toutes devises confondues, libellées en euros, non corrigées des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Parts d'OPCVM",
+            "definition": "OPCVM non monétaires, classe d'actifs : parts d'OPCVM (transactions financières, durée totale, toutes devises confondues, libellées en euros, non corrigées des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Actifs non financiers",
+            "definition": "OPCVM non monétaires, classe d'actifs : actifs non financiers (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Autres actifs",
+            "definition": "OPCVM non monétaires, classe d'actifs : autres actifs (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires, total des actifs/passifs (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données trimestrielles)"
+        }
+    }
+}

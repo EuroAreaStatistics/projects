@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Autres inst. financières, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés d'assurance et aux fonds de pension de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Ass. et retraites, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Entreprises, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Ménages, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Autres inst. financières, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés d'assurance et aux fonds de pension de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Ass. et retraites, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Entreprises, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Ménages, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Autres inst. financières, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux sociétés d'assurance et aux fonds de pension de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Ass. et retraites, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Entreprises, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux ménages de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Ménages, total</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée inférieure ou égale à 1 an (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Entreprises : x ≤ 1 an</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée inférieure ou égale à 1 an (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Entreprises : x ≤ 1 an</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts aux sociétés non financières de la zone euro d'une durée inférieure ou égale à 1 an (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Entreprises : x ≤ 1 an</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée supérieure à 1 an et inférieure ou égale à 5 ans (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Entreprises : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée supérieure à 1 an et inférieure ou égale à 5 ans (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Entreprises : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts aux sociétés non financières de la zone euro d'une durée supérieure à 1 an et inférieure ou égale à 5 ans (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Entreprises : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée supérieure à 5 ans (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Entreprises : x &gt; 5 ans</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts aux sociétés non financières de la zone euro d'une durée supérieure à 5 ans (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Entreprises : x &gt; 5 ans</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts aux sociétés non financières de la zone euro d'une durée supérieure à 5 ans (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Entreprises : x &gt; 5 ans</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés non financières de la zone euro, en données corrigées des cessions de prêts, de la la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Entreprises, total (en données corrigées)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux ménages de la zone euro, en données corrigées des cessions de prêts, de la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Ménages, total (en données corrigées)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux sociétés non financières de la zone euro, en données corrigées des cessions de prêts, de la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Entreprises, total (en données corrigées)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts totaux aux ménages de la zone euro, en données corrigées des cessions de prêts, de la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Ménages, total (en données corrigées)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux sociétés non financières de la zone euro, en données corrigées des cessions de prêts, de la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Entreprises, total (en données corrigées)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts totaux aux ménages de la zone euro, en données corrigées des cessions de prêts, de la titrisation et de la centralisation notionnelle de trésorerie (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage). Les prêts corrigés des cessions et de la titrisation incluent les prêts qui ont été vendus ou titrisés et qui ne figurent plus au bilan des banques.</p>",
+            "title": "<p>Ménages, total (en données corrigées)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts à la consommation consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Ménages, consommation</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts à la consommation consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Ménages, consommation</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts à la consommation consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Ménages, consommation</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts au logement consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Ménages, prêts au logement</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts au logement consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Ménages, prêts au logement</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts au logement consentis aux ménages de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Ménages, prêts au logement</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts consentis aux ménages de la zone euro à d'autres fins (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)</p>",
+            "title": "<p>Ménages, autres prêts</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiques de bilan des IFM, prêts consentis aux ménages de la zone euro à d'autres fins (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)</p>",
+            "title": "<p>Ménages, autres prêts</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiques de bilan des IFM, taux de croissance des prêts consentis aux ménages de la zone euro à d'autres fins (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)</p>",
+            "title": "<p>Ménages, autres prêts</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Statistiques de bilan des IFM, ratio entre prêts totaux et dépôts totaux vis-à-vis des sociétés non financières et des ménages de la zone euro et des sociétés non financières, des ménages et des établissements financiers non bancaires hors zone euro (hors administrations publiques, toutes devises combinées, toutes échéances, non corrigé des variations saisonnières, en pourcentage, données trimestrielles)</p>",
+            "title": "<p>Ratio prêts/dépôts</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bilan des banques - Prêts</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Encours</p>"
+        },
+        "2": {
+            "title": "<p>Flux</p>"
+        },
+        "3": {
+            "title": "<p>Taux de croissance</p>"
+        },
+        "4": {
+            "title": "<p>Ratio prêts/dépôts</p>"
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Arvopaperit - Velkapaperit",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Uudet liikkeeseenlaskut"
+        },
+        "3": {
+            "title": "Liikkeeseenlaskut, netto"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Pankit, kannat",
+            "definition": "Euroalueen rahalaitosten liikkeeseen laskemien velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Pankit, kannat; x ≤ 1v",
+            "definition": "Euroalueen rahalaitosten liikkeeseen laskemien lyhytaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Pankit, kannat; x &gt; 1v",
+            "definition": "Euroalueen rahalaitosten liikkeeseen laskemien pitkäaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Yritykset, kannat",
+            "definition": "Euroalueen yritysten liikkeeseen laskemien velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Yritykset, kannat; x ≤ 1v",
+            "definition": "Euroalueen yritysten liikkeeseen laskemien lyhytaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Yritykset, kannat; x &gt; 1v",
+            "definition": "Euroalueen yritysten liikkeeseen laskemien pitkäaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Julkisyhteisöt, kannat",
+            "definition": "Euroalueen julkisyhteisöjen liikkeeseen laskemien velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Julkisyhteisöt, kannat; x ≤ 1v",
+            "definition": "Euroalueen julkisyhteisöjen liikkeeseen laskemien lyhytaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Julkisyhteisöt, kannat; x &gt; 1v",
+            "definition": "Euroalueen julkisyhteisöjen liikkeeseen laskemien pitkäaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, kannat",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten liikkeeseen laskemien velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, kannat; x ≤ 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten liikkeeseen laskemien lyhytaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, kannat; x &gt; 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten liikkeeseen laskemien pitkäaikaisten velkapaperien kannat euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Yhteensä, kannat",
+            "definition": "Euroalueella olevien liikkeeseen laskemien velkapaperien kannat yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Yhteensä, kannat; x ≤ 1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien lyhytaikaisten velkapaperien kannat yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Yhteensä, kannat; x &gt; 1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien pitkäaikaisten velkapaperien kannat yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Pankit, uudet",
+            "definition": "Euroalueen rahalaitosten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Pankit, uudet; x ≤ 1v",
+            "definition": "Euroalueen rahalaitosten lyhytaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Pankit, uudet; x &gt; 1v",
+            "definition": "Euroalueen rahalaitosten pitkäaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Yritykset, uudet",
+            "definition": "Euroalueen yritysten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Yritykset, uudet; x ≤ 1v",
+            "definition": "Euroalueen yritysten lyhytaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Yritykset, uudet; x &gt; 1v",
+            "definition": "Euroalueen yritysten pitkäaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Julkisyhteisöt, uudet",
+            "definition": "Euroalueen julkisyhteisöjen velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Julkisyhteisöt, uudet; x ≤ 1v",
+            "definition": "Euroalueen julkisyhteisöjen lyhytaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Julkisyhteisöt, uudet; x &gt; 1v",
+            "definition": "Euroalueen julkisyhteisöjen pitkäaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, uudet",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, uudet; x ≤ 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten lyhytaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, uudet; x &gt; 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten pitkäaikaisten velkapaperien bruttoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Yhteensä, uudet",
+            "definition": "Euroalueella olevien liikkeeseen laskemien velkapaperien bruttoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Yhteensä, uudet; x &gt;1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien pitkäaikaisten velkapaperien bruttoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Yhteensä, uudet; x ≤ 1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien lyhytaikaisten velkapaperien bruttoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Pankit, netto",
+            "definition": "Euroalueen rahalaitosten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Pankit, netto; x ≤ 1v",
+            "definition": "Euroalueen rahalaitosten lyhytaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Pankit, netto; x &gt; 1v",
+            "definition": "Euroalueen rahalaitosten pitkäaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Yritykset, netto",
+            "definition": "Euroalueen yritysten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Yritykset, netto; x ≤ 1v",
+            "definition": "Euroalueen yritysten lyhytaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Yritykset, netto; x &gt; 1v",
+            "definition": "Euroalueen yritysten pitkäaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Julkisyhteisöt, netto",
+            "definition": "Euroalueen julkisyhteisöjen velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Julkisyhteisöt, netto; x ≤ 1v",
+            "definition": "Euroalueen julkisyhteisöjen lyhytaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Julkisyhteisöt, netto; x &gt; 1v",
+            "definition": "Euroalueen julkisyhteisöjen pitkäaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, netto",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, netto; x ≤ 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten lyhytaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Muut rahoituslaitokset, netto; x &gt; 1v",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten pitkäaikaisten velkapaperien nettoliikkeeseenlaskut euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Yhteensä, netto",
+            "definition": "Euroalueella olevien liikkeeseen laskemien velkapaperien nettoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Yhteensä, netto; x ≤ 1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien lyhytaikaisten velkapaperien nettoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Yhteensä, netto; x &gt;1v",
+            "definition": "Euroalueella olevien liikkeeseen laskemien pitkäaikaisten velkapaperien nettoliikkeeseenlaskut yhteensä euroina (nimellisarvoon, kaikki valuutat)"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Vertybiniai popieriai - Biržinės akcijos",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Nauja emisija"
+        },
+        "3": {
+            "title": "Grynoji emisija"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Bankai, likučiai",
+            "definition": "Pinigų finansų įstaigų išleistos biržinės akcijos, likučiai (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Bendrovės, likučiai",
+            "definition": "Ne finansų bendrovių išleistos biržinės akcijos, likučiai (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Kitos finansų bendrovės, likučiai",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleistos biržinės akcijos, likučiai (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Iš viso, likučiai",
+            "definition": "Biržinės akcijos, likučiai, iš viso (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Bankai, nauja emisija",
+            "definition": "Pinigų finansų įstaigų išleistos biržinės akcijos, bendroji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Bendrovės, nauja emisija",
+            "definition": "Ne finansų bendrovių išleistos biržinės akcijos, bendroji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Kitos finansų bendrovės, nauja emisija",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleistos biržinės akcijos, bendroji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Iš viso, nauja emisija",
+            "definition": "Biržinės akcijos, bendroji emisija, iš viso (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Bankai, grynoji emisija",
+            "definition": "Pinigų finansų įstaigų išleistos biržinės akcijos, grynoji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Bendrovės, grynoji emisija",
+            "definition": "Ne finansų bendrovių išleistos biržinės akcijos, grynoji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Kitos finansų bendrovės, grynoji emisija",
+            "definition": "Finansų bendrovių, išskyrus pinigų finansų įstaigas, išleistos biržinės akcijos, grynoji emisija (rinkos vertė, eurais, išleistos rezidentų)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Iš viso, grynoji emisija",
+            "definition": "Biržinės akcijos, grynoji emisija, iš viso (rinkos vertė, eurais, išleistos rezidentų)"
+        }
+    }
+}

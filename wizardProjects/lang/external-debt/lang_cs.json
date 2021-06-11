@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Hrubý zahraniční dluh (pasiva celého hospodářství vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Čistý zahraniční dluh (pasiva minus aktiva, čistá pasiva celého hospodářství vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Hrubý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva celého hospodářství vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Brutto poměr</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Čistý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva minus aktiva, čistá pasiva celého hospodářství vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Hrubý zahraniční dluh (pasiva měnových finančních institucí vůči nerezidentům, pozice na konci čtvrtletí,  bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Čistý zahraniční dluh (pasiva minus aktiva, čistá pasiva měnových finančních institucí vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Hrubý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva měnových finančních institucí vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Brutto poměr</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Čistý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva minus aktiva, čistá pasiva měnových finančních institucí vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Hrubý zahraniční dluh (pasiva veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Čistý zahraniční dluh (pasiva minus aktiva, čistá pasiva veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Hrubý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Brutto poměr</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Čistý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva minus aktiva, čistá pasiva veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Hrubý zahraniční dluh (závazky sektorů jiných než MFI a veřejné rozpočty vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Čistý zahraniční dluh (pasiva minus aktiva, čistá pasiva sektorů jiných než MFI a veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Hrubý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva sektorů jiných než MFI a veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Brutto poměr</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Čistý zahraniční dluh jako procento hrubého domácího produktu (HDP) v tržních cenách (pasiva minus aktiva, čistá pasiva sektorů jiných než MFI a veřejných rozpočtů vůči nerezidentům, pozice na konci čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externí sektor - Zahr. zadluženost</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ekonomika celkem</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Měnové finanční instituce</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Veřejné rozpočty</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Ostatní sektory</p>"
+        }
+    }
+}

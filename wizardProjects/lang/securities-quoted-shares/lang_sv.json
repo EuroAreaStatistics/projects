@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Värdepapper - Noterade aktier",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställning"
+        },
+        "2": {
+            "title": "Nyemissioner"
+        },
+        "3": {
+            "title": "Nettoemissioner"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banker, ställning",
+            "definition": "Utestående belopp av noterade aktier utgivna av monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Företag, ställning",
+            "definition": "Utestående belopp av noterade aktier utgivna av icke-finansiella företag (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Övr. finans.inst., ställning",
+            "definition": "Utestående belopp av noterade aktier utgivna av finansinstitut andra än monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Totalt, ställning",
+            "definition": "Totala utestående belopp av noterade aktier (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banker, nya",
+            "definition": "Bruttoemissioner av noterade aktier utgivna av monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Företag, nya",
+            "definition": "Bruttoemissioner av noterade aktier utgivna av icke-finansiella företag (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Övr. finans.inst., nya",
+            "definition": "Bruttoemissioner av noterade aktier utgivna av finansinstitut andra än monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Totalt, nya",
+            "definition": "Totala bruttoemissioner av noterade aktier (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banker, netto",
+            "definition": "Nettoemissioner av noterade aktier utgivna av monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Företag, netto",
+            "definition": "Nettoemissioner av noterade aktier utgivna av icke-finansiella företag (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Övr. finans.inst., netto",
+            "definition": "Nettoemissioner av noterade aktier utgivna av finansinstitut andra än monetära finansinstitut (marknadsvärde, i euro, inhemsk utgivning)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Totalt, netto",
+            "definition": "Totala nettoemissioner av noterade aktier (marknadsvärde, i euro, inhemsk utgivning)"
+        }
+    }
+}

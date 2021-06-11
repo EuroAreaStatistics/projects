@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Nettó nemzetközi befektetési pozíció (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Nemzetközi befektetési pozíción fennálló követelések (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Nemzetközi befektetési pozíción fennálló tartozások (nem rezidensekkel szembeni negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Nettó nemzetközi befektetési pozíció a bruttó hazai termék (GDP) százalékos arányában piaci áron (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Nemzetközi befektetési pozíció követelései a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Követelések aránya</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Nemzetközi befektetési pozíción fennálló tartozások a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Tartozások aránya</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Nemzetközi befektetési pozíció, nettó működőtőke-befektetés (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Nemzetközi befektetési pozíció, működőtőke-befektetésen fennálló követelések (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Nemzetközi befektetési pozíció, működőtőke-befektetésen fennálló tartozások (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Nemzetközi befektetési pozíció, nettó működőtőke-befektetés a bruttó hazai termék (GDP) százalékos arányában piaci áron (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Nemzetközi befektetési pozíció, működőtőke-befektetésen fennálló követelések a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Követelések aránya</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Nemzetközi befektetési pozíció, működőtőke-befektetésen fennálló tartozások a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Tartozások aránya</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Nemzetközi befektetési pozíció, nettó portfólióbefektetés (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Nemzetközi befektetési pozíció, portfólióbefektetésen fennálló követelések (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Nemzetközi befektetési pozíció, portfólióbefektetésen fennálló tartozások (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Nemzetközi befektetési pozíció, nettó portfólióbefektetés a bruttó hazai termék (GDP) százalékos arányában piaci áron (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Nemzetközi befektetési pozíció, portfólióbefektetésen fennálló követelések a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Követelések aránya</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Nemzetközi befektetési pozíció, portfólióbefektetésen fennálló tartozások a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Tartozások aránya</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb nettó befektetések (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb befektetéseken fennálló követelések (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb befektetéseken fennálló tartozások (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb nettó befektetések a bruttó hazai termék (GDP) százalékos arányában piaci áron (a követelések és a tartozások különbsége, nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb befektetéseken fennálló követelések a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Követelések aránya</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Nemzetközi befektetési pozíció, egyéb befektetéseken fennálló tartozások a bruttó hazai termék (GDP) százalékos arányában piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Tartozások aránya</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Külső szektor - Nemzetközi befektetési pozíció</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Összesen</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Működőtőke-befektetés</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfólióbefektetés</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Egyéb befektetés</p>"
+        }
+    }
+}

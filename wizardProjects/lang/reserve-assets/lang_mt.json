@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv ta’ riżerva (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv ta’ riżerva bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-attiv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settur estern - Attiv ta’ riżerva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Attiv ta’ riżerva</p>"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "project": {
+        "title": "Chart 1 - Corporate debt ratio, measured as a percentage of GDP",
+        "options": {
+            "dataSource": "www.bancaditalia.it",
+            "dataSourceURL": "www.ecb.it",
+            "relatedPublication": "xxx"
+        }
+    },
+    "charts": {
+        "c1520948941331": {
+            "title": "Chart 1 - Corporate debt ratio, measured as a percentage of GDP",
+            "definition": ""
+        }
+    },
+    "tabs": {
+        "t1520948901085": {
+            "title": "Insight",
+            "teaser": "NFC debt ratio"
+        }
+    }
+}

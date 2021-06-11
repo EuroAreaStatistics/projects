@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Valdības budžeta deficīta attiecība pret IKP (–) vai valdības budžeta pārpalikuma attiecība pret IKP (+) attiecas uz Māstrihtas kritērijiem. Valdības parāda statistika ietver mijmaiņas darījumu norēķinus. (Nefinanšu plūsmas, faktiskajās cenās, %, sezonāli un pēc darbadienu skaita neizlīdzināti dati.) Attēlos parādītie pēdējo divu gadu dati balstās uz Eiropas Komisijas prognozēm (Ekonomikas un finanšu lietu ģenerāldirektorāts). Budžeta deficīta atsauces vērtība saskaņā ar Stabilitātes un izaugsmes paktu ir 3%.</p>",
+            "title": "<p>Valdības budžeta deﬁcīta/pārpalikuma rādītājs</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Valdības parāda attiecība pret IKP attiecas uz Māstrihtas kritērijiem. Izmantota valdības parāda statistika, ko lieto saistībā ar pārmērīga budžeta deficīta novēršanas procedūru. (Finanšu krājumi nominālvērtībā, %, sezonāli un pēc darbadienu skaita neizlīdzināti dati.) Attēlos parādītie pēdējo divu gadu dati balstās uz Eiropas Komisijas prognozēm (Ekonomikas un finanšu lietu ģenerāldirektorāts). Māstrihtas kritērijos noteiktā atsauces vērtība ir 60%.</p>",
+            "title": "<p>Valdības parāda rādītājs</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Iekšzemes kopprodukts tirgus cenās, visa tautsaimniecība, izteikts euro, ķēdes indeksu veidā aprēķināts apjoms (bāze – 2010. gads), sezonāli un pēc darbdienu skaita izlīdzināti dati. Avots: <em>Eurostat</em></p>",
+            "title": "<p>Apjoms</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Iekšzemes kopprodukts tirgus cenās, visa tautsaimniecība, vietējā valūtā (var ietilpt, pamatojoties uz fiksētu kursu, esošajā valūtā konvertētas summas), ķēdes indeksu veidā aprēķināts apjoms (mainīta bāze), viena gada pieauguma temps, sezonāli un pēc darbdienu skaita izlīdzināti dati. Avots: <em>Eurostat</em></p>",
+            "title": "<p>Gada pieauguma temps</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Mājsaimniecību parāda attiecība pret bruto rīcībā esošajiem ienākumiem (nekonsolidēti dati, faktiskajās cenās, %, sezonāli un pēc darbadienu skaita neizlīdzināti dati).</p>",
+            "title": "<p>Mājsaimniecību parāda rādītājs (g.)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Nefinanšu sabiedrību parāda attiecība pret IKP. Parāds ietver saņemtos kredītus un emitētos parāda vērtspapīrus. (Konsolidēti dati, tirgus cenās, %, sezonāli un pēc darbadienu skaita neizlīdzināti dati).</p>",
+            "title": "<p>Nefinanšu sabiedrību parāda rādītājs</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Mājsaimniecību parāda attiecība pret bruto rīcībā esošajiem ienākumiem (nekonsolidēti dati, faktiskajās cenās, %, sezonāli un pēc darbadienu skaita neizlīdzināti dati). Ja dati nav redzami, tie nav pieejami.</p>",
+            "title": "<p>Mājsaimniecību parāda rādītājs (cet.)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Saskaņotais bezdarba līmenis (% no civilā darbaspēka), standartizēts visu valstu rādītājs, visi vecumi, vīrieši un sievietes, sezonāli izlīdzināti un pēc darbdienu skaita neizlīdzināti dati. Avots: <em>Eurostat</em></p>",
+            "title": "<p>Bezdarba līmenis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomiskie rādītāji</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>IKP</p>"
+        },
+        "2": {
+            "title": "<p>Bezdarbs</p>"
+        },
+        "3": {
+            "title": "<p>Parāda līmenis</p>"
+        }
+    }
+}

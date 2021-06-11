@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Solde des transactions courantes en pourcentage du produit intérieur brut (PIB) (moyenne mobile sur trois ans, calculé selon des normes internationales comme MBP6 et SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est +6 % et -4 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Solde des transactions courantes (3 ans)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Position extérieure nette en pourcentage du produit intérieur brut (PIB) (données annuelles, calculée selon des normes internationales comme MBP6 et SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est -35 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Position extérieure (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Taux de change effectif réel (déflaté de l'IPCH/de l'IPC, variation en pourcentage sur trois ans par rapport à 41 autres pays industrialisés). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est -/+5 % pour les pays de la zone euro. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Taux de change effectif réel (3 ans)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Parts de marché à l'exportation (mesurées en valeurs, variation en pourcentage sur cinq ans, calculées selon des normes internationales comme MBP6). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est -6 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Parts de marché à l'exportation (5 ans)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Coûts unitaires de main-d'œuvre (variation en pourcentage sur trois ans, basés sur le nombre de personnes). Les coûts unitaires de main-d'œuvre sont une mesure des coûts salariaux totaux par unité de production, calculés comme le ratio entre rémunération par personne occupée et productivité du travail (définie comme le PIB par personne occupée). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est +9 % pour les pays de la zone euro. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Coûts unitaires de main-d'œuvre (3 ans)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Prix des logements par rapport à un déflateur de la consommation privée d'Eurostat (variation annuelle en pourcentage, parc immobilier neuf et ancien). L'indicateur des prix de l'immobilier résidentiel dans la zone euro est une moyenne d'indicateurs par pays non harmonisés basée sur des données nationales. La couverture varie entre les pays. Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 6 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Prix des logements</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Flux de crédits du secteur privé en pourcentage du produit intérieur brut (PIB) (données consolidées, calculés selon des normes internationales comme MBP6 et SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 15 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Flux de crédits du secteur privé</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dette du secteur privé en pourcentage du PIB (données consolidées, calculée selon des normes internationales comme MBP6 et SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 133 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Dette du secteur privé</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dette des administrations publiques en pourcentage du produit intérieur brut (PIB) (calculée selon des normes internationales comme MBP6 et SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 60 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Dette des administrations publiques</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Engagements totaux du secteur financier (variations annuelles, données non consolidées, calculés selon des normes internationales comme SEC 2010). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 16,5 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Engagements du secteur financier</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Taux de chômage harmonisé (moyenne mobile sur trois ans). Selon la <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Procédure concernant les déséquilibres macroéconomiques (PDM)</a> mise en œuvre par la Commission européenne, le seuil indicatif pour cet indicateur est 10 %. Sources : BCE et Commission européenne (Eurostat et DG Affaires économiques et financières)</p>",
+            "title": "<p>Taux de chômage (3 ans)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Tableau de bord macroéconomique</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indicateurs externes/de compétitivité</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indicateurs internes</p>"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Concurrentievermogenindicatoren - Naar prijs en kosten",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Concurrentievermogen"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Consumptieprijsindices",
+            "definition": "Geharmoniseerde concurrentievermogenindicatoren (HCI's) op basis van consumptieprijsindices (periodegemiddelden; index: KW 1 1999 = 100).  De consumptieprijsindices meten de gemiddelde mutatie in de loop der tijd in de door huishoudens voor een specifiek \"mandje\" consumptiegoederen en diensten betaalde  prijzen. Het doel van de HCI's is vergelijkbare metingen te bieden van het  prijs- en kostenconcurrentievermogen van de landen van het eurogebied die tevens consistent zijn met de reële effectieve wisselkoersen (EER's) van de euro. De HIC's maken gebruik van dezelfde methodologie en gegevensbronnen die worden gehanteerd voor de EER's van de euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Bbp-deflatoren",
+            "definition": "Geharmoniseerde concurrentievermogenindicatoren (HCI's) op basis van deflatoren voor het bruto binnenlands product (bbp) (periodegemiddelden; index: KW 1 1999 = 100).  Het bbp is een maatstaf van economische bedrijvigheid. Het is de waarde van de totale productie van goederen en diensten door een economie, plus de netto belastingen op producten en invoer en minus intermediaire consumptie. De bbp-deflatoren worden afgeleid van nationale rekeningen op kwartaalbasis zoals die worden gepubliceerd door Eurostat (periodegemiddelden; index KW 1 1999 = 100). Het doel van de HCI's is vergelijkbare metingen te bieden van het  prijs- en kostenconcurrentievermogen van de landen van het eurogebied die tevens consistent zijn met de reële effectieve wisselkoersen (EER's) van de euro. De HIC's maken gebruik van dezelfde methodologie en gegevensbronnen die worden gehanteerd voor de EER's van de euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Arbeidskosten per eenheid product",
+            "definition": "Geharmoniseerde concurrentievermogenindicatoren op basis van indices arbeidskosten per eenheid product voor de totale economie (periodegemiddelden; index: KW 1 1999 = 100). Arbeidskosten per eenheid product voor de totale economie worden berekend als de verhouding van de loonsom per werknemer tot de arbeidsproductiviteit. Arbeidsproductiviteit wordt gemeten als bbp tegen constante prijzen gedeeld door het totale aantal werkenden, waarbij gebruik gemaakt wordt van nationale rekeningen op kwartaalbasis zoals die worden gepubliceerd door Eurostat (periodegemiddelden; index: KW 1 1999 = 100). Het doel van de HCI's is vergelijkbare metingen te bieden van het  prijs- en kostenconcurrentievermogen van de landen van het eurogebied die tevens consistent zijn met de reële effectieve wisselkoersen (EER's) van de euro. De HIC's maken gebruik van dezelfde methodologie en gegevensbronnen die worden gehanteerd voor de EER's van de euro."
+        }
+    }
+}

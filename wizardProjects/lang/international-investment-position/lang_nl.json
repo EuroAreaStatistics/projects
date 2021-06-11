@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Netto internationale investeringspositie (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Internationale investeringspositie – activa (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Internationale investeringspositie – passiva (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Netto internationale investeringspositie als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Internationale investeringspositie – activa als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Activaratio</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Internationale investeringspositie – passiva als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Passivaratio</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Internationale investeringspositie, netto directe investeringen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Internationale investeringspositie, directe investeringen – activa (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Internationale investeringspositie, directe investeringen – passiva (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Internationale investeringspositie, netto directe investeringen als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Internationale investeringspositie, directe investeringen – activa als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Activaratio</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Internationale investeringspositie, directe investeringen – passiva als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Passivaratio</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Internationale investeringspositie, netto-effectenverkeer (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Internationale investeringspositie, activa effectenverkeer (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Internationale investeringspositie, passiva effectenverkeer (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Internationale investeringspositie, netto-effectenverkeer als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Internationale investeringspositie, activa effectenverkeer als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Activaratio</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Internationale investeringspositie, passiva effectenverkeer als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Passivaratio</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Internationale investeringspositie, netto overige investeringen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Internationale investeringspositie, overige investeringen – activa (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Internationale investeringspositie, overige investeringen – passiva (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Internationale investeringspositie, netto overige investeringen als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (activa minus passiva, positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Internationale investeringspositie, overige investeringen – activa als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Activaratio</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Internationale investeringspositie, overige investeringen – passiva als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Passivaratio</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externe sector - Internationale investeringspositie</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totaal</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Directe investeringen</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Effectenverkeer</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Overige investeringen</p>"
+        }
+    }
+}

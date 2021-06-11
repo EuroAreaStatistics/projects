@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indikatorer for konkurrenceevnen - Priser og omkostninger",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurrenceevne"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Forbrugerprisindeks",
+            "definition": "Harmoniserede indikatorer for konkurrenceevnen baseret på forbrugerprisindeks (periodegennemsnit; indeks: 1. kvartal 1999=100). Forbrugerprisindeksene måler den gennemsnitlige ændring over tid i de priser, som husholdningerne betaler for en specifik kurv af forbrugsgoder og tjenesteydelser. Formålet med harmoniserede indikatorer for konkurrenceevnen er at give sammenlignelige mål for eurolandenes pris- og omkostningskonkurrenceevne, som også er i overensstemmelse med de reale effektive eurokurser  (EER). De harmoniserede indikatorer for konkurrenceevnen anvender samme metode og datakilder, som anvendes til de effektive eurokurser."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "BNP-deflatorer",
+            "definition": "Harmoniserede indikatorer for konkurrenceevnen baseret på bruttonationalproduktet (BNP-deflatorer) (periodegennemsnit; indeks: 1. kvartal 1999=100). BNP er et mål for den økonomiske aktivitet. Det er værdien af en økonomis samlede produktion af varer og tjenester, plus skatter af produkter og import netto og minus forbrug i produktionen. BNP-deflatorer udledes af kvartalsvise nationalregnskaber, som offentliggjort af Eurostat (periodegennemsnit; indeks 1. kvartal 1999=100). Formålet med harmoniserede indikatorer for konkurrenceevnen er at give sammenlignelige mål for eurolandenes pris- og omkostningskonkurrenceevne, som også er i overensstemmelse med de reale effektive eurokurser (EER). De harmoniserede indikatorer for konkurrenceevnen anvender samme metode og datakilder, som anvendes til de effektive eurokurser."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Enhedslønomkostninger",
+            "definition": "Harmoniserede indikatorer for konkurrenceevnen baseret på indeks for enhedslønomkostningerne for den samlede økonomi (periodegennemsnit; indeks: 1. kvartal 1999=100). Enhedslønomkostningerne for den samlede økonomi er beregnet som lønsum pr. ansat i forhold til arbejdskraftsproduktivitet. Arbejdskraftsproduktivitet måles som BNP i faste priser divideret med det samlede antal beskæftigede, idet der anvendes kvartalsvise nationalregnskaber, som offentliggjort af Eurostat (periodegennemsnit; indeks: 1. kvartal 1999=100). Formålet med harmoniserede indikatorer for konkurrenceevnen er at give sammenlignelige mål for eurolandenes pris- og omkostningskonkurrenceevne, som også er i overensstemmelse med de reale effektive eurokurser (EER). De harmoniserede indikatorer for konkurrenceevnen anvender samme metode og datakilder, som anvendes til de effektive eurokurser."
+        }
+    }
+}

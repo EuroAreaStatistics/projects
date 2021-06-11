@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Dívida externa bruta (responsabilidades do total da economia face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos brutos</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Dívida externa líquida (passivos <em>menos</em> ativos; responsabilidades líquidas do total da economia face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Dívida externa bruta em percentagem do PIB a preços de mercado (responsabilidades do total da economia face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio bruto</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Dívida externa líquida em percentagem do PIB a preços de mercado (passivos <em>menos</em> ativos; responsabilidades líquidas do total da economia face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Dívida externa bruta (responsabilidades das instituições financeiras monetárias face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos brutos</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Dívida externa líquida (passivos <em>menos</em> ativos; responsabilidades líquidas das instituições financeiras monetárias face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Dívida externa bruta em percentagem do PIB a preços de mercado (responsabilidades das instituições financeiras monetárias face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio bruto</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Dívida externa líquida em percentagem do PIB a preços de mercado (passivos <em>menos</em> ativos; responsabilidades líquidas das instituições financeiras monetárias face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Dívida externa bruta (responsabilidades das administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos brutos</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Dívida externa líquida (passivos <em>menos</em> ativos; responsabilidades líquidas das administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Dívida externa bruta em percentagem do PIB a preços de mercado (responsabilidades das administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio bruto</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Dívida externa líquida em percentagem do PIB a preços de mercado (passivos <em>menos</em> ativos; responsabilidades líquidas das administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Dívida externa bruta (responsabilidades de setores que não instituições financeiras monetárias e administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos brutos</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Dívida externa líquida (passivos <em>menos</em> ativos; responsabilidades líquidas de setores que não instituições financeiras monetárias e administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Dívida externa bruta em percentagem do PIB a preços de mercado (responsabilidades de setores que não instituições financeiras monetárias e administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio bruto</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Dívida externa líquida em percentagem do PIB a preços de mercado (passivos <em>menos</em> ativos; responsabilidades líquidas de setores que não instituições financeiras monetárias e administrações públicas face a não residentes; posição no final do trimestre; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Setor externo - Dívida externa</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total da economia</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Instituições financeiras monetárias</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Administrações públicas</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Outros setores</p>"
+        }
+    }
+}

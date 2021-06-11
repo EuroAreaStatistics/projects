@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bankernes balance - Indlån",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Beholdninger"
+        },
+        "2": {
+            "title": "Strømme"
+        },
+        "3": {
+            "title": "Vækstrater"
+        },
+        "4": {
+            "title": "Forhold mellem udlån og indlån"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Husholdninger, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Husholdninger, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, dag til dag-indlån fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Husholdninger; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på op til to år fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Husholdninger; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på over to år fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Husholdninger; med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med opsigelsesvarsel på op til tre måneder fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Virksomheder, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Virksomheder, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, dag til dag-indlån fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Virksomheder; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på op til to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Virksomheder; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på over to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Virksomheder; med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med opsigelsesvarsel på op til tre måneder fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Forsikringsselskaber og pensionskasser, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Andre finansielle, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, udeståender ultimo perioden)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Husholdninger, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Husholdninger, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, dag til dag-indlån fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Husholdninger; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på op til to år fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Husholdninger; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på over to år fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Husholdninger; med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med opsigelsesvarsel på op til tre måneder fra husholdninger i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Virksomheder, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Virksomheder, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, dag til dag-indlån fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Virksomheder; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på op til to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Virksomheder; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med aftalt løbetid på over to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Virksomheder, med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån med opsigelsesvarsel på op til tre måneder fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Forsikringsselskaber og pensionskasser, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Andre finansielle, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, indlån i alt fra andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, denomineret i euro, ikke sæsonkorrigeret, finansielle transaktioner)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Husholdninger, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for samlede indlån fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Husholdninger, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for dag til dag-indlån fra husholdninger i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Husholdninger; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med aftalt løbetid på op til to år fra husholdninger i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Husholdninger; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med aftalt løbetid på over to år fra husholdninger i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Husholdninger; med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med opsigelsesvarsel på op til tre måneder fra husholdninger i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Virksomheder, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for samlede indlån fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Virksomheder, dag til dag",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for dag til dag-indlån fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Virksomheder; med aftalt løbetid ≤ 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med aftalt løbetid på op til to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Virksomheder; med aftalt løbetid &gt; 2Å",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med aftalt løbetid på over to år fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Virksomheder; med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for indlån med opsigelsesvarsel på op til tre måneder fra ikke-finansielle selskaber i euroområdet (i alle valutaer tilsammen, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Forsikringsselskaber og pensionskasser, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for samlede indlån fra forsikringsselskaber og pensionskasser i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Andre finansielle, i alt",
+            "definition": "Balancestatistik for monetære finansielle institutioner, vækstrater for samlede indlån fra andre finansielle formidlere i euroområdet (i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, årlig ændring i pct.)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Forhold mellem udlån og indlån",
+            "definition": "Balancestatistik for monetære finansielle institutioner, forhold mellem samlede ud- og indlån vis-à-vis ikke-finansielle selskaber og husholdninger i euroområdet og ikke-finansielle selskaber, husholdninger og andre finansielle institutioner end banker uden for euroområdet (ekskl. offentlig forvaltning og service, i alle valutaer tilsammen, alle løbetider, ikke sæsonkorrigeret, i pct., kvartalsvis)"
+        }
+    }
+}

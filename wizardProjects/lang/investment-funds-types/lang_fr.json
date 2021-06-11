@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "OPCVM - Selon le type de fonds",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Flux"
+        },
+        "3": {
+            "title": "Taux de croissance"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds ouverts",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds ouverts (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds fermés",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds fermés (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds ouverts",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds ouverts (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds fermés",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds fermés (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (transactions financières, durée totale, toutes devises confondues, libellées en euros, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds ouverts",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds ouverts (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds fermés",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon le type de fonds : fonds fermés (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        }
+    }
+}

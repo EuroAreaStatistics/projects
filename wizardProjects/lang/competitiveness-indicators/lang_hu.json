@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Versenyképességi mutatók - Ár és költség szerint",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Versenyképesség"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Fogyasztóiár-index",
+            "definition": "Fogyasztóiár-indexeken alapuló harmonizált versenyképességi mutatók (időszakon belüli átlagértékek; index: 1999. I. n.év=100)  A fogyasztóiár-indexek a háztartások által vásárolt fogyasztási cikkek és szolgáltatások egy konkrét körének átlagos változását mérik egy adott időszakban. A harmonizált versenyképességi mutatók célja olyan egymással összehasonlítható mérőszámokat képezni az euroövezeti országok ár- és költség-versenyképességéről, amelyek az euro reál-effektív árfolyamával is összhangban vannak. Az indexeket ugyanazon módszertan alapján, és ugyanazon adatforrások felhasználásával állítják össze, mint az euro effektív árfolyamait."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "GDP-deflátor",
+            "definition": "Bruttó hazai termék (GDP) deflátorokon alapuló harmonizált versenyképességi mutatók (időszakon belüli átlagértékek; index: 1999. I. n.év=100)  A GDP a gazdaság teljesítményét méri. Értékét úgy kapjuk meg, hogy egy adott gazdaságban megtermelt összes áru és szolgáltatás értékéhez hozzáadjuk az árucikkekre és az importtermékekre kivetett nettó adók értékét, majd levonjuk belőle a folyó termelőfelhasználást. A GDP-deflátorokat az Eurostat által publikált negyedéves nemzetiszámla-adatokból képezik (időszak alatti átlagértékek; index: 1999 I. n.év=100). A harmonizált versenyképességi mutatók célja olyan egymással összehasonlítható mérőszámokat képezni az euroövezeti országok ár- és költség-versenyképességéről, amelyek az euro reál-effektív árfolyamával is összhangban vannak. Az indexeket ugyanazon módszertan alapján, és ugyanazon adatforrások felhasználásával állítják össze, mint az euro effektív árfolyamait."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Fajlagos munkaerőköltség",
+            "definition": "A teljes gazdaság fajlagos munkaerőköltség-indexein alapuló harmonizált versenyképességi mutatók (időszakon belüli átlagértékek; index: 1999. I. n.év=100) A teljes gazdaság fajlagos munkaerőköltségét az egy főre jutó munkajövedelem és a munkatermelékenység hányadosaként számítják ki. Utóbbit úgy kapják meg, hogy a változatlan áras GDP-t elosztják a foglalkoztatottak teljes számával (ehhez az Eurostat által publikált negyedéves nemzetiszámla-adatokat veszik igénybe) (időszak alatti átlagértékek; index: 1999. I. n.év=100) A harmonizált versenyképességi mutatók célja olyan egymással összehasonlítható mérőszámokat képezni az euroövezeti országok ár- és költség-versenyképességéről, amelyek az euro reál-effektív árfolyamával is összhangban vannak. Az indexeket ugyanazon módszertan alapján, és ugyanazon adatforrások felhasználásával állítják össze, mint az euro effektív árfolyamait."
+        }
+    }
+}

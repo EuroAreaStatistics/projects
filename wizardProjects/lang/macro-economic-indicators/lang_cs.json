@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Poměr schodku (-) či přebytku (+) veřejných financí k HDP se týká maastrichtských kritérií. Statistika veřejného schodku zahrnuje vypořádání v rámci swapů. (Nefinanční toky, aktuální ceny, procenta, bez sezonního očištění nebo očištění od vlivu počtu pracovních dní.) Poslední dva roky uvedené v grafech vycházejí z prognóz Evropské komise (generálního ředitelství pro hospodářské a finanční věci). Referenční hodnota pro rozpočtový schodek podle Paktu stability a růstu je 3 %.</p>",
+            "title": "<p>Poměr schodku/přebytku veřejných financí</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Poměr veřejného dluhu k HDP se týká maastrichtských kritérií. Použitá statistika veřejného dluhu je statistika používaná v kontextu postupu při nadměrném schodku. (Finanční stavy v nominální hodnotě, procenta, bez sezonního očištění nebo očištění od vlivu počtu pracovních dní.) Poslední dva roky uvedené v grafech vycházejí z prognóz Evropské komise (generálního ředitelství pro hospodářské a finanční věci). Referenční hodnota stanovená maastrichtskými kritérii je 60 %.</p>",
+            "title": "<p>Poměr veřejného dluhu</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Hrubý domácí produkt v tržních cenách, celá ekonomika, v eurech, řetězené objemy (změna základny, referenční rok 2010), po sezonním očištění a očištění od vlivu počtu pracovních dní. Zdroj: Eurostat</p>",
+            "title": "<p>Objem</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Hrubý domácí produkt v tržních cenách, celá ekonomika, domácí měna (může obsahovat částky převedené na stávající měnu v pevném kurzu), řetězené objemy (změna základny), tempo růstu během roku, po sezonním očištění a očištění od vlivu počtu pracovních dní. Zdroj: Eurostat</p>",
+            "title": "<p>Meziroční tempo růstu</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Poměr zadlužení domácností k hrubému disponibilnímu důchodu (bez konsolidace, aktuální ceny, procenta, bez sezonního očištění nebo očištění od vlivu počtu pracovních dní).</p>",
+            "title": "<p>Míra zadlužení domácností (roční)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Poměr zadlužení nefinančních podniků k HDP. Dluh zahrnuje přijaté úvěry a vydané dluhové cenné papíry.(Po konsolidaci, tržní ceny, procenta, bez sezonního očištění nebo očištění od vlivu počtu pracovních dní.)</p>",
+            "title": "<p>Poměr dluhu podniků</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Poměr zadlužení domácností k hrubému disponibilnímu důchodu (bez konsolidace, aktuální ceny, procenta, bez sezonního očištění nebo očištění od vlivu počtu pracovních dní). Nezobrazují-li se žádné údaje, nejsou k dispozici.</p>",
+            "title": "<p>Míra zadlužení domácností (čtvrtletní)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmonizovaná míra nezaměstnanosti (jako podíl civilní pracovní síly), standardizovaná ve všech zemích , všechny věk. skupiny, ženy i muži, po sezonním očištění a bez očištění od vlivu počtu pracovních dní. Zdroj: Eurostat</p>",
+            "title": "<p>Míra nezaměstnanosti</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomické ukazatele</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>HDP</p>"
+        },
+        "2": {
+            "title": "<p>Nezaměstnanost</p>"
+        },
+        "3": {
+            "title": "<p>Zadluženost</p>"
+        }
+    }
+}

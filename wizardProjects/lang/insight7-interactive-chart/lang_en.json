@@ -1,0 +1,21 @@
+{
+    "project": {
+        "title": "insight7-interactive-chart",
+        "options": {
+            "dataSourceURL": "http://sdw.ecb.europa.eu ",
+            "dataSource": "xx"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "xx",
+            "definition": "[Add indicator definition]"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "xx",
+            "teaser": "xx"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till övriga finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Övr. finans.inst., totalt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Försäkringar och pensioner, totalt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Företag, totalt</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Hushåll, totalt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till andra finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Övr. finans.inst., totalt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Försäkringar och pensioner, totalt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Företag, totalt</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Hushåll, totalt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakttakt för lån totalt till andra finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Övr. finans.inst., totalt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakttakt för lån totalt till försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Försäkringar och pensioner, totalt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån totalt till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Företag, totalt</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån totalt till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Hushåll, totalt</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider på upp till ett år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Företag; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider på upp till ett år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Företag; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån med löptider på upp till ett år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årliga procentuella förändringar)</p>",
+            "title": "<p>Företag; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider över ett år och upp till fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Företag; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider på över ett år och upp till fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Företag; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån med löptider på över ett och upp till fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årliga procentuella förändringar)</p>",
+            "title": "<p>Företag; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider över fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Företag; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån med löptider på över fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Företag; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån med löptider på upp till fem år till icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årliga procentuella förändringar)</p>",
+            "title": "<p>Företag; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till icke-finansiella företag i euroområdet, justerade för försäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Företag, totalt (justerat)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till hushåll i euroområdet, justerade för försäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Hushåll, totalt (justerat)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till icke-finansiella företag i euroområdet, justerade för försäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Företag, totalt (justerat)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till hushåll i euroområdet, justerade förförsäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Hushåll, totalt (justerat)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till icke-finansiella företag i euroområdet, justerade för försäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Företag, totalt (justerat)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån totalt till hushåll i euroområdet, justerade för försäljning av lån, värdepapperisering och teoretisk likviditetspoolning (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden). Lån justerade för försäljning och värdepapperisering innefattar lån som som sålts eller värdepapperiserats och som inte längre tas upp på bankernas balansräkningar.</p>",
+            "title": "<p>Hushåll, totalt (justerat)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, konsumtionslån totalt till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Hushåll, konsumtion</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, konsumtionslån till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Hushåll, konsumtion</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån till hushåll i euroområdet för konsumtion (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Hushåll, konsumtion</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, bolån totalt till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Hushåll, bolån</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, bolån till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Hushåll, bolån</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för bolån till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Hushåll, bolån</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån för andra ändamål till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)</p>",
+            "title": "<p>Hushåll, andra lån</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, lån för andra ändamål till hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)</p>",
+            "title": "<p>Hushåll, andra lån</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för lån till hushåll i euroområdet för andra syften (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)</p>",
+            "title": "<p>Hushåll, andra lån</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Balansräkningsstatistik för monetära finansinstitut, kvot mellan lån totalt och total inlåning gentemot icke-finansiella företag och hushåll inom euroområdet och icke-finansiella företag, hushåll och andra finansinstitut än banker utanför euroområdet (exklusive offentliga sektorn, alla valutor sammanlagt, alla löptider,ej säsongsjusterat, procent, kvartalsvis)</p>",
+            "title": "<p>Utlånings-/inlåningskvot</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Balansräkning för banker - Lån</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ställningar</p>"
+        },
+        "2": {
+            "title": "<p>Flöden</p>"
+        },
+        "3": {
+            "title": "<p>Tillväxttakter</p>"
+        },
+        "4": {
+            "title": "<p>Utlånings-/inlåningskvot</p>"
+        }
+    }
+}

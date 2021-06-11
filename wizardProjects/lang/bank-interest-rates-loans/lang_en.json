@@ -1,0 +1,124 @@
+{
+    "project": {
+        "title": "Bank interest rates - Loans",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "title": "Revolving loans and overdrafts",
+            "definition": "Euro-denominated revolving loans and overdrafts, convenience and extended credit to euro area households (percentages per annum, new business and outstanding amounts coincide)"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "title": "Loan for consumption; x ≤ 1Y",
+            "definition": "Euro-denominated loans for consumption; floating rate or initial rate fixation of up to one year to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "title": "Loan for consumption; 1Y &lt; x ≤ 5Y",
+            "definition": "Euro-denominated loans for consumption; initial rate fixation of over one and up to five years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "title": "Loan for consumption; x &gt; 5Y",
+            "definition": "Euro-denominated loans for consumption; initial rate fixation of over five years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "title": "Loan for house purchase; x ≤ 1Y",
+            "definition": "Euro-denominated loans for house purchase; floating rate or initial rate fixation of up to one year to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "title": "Loan for house purchase; 1Y &lt; x ≤ 5Y",
+            "definition": "Euro-denominated loans for house purchase; initial rate fixation of over one and up to five years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "title": "Loan for house purchase; 5Y &lt; x ≤ 10Y",
+            "definition": "Euro-denominated loans for house purchase; initial rate fixation of over five and up to ten years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "title": "Loan for house purchase; x &gt; 10Y",
+            "definition": "Euro-denominated loans for house purchase; initial rate fixation of more than ten years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "title": "Other loans; x ≤ 1Y",
+            "definition": "Euro-denominated loans for other purposes; floating rate or initial rate fixation of up to one year to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "title": "Other loans; 1Y &lt; x ≤ 5Y",
+            "definition": "Euro-denominated loans for other purposes; initial rate fixation of over one and up to five years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "title": "Other loans; x &gt; 5Y",
+            "definition": "Euro-denominated loans for other purposes; initial rate fixation of more than five years to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "title": "Other loans; sole owners; x ≤ 1Y",
+            "definition": "Euro-denominated loans for other purposes, including  loans for sole proprietors and unincorporated partnerships; floating rate or initial rate fixation of up to one year to euro area households (percentages per annum, rates on new business)"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "title": "Revolving loans and overdrafts",
+            "definition": "Euro-denominated revolving loans and overdrafts, convenience and extended credit to euro area non-financial corporations (percentages per annum, new business and outstanding amounts coincide)"
+        },
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "title": "Small loans ≤ 0.25; x ≤ 3M",
+            "definition": "Euro-denominated loans of up to €0.25 million; floating rate or initial rate fixation of up to three months to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "title": "Small loans; x ≤ 1Y",
+            "definition": "Euro-denominated loans up to €1 million; floating rate or initial rate fixation of up to one year to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "title": "Small loans; 1Y &lt; x ≤ 5Y",
+            "definition": "Euro-denominated loans up to €1 million; initial rate fixation of over one and up to five years to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "title": "Small loans; x &gt; 5Y",
+            "definition": "Euro-denominated loans up to €1 million; initial rate fixation of more than five years to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "title": "Large loans; x ≤ 1Y",
+            "definition": "Euro-denominated loans over €1 million; floating rate or initial rate fixation of up to one years to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "title": "Large loans; 1Y &lt; x ≤ 5Y",
+            "definition": "Euro-denominated loans over €1 million; initial rate fixation of over one and up to five years to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "title": "Large loans; x &gt; 5Y",
+            "definition": "Euro-denominated loans over €1 million; initial rate fixation of more than five years to euro area non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "title": "Households’ cost of borrowing",
+            "definition": "Composite cost-of-borrowing indicator for new loans to households for house purchase (percentages per annum, rates on new business)"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "title": "Corporates’ cost of borrowing",
+            "definition": "Composite cost-of-borrowing indicator for new loans to non-financial corporations (percentages per annum, rates on new business)"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "title": "Long-term cost of borrowing",
+            "definition": "Composite cost-of-borrowing indicator for long-term loans to both households and non-financial corporations"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "title": "Short-term cost of borrowing",
+            "definition": "Composite cost-of-borrowing indicator for short-term loans to both households and non-financial corporations"
+        },
+        "c1457522609150": {
+            "title": "Loan for house purchase, total",
+            "definition": "Euro-denominated loans for house purchase; total floating rate or initial rate fixation to euro area households (percentages per annum, rates on new business) "
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Households",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Corporates",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Composite cost of borrowing",
+            "teaser": ""
+        }
+    }
+}

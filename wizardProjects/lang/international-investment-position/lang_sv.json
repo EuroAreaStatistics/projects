@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Utlandsställning netto (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Utlandsställning tillgångar (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Utlandsställning skulder (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Utlandsställning netto i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Utlandsställning tillgångar i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Utlandsställning skulder i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Skuldkvot</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Utlandsställning, direktinvesteringar netto (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Utlandsställning, direktinvesteringar tillgångar (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Utlandsställning, direktinvesteringar skulder (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Utlandsställning, direktinvesteringar netto i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Utlandsställning, direktinvesteringar tillgångar i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Utlandsställning, direktinvesteringar skulder i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Skuldkvot</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar netto (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar tillgångar (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar skulder (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar netto i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar tillgångar i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Utlandsställning, portföljinvesteringar skulder i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Skuldkvot</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Utlandsställning, övriga investeringar netto (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Utlandsställning, övriga investeringar tillgångar (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Utlandsställning, övriga investeringar skulder (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Utlandsställning, övriga investeringar netto i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar minus skulder, ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Utlandsställning, övriga investeringar tillgångar i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Utlandsställning, övriga investeringar skulder i procent av bruttonationalprodukt (BNP) till marknadspriser (ställning vid kvartalsslut gentemot utlandet, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS2010).</p>",
+            "title": "<p>Skuldkvot</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Extern sektor - Utlandsställning (i.i.p.)</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totalt</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Direktinvesteringar</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portföljinvesteringar</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Övriga investeringar</p>"
+        }
+    }
+}

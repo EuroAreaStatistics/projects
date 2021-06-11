@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Balansräkning för banker - Inlåning",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställningar"
+        },
+        "2": {
+            "title": "Flöden"
+        },
+        "3": {
+            "title": "Tillväxttakter"
+        },
+        "4": {
+            "title": "Utlånings-/inlåningskvot"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Hushåll, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Hushåll, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, dagslån från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Hushåll; avtalad löptid ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på upp till 2 år från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Hushåll; avtalad löptid &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på över 2 år från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Hushåll, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med uppsägningstid på upp till tre månader från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Företag, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Företag, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, dagslån från icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Företag; avtalad löptid; ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på upp till 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Företag; avtalad löptid; &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på över 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Företag, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med uppsägningstid på upp till tre månader från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Försäkringar och pensioner, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Övr. finans.inst., totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från andra finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Hushåll, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Hushåll, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, dagslån från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, utestående belopp vid slutet av perioden)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Hushåll; avtalad löptid ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på upp till 2 år från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Hushåll; avtalad löptid &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på över 2 år från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Hushåll, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med uppsägningstid på upp till tre månader från hushåll i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Företag, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Företag, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning från icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Företag; avtalad löptid; ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på upp till 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Företag; avtalad löptid; &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med överenskommen löptid på över 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Företag, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, inlåning med uppsägningstid på upp till tre månader från icke-finansiella företag i euroområdet (alla valutor sammanlagt, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Försäkringar och pensioner, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Övr. finans.inst., totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, total inlåning från andra finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, i euro, ej säsongsjusterat, finansiella transaktioner)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Hushåll, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för total inlåning från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Hushåll, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för dagslån från hushåll i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Hushåll; avtalad löptid ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med överenskommen löptid på upp till 2 år från hushåll i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Hushåll; avtalad löptid &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med överenskommen löptid på över 2 år från hushåll i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Hushåll, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med uppsägningstid på upp till tre månader från hushåll i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Företag, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakttakt för total inlåning från icke-finansiella företag i euroområdet i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Företag, dagslån",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för dagslån från icke-finansiella företag i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Företag; avtalad löptid; ≤ 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med överenskommen löptid på upp till 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Företag; avtalad löptid; &gt; 2Y",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med överenskommen löptid på över 2 år från icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Företag, med uppsägningstid; x ≤ 3M",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakt för inlåning med uppsägningstid på upp till tre månader från icke-finansiella företag i euroområdet (alla valutor sammanlagt, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Försäkringar och pensioner, totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakttakt för total inlåning från försäkringsföretag och pensionsinstitut i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Övr. finans.inst., totalt",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, tillväxttakttakt för total inlåningfrån andra finansiella intermediärer i euroområdet (alla valutor sammanlagt, alla löptider, ej säsongsjusterat, årlig procentuell förändring)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Utlånings-/inlåningskvot",
+            "definition": "Balansräkningsstatistik för monetära finansinstitut, kvot mellan lån totalt och total inlåning gentemot icke-finansiella företag och hushåll inom euroområdet och icke-finansiella företag, hushåll och andra finansinstitut än banker utanför euroområdet (exklusive offentliga sektorn, alla valutor sammanlagt, alla löptider,ej säsongsjusterat, procent, kvartalsvis)"
+        }
+    }
+}

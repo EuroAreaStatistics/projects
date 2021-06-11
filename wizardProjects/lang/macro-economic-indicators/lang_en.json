@@ -1,0 +1,56 @@
+{
+    "project": {
+        "title": "Macroeconomic indicators",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "title": "Annual growth rate",
+            "definition": "Gross domestic product at market prices, total economy, domestic currency (may include amounts converted to the current currency at a fixed rate), chain-linked volumes (rebased), growth rate over one year,  seasonally and working day-adjusted. Source: Eurostat"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "title": "Volume",
+            "definition": "Gross domestic product at market prices, total economy, denominated in euro, chain-linked volumes (rebased, reference year 2010), seasonally and working day-adjusted. Source: Eurostat"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "title": "Unemployment rate",
+            "definition": "Harmonised unemployment rate (as a percentage of the civilian labour force), standardised across countries, all ages, male and female, seasonally adjusted, not working day-adjusted. Source: Eurostat"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "title": "Government debt ratio",
+            "definition": "Government debt-to-GDP ratio refers to the Maastricht criteria. The government debt statistics used are those used in the context of the excessive deficit procedure. (Financial stocks at nominal value, percentages, not seasonally or working day-adjusted.) The last two years presented in the graphs are based on European Commission forecasts (Directorate-General for Economic and Financial Affairs). The reference value set by the Maastricht criteria is 60%."
+        },
+        "AME.A..1.0.319.0.UBLGE": {
+            "title": "Government deficit/surplus ratio",
+            "definition": "Government deficit-to-GDP ratio (-) or government surplus-to-GDP ratio (+) refers to the Maastricht criteria. The government deficit statistics include settlements under swaps. (Non-financial flows, current prices, percentages, not seasonally or working day-adjusted.) The last two years presented in the graphs are based on European Commission forecasts (Directorate-General for Economic and Financial Affairs). The reference value for the budget deficit under the Stability and Growth Pact is 3%."
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "title": "Corporate debt ratio",
+            "definition": "Non-financial corporations' debt-to-GDP ratio. Debt includes loans taken out and debt securities issued. (Consolidated, market prices, percentages, not seasonally or working day-adjusted.)"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "title": "Household debt ratio (A)",
+            "definition": "Households' debt-to-gross disposable income ratio (non-consolidated, current prices, percentages, not seasonally or working day-adjusted)."
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "title": "Household debt ratio (Q)",
+            "definition": "Households' debt-to-gross disposable income ratio (non-consolidated, current prices, percentages, not seasonally or working day-adjusted). If no data are visible, no data are available."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "GDP",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Unemployment",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Indebtedness",
+            "teaser": ""
+        }
+    }
+}

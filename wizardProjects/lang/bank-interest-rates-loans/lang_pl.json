@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe do 0,25 mln EUR włącznie dla przedsiębiorstw ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 3 miesięcy włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Małe kredyty ≤ 0,25; x ≤ 3 mies.</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe do 1 mln EUR włącznie dla przedsiębiorstw ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Małe kredyty; x ≤ 1 rok</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe powyżej 1 mln EUR dla przedsiębiorstw ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Duże kredyty; x ≤ 1 rok</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe do 1 mln EUR włącznie dla przedsiębiorstw ze strefy euro; stopa ustalona pierwotnie na okres powyżej 1 roku, do 5 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Małe kredyty; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe powyżej 1 mln EUR dla przedsiębiorstw ze strefy euro; stopa ustalona pierwotnie na okres powyżej 1 roku, do 5 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Duże kredyty; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe do 1 mln EUR włącznie dla przedsiębiorstw ze strefy euro; stopa ustalona pierwotnie na okres powyżej 5 lat (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Małe kredyty; x &gt; 5 lat</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Kredyty eurowe powyżej 1 mln EUR dla przedsiębiorstw ze strefy euro; stopa ustalona pierwotnie na okres powyżej 5 lat (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Duże kredyty; x &gt; 5 lat</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki konsumpcyjne dla gospodarstw domowych ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty konsumpcyjne; x ≤ 1 rok</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki konsumpcyjne dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 1 roku, do 5 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty konsumpcyjne; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki konsumpcyjne dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 5 lat (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty konsumpcyjne; x &gt; 5 lat</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Wskaźnik łącznego kosztu kredytów: nowe kredyty mieszkaniowe dla gospodarstw domowych (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Koszt kred. dla gosp. dom.</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty mieszkaniowe; x ≤ 1 rok</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 1 roku, do 5 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty mieszkaniowe; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 5 lat, do 10 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty mieszkaniowe; 5 lat &lt; x ≤ 10 lat</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 10 lat (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty mieszkaniowe; x &gt; 10 lat</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Pozostałe kredyty; x ≤ 1 rok</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro, w tym dla przedsiębiorców indywidualnych; stopa zmienna lub ustalona pierwotnie na okres do 1 roku włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Pozost. kredyty; przeds. ind.; x ≤ 1 rok</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 1 roku, do 5 lat włącznie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Pozostałe kredyty; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro; stopa ustalona pierwotnie na okres powyżej 5 lat (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Pozostałe kredyty; x &gt; 5 lat</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Wskaźnik łącznego kosztu kredytów: nowe kredyty dla przedsiębiorstw (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Koszt kred. dla przeds.</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Wskaźnik łącznego kosztu kredytów: kredyty krótkoterminowe dla gospodarstw domowych i przedsiębiorstw</p>",
+            "title": "<p>Koszt kred. krótkoterm.</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Wskaźnik łącznego kosztu kredytów: kredyty długoterminowe dla gospodarstw domowych i przedsiębiorstw</p>",
+            "title": "<p>Koszt kred. długoterm.</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Eurowe kredyty odnawialne i w rachunku bieżącym, kredyty nieoprocentowane i oprocentowane z tytułu karty kredytowej dla przedsiębiorstw ze strefy euro (oproc. roczne, nowe umowy pokrywają się ze stanami)</p>",
+            "title": "<p>Kredyty odnawialne i w rach. bież.</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Eurowe kredyty odnawialne i w rachunku bieżącym, kredyty nieoprocentowane i oprocentowane z tytułu karty kredytowej dla gospodarstw domowych ze strefy euro (oproc. roczne, stawki nowych umów pokrywają się ze stanami)</p>",
+            "title": "<p>Kredyty odnawialne i w rach. bież.</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Eurowe kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro; łączna stopa zmienna lub ustalona pierwotnie (oproc. roczne, nowe umowy)</p>",
+            "title": "<p>Kredyty mieszkaniowe, ogółem</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankowe stopy procentowe - Kredyty</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Gospodarstwa domowe</p>"
+        },
+        "2": {
+            "title": "<p>Przedsiębiorstwa</p>"
+        },
+        "3": {
+            "title": "<p>Łączny koszt kred.</p>"
+        }
+    }
+}

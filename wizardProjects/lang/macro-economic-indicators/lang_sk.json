@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Pomer deficitu verejnej správy k HDP (-) alebo pomer prebytku verejnej správy k HDP (+) sa týka Maastrichtských kritérií. Štatistické údaje deficitu verejnej správy zahŕňajú vyrovnania v rámci swapov. (Nefinančné toky, v bežných cenách, v percentách, údaje neočistené od sezónnych vplyvov a od rozdielov v počte pracovných dní.) Posledné dva roky zobrazené v grafoch vychádzajú z prognóz Európskej komisie (generálneho riaditeľstva pre hospodárske a finančné záležitosti). Referenčná hodnota rozpočtového deficitu podľa Paktu stability a rastu je 3 %.</p>",
+            "title": "<p>Pomer deficitu/prebytku verejnej správy</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Pomer dlhu verejnej správy k HDP sa týka Maastrichtských kritérií. Štatistické údaje dlhu verejnej správy sú údaje, ktoré sa používajú v rámci postupu pri nadmernom deficite. (Stav financií v nominálnej hodnote, v percentách, údaje neočistené od sezónnych vplyvov a od rozdielov v počte pracovných dní.) Posledné dva roky zobrazené v grafoch vychádzajú z prognóz Európskej komisie (generálneho riaditeľstva pre hospodárske a finančné záležitosti). Referenčná hodnota stanovená v Maastrichtských kritériách je 60 %.</p>",
+            "title": "<p>Pomer dlhu verejnej správy</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Hrubý domáci produkt v trhových cenách, za hospodárstvo ako celok, v eurách, reťazené objemy (na zmenenej báze, referenčný rok 2010), očistený od sezónnych vplyvov a od rozdielov v počte pracovných dní. Zdroj: Eurostat</p>",
+            "title": "<p>Objem</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Hrubý domáci produkt v trhových cenách, za hospodárstvo ako celok, v domácej mene (môže obsahovať sumy prepočítané na súčasnú menu pevne stanoveným kurzom), reťazené objemy (na zmenenej báze), miera rastu za jeden rok, očistený od sezónnych vplyvov a od rozdielov v počte pracovných dní. Zdroj: Eurostat</p>",
+            "title": "<p>Ročná miera rastu</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Pomer dlhu domácností k hrubému disponibilnému príjmu (nekonsolidované údaje, v bežných cenách, v percentách, údaje neočistené od sezónnych vplyvov a od rozdielov v počte pracovných dní).</p>",
+            "title": "<p>Pomer dlhu domácností (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Pomer dlhu nefinančných spoločností k HDP. Dlh zahŕňa prijaté úvery a vydané dlhové cenné papiere. (Nekonsolidované údaje, v trhových cenách, v percentách, údaje neočistené od sezónnych vplyvov a od rozdielov v počte pracovných dní.)</p>",
+            "title": "<p>Pomer dlhu podnikov</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Pomer dlhu domácností k hrubému disponibilnému príjmu (nekonsolidované údaje, v bežných cenách, v percentách, údaje neočistené od sezónnych vplyvov a od rozdielov v počte pracovných dní). Ak nie sú zobrazené žiadne údaje, znamená to, že nie sú dostupné.</p>",
+            "title": "<p>Pomer dlhu domácností (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmonizovaná miera nezamestnanosti (v percentách civilnej pracovnej sily), štandardizovaná za všetky krajiny, všetky vekové skupiny, muži a ženy, očistená od sezónnych vplyvov, neočistená od rozdielov v počte pracovných dní. Zdroj: Eurostat</p>",
+            "title": "<p>Miera nezamestnanosti</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomické ukazovatele</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>HDP</p>"
+        },
+        "2": {
+            "title": "<p>Nezamestnanosť</p>"
+        },
+        "3": {
+            "title": "<p>Zadlženosť</p>"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Finantskonto netosumma protsendina SKPst turuhindades (varad miinus kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Neto-bruto suhtarv</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Finantskonto varade osakaal kogu SKPs turuhindades (varad, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Finantskonto kohustuste osakaal kogu SKPs turuhindades (kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kohustuste suhtarv</p>"
+        },
+        "1": {
+            "definition": "<p>Finantskonto netosumma (varad miinus kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netosumma</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Finantskonto varad (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Finantskonto kohustused (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Finantskonto netosumma, otseinvesteeringud (varad miinus kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netosumma</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finantskonto, otseinvesteeringute varad (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finantskonto, otseinvesteeringute kohustused (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Finantskonto netosumma, portfelliinvesteeringud (varad miinus kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netosumma</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finantskonto, portfelliinvesteeringute varad (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finantskonto, portfelliinvesteeringute kohustused (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Finantskonto netosumma, muud investeeringud (varad miinus kohustused, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netosumma</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finantskonto, muude investeeringutega seotud varad (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finantskonto, muude investeeringutega seotud kohustused (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Välissektor - Finantskonto</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kokku</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Välismaised otseinvesteeringud</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfelliinvesteeringud</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Muud investeeringud</p>"
+        }
+    }
+}

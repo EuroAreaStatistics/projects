@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Hrubý zahraničný dlh (záväzky hospodárstva ako celku voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Hrubý</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Čistý zahraničný dlh (záväzky mínus pohľadávky, čisté záväzky hospodárstva ako celku voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čistý</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Hrubý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky hospodárstva ako celku voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Hrubý pomer</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Čistý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky mínus pohľadávky, čisté záväzky hospodárstva ako celku voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Hrubý zahraničný dlh (záväzky peňažných finančných inštitúcií voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Hrubý</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Čistý zahraničný dlh (záväzky mínus pohľadávky, čisté záväzky peňažných finančných inštitúcií voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čistý</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Hrubý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky peňažných finančných inštitúcií voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Hrubý pomer</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Čistý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky mínus pohľadávky, čisté záväzky peňažných finančných inštitúcií voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Hrubý zahraničný dlh (záväzky verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Hrubý</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Čistý zahraničný dlh (záväzky mínus pohľadávky, čisté záväzky verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čistý</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Hrubý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Hrubý pomer</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Čistý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky mínus pohľadávky, čisté záväzky verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Hrubý zahraničný dlh (záväzky sektorov iných ako PFI a verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Hrubý</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Čistý zahraničný dlh (záväzky mínus pohľadávky, čisté záväzky sektorov iných ako PFI a verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čistý</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Hrubý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky sektorov iných ako PFI a verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Hrubý pomer</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Hrubý zahraničný dlh ako percento hrubého domáceho produktu (HDP) v trhových cenách (záväzky mínus pohľadávky, čisté záväzky sektorov iných ako PFI a verejnej správy voči nerezidentom, stav ku koncu štvrťroka, neočistený od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Externý sektor - Zahraničný dlh</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Hospodárstvo ako celok</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Peňažné finančné inštitúcie</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Verejná správa</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Ostatné sektory</p>"
+        }
+    }
+}

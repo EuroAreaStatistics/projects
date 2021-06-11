@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Nemzetközi befektetési pozíció, tartalékeszközök (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Eszközök</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Nemzetközi befektetési pozíció, a bruttó hazai termék (GDP) százalékos arányában megadott tartalékeszközök piaci áron (nem rezidensekkel szembeni negyedév végi pozíció; szezonálisan és munkanappal nem kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Eszközök aránya</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Külső szektor - Tartalékeszközök</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Tartalékeszközök</p>"
+        }
+    }
+}

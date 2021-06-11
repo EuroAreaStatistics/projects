@@ -1,0 +1,76 @@
+{
+    "project": {
+        "title": "Investment funds - Assets",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Deposits and loan claims",
+            "definition": "Investment funds other than money market funds, asset class: deposits and loan claims (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Debt securities",
+            "definition": "Investment funds other than money market funds, asset class: securities other than shares (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Equity",
+            "definition": "Investment funds other than money market funds, asset class: shares and other equity (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Investment fund units",
+            "definition": "Investment funds other than money market funds, asset class: investment fund shares/units (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Non-financial assets",
+            "definition": "Investment funds other than money market funds, asset class: non-financial assets (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Other assets",
+            "definition": "Investment funds other than money market funds, asset class: other assets (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, total assets/liabilities (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Deposits and loan claims",
+            "definition": "Investment funds other than money market funds, asset class: deposits and loan claims (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Debt securities",
+            "definition": "Investment funds other than money market funds, asset class: securities other than shares (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Equity",
+            "definition": "Investment funds other than money market funds, asset class: shares and other equity (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Investment fund units",
+            "definition": "Investment funds other than money market funds, asset class: investment fund shares/units (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Non-financial assets",
+            "definition": "Investment funds other than money market funds, asset class: non-financial assets (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Other assets",
+            "definition": "Investment funds other than money market funds, asset class: other assets (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, total assets/liabilities (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, quarterly data)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Flows",
+            "teaser": ""
+        }
+    }
+}

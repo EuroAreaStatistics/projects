@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bytesbalans som procent av bruttonationalprodukten (BNP) (tre års glidande medelvärde, beräknat i enlighet med internationella standarder som BPM6 och ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator +6 % och -4 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Bytesbalans (3Y)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Den samlade nettoställningen mot utlandet, i procent av bruttonationalprodukten (BNP) (årlig, beräknad i enlighet med internationella standarder som BPM6 och ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator -35 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Utlandsställning (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Real effektiv växelkurs (HIKP/KPI-deflaterad, procentuell förändring över tre år i förhållande till 41 andra industriländer). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator -/+5 % för länder i euroområdet. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Real effektiv växelkurs (3Y)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Exportmarknadsandelar (mätt i värde, procentuell förändring över fem år, beräknad enligt internationella standarder som BPM6). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator -6 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Exportmarknadsandelar (5Y)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominella enhetsarbetskostnader (procentuell förändring över tre år, baserat på personer. Nominella enhetsarbetskostnader är ett mått på totala arbetskraftskostnader per produktionsenhet, och beräknas som förhållandet mellan ersättningen per anställd och arbetsproduktiviteten (definierat som BNP per anställd). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator +9 % för länder i euroområdet. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Nominella enhetsarbetskostnader (3Y)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Huspriser i förhållande till en deflator för privat konsumtion från Eurostat (procentuella förändringar på årsbasis, nya och existerande bostäder). Prisindikatorn för bostäder för euroområdet är ett genomsnitt av icke harmoniserade landsindikatorer baserad på uppgifter från nationella källor. Omfattningen varierar i viss utsträckning länderna emellan. Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 6 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Huspriser</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Kreditflöde inom den privata sektorn, i procent av bruttonationalprodukten (BNP) (konsoliderad, beräknad i enlighet med internationella standarder som BPM6 och ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 15 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Kreditflöde i den privata sektorn</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Privata sektorns skuldsättning i procent av BNP, (konsoliderad, beräknad i enlighet med internationella standarder som BPM6 och ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 133 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Privata sektorns skuldsättning</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Offentliga sektorns skuldsättning i procent av bruttonationalprodukten (BNP) (beräknad i enlighet med internationella standarder som BPM6 och ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 60 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Offentliga sektorns skuldsättning</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Hela finanssektorns skulder (årsvisa förändringar, icke-konsoliderade, beräknade i enlighet med internationella standarder som ENS 2010). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 16,5 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Finanssektorns skulder</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmoniserat arbetslöshetstal (tre års glidande medelvärde). Enligt <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic</a> <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Imbalance Procedure (MIP)</a>, utvärderad av Europeiska kommissionen, är det indikativa tröskelvärdet för denna indikator 10 %. Källor: ECB och Europeiska kommissionen (Eurostat och generaldirektoratet för ekonomi och finans).</p>",
+            "title": "<p>Arbetslöshetstal (3Y)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekonomisk resultattavla</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Externa indikatorer/konkurrensindikatorer</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Interna indikatorer</p>"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bankovní rozvaha - Vklady",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        },
+        "3": {
+            "title": "Tempa růstu"
+        },
+        "4": {
+            "title": "Poměr úvěrů k vkladům"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Domácnosti celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady domácností v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, jednodenní vklady domácností v eurozóně (všechny měny, všechny splatnosti denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s dohodnutou splatností do dvou let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s dohodnutou splatností od dvou let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Podniky celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Podniky, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, jednodenní vklady nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s dohodnutou splatností do dvou let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s dohodnutou splatností od dvou let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Podniky, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Pojištění a penze celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady pojišťoven a penzijních fondů v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Ostatní finanční instituce celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady ostatních finančních zprostředkovatelů v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Domácnosti celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady domácností v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, jednodenní vklady domácností v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s dohodnutou splatností do dvou let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s dohodnutou splatností od dvou let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady domácností v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Podniky celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Podniky, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, jednodenní vklady nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s dohodnutou splatností do dvou let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s dohodnutou splatností od dvou let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Podniky, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, vklady nefinančních podniků v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Pojištění a penze celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady pojišťoven a penzijních fondů v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Ostatní finanční instituce celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, celkové vklady ostatních finančních zprostředkovatelů v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Domácnosti celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu celkových vkladů domácností v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu jednodenních vkladů domácností v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů domácností v eurozóně s dohodnutou splatností do dvou let (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů domácností v eurozóně s dohodnutou splatností od dvou let (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů domácností v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Podniky celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu celkových vkladů nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Podniky, jednodenní",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu jednodenních vkladů nefinančních podniků v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Podniky, dohodnutá splatnost ≤ 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů nefinančních podniků v eurozóně s dohodnutou splatností do dvou let (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Podniky, dohodnutá splatnost &gt; 2Y",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů nefinančních podniků v eurozóně s dohodnutou splatností od dvou let (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Podniky, výpovědní lhůta; x ≤ 3M",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu vkladů nefinančních podniků v eurozóně s výpovědní lhůtou do tří měsíců (všechny měny, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Pojištění a penze celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu celkových vkladů pojišťoven a penzijních fondů v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Ostatní finanční instituce celkem",
+            "definition": "Rozvahová statistika měnových finančních institucí, tempo růstu celkových vkladů ostatních finančních zprostředkovatelů v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Poměr úvěrů k vkladům",
+            "definition": "Rozvahová statistika měnových finančních institucí, poměr celkových úvěrů k celkovým vkladům u nefinančních podniků a domácností v eurozóně a nefinančních podniků, domácností a nebankovních finančních institucí mimo eurozónu (bez vládních institucí, všechny měny, všechny splatnosti, bez sezonního očištění, v procentech, čtvrtletně)"
+        }
+    }
+}

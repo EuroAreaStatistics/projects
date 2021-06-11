@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo tekočega računa kot odstotek bruto domačega proizvoda (BDP) (triletno drseče povprečje, izračunano v skladu z mednarodnimi standardi, kot sta BPM6 in ESR 2010). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša +6% in -4%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Saldo tekočega računa (3 leta)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Neto stanje mednarodnih naložb kot odstotek bruto domačega proizvoda (BDP) (letno, izračunano v skladu z mednarodnimi standardi, kot sta BPM6 in ESR 2010).  V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša -35%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Stanje mednarodnih naložb (letno)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Realni efektivni devizni tečaj (deflacionirano s HICP/CPI, odstotna sprememba v treh letih glede na 41 drugih industrijskih držav). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik za države euroobmočja znaša -/+5%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Realni efektivni devizni tečaj (3 leta)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Delež na izvoznih trgih (merjeno z vrednostjo izvoza, odstotna sprememba v petih letih, izračunano v skladu z mednarodnimi standardi, kot je BPM6). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša -6%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Delež na izvoznih trgih (5 let)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominalni stroški dela na enoto proizvoda (odstotna sprememba v treh letih na podlagi števila zaposlenih). Stroški dela na enoto proizvoda so merilo skupnih stroškov dela na enoto proizvoda, izračunanih kot razmerje med sredstvi za zaposlene na zaposlenega in produktivnostjo dela (opredeljeno kot BDP na zaposleno osebo).V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik za države euroobmočja znaša +9%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Nominalni stroški dela na enoto proizvoda (3 leta)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Cene stanovanj v primerjavi z Eurostatovim deflatorjem zasebne potrošnje (medletna odstotna sprememba, nova in obstoječa stanovanja). Kazalnik cen stanovanjskih nepremičnin za euroobmočje je povprečje neharmoniziranih kazalnikov po državah, ki temeljijo na nacionalnih virih. Pri pokritosti obstajajo med državami določene razlike. V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 6%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Cene stanovanj</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Kreditni tok zasebnemu sektorju kot odstotek bruto domačega proizvoda (BDP) (konsolidirano, izračunano v skladu z mednarodnimi standardi, kot sta BPM6 in ESR 2010). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 15%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Kreditni tok zasebnemu sektorju</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dolg zasebnega sektorja kot odstotek BDP (konsolidirano, izračunano v skladu z mednarodnimi standardi, kot sta BPM6 in ESR 2010). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 133%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Dolg zasebnega sektorja</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dolg širše opredeljene države kot odstotek bruto domačega proizvoda (BDP) (izračunano v skladu z mednarodnimi standardi, kot sta BPM6 in ESR 2010).  V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 60%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Dolg širše opredeljene države</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Skupne obveznosti finančnega sektorja (medletne spremembe, ni konsolidirano, izračunano v skladu z mednarodnimi standardi, kot je ESR 2010). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 16,5%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Obveznosti finančnega sektorja</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmonizirana stopnja brezposelnosti (triletno drseče povprečje). V skladu s <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postopkom v zvezi z makroekonomskimi neravnotežji</a>, ki ga uporablja Evropska komisija, okvirna mejna vrednost za ta kazalnik znaša 10%. Vira: ECB in Evropska komisija (Eurostat in GD Gospodarske in finančne zadeve).</p>",
+            "title": "<p>Stopnja brezposelnosti (3 leta)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekonomska preglednica</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Zunanji kazalniki/kazalniki konkurenčnosti</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Notranji kazalniki</p>"
+        }
+    }
+}

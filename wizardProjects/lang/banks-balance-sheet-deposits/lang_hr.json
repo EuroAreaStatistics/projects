@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilance banaka - depoziti",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        },
+        "3": {
+            "title": "Stope rasta"
+        },
+        "4": {
+            "title": "Omjer kredita i depozita"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Kućanstva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Kućanstva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, prekonoćni depoziti kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Kućanstva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti kućanstava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Kućanstva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti kućanstava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Kućanstva, s otkaznim rokom; x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, iskupivi depoziti kućanstava europodručja s otkaznim rokom do tri mjeseca (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Nefinancijska društva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Nefinancijska društva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, prekonoćni depoziti nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s otkaznim rokom; x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, iskupivi depoziti nefinancijskih društava europodručja s otkaznim rokom do tri mjeseca (sve valute, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Osigur. društva i mirovinski fondovi, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti osiguravajućih društava i mirovinskih fondova europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Druge financijske institucije, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti drugih financijskih posrednika europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, stanje na kraju razdoblja)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Kućanstva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Kućanstva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, prekonoćni depoziti kućanstava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Kućanstva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti kućanstava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Kućanstva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti kućanstava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Kućanstva, s otkaznim rokom; x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, iskupivi depoziti kućanstava europodručja s otkaznim rokom do tri mjeseca (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Nefinancijska društva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Nefinancijska društva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, prekonoćni depoziti nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Nefin. društva, s otkaznim rokom, x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, iskupivi depoziti nefinancijskih društava europodručja s otkaznim rokom do tri mjeseca (sve valute, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Osigur. društva i mirovinski fondovi, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti osiguravajućih društava i mirovinskih fondova europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Druge financijske institucije, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, ukupni depoziti drugih financijskih posrednika europodručja (sve valute, svi rokovi dospijeća, izraženo u eurima, nedesezonirano, financijske transakcije)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Kućanstva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih depozita kućanstava europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Kućanstva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta prekonoćnih depozita kućanstava europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Kućanstva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta depozita kućanstava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Kućanstva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta depozita kućanstava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Kućanstva, s otkaznim rokom; x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta iskupivih depozita kućanstava europodručja s otkaznim rokom do tri mjeseca (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Nefinancijska društva, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih depozita nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Nefinancijska društva, prekonoćni",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta prekonoćnih depozita nefinancijskih društava europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Nefin. društva, s ugovorenim dospijećem ≤ 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta depozita nefinancijskih društava europodručja s ugovorenim rokom dospijeća do dvije godine (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Nefin. društva, s ugovorenim dospijećem &gt; 2G",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta depozita nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od dvije godine (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Nefin. društva, s otkaznim rokom; x ≤ 3M",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta iskupivih depozita nefinancijskih društava europodručja s otkaznim rokom do tri mjeseca (sve valute, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Osigur. društva i mirovinski fondovi, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih depozita osiguravajućih društava i mirovinskih fondova europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Druge financijske institucije, ukupno",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, stope rasta ukupnih depozita drugih financijskih posrednika europodručja (sve valute, svi rokovi dospijeća, nedesezonirano, godišnje promjene u postotcima)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Omjer kredita i depozita",
+            "definition": "Statistički podatci iz bilanca monetarnih financijskih institucija, omjer ukupnih kredita i ukupnih depozita u odnosu na nefinancijska društva i kućanstva europodručja te nefinancijska društva, kućanstva i nebankovne financijske institucije izvan europodručja (isključujući opću državu, sve valute, svi rokovi dospijeća, nedesezonirano, postotak, tromjesečno)"
+        }
+    }
+}

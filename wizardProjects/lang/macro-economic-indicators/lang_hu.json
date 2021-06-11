@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>A GDP-arányos államháztartási hiány (-) vagy GDP-arányos államháztartási többlet (+) a maastrichti kritériumra utal. Az államháztartási hiányt mérő statisztikák a swapügyletekhez kapcsolódó elszámolásokat is magukban foglalják. (Folyó áron vett nem pénzügyi tőkeáramlás százalékban, szezonális vagy munkanap szerinti kiigazítás nélkül.) Az ábrákon feltüntetett utolsó két év adatai az Európai Bizottság Gazdasági és Pénzügyi Főigazgatóságának előrejelzésein alapulnak. A Stabilitási és Növekedési Paktumban a költségvetési hiány referenciaértéke 3%.</p>",
+            "title": "<p>GDP-arányos államháztartási hiány/többlet</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>A GDP-arányos államadósság a maastrichti kritériumra utal. Az államadósság-statisztika megegyezik a túlzott hiány esetén indítandó eljárásban használt statisztikával. (Nominálértéken vett pénzügyi állományok, százalék, szezonális és munkanap szerinti kiigazítás nélkül.) Az ábrákon feltüntetett utolsó két év adatai az Európai Bizottság Gazdasági és Pénzügyi Főigazgatóságának előrejelzésein alapulnak. A maastrichti kritériumban 60%-os referenciaérték szerepel.</p>",
+            "title": "<p>GDP-arányos államadósság</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Piaci árfolyamon számolt bruttó hazai termék, nemzetgazdaság, euróban denominálva, láncindexált, 2010-es bázisra hozott volumenadatok, szezonális és munkanap szerinti kiigazítással. Forrás: Eurostat</p>",
+            "title": "<p>Volumen</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Piaci árfolyamon számolt bruttó hazai termék, nemzetgazdaság, nemzeti valutában kifejezve (rögzített árfolyamon a jelenlegi fizetőeszközre átváltott tételeket is tartalmazhat), láncindexált (közös bázisra hozott) volumenadatok, éves növekedési ütem, szezonális és munkanap szerinti kiigazítással. Forrás: Eurostat</p>",
+            "title": "<p>Éves növekedési ütem</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>A háztartások bruttó rendelkezésre álló jövedelemhez viszonyított adósságának aránya (nem konszolidált, folyó áron, százalék, szezonális és munkanap szerinti kiigazítás nélkül). </p>",
+            "title": "<p>Háztartási adósságmutató (év)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>A nem pénzügyi vállalatok adósságmutatója a GDP arányában. Az adósságállomány a felvett hitelt és a kibocsátott adósságpapír-állományt foglalja magában (Konszolidált, piaci áron, százalék, szezonális és munkanap szerinti kiigazítás nélkül.)</p>",
+            "title": "<p>Vállalati adósságmutató</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>A háztartások bruttó rendelkezésre álló jövedelemhez viszonyított adósságállománya (nem konszolidált, folyó áron, százalék, szezonális és munkanap szerinti kiigazítás nélkül). Ha nem látható adat, az azt jelenti, hogy nem is áll rendelkezésre.  </p>",
+            "title": "<p>Háztartási adósságmutató (né.)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmonizált munkanélküliségi ráta (az aktív népesség százalékában), országok között egységesítve, összes korosztály, férfiak és nők, szezonális kiigazítással és munkanap szerinti kiigazítás nélkül. Forrás: Eurostat</p>",
+            "title": "<p>Munkanélküliségi ráta</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makrogazdasági mutatók</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>GDP</p>"
+        },
+        "2": {
+            "title": "<p>Munkanélküliség</p>"
+        },
+        "3": {
+            "title": "<p>Eladósodottság</p>"
+        }
+    }
+}

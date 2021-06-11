@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Internationale investeringspositie, reserves (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Activa</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Internationale investeringspositie, reserves als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (positie ultimo kwartaal ten opzichte van niet-ingezetenen; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Activaratio</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externe sector - Reserves</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Reserves</p>"
+        }
+    }
+}

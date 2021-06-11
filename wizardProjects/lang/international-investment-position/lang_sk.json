@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Čistá medzinárodná investičná pozícia (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čistá</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Aktíva medzinárodnej investičnej pozície (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Pasíva medzinárodnej investičnej pozície (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Čistá medzinárodná investičná pozícia ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Aktíva medzinárodnej investičnej pozície ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Pasíva medzinárodnej investičnej pozície ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer pasív</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Medzinárodná investičná pozícia, čisté priame investície (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva priamych investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva priamych investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Medzinárodná investičná pozícia, čisté priame investície ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva priamych investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva priamych investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer pasív</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Medzinárodná investičná pozícia, čisté portfóliových investícií (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva portfóliových investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva portfóliových investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Medzinárodná investičná pozícia, portfóliové investície ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva portfóliových investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva portfóliových investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer pasív</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Medzinárodná investičná pozícia, čisté ostatné investície (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Čisté</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva ostatných investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva ostatných investícií (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Pasíva</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Medzinárodná investičná pozícia, saldo ostatných investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (aktíva mínus pasíva, stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý pomer</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Medzinárodná investičná pozícia, aktíva ostatných investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Medzinárodná investičná pozícia, pasíva ostatných investícií ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer pasív</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Externý sektor - Medzinárodná investičná pozícia</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Spolu</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Priame investície</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfóliové investície</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Ostatné investície</p>"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Balança financeira em termos líquidos e em percentagem do produto interno bruto (PIB) a preços de mercado (ativos <em>menos</em> passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Ativo da balança financeira em percentagem do produto interno bruto (PIB) a preços de mercado (ativos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio do ativo</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Passivo da balança financeira em percentagem do produto interno bruto (PIB) a preços de mercado (passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio do passivo</p>"
+        },
+        "1": {
+            "definition": "<p>Balança financeira em termos líquidos (ativos <em>menos</em> passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Ativo da balança financeira (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativo</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Passivo da balança financeira (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivo</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Balança financeira em termos líquidos: investimento direto (ativos <em>menos</em> passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Balança financeira: ativo do investimento direto (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativo</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Balança financeira: passivo do investimento direto (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivo</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Balança financeira em termos líquidos: investimento de carteira (ativos <em>menos</em> passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Balança financeira: ativo do investimento de carteira (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativo</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Balança financeira: passivo do investimento de carteira (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivo</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Balança financeira em termos líquidos: outro investimento (ativos <em>menos</em> passivos; operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Balança financeira: ativo do outro investimento (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativo</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Balança financeira: passivo do outro investimento (operações com não residentes; acumulado de quatro trimestres; sem correção de sazonalidade ou de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Setor externo – Balança financeira</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Investimento direto</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Investimento de carteira</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Outro investimento</p>"
+        }
+    }
+}

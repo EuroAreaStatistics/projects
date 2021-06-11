@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Waardepapieren - Schuldbewijzen",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Nieuwe uitgiften"
+        },
+        "3": {
+            "title": "Netto uitgiften"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banken, standen",
+            "definition": "Uitstaande bedragen aan schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banken, standen; x ≤ 1j",
+            "definition": "Uitstaande bedragen aan kortlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banken, standen; x &gt; 1j",
+            "definition": "Uitstaande bedragen aan langlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Ondernemingen, standen",
+            "definition": "Uitstaande bedragen aan schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Ondernemingen, standen; x ≤ 1j",
+            "definition": "Uitstaande bedragen aan kortlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Ondernemingen, standen; x &gt; 1j",
+            "definition": "Uitstaande bedragen aan langlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Overheid, standen",
+            "definition": "Uitstaande bedragen aan schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Overheid, standen; x ≤ 1j",
+            "definition": "Uitstaande bedragen aan kortlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Overheid, standen; x &gt; 1j",
+            "definition": "Uitstaande bedragen aan langlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, standen",
+            "definition": "Uitstaande bedragen aan schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, standen; x ≤ 1j",
+            "definition": "Uitstaande bedragen aan kortlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, standen; x &gt; 1j",
+            "definition": "Uitstaande bedragen aan langlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Totaal, standen",
+            "definition": "Totaal uitstaande bedragen aan schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Totaal, standen; x ≤ 1j",
+            "definition": "Totaal uitstaande bedragen aan kortlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Totaal, standen; x &gt; 1j",
+            "definition": "Totaal uitstaande bedragen aan langlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banken, nieuw",
+            "definition": "Bruto uitgiften schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banken, nieuw; x ≤ 1j",
+            "definition": "Bruto uitgiften kortlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banken, nieuw; x &gt; 1j",
+            "definition": "Bruto uitgiften langlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Ondernemingen, nieuw",
+            "definition": "Bruto uitgiften schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Ondernemingen, nieuw; x ≤ 1j",
+            "definition": "Bruto uitgiften kortlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Ondernemingen, nieuw; x &gt; 1j",
+            "definition": "Bruto uitgiften langlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Overheid, nieuw",
+            "definition": "Bruto uitgiften schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Overheid, nieuw; x ≤ 1j",
+            "definition": "Bruto uitgiften kortlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Overheid, nieuw; x &gt; 1j",
+            "definition": "Bruto uitgiften langlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, nieuw",
+            "definition": "Bruto uitgiften schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, nieuw; x ≤ 1j",
+            "definition": "Bruto uitgiften kortlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, nieuw; x &gt; 1j",
+            "definition": "Bruto uitgiften langlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Totaal, nieuw",
+            "definition": "Totaal bruto uitgiften schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Totaal, nieuw; x &gt; 1j",
+            "definition": "Totaal bruto uitgiften langlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Totaal, nieuw; x ≤ 1j",
+            "definition": "Totaal bruto uitgiften kortlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banken, netto",
+            "definition": "Netto uitgiften schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banken, netto; x ≤ 1j",
+            "definition": "Netto uitgiften kortlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banken, netto; x &gt; 1j",
+            "definition": "Netto uitgiften langlopende schuldbewijzen uitgegeven door monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Ondernemingen, netto",
+            "definition": "Netto uitgiften schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Ondernemingen, netto; x ≤ 1j",
+            "definition": "Netto uitgiften kortlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Ondernemingen, netto; x &gt; 1j",
+            "definition": "Netto uitgiften langlopende schuldbewijzen uitgegeven door niet-financiële ondernemingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Overheid, netto",
+            "definition": "Netto uitgiften schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Overheid, netto; x ≤ 1j",
+            "definition": "Netto uitgiften kortlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Overheid, netto; x &gt; 1j",
+            "definition": "Netto uitgiften langlopende schuldbewijzen uitgegeven door overheid (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, netto",
+            "definition": "Netto uitgiften schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, netto; x ≤ 1j",
+            "definition": "Netto uitgiften kortlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Overige financiële ondernemingen, netto; x &gt; 1j",
+            "definition": "Netto uitgiften langlopende schuldbewijzen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Totaal, netto",
+            "definition": "Totaal netto uitgiften schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Totaal, netto; x ≤ 1j",
+            "definition": "Totaal netto uitgiften kortlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Totaal, netto; x &gt; 1j",
+            "definition": "Totaal netto uitgiften langlopende schuldbewijzen (nominale waarde, alle valuta's samen, luidende in euro, uitgegeven door ingezetenen)"
+        }
+    }
+}

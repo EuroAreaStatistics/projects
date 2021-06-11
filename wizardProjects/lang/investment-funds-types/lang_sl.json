@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investicijski skladi - Po vrsti sklada",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        },
+        "3": {
+            "title": "Stopnje rasti"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Odprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: odprti skladi (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Zaprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: zaprti skladi (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Skupaj",
+            "definition": "Investicijski skladi razen skladov denarnega trga, delnice/enote investicijskih skladov (stanje ob koncu obdobja, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Odprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: odprti skladi (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Zaprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: zaprti skladi (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Skupaj",
+            "definition": "Investicijski skladi razen skladov denarnega trga, delnice/enote investicijskih skladov (finančne transakcije, vse zapadlosti, vse valute skupaj, izraženo v eurih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Odprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: odprti skladi (medletna stopnja rasti, vse zapadlosti, vse valute skupaj, medletne spremembe v odstotkih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Zaprti skladi",
+            "definition": "Delnice/enote investicijskih skladov, ki so jih izdali investicijski skladi razen skladov denarnega trga, razčlenjeno po vrsti sklada: zaprti skladi (medletna stopnja rasti, vse zapadlosti, vse valute skupaj, medletne spremembe v odstotkih, ni desezonirano, mesečni podatki)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Skupaj",
+            "definition": "Investicijski skladi razen skladov denarnega trga, delnice/enote investicijskih skladov (medletna stopnja rasti, vse zapadlosti, vse valute skupaj, medletne spremembe v odstotkih, ni desezonirano, mesečni podatki)"
+        }
+    }
+}

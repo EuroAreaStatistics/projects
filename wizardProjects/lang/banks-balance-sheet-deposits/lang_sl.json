@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilanca stanja bank - Vloge",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        },
+        "3": {
+            "title": "Stopnje rasti"
+        },
+        "4": {
+            "title": "Razmerje med posojili in vlogami"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge gospodinjstev euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge gospodinjstev euroobmočja čez noč (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge gospodinjstev euroobmočja do vključno dveh let (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge gospodinjstev euroobmočja nad dvema letoma (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge gospodinjstev euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Družbe, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge nefinančnih družb euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Družbe, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge nefinančnih družb euroobmočja čez noč (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Družbe, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge nefinančnih družb euroobmočja do vključno dveh let (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Družbe, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge nefinančnih družb euroobmočja nad dvema letoma (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Družbe, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge nefinančnih družb euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Zavarovalnice in pokojninski skladi, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge zavarovalnic in pokojninskih skladov euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Drugi finančni posredniki, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge drugih finančnih posrednikov euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, stanje ob koncu obdobja)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge gospodinjstev euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge gospodinjstev euroobmočja čez noč (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge gospodinjstev euroobmočja do vključno dveh let (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge gospodinjstev euroobmočja nad dvema letoma (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Gospodinjstva, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge gospodinjstev euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Družbe, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge nefinančnih družb euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Družbe, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge nefinančnih družb euroobmočja čez noč (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Družbe, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge nefinančnih družb euroobmočja do vključno dveh let (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Družbe, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vezane vloge nefinančnih družb euroobmočja nad dvema letoma (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Družbe, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, vloge nefinančnih družb euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Zavarovalnice in pokojninski skladi, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge zavarovalnic in pokojninski skladov euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Drugi finančni posredniki, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, skupaj vloge drugih finančnih posrednikov euroobmočja (vse valute skupaj, vse zapadlosti, izraženo v eurih, ni desezonirano, finančne transakcije)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Gospodinjstva, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti skupnih vlog gospodinjstev euroobmočja (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Gospodinjstva, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vlog gospodinjstev euroobmočja čez noč (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Gospodinjstva, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vezanih vlog gospodinjstev euroobmočja do vključno dveh let (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Gospodinjstva, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vezanih vlog gospodinjstev euroobmočja nad dvema letoma (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Gospodinjstva, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vlog gospodinjstev euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Družbe, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti skupnih vlog nefinančnih družb euroobmočja (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Družbe, vloge čez noč",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vlog nefinančnih družb euroobmočja čez noč (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Družbe, vezane vloge ≤ 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vezanih vlog nefinančnih družb euroobmočja do vključno dveh let (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Družbe, vezane vloge &gt; 2 L",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vezanih vlog nefinančnih družb euroobmočja nad dvema letoma (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Družbe, vloge na odpoklic; x ≤ 3 M",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti vlog nefinančnih družb euroobmočja na odpoklic z odpovednim rokom do vključno treh mesecev (vse valute skupaj, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Zavarovalnice in pokojninski skladi, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti skupnih vlog zavarovalnic in pokojninski skladov euroobmočja (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Drugi finančni posredniki, skupaj",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, stopnja rasti skupnih vlog drugih finančnih posrednikov euroobmočja (vse valute skupaj, vse zapadlosti, ni desezonirano, medletne spremembe v odstotkih)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Razmerje med posojili in vlogami",
+            "definition": "Statistični podatki o bilanci stanja denarnih finančnih institucij, razmerje med skupnimi posojili in skupnimi vlogami za nefinančne družbe in gospodinjstva v euroobmočju ter za nefinančne družbe, gospodinjstva in nebančne finančne institucije zunaj euroobmočja (brez širše opredeljene države, vse valute skupaj, vse zapadlosti, ni desezonirano, v odstotkih, četrtletno)"
+        }
+    }
+}

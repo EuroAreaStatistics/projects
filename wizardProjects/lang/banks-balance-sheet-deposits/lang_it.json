@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilancio delle banche - Depositi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Flussi"
+        },
+        "3": {
+            "title": "Tassi di crescita"
+        },
+        "4": {
+            "title": "Rapporto prestiti/depositi"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Famiglie, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Famiglie, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi overnight delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Famiglie; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita fino a due anni delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Famiglie; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita superiore a due anni delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Famiglie, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi rimborsabili con preavviso fino a tre mesi delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Società, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Società, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi overnight delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Società; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita fino a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Società; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita superiore a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Società, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi rimborsabili con preavviso fino a tre mesi delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Assicurazioni e fondi pensione, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle società di assicurazione e dei fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "AIF, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali degli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Famiglie, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Famiglie, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi overnight delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Famiglie; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita fino a due anni delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Famiglie; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita superiore a due anni delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Famiglie, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi rimborsabili con preavviso fino a tre mesi delle famiglie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Società, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Società, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi overnight delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Società; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita fino a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Società; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi con durata prestabilita superiore a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Società, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi rimborsabili con preavviso fino a tre mesi delle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Assicurazioni e fondi pensione, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali delle società di assicurazione e dei fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "AIF, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, depositi totali degli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Famiglie, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi totali delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Famiglie, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi overnight delle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Famiglie; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi con durata prestabilita fino a due anni delle famiglie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Famiglie; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi con durata prestabilita superiore a due anni delle famiglie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Famiglie, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi rimborsabili con preavviso fino a tre mesi delle famiglie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Società, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi totali delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Società, overnight",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi overnight delle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Società; durata prestabilita ≤ 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi con durata prestabilita fino a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Società; durata prestabilita &gt; 2A",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi con durata prestabilita superiore a due anni delle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Società, con preavviso; x ≤ 3M",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi rimborsabili con preavviso fino a tre mesi delle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Assicurazioni e fondi pensione, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi totali delle società di assicurazione e dei fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "AIF, totale",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei depositi totali degli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Rapporto prestiti/depositi",
+            "definition": "Statistiche di bilancio delle istituzioni finanziarie monetarie, rapporto tra prestiti totali e depositi totali nei confronti di società non finanziarie e famiglie dell’area dell’euro, nonché società non finanziarie, famiglie e istituzioni finanziarie non bancarie esterne all’area dell’euro (escluse le amministrazioni pubbliche, tutte le valute, tutte le scadenze, dati percentuali trimestrali non destagionalizzati)"
+        }
+    }
+}

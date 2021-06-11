@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investiciniai fondai - Pagal investavimo politiką",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Srautai"
+        },
+        "3": {
+            "title": "Augimo tempas"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obligacijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: obligacijų fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Akcijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: akcijų fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Mišrieji fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: mišrieji fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Nekilnojamojo turto fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: nekilnojamojo turto fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Rizikos draudimo fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: rizikos draudimo fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kiti fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: kiti fondai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, investicinio fondo akcijos / vienetai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obligacijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: obligacijų fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Akcijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: akcijų fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Mišrieji fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: mišrieji fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Nekilnojamojo turto fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: nekilnojamojo turto fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Rizikos draudimo fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: rizikos draudimo fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kiti fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: kiti fondai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, investicinio fondo akcijos / vienetai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obligacijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: obligacijų fondai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Akcijų fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: akcijų fondai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Mišrieji fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: mišrūs fondai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Nekilnojamojo turto fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: nekilnojamojo turto fondai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Rizikos draudimo fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: rizikos draudimo fondai (visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kiti fondai",
+            "definition": "Investicinių fondų akcijos / vienetai, išleisti investicinių fondų, išskyrus pinigų rinkos fondus, suskirstyti pagal investavimo politiką: kiti fondai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, investicinio fondo akcijos / vienetai (metinis augimo tempas, visų terminų, visomis valiutomis kartu, metinis pokytis procentais, dėl sezoniškumo nekoreguoti, mėnesio duomenys)"
+        }
+    }
+}

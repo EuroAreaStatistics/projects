@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Befektetési alap - Befektetési politika szerint",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állomány"
+        },
+        "2": {
+            "title": "Állományváltozás"
+        },
+        "3": {
+            "title": "Növekedési ütem"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kötvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: kötvényalap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Részvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: részvényalap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Vegyes alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: vegyes alap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ingatlanalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: ingatlanalap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fedezeti alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: fedezeti alap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Egyéb alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: egyéb alap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kötvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: kötvényalap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Részvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: részvényalap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Vegyes alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: vegyes alap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ingatlanalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: ingatlanalap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fedezeti alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: fedezeti alap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Egyéb alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: egyéb alap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kötvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: kötvényalap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Részvényalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: részvényalap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Vegyes alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: vegyes alap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ingatlanalap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: ingatlanalap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fedezeti alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: fedezeti alap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Egyéb alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy befektetési politika szerinti bontásban: egyéb alap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        }
+    }
+}

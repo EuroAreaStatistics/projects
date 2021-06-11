@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Crediti in conto corrente (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Crediti</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Debiti in conto corrente (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo delle partite correnti in percentuale del PIL ai prezzi di mercato (crediti meno debiti, transazioni con i non residenti, dati cumulati su quattro trimestri, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto saldo/PIL</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Crediti in conto corrente in percentuale del PIL ai prezzi di mercato (transazioni con i non residenti, dati cumulati su quattro trimestri, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto crediti/PIL</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Debiti in conto corrente in percentuale del PIL ai prezzi di mercato (transazioni con i non residenti, dati cumulati su quattro trimestri, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto debiti/PIL</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Conto corrente, merci, saldo (esportazioni meno importazioni, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Conto corrente, merci, esportazioni (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Esportazioni</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Conto corrente, merci, importazioni (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Importazioni</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Conto corrente, servizi, saldo (esportazioni meno importazioni, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Conto corrente, servizi, esportazioni (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Esportazioni</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Conto corrente, servizi, importazioni (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Importazioni</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Conto corrente, redditi primari: saldo (crediti meno debiti, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Conto corrente, redditi primari: crediti (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Crediti</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Conto corrente, redditi primari: debiti (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Conto corrente, redditi secondari: saldo (crediti meno debiti, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Conto corrente, redditi secondari: crediti (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Crediti</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Conto corrente, redditi secondari: debiti (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo delle partite correnti (crediti meno debiti, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Conto corrente dell’area dell’euro - per principali controparti</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Merci</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Servizi</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Redditi primari</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Redditi secondari</p>"
+        },
+        "1": {
+            "title": "<p>Totale</p>"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Kont finanzjarju nett bħala persentaġġ tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv bil-passiv imnaqqas, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba' trimestri akkumulati; mhux aġġustati staġjonalment jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Attiv tal-kont finanzjarju bħala persentaġġ tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba' trimestri akkumulati, mhux aġġustati staġjonalment jew għall-jiem tax-xogħol; standards BPM6 u standards ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-assi</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Passiv tal-kont finanzjarju bħala persentaġġ tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba' trimestri akkumulati, mhux aġġustati staġjonalment jew għall-jiem tax-xogħol; standards BPM6 u standards ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-passiv</p>"
+        },
+        "1": {
+            "definition": "<p>Kont finanzjarju nett (attiv bil-passiv imnaqqas, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Attiv tal-kont finanzjarju (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Passiv tal-kont finanzjarju (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Kont finanzjarju nett, investiment dirett (attiv nieqes passiv, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Kont finanzjarju, attiv tal-investiment barrani (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Kont finanzjarju, passiv tal-investiment barrani (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Kont finanzjarju nett, investiment tal-portafoll (attiv nieqes passiv, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Kont finanzjarju, attiv tal-investiment tal-portafoll (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Kont finanzjarju, passiv tal-investiment tal-portafoll (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Kont finanzjarju nett, investiment ieħor (attiv nieqes passiv, tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Kont finanzjarju, attiv ta’ investiment ieħor (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Kont finanzjarju, passiv ta’ investiment ieħor (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Settur estern - Kont finanzjarju</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Investiment barrani</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Investiment tal-portafoll</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Investiment ieħor</p>"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Fonduri de investiții - Pe categorii de fonduri",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Fluxuri"
+        },
+        "3": {
+            "title": "Ritmuri de creștere"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri deschise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri deschise (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri închise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri închise (sume scadente la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri deschise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri deschise (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri închise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri închise (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri deschise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri deschise (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri închise",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe categorii de fonduri: fonduri închise (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        }
+    }
+}

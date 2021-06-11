@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Vērtspapīri - biržas sarakstā iekļautās akcijas",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Jaunas emisijas"
+        },
+        "3": {
+            "title": "Neto emisijas"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Bankas, atlikumi",
+            "definition": "Monetāro finanšu iestāžu emitēto biržas sarakstā iekļauto akciju atlikums (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Nefinanšu sabiedrības, atlikumi",
+            "definition": "Nefinanšu sabiedrību emitēto biržas sarakstā iekļauto akciju atlikums (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Citas finanšu iestādes, atlikumi",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto biržas sarakstā iekļauto akciju atlikums (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Kopā, atlikumi",
+            "definition": "Biržas sarakstā iekļauto akciju kopējais atlikums (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Bankas, jaunas",
+            "definition": "Monetāro finanšu iestāžu emitēto biržas sarakstā iekļauto akciju bruto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Nefinanšu sabiedrības, jaunas",
+            "definition": "Nefinanšu sabiedrību emitēto biržas sarakstā iekļauto akciju bruto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Citas finanšu iestādes, jaunas",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto biržas sarakstā iekļauto akciju bruto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Kopā, jaunas",
+            "definition": "Biržas sarakstā iekļauto akciju kopējais bruto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Bankas, neto",
+            "definition": "Monetāro finanšu iestāžu emitēto biržas sarakstā iekļauto akciju neto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Nefinanšu sabiedrības, neto",
+            "definition": "Nefinanšu sabiedrību emitēto biržas sarakstā iekļauto akciju neto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Citas finanšu iestādes, neto",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto biržas sarakstā iekļauto akciju neto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Kopā, neto",
+            "definition": "Biržas sarakstā iekļauto akciju kopējais neto emisijas apjoms (tirgus vērtība, izteikts euro, rezidentu emitētas)"
+        }
+    }
+}

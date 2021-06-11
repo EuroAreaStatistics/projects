@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Kurzfristige Schuldverschreibungen</p>\r\n<p>Gesamtbestand: %{sumOut} %{unit}</p>\r\n<p>Gesamte Emissionen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Haltersektor: %{from}</p>\r\n<p>Bestand: %{value} %{unit}</p>\r\n<p>Instrument: Kurzfristige Schuldverschreibungen</p>\r\n<p>Emittentensektor: %{to}</p>\r\n<p>Anteil an gesamten Beständen: %{percentFrom}</p>\r\n<p>Anteil an gesamten Emissionen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Haltersektor: %{from}; Emittentensektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Langfristige Schuldverschreibungen</p>\r\n<p>Gesamtbestand: %{sumOut} %{unit}</p>\r\n<p>Gesamte Emissionen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Haltersektor: %{from}</p>\r\n<p>Bestand: %{value} %{unit}</p>\r\n<p>Instrument: Langfristige Schuldverschreibungen</p>\r\n<p>Emittentensektor: %{to}</p>\r\n<p>Anteil an gesamten Beständen: %{percentFrom}</p>\r\n<p>Anteil an gesamten Emissionen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Haltersektor: %{from}; Emittentensektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Kurzfristige Kredite</p>\r\n<p>Kreditvergabe insgesamt: %{sumOut} %{unit}</p>\r\n<p>Kreditaufnahme insgesamt: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Kreditgewährender Sektor: %{from}</p>\r\n<p>Kreditvergabe: %{value} %{unit}</p>\r\n<p>Instrument: Kurzfristige Kredite</p>\r\n<p>Kreditaufnehmender Sektor: %{to}</p>\r\n<p>Anteil an gesamten Kreditvergaben: %{percentFrom}</p>\r\n<p>Anteil an gesamten Kreditaufnahmen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Kreditgewährender Sektor: %{from}; Kreditaufnehmender Sektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Langfristige Kredite</p>\r\n<p>Kreditvergabe insgesamt: %{sumOut} %{unit}</p>\r\n<p>Kreditaufnahme insgesamt: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Kreditgewährender Sektor: %{from}</p>\r\n<p>Kreditvergabe: %{value} %{unit}</p>\r\n<p>Instrument: Langfristige Kredite</p>\r\n<p>Kreditaufnehmender Sektor: %{to}</p>\r\n<p>Anteil an gesamten Kreditvergaben: %{percentFrom}</p>\r\n<p>Anteil an gesamten Kreditaufnahmen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Kreditgewährender Sektor: %{from}; Kreditaufnehmender Sektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Einlagen</p>\r\n<p>Platzierter Gesamtbetrag: %{sumOut} %{unit}</p>\r\n<p>Erhaltener Gesamtbetrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Platzierender Sektor: %{from}</p>\r\n<p>Platzierter Betrag: %{value} %{unit}</p>\r\n<p>Instrument: Einlagen</p>\r\n<p>Empfängersektor: %{to}</p>\r\n<p>Anteil an platzierten Gesamteinlagen: %{percentFrom}</p>\r\n<p>Anteil an erhaltenen Gesamteinlagen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Platzierender Sektor: %{from}; Empfängersektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Börsennotierte Aktien</p>\r\n<p>Gesamtbestand: %{sumOut} %{unit}</p>\r\n<p>Gesamte Emissionen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Haltersektor: %{from}</p>\r\n<p>Bestände: %{value} %{unit}</p>\r\n<p>Instrument: Börsennotierte Aktien</p>\r\n<p>Emittentensektor: %{to}</p>\r\n<p>Anteil an gesamten Beständen: %{percentFrom}</p>\r\n<p>Anteil an gesamten Emissionen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Haltersektor: %{from}; Emittentensektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Zeitraum: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Investmentfondsanteile</p>\r\n<p>Gesamtbestand: %{sumOut} %{unit}</p>\r\n<p>Gesamte Emissionen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Zeitraum: %{date}</p>\r\n<p>Haltersektor: %{from}</p>\r\n<p>Bestand: %{value} %{unit}</p>\r\n<p>Instrument: Investmentfondsanteile</p>\r\n<p>Emittentensektor: %{to}</p>\r\n<p>Anteil an gesamten Beständen: %{percentFrom}</p>\r\n<p>Anteil an gesamten Emissionen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Haltersektor: %{from}; Emittentensektor: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>",
+                    "outgoing": "<p>- Daten werden nicht erhoben/Nachweis nicht sinnvoll</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorinterne Bestände</p>"
+            },
+            "title": "<p>Bestände</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Die Angaben in der Netzwerkgrafik „Finanzierungs- und Investitionsdynamik“ sind den Sektorkonten entnommen, die vollständige und konsistente Quartalsdaten für alle gebietsansässigen institutionellen Sektoren enthalten. Das Schaubild stellt die finanziellen Verflechtungen der Sektoren untereinander sowie zwischen ihnen und der übrigen Welt dar. Es zeigt die finanziellen Positionen zwischen den Sektoren (Daten zu Veränderungen sind auch in den öffentlichen Datenbanken der EZB abrufbar). Die Herkunft der Finanzierungsform – Eigen- oder Fremdkapital – und die Verwendung des betreffenden Instruments veranschaulichen die Finanzierungsströme der Sektoren. Die den Sektoren zugeordneten Balken zeigen die Aktiva und Passiva in Bezug auf ein bestimmtes Instrument an. Aufgrund von Leerverkäufen, das heißt von Verkäufen von Wertpapieren oder anderen Finanzinstrumenten, die sich nicht im Eigentum des Verkäufers befinden, könnte es zu negativen ausstehenden Beträgen kommen. Die Pfeile zeigen die Positionen an, die in anderen Sektoren gehalten werden. Sektorinterne Bestände werden unter den Sektorbezeichnungen angegeben.</p>\r\n<p>Daten basieren auf dem Europäischen System Volkswirtschaftlicher Gesamtrechnungen 2010 (ESVG 2010). Sektoren: nichtfinanzielle Kapitalgesellschaften, monetäre Finanzinstitute, Investmentfonds (ohne Geldmarktfonds), sonstige Finanzinstitute, Versicherungsunternehmen, Pensionseinrichtungen, Staat, private Haushalte (einschließlich privater Organisationen ohne Erwerbszweck), übrige Welt (bezieht sich auf Positionen zwischen Ansässigen und Gebietsfremden). Instrumente: Einlagen, kurzfristige Schuldverschreibungen, langfristige Schuldverschreibungen, kurzfristige Kredite, langfristige Kredite, börsennotierte Aktien, Investmentfondsanteile. Daten werden auf nicht konsolidierter Basis angegeben, d. h. die Summen und Prozentangaben für die Instrumente schließen sektorinterne Finanzpositionen ein (z. B. von Banken an andere Banken vergebene Kredite); Schlussbilanz per Quartalsende; Daten sind weder saison- noch kalenderbereinigt; Beträge lauten auf Mrd EUR; kurzfristige Ursprungslaufzeit bis zu einem Jahr, langfristige Ursprungslaufzeit ab einem Jahr oder ohne Angabe; Daten werden für das Eurogebiet als Ganzes angegeben, ein „-“ zeigt an, dass keine Daten erhoben wurden/ein Nachweis nicht sinnvoll ist.   </p>\r\n<p>Die aufgeführten Instrumente decken nicht alle finanziellen Vermögenswerte und Verbindlichkeiten ab, da Währungen, nicht börsennotierte Aktien und sonstige Anteilsrechte, Versicherungen und Pensionseinrichtungen, Finanzderivate und sonstige Forderungen/Verbindlichkeiten nicht berücksichtigt sind. Weitere Daten sind unter folgendem Link abrufbar: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>EZB</p>"
+        },
+        "title": "<p>Finanzierungs- und Investitionsdynamik</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Kurzfristige Schuldverschreibungen</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Langfristige Schuldverschreibungen</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Kurzfristige Kredite</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Langfristige Kredite</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Einlagen</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Börsennotierte Aktien</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>Übrige Welt</p>",
+                "S11": "<p>Kapital­gesellschaften</p>",
+                "S124": "<p>Investmentfonds</p>",
+                "S128": "<p>Versicherungen</p>",
+                "S129": "<p>Pensions­einrichtungen</p>",
+                "S12K": "<p>Banken</p>",
+                "S12O": "<p>Sonstige Finanzinstitute</p>",
+                "S13": "<p>Staat</p>",
+                "S1M": "<p>Private Haushalte</p>",
+                "WLD": "<p>Insgesamt</p>"
+            },
+            "title": "<p>Investmentfondsanteile</p>"
+        }
+    }
+}

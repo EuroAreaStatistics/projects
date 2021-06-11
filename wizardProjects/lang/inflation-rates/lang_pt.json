@@ -1,0 +1,71 @@
+{
+    "charts": {
+        "ICP.M..N.000000.4.ANR": {
+            "definition": "<p>Índice Harmonizado de Preços no Consumidor (IHPC). Taxa de inflação global (taxa de variação homóloga).  O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Inflação global</p>"
+        },
+        "ICP.M..N.010000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “produtos alimentares e bebidas não alcoólicas” (taxa de variação homóloga).  O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Produtos alimentares e bebidas</p>"
+        },
+        "ICP.M..N.020000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “bebidas alcoólicas, tabaco” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Álcool, tabaco</p>"
+        },
+        "ICP.M..N.030000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “vestuário e calçado” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Vestuário, calçado</p>"
+        },
+        "ICP.M..N.040000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “habitação, água, eletricidade, gás e outros combustíveis” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Habitação, eletricidade, gás</p>"
+        },
+        "ICP.M..N.050000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “mobiliário, artigos de decoração, equipamento doméstico e manutenção corrente da habitação” (taxa de variação homóloga).   O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Mobiliário, etc.</p>"
+        },
+        "ICP.M..N.060000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “saúde” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Saúde</p>"
+        },
+        "ICP.M..N.070000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “transportes” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Transportes</p>"
+        },
+        "ICP.M..N.080000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “comunicações” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Comunicações</p>"
+        },
+        "ICP.M..N.090000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “recreação e cultura” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Recreação, cultura</p>"
+        },
+        "ICP.M..N.100000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “educação” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Educação</p>"
+        },
+        "ICP.M..N.110000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “restaurantes e hotéis” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Restaurantes, hotéis</p>"
+        },
+        "ICP.M..N.120000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “bens e serviços diversos” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Diversos</p>"
+        },
+        "ICP.M..N.XEF000.4.ANR": {
+            "definition": "<p>O Índice Harmonizado de Preços no Consumidor (IHPC) para o subgrupo “todas as rubricas excluindo produtos energéticos e produtos alimentares” (taxa de variação homóloga). O IHPC é elaborado pelo Eurostat, o serviço de estatística da União Europeia, em conjunto com os institutos nacionais de estatística. Mede a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz de bens de consumo e serviços. O BCE visa manter as taxas de inflação homólogas, tal como medidas pelo IHPC, abaixo mas próximo de 2% no médio prazo. O IHPC é também utilizado para avaliar se um país está em posição de aderir à área do euro.</p>",
+            "title": "<p>Inflação excl. produtos energéticos e alimentares</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Taxas de inflação - Índice de preços no consumidor</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Inflação</p>"
+        }
+    }
+}

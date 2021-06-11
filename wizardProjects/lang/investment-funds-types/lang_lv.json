@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Ieguldījumu fondi - fondu veida dalījumā",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Plūsmas"
+        },
+        "3": {
+            "title": "Pieauguma temps"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Atvērtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: atvērtie fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Slēgtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: slēgtie fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Atvērtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: atvērtie fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Slēgtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: slēgtie fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Atvērtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: atvērtie fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Slēgtie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc fondu veida: slēgtie fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo rachunku bieżącego jako proc. PKB (średnia krocząca z 3 lat, obliczane wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi -4%/+6%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Saldo rachunku bieżącego (3 lata)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna netto jako proc. PKB (w ujęciu rocznym, obliczana wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi -35%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Międzynarodowa pozycja inwestycyjna (1 rok)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Realny efektywny kurs walutowy (z uwzględnieniem deflatorów HICP/CPI, zmiana proc. w okresie 3 lat wobec pozostałych 41 krajów uprzemysłowionych). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika w przypadku krajów ze strefy euro wynosi +/-5%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Realny efektywny kurs walutowy (3 lata)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Udział w rynkach eksportowych (wartościowo, zmiana proc. w okresie 5 lat, obliczany wg standardów międzynarodowych, np. BPM6). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi -6%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Udział w rynkach eksportowych (5 lat)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominalne jednostkowe koszty pracy (zmiana proc. w okresie 3 lat, per capita). Jednostkowe koszty pracy są miarą łącznego kosztu pracy na jednostkę produktu i stanowią relację średniego wynagrodzenia do wydajności pracy (zdefiniowanej jako PKB na zatrudnionego). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika w przypadku krajów ze strefy euro wynosi +9%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Nominalne jednostkowe koszty pracy (3 lata)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Ceny nieruchomości w relacji do deflatora spożycia prywatnego wg Eurostatu (zmiana rok do roku w proc., mieszkania nowe i istniejące). Wskaźnik cen nieruchomości mieszkaniowych dla strefy euro to średnia niezharmonizowanych wskaźników krajowych na podstawie danych ze źródeł krajowych. Zakres dla poszczególnych krajów nieco się różni. Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 6%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Ceny nieruchomości</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Przepływy kredytowe sektora prywatnego jako proc. PKB (skonsolidowane, obliczane wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 15%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Przepływy kredytowe sektora prywatnego</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Zadłużenie sektora prywatnego jako proc. PKB (skonsolidowane, obliczane wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 133%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Zadłużenie sektora prywatnego</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dług sektora instytucji rządowych i samorządowych jako proc. PKB (obliczany wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 60%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Dług sektora instytucji rządowych i samorządowych</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Zobowiązania ogółem sektora finansowego (zmiany rok do roku, nieskonsolidowane, obliczane wg standardów międzynarodowych, np. BPM6 i ESA 2010). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 16,5%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Zobowiązania sektora finansowego</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Zharmonizowana stopa bezrobocia (średnia krocząca z 3 lat). Zgodnie z <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedurą dotyczącą zakłóceń równowagi makroekonomicznej</a> przeprowadzaną przez Komisję Europejską próg ostrożnościowy dla tego wskaźnika wynosi 10%. Źródła: EBC i Komisja Europejska (Eurostat i Dyrekcja Generalna ds. Gospodarczych i Finansowych).</p>",
+            "title": "<p>Stopa bezrobocia (3 lata)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Tablica wskaźników makroekonomicznych</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Wskaźniki nierównowagi zewn. i konkurencyjności</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Wskaźniki nierównowagi wewnętrznej</p>"
+        }
+    }
+}

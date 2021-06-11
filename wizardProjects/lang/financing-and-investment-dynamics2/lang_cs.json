@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: krátkodobé dluhové cenné papíry</p>\r\n<p>Celkově držená částka: %{sumOut} %{unit}</p>\r\n<p>Celkově emitovaná částka: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Sektor držící nástroje: %{from}</p>\r\n<p>Držená částka: %{value} %{unit}</p>\r\n<p>Nástroj: krátkodobé dluhové cenné papíry</p>\r\n<p>Emitující sektor: %{to}</p>\r\n<p>Podíl celkově držených nástrojů: %{percentFrom}</p>\r\n<p>Podíl celkových emisí: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor držící nástroje: %{from}; emitující sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: dlouhodobé dluhové cenné papíry</p>\r\n<p>Celkově držená částka: %{sumOut} %{unit}</p>\r\n<p>Celkově emitovaná částka: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Sektor držící nástroje: %{from}</p>\r\n<p>Držená částka: %{value} %{unit}</p>\r\n<p>Nástroj: dlouhodobé dluhové cenné papíry</p>\r\n<p>Emitující sektor: %{to}</p>\r\n<p>Podíl celkově držených nástrojů: %{percentFrom}</p>\r\n<p>Podíl celkových emisí: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor držící nástroje: %{from}; emitující sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: krátkodobé úvěry</p>\r\n<p>Celkově poskytnuté úvěry: %{sumOut} %{unit}</p>\r\n<p>Celkově čerpané úvěry: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Úvěrující sektor: %{from}</p>\r\n<p>Částka úvěru: %{value} %{unit}</p>\r\n<p>Nástroj: krátkodobé úvěry</p>\r\n<p>Sektor čerpající úvěry: %{to}</p>\r\n<p>Podíl celkových poskytnutých úvěrů: %{percentFrom}</p>\r\n<p>Podíl celkových čerpaných úvěrů: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Úvěrující sektor: %{from}; čerpající sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: dlouhodobé úvěry</p>\r\n<p>Celkově poskytnuté úvěry: %{sumOut} %{unit}</p>\r\n<p>Celkově čerpané úvěry: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Úvěrující sektor: %{from}</p>\r\n<p>Částka úvěru: %{value} %{unit}</p>\r\n<p>Nástroj: dlouhodobé úvěry</p>\r\n<p>Sektor čerpající úvěry: %{to}</p>\r\n<p>Podíl celkových poskytnutých úvěrů: %{percentFrom}</p>\r\n<p>Podíl celkových čerpaných úvěrů: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Úvěrující sektor: %{from}; čerpající sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: vklady</p>\r\n<p>Celková uložená částka: %{sumOut} %{unit}</p>\r\n<p>Celkově přijatá částka: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Ukládající sektor: %{from}</p>\r\n<p>Uložená částka: %{value}%{unit}</p>\r\n<p>Nástroj: vklady</p>\r\n<p>Přijímající sektor: %{to}</p>\r\n<p>Podíl celkově uložených vkladů: %{percentFrom}</p>\r\n<p>Podíl celkově přijatých vkladů: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Ukládající sektor: %{from}; přijímající sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: kotované akcie</p>\r\n<p>Celkově držená částka: %{sumOut} %{unit}</p>\r\n<p>Celkově emitovaná částka: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Sektor držící nástroje: %{from}</p>\r\n<p>Držená částka: %{value} %{unit}</p>\r\n<p>Nástroj: kotované akcie</p>\r\n<p>Emitující sektor: %{to}</p>\r\n<p>Podíl celkově držených nástrojů: %{percentFrom}</p>\r\n<p>Podíl celkových emisí: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor držící nástroje: %{from}; emitující sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Období: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Nástroj: akcie / podílové listy investičních fondů</p>\r\n<p>Celkově držená částka: %{sumOut} %{unit}</p>\r\n<p>Celkově emitovaná částka: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Období: %{date}</p>\r\n<p>Sektor držící nástroje: %{from}</p>\r\n<p>Držená částka: %{value} %{unit}</p>\r\n<p>Nástroj: akcie / podílové listy investičních fondů</p>\r\n<p>Emitující sektor: %{to}</p>\r\n<p>Podíl celkově držených nástrojů: %{percentFrom}</p>\r\n<p>Podíl celkových emisí: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor držící nástroje: %{from}; emitující sektor: %{to}</p>",
+                "incoming": "<p>Závazky</p>",
+                "missing": {
+                    "incoming": "<p>- údaje neexistují / údaje se nepoužijí</p>",
+                    "outgoing": "<p>- údaje neexistují / údaje se nepoužijí</p>"
+                },
+                "outgoing": "<p>Aktiva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stavy uvnitř sektoru</p>"
+            },
+            "title": "<p>Nesplacené částky</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Údaje uvedené v síťovém grafu „Dynamika financování a investic“ jsou převzaty ze sektorových účtů, které představují úplný a konzistentní soubor čtvrtletních údajů za všechny rezidentní institucionální sektory. Graf zobrazuje finanční propojenost uvnitř institucionálních sektorů i mezi nimi a mezi institucionálními sektory a zbytkem světa. Představuje finanční pozice mezi sektory (údaje o tocích jsou k dispozici také ve veřejných databázích ECB). Původ druhu financování – kapitál nebo dluh – a cíl téhož nástroje ukazuje, jak sektory alokují financování. Pruhy pro každý sektor zobrazují aktiva a závazky daného sektoru pro daný nástroj. V důsledku prodeje na krátko, tj. prodeje cenných papírů nebo jiných finančních nástrojů, které prodávající nevlastní, se mohou zobrazit záporné nesplacené částky. Šipky označují pozice vůči ostatním sektorům. Pozice uvnitř sektorů jsou vyznačeny vedle nadpisů sektorů.</p>\r\n<p>Údaje vycházejí z Evropského systému účtů 2010 (ESA 2010). Sektory: nefinanční podniky, měnové finanční instituce, investiční fondy (jiné než fondy peněžního trhu), ostatní finanční instituce, pojišťovny, penzijní fondy, vládní sektor, domácnosti (včetně neziskových organizací sloužících domácnostem), zbytek světa (odkazuje na pozice mezi rezidenty a nerezidenty). Nástroje: vklady, krátkodobé dluhové cenné papíry, dlouhodobé dluhové cenné papíry, krátkodobé úvěry, dlouhodobé úvěry, kotované akcie, akcie / podílové listy investičních fondů. Údaje jsou nekonsolidované, tj. úhrnné hodnoty a procenta nástrojů zahrnují finanční pozice uvnitř sektoru (např. úvěry poskytnuté bankami jiným bankám), pozice konečné rozvahy jsou ke konci čtvrtletí, údaje nejsou sezónně ani kalendářně očištěny, částky jsou v mld. eur, krátkodobá původní doba splatnosti je do jednoho roku, dlouhodobá původní doba splatnosti je více než jeden rok nebo není uvedena, údaje jsou za celou eurozónu, „-“ znamená, že údaje neexistují / údaje se nepoužijí.   </p>\r\n<p>Uvedené nástroje nejsou úplným výčtem všech finančních aktiv a závazků, neboť neuvádějí měnu, nekotované akcie a ostatní účasti, pojistné a důchodové plány, finanční deriváty a ostatní pohledávky/závazky. Další údaje jsou k dispozici zde: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Dynamika financování a investic</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Krátkodobé dluhové cenné papíry</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Dlouhodobé dluhové cenné papíry</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Krátkodobé úvěry</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Dlouhodobé úvěry</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Vklady</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Kotované akcie</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>zbytek světa</p>",
+                "S11": "<p>podniky</p>",
+                "S124": "<p>investiční fondy</p>",
+                "S128": "<p>pojišťovny</p>",
+                "S129": "<p>penzijní fondy</p>",
+                "S12K": "<p>banky</p>",
+                "S12O": "<p>ostatní finanční subjekty</p>",
+                "S13": "<p>vláda</p>",
+                "S1M": "<p>domácnosti</p>",
+                "WLD": "<p>celkem</p>"
+            },
+            "title": "<p>Akcie / podílové listy investičních fondů</p>"
+        }
+    }
+}

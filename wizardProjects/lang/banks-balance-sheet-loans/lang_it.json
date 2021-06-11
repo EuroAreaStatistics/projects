@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali agli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>AIF, totale</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società di assicurazione e ai fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Assicurazioni e fondi pensione, totale</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Società, totale</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Famiglie, totale</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali agli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>AIF, totale</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società di assicurazione e ai fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Assicurazioni e fondi pensione, totale</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Società, totale</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Famiglie, totale</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali agli altri intermediari finanziari (AIF) dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>AIF, totale</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali alle società di assicurazione e ai fondi pensione dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Assicurazioni e fondi pensione, totale</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali alle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Società, totale</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Famiglie, totale</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza fino a un anno alle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Società; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza fino a un anno alle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Società; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti con scadenza fino a un anno alle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Società; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza superiore a un anno e fino a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Società; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza superiore a un anno e fino a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Società; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti con scadenza superiore a un anno e fino a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Società; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza superiore a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Società; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti con scadenza superiore a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Società; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti con scadenza superiore a cinque anni alle società non finanziarie dell’area dell’euro (tutte le valute, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Società; x &gt; 5A</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società non finanziarie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Società, totale (corretto)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle famiglie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Famiglie, totale (corretto)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle società non finanziarie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Società, totale (corretto)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti totali alle famiglie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Famiglie, totale (corretto)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali alle società non finanziarie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Società, totale (corretto)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti totali alle famiglie dell’area dell’euro corretti per cessioni di prestiti, cartolarizzazioni e cash pooling nozionali (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente). I prestiti corretti per cessioni e cartolarizzazioni includono i prestiti ceduti o cartolarizzati non più iscritti nei bilanci bancari.</p>",
+            "title": "<p>Famiglie, totale (corretto)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, credito al consumo alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Famiglie, consumi</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, credito al consumo alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Famiglie, consumi</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita del credito al consumo alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Famiglie, consumi</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, mutui per l’acquisto di abitazioni alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Famiglie, mutui per abitazioni</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, mutui per l’acquisto di abitazioni alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Famiglie, mutui per abitazioni</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei mutui per l’acquisto di abitazioni alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Famiglie, mutui per abitazioni</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti per altre finalità alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, consistenze di fine periodo)</p>",
+            "title": "<p>Famiglie, altri prestiti</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, prestiti per altre finalità alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, euro, dati non destagionalizzati, operazioni finanziarie)</p>",
+            "title": "<p>Famiglie, altri prestiti</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, tassi di crescita dei prestiti per altre finalità alle famiglie dell’area dell’euro (tutte le valute, tutte le scadenze, dati non destagionalizzati, variazioni percentuali sul periodo corrispondente)</p>",
+            "title": "<p>Famiglie, altri prestiti</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Statistiche di bilancio delle istituzioni finanziarie monetarie, rapporto tra prestiti totali e depositi totali nei confronti di società non finanziarie e famiglie dell’area dell’euro, nonché società non finanziarie, famiglie e istituzioni finanziarie non bancarie esterne all’area dell’euro (escluse le amministrazioni pubbliche, tutte le valute, tutte le scadenze, dati percentuali trimestrali non destagionalizzati)</p>",
+            "title": "<p>Rapporto prestiti/depositi</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bilancio delle banche - Prestiti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Consistenze</p>"
+        },
+        "2": {
+            "title": "<p>Flussi</p>"
+        },
+        "3": {
+            "title": "<p>Tassi di crescita</p>"
+        },
+        "4": {
+            "title": "<p>Rapporto prestiti/depositi</p>"
+        }
+    }
+}

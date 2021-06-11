@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Konkurentsinäitajad - Hindade ja kulude kaupa",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurentsivõime"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Tarbijahinnaindeksid",
+            "definition": "Tarbijahinnaindeksitel põhinevad ühtlustatud konkurentsinäitajad (perioodi keskmised; indeks: Q1 1999=100). Tarbijahinnaindeksi abil mõõdetakse kodumajapidamiste kaupade ja teenuste ostukorvi hinna keskmist muutust teatava aja jooksul. Ühtlustatud konkurentsinäitajate eesmärk on võimaldada võrdlevalt mõõta euroala riikide hindade ja kulude konkurentsivõimet nii, et see oleks ühtlasi kooskõlas euro reaalse efektiivse vahetuskursiga. Ühtlustatud konkurentsinäitajad konstrueeritakse samal meetodil ja samade andmeallikate alusel, mida kasutatakse ka euro reaalse efektiivse vahetuskursi puhul."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "SKP deﬂaatorid",
+            "definition": "Sisemajanduse koguprodukti (SKP) deflaatoritel põhinevad ühtlustatud konkurentsinäitajad (perioodi keskmised; indeks: Q1 1999=100). SKP abil mõõdetakse majandusaktiivsust. See on ühe majanduse kaupade ja teenuste kogutoodangu väärtus pluss toodetelt ja impordilt tasutavad netomaksud ning miinus vahetarbimine. SKP deflaatorid arvutatakse Eurostati avaldatud rahvamajanduse arvepidamise kvartaliandmete alusel (perioodi keskmised, indeks Q1 1999=100). Ühtlustatud konkurentsinäitajate eesmärk on võimaldada võrdlevalt mõõta euroala riikide hindade ja kulude konkurentsivõimet nii, et see oleks ühtlasi kooskõlas euro reaalse efektiivse vahetuskursiga. Ühtlustatud konkurentsinäitajad konstrueeritakse samal meetodil ja samade andmeallikate alusel, mida kasutatakse ka euro reaalse efektiivse vahetuskursi puhul."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Tööjõu ühikukulude indeksid",
+            "definition": "Tööjõu ühikukuludel (majanduse kohta tervikuna) põhinevad ühtlustatud konkurentsinäitajad (perioodi keskmised, indeks: Q1 1999=100). Tööjõu ühikulud majanduse kohta tervikuna arvutatakse töötaja kohta makstava hüvitise ja tööviljakuse suhtarvuna. Tööviljakust mõõdetakse SKPna püsihindade juures jagatuna töötajate koguarvuga, kasutades Eurostati avaldatud rahvamajanduse arvepidamise kvartaliandmeid (perioodi keskmised, indeks: Q1 1999=100). Ühtlustatud konkurentsinäitajate eesmärk on võimaldada võrdlevalt mõõta euroala riikide hindade ja kulude konkurentsivõimet nii, et see oleks ühtlasi kooskõlas euro reaalse efektiivse vahetuskursiga. Ühtlustatud konkurentsinäitajad konstrueeritakse samal meetodil ja samade andmeallikate alusel, mida kasutatakse ka euro reaalse efektiivse vahetuskursi puhul."
+        }
+    }
+}

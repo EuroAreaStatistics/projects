@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Rahoitustase, netto, ali- tai ylijäämä suhteessa BKT:hen (saamiset miinus velat prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Rahoitustase, saamiset suhteessa BKT:hen (saamiset prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Rahoitustase, velat suhteessa BKT:hen (velat prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Velkojen BKT-suhde</p>"
+        },
+        "1": {
+            "definition": "<p>Rahoitustase, netto, yli- tai alijäämä (saamiset miinus velat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Rahoitustase, saamiset (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Rahoitustase, velat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Rahoitustase, suorat sijoitukset, netto (saamiset miinus velat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Rahoitustase, suoriin sijoituksiin liittyvät saamiset (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Rahoitustase, suoriin sijoituksiin liittyvät velat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Rahoitustase, arvopaperisijoitukset, netto (saamiset miinus velat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Rahoitustase, arvopaperisijoituksiin liittyvät saamiset (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Rahoitustase, arvopaperisijoituksiin liittyvät velat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Rahoitustase, muut sijoitukset, netto (saamiset miinus velat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Rahoitustase, muihin sijoituksiin liittyvät saamiset (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Rahoitustase, muihin sijoituksiin liittyvät velat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Ulkoinen sektori - Rahoitustase</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Koko rahoitustase</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Suorat sijoitukset</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Arvopaperisijoitukset</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Muut sijoitukset</p>"
+        }
+    }
+}

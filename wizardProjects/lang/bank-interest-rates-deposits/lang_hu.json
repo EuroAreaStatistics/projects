@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Banki kamatlábak - Betét",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Háztartások"
+        },
+        "2": {
+            "title": "Vállalatok"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Egynapos (O/N) kamatlábak",
+            "definition": "Euroövezeti háztartások euróban denominált egynapos (O/N) betétei (éves százalék, új és már lekötött betétek kamata)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Betét, lejárat; x ≤ 1É",
+            "definition": "Euroövezeti háztartások euróban denominált, legfeljebb egyéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Betét, lejárat; x &gt; 1É",
+            "definition": "Euroövezeti háztartások euróban denominált, egy évnél hosszabb lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Betét, lejárat; 1É &lt; x ≤ 2É",
+            "definition": "Euroövezeti háztartások euróban denominált, egy évnél hosszabb, de legfeljebb kétéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Betét, lejárat; x ≤ 2É",
+            "definition": "Euroövezeti háztartások euróban denominált, legfeljebb kétéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Betét, lejárat; x &gt; 2É",
+            "definition": "Euroövezeti háztartások euróban denominált, két évnél hosszabb lejáratú betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Felmondásos betét; x ≤ 3H",
+            "definition": "Euroövezeti háztartások euróban denominált, legfeljebb három hónapos határidővel felmondható betétei (éves százalék, új és már lekötött betétek kamata)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repoügylet",
+            "definition": "Euroövezeti háztartások és nem pénzügyi vállalatok euróban denominált repoügyletei (éves százalék, új ügyletek kamata)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Egynapos (O/N) kamatlábak",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált egynapos (O/N) betétei (éves százalék, új és már lekötött betétek kamata)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Betét, lejárat; x ≤ 1É",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált, legfeljebb egyéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Betét, lejárat; x &gt; 1É",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált, egy évnél hosszabb lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Betét, lejárat; 1É &lt; x ≤ 2É",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált, egy évnél hosszabb, de legfeljebb kétéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Betét, lejárat; x ≤ 2É",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált, legfeljebb kétéves lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Betét, lejárat; x &gt; 2É",
+            "definition": "Euroövezeti nem pénzügyi vállalatok euróban denominált, két évnél hosszabb lejáratra lekötött betétei (éves százalék, új betétek kamata)"
+        }
+    }
+}

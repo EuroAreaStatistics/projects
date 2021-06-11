@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Pankkien tase - Talletukset",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Virrat"
+        },
+        "3": {
+            "title": "Kehitys (prosenttimuutos)"
+        },
+        "4": {
+            "title": "Laina- ja talletuskannan suhde"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien talletukset yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yön yli ‑talletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien enintään kahden vuoden määräaikaistalletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yli kahden vuoden määräaikaistalletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien irtisanomisajaltaan enintään kolmen kuukauden talletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Yritykset, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten talletukset yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Yritykset, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yön yli ‑talletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Yritykset, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten enintään kahden vuoden määräaikaistalletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Yritykset, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yli kahden vuoden määräaikaistalletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Yritykset, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten irtisanomisajaltaan enintään kolmen kuukauden talletukset (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Vakuutuslaitokset ja eläkerahastot, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen talletukset yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Muut rahoituksenvälittäjät, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien talletukset yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien talletukset yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yön yli ‑talletukset (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien enintään kahden vuoden määräaikaistalletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yli kahden vuoden määräaikaistalletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Kotitaloudet, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien irtisanomisajaltaan enintään kolmen kuukauden talletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Yritykset, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten talletukset yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Yritykset, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yön yli ‑talletukset (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Yritykset, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten enintään kahden vuoden määräaikaistalletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Yritykset, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yli kahden vuoden määräaikaistalletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Yritykset, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten irtisanomisajaltaan enintään kolmen kuukauden talletukset (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Vakuutuslaitokset ja eläkerahastot, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen talletukset yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Muut rahoituksenvälittäjät, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien talletukset yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Kotitaloudet, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien talletuskannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Kotitaloudet, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yön yli ‑talletuskannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Kotitaloudet, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien enintään kahden vuoden määräaikaistalletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Kotitaloudet, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien yli kahden vuoden määräaikaistalletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Kotitaloudet, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen kotitalouksien irtisanomisajaltaan enintään kolmen kuukauden talletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Yritykset, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten talletuskannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Yritykset, yön yli ‑talletukset",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yön yli ‑talletuskannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Yritykset, määräaikaistalletukset: ≤ 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten enintään kahden vuoden määräaikaistalletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Yritykset, määräaikaistalletukset: &gt; 2v",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten yli kahden vuoden määräaikaistalletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Yritykset, irtisanomisaika: x ≤ 3kk",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten irtisanomisajaltaan enintään kolmen kuukauden talletusten kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Vakuutuslaitokset ja eläkerahastot, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen talletuskannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Muut rahoituksenvälittäjät, yhteensä",
+            "definition": "Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien talletuskannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Laina- ja talletuskannan suhde",
+            "definition": "Rahalaitosten tasetilastot, euroalueen yritysten ja kotitalouksien sekä euroalueen ulkopuolisten yritysten, kotitalouksien ja muiden rahoituslaitosten kuin pankkien (pl. julkisyhteisöt) lainakannan ja talletuskannan suhde (prosentteina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)"
+        }
+    }
+}

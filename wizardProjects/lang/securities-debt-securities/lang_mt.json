@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Titoli - Titoli ta' dejn",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stokks"
+        },
+        "2": {
+            "title": "Ħruġ ġdid"
+        },
+        "3": {
+            "title": "Ħruġ nett"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banek, stokks",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banek, stokks; x ≤ 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu qasir maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banek, stokks; x &gt; 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu twil maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Korporazzjonijiet, stokks",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Korporazzjonijiet, stokks; x ≤ 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Korporazzjonijiet, stokks; x &gt; 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Gvern, stokks",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Gvern, stokks; x ≤ 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu qasir maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Gvern, stokks; x &gt; 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu twil maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, stokks",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, stokks; x ≤ 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, stokks; x &gt; 1Y",
+            "definition": "Ammonti pendenti ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Total, stokks",
+            "definition": "Ammonti pendenti totali ta' titoli ta' dejn (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Total, stokks; x ≤ 1Y",
+            "definition": "Ammonti pendenti totali ta' titoli ta' dejn b'terminu qasir (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Total, stokks; x &gt; 1Y",
+            "definition": "Ammonti pendenti totali ta' titoli ta' dejn b'terminu twil (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banek, ġodda",
+            "definition": "Ħruġ gross ta' titoli ta' dejn maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banek, ġodda; x ≤ 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu qasir maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banek, ġodda; x &gt; 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu twil maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Korporazzjonijiet, ġodda",
+            "definition": "Ħruġ gross ta' titoli ta' dejn maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Korporazzjonijiet, ġodda; x ≤ 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Korporazzjonijiet, ġodda; x &gt; 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Gvern, ġodda",
+            "definition": "Ħruġ gross ta' titoli ta' dejn maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Gvern, ġodda; x ≤ 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu qasir maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Gvern, ġodda; x &gt; 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu twil maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, ġodda",
+            "definition": "Ħruġ gross ta' titoli ta' dejn maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, ġodda; x ≤ 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, ġodda; x &gt; 1Y",
+            "definition": "Ħruġ gross ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Total, ġodda",
+            "definition": "Ħruġ gross totali ta' titoli ta' dejn (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Total, ġodda; x &gt; 1Y",
+            "definition": "Ħruġ gross totali ta' titoli ta' dejn b'terminu twil (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Total, ġodda; x ≤ 1Y",
+            "definition": "Ħruġ gross totali ta' titoli ta' dejn b'terminu qasir (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banek, netti",
+            "definition": "Ħruġ nett ta' titoli ta' dejn maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banek, netti; x ≤ 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu qasir maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banek, netti; x &gt; 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu twil maħruġin minn istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Korporazzjonijiet, netti",
+            "definition": "Ħruġ nett ta' titoli ta' dejn maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Korporazzjonijiet, netti; x ≤ 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Korporazzjonijiet, netti; x &gt; 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet mhux finanzjarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Gvern, netti",
+            "definition": "Ħruġ nett ta' titoli ta' dejn maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Gvern, netti; x ≤ 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu qasir maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Gvern, netti; x &gt; 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu twil maħruġin mill-amministrazzjoni pubblika (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, netti",
+            "definition": "Ħruġ nett ta' titoli ta' dejn maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, netti; x ≤ 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu qasir maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Titoli finanzjarji oħra, netti; x &gt; 1Y",
+            "definition": "Ħruġ nett ta' titoli ta' dejn b'terminu twil maħruġin minn korporazzjonijiet finanzjarji li mhumiex istituzzjonijiet finanzjarji monetarji (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Total, netti",
+            "definition": "Ħruġ nett totali ta' titoli ta' dejn (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Total, netti; x ≤ 1Y",
+            "definition": "Ħruġ nett totali ta' titoli ta' dejn b'terminu qasir (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Total, netti; x &gt; 1Y",
+            "definition": "Ħruġ nett totali ta' titoli ta' dejn b'terminu twil (valur nominali, muniti kollha flimkien, denominati fl-euro, maħruġin minn residenti)"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Finansiel konto (netto) - som procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver minus passiver; transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (%)</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Finansiel konto (aktiver) - som procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver, transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Aktiver (%)</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Finansiel konto (passiver) - som procentdel af bruttonationalproduktet (BNP) i markedspriser (passiver, transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Passiver (%)</p>"
+        },
+        "1": {
+            "definition": "<p>Finansiel konto (netto) (aktiver minus passiver, transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Finansiel konto (aktiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Finansiel konto (passiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Finansiel konto (netto), direkte investeringer (aktiver minus passiver; transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finansiel konto, direkte investeringer (aktiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finansiel konto, direkte investeringer (passiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Finansiel konto (netto), porteføljeinvesteringer; (aktiver minus passiver, transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finansiel konto, porteføljeinvesteringer (aktiver); (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finansiel konto, porteføljeinvesteringer (passiver); (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Finansiel konto (netto), andre investeringer (aktiver minus passiver, transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finansiel konto, andre investeringer (aktiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finansiel konto, andre investeringer (passiver) (transaktioner med ikke-residenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Ekstern sektor - Finansiel konto</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>I alt</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Direkte investeringer</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Porteføljeinvesteringer</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Andre investeringer</p>"
+        }
+    }
+}

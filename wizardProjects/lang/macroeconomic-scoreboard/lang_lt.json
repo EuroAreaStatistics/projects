@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Einamosios sąskaitos balansas bendrojo vidaus produkto (BVP) procentine dalimi (trejų metų slankusis vidurkis, apskaičiuotas remiantis tarptautiniais standartais, pvz., 6-uoju MBV ir 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinės šio rodiklio ribos yra +6 % ir –4 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Einamosios sąskaitos balansas (3 m.)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Grynoji tarptautinių investicijų pozicija bendrojo vidaus produkto (BVP) procentine dalimi (per metus, apskaičiuota remiantis tarptautiniais standartais, pvz., 6-uoju MBV ir 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra –35 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Tarptautinių investicijų balansas (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Realusis efektyvusis valiutos kursas (pritaikius defliatorius SVKI / VKI, procentinis pokytis per trejus metus, lyginant su 41 kita išsivysčiusia šalimi). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinės šio rodiklio ribos euro zonos šalyse yra –/+5 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Realusis efektyvusis valiutos kursas (3 m.)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Eksporto rinkos dalys (pagal vertę, procentinis pokytis per penkerius metus, apskaičiuotas remiantis tarptautiniais standartais, pvz., 6-uoju MBV). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra –6 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Eksporto rinkos dalys (5 m.)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominaliosios vienetinės darbo sąnaudos (procentinis pokytis per trejus metus, pagal dirbančių asmenų skaičių). Vienetinės darbo sąnaudos – visų darbo sąnaudų, tenkančių gamybos vienetui, dydis, apskaičiuojamas kaip darbuotojui tenkančio atlygio ir darbo našumo, išreikšto BVP dalimi, tenkančia dirbančiam asmeniui, santykis. Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba euro zonos šalyse yra +9 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Nominaliosios vienetinės darbo sąnaudos (3 m.)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Būsto kainos, pakoreguotos atsižvelgiant į Eurostato asmeninio vartojimo defliatorių (metinis pokytis procentais, naujų ir esamų būstų). Gyvenamosios paskirties nekilnojamojo turto kainų rodiklis euro zonos šalyse yra lygus nesuvienodintų šalių rodiklių, nustatytų remiantis nacionalinių šaltinių duomenimis, vidurkiui. Įvairiose šalyse aprėptis šiek tiek skiriasi. Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 6 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Būsto kainos</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Privačiojo sektoriaus kredito srautas bendrojo vidaus produkto (BVP) procentine dalimi (konsoliduotas, apskaičiuotas remiantis tarptautiniais standartais, pvz., 6-uoju MBV ir 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 15 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Privačiojo sektoriaus kredito srautas</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Privačiojo sektoriaus skola BVP procentine dalimi (konsoliduota, apskaičiuota remiantis tarptautiniais standartais, pvz., 6-uoju MBV ir 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 133 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Privačiojo sektoriaus skola</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Valdžios sektoriaus skola bendrojo vidaus produkto (BVP) procentine dalimi (apskaičiuota remiantis tarptautiniais standartais, pvz., 6-uoju MBV ir 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 60 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Valdžios sektoriaus skola</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Visi finansų sektoriaus įsipareigojimai (metiniai pokyčiai, nekonsoliduoti, apskaičiuoti remiantis tarptautiniais standartais, pvz., 2010 m. ESS). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 16,5 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Finansų sektoriaus įsipareigojimai</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Suderintas nedarbo lygis (trejų metų slankusis vidurkis). Pagal Europos Komisijos vertinimą vadovaujantis <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonominio disbalanso procedūra (MDP)</a>, orientacinė šio rodiklio riba yra 10 %. Šaltiniai: ECB ir Europos Komisija (Eurostatas ir Ekonomikos ir finansų reikalų GD).</p>",
+            "title": "<p>Nedarbo lygis (3 m.)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekonominių rodiklių suvestinė</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Išorės ir konkurencingumo rodikliai</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Vidaus rodikliai</p>"
+        }
+    }
+}

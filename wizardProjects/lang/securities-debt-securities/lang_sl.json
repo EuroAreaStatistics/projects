@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Vrednostni papirji - Dolžniški vrednostni papirji",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Nove izdaje"
+        },
+        "3": {
+            "title": "Neto izdaje"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banke, stanje",
+            "definition": "Stanje dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banke, stanje; x ≤ 1 L",
+            "definition": "Stanje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banke, stanje; x &gt; 1 L",
+            "definition": "Stanje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Družbe, stanje",
+            "definition": "Stanje dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Družbe, stanje; x ≤ 1 L",
+            "definition": "Stanje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Družbe, stanje; x &gt; 1 L",
+            "definition": "Stanje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Država, stanje",
+            "definition": "Stanje dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Država, stanje; x ≤ 1 L",
+            "definition": "Stanje kratkoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Država, stanje; x &gt; 1 L",
+            "definition": "Stanje dolgoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, stanje",
+            "definition": "Stanje dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, stanje; x ≤ 1 L",
+            "definition": "Stanje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, stanje; x &gt; 1 L",
+            "definition": "Stanje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Skupaj, stanje",
+            "definition": "Skupaj stanje dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Skupaj, stanje; x ≤ 1 L",
+            "definition": "Skupaj stanje kratkoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Skupaj, stanje; x &gt; 1 L",
+            "definition": "Skupaj stanje dolgoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banke, novi",
+            "definition": "Bruto izdaje dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banke, novi; x ≤ 1 L",
+            "definition": "Bruto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banke, novi; x &gt; 1 L",
+            "definition": "Bruto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Družbe, novi",
+            "definition": "Bruto izdaje dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Družbe, novi; x ≤ 1 L",
+            "definition": "Bruto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Družbe, novi; x &gt; 1 L",
+            "definition": "Bruto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Država, novi",
+            "definition": "Bruto izdaje dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Država, novi; x ≤ 1 L",
+            "definition": "Bruto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Država, novi; x &gt; 1 L",
+            "definition": "Bruto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, novi",
+            "definition": "Bruto izdaje dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, novi; x ≤ 1 L",
+            "definition": "Bruto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, novi; x &gt; 1 L",
+            "definition": "Bruto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Skupaj, novi",
+            "definition": "Skupaj bruto izdaje dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Skupaj, novi; x &gt; 1 L",
+            "definition": "Skupaj bruto izdaje dolgoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Skupaj, novi; x ≤ 1 L",
+            "definition": "Skupaj bruto izdaje kratkoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banke, neto",
+            "definition": "Neto izdaje dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banke, neto; x ≤ 1 L",
+            "definition": "Neto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banke, neto; x &gt; 1 L",
+            "definition": "Neto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale denarne finančne institucije (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Družbe, neto",
+            "definition": "Neto izdaje dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Družbe, neto; x ≤ 1 L",
+            "definition": "Neto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Družbe, neto; x &gt; 1 L",
+            "definition": "Neto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale nefinančne družbe (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Država, neto",
+            "definition": "Neto izdaje dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Država, neto; x ≤ 1 L",
+            "definition": "Neto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Država, neto; x &gt; 1 L",
+            "definition": "Neto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki jih je izdala širše opredeljena država (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, neto",
+            "definition": "Neto izdaje dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, neto; x ≤ 1 L",
+            "definition": "Neto izdaje kratkoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Drugi finančni posredniki, neto; x &gt; 1 L",
+            "definition": "Neto izdaje dolgoročnih dolžniških vrednostnih papirjev, ki so jih izdale finančne družbe razen denarnih finančnih institucij (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Skupaj, neto",
+            "definition": "Skupaj neto izdaje dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Skupaj, neto; x ≤ 1 L",
+            "definition": "Skupaj neto izdaje kratkoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Skupaj, neto; x &gt; 1 L",
+            "definition": "Skupaj neto izdaje dolgoročnih dolžniških vrednostnih papirjev (nominalna vrednost, vse valute skupaj, izraženo v eurih, izdajatelji so rezidenti)"
+        }
+    }
+}

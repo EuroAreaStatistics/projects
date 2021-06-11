@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fonduri de investiții - Pe politici de investiții",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Fluxuri"
+        },
+        "3": {
+            "title": "Ritmuri de creștere"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri de obligațiuni",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri de obligațiuni (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri de capital",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri de capital (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri mixte",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri mixte (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri imobiliare",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri imobiliare (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonduri speculative",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri speculative (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Alte fonduri",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: alte fonduri (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (solduri la sfârșitul perioadei, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri de obligațiuni",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri de obligațiuni (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri de capital",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât cele de piață monetară, pe politici de investiții: fonduri de capital (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri mixte",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri mixte (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri imobiliare",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri imobiliare (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonduri speculative",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri speculative (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Alte fonduri",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: alte fonduri (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (operațiuni financiare, scadență totală, toate valutele combinate, exprimate în euro, date neajustate sezonier, date lunare)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri de obligațiuni",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri de obligațiuni (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri de capital",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri de capital (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri mixte",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri mixte (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri imobiliare",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri imobiliare (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonduri speculative",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: fonduri speculative (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Alte fonduri",
+            "definition": "Unități de fond emise de fonduri de investiții, altele decât fondurile de piață monetară, pe politici de investiții: alte fonduri (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fonduri de investiții, altele decât fondurile de piață monetară, unități de fond (ritm anual de creștere, scadență totală, toate valutele combinate, variații procentuale anuale, date neajustate sezonier, date lunare)"
+        }
+    }
+}

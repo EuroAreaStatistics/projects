@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Prejemki na tekočem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Izdatki na tekočem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo tekočega računa plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Prejemki na tekočem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Prejemki kot odstotek BDP</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Izdatki na tekočem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Izdatki kot odstotek BDP</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, saldo (izvoz minus uvoz, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, izvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, uvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, saldo (izvoz minus uvoz, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, izvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, uvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Tekoči račun plačilne bilance, saldo primarnih dohodkov (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Tekoči račun plačilne bilance, prejemki v kategoriji primarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Tekoči račun plačilne bilance, izdatki v kategoriji primarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Tekoči račun plačilne bilance, saldo sekundarnih dohodkov (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Tekoči račun plačilne bilance, prejemki v kategoriji sekundarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Tekoči račun plačilne bilance, izdatki v kategoriji sekundarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo tekočega računa plačilne bilance (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Tekoči račun euroobmočja po glavnih nasprotnih strankah</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Blago</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Storitve</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Primarni dohodki</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Sekundarni dohodki</p>"
+        },
+        "1": {
+            "title": "<p>Skupaj</p>"
+        }
+    }
+}

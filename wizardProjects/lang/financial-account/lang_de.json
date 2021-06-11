@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Kapitalbilanzsaldo in Prozent des BIP zu Marktpreisen (Aktiva minus Passiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Netto-Quote</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Aktiva der Kapitalbilanz in Prozent des BIP zu Marktpreisen (Aktiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Passiva der Kapitalbilanz in Prozent des BIP zu Marktpreisen (Passiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Passiva in Prozent</p>"
+        },
+        "1": {
+            "definition": "<p>Kapitalbilanzsaldo (Aktiva minus Passiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Aktiva der Kapitalbilanz (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Passiva der Kapitalbilanz (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Kapitalbilanzsaldo, Saldo der Direktinvestitionen (Aktiva minus Passiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Kapitalbilanz, Forderungen aus Direktinvestitionen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Kapitalbilanz, Verbindlichkeiten aus Direktinvestitionen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Kapitalbilanzsaldo, Saldo der Wertpapieranlagen (Aktiva minus Passiva, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Kapitalbilanz, Forderungen aus Wertpapieranlagen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Kapitalbilanz, Verbindlichkeiten aus Wertpapieranlagen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Kapitalbilanzsaldo, Saldo der übrigen Kapitalanlagen (Forderungen minus Verbindlichkeiten, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Kapitalbilanz, Forderungen aus übrigen Kapitalanlagen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Kapitalbilanz, Verbindlichkeiten aus übrigen Kapitalanlagen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Außenwirtschaft - Kapitalbilanz</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Insgesamt</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Direktinvestitionen</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Wertpapieranlagen</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Übrige Kapitalanlagen</p>"
+        }
+    }
+}

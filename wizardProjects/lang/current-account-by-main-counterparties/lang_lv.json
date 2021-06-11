@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Tekošā konta kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Tekošā konta debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Tekošā konta saldo % no iekšzemes kopprodukta (IKP) tirgus cenās (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Saldo rādītājs</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Tekošā konta kredīts % no iekšzemes kopprodukta (IKP) tirgus cenās (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Kredīta rādītājs</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Tekošā konta debets % no iekšzemes kopprodukta (IKP) tirgus cenās (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Debeta rādītājs</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Tekošais konts, preču saldo (eksports mīnus imports, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Tekošais konts, preču eksports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Eksports</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Tekošais konts, preču imports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Imports</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Tekošais konts, pakalpojumu saldo (eksports mīnus imports, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Tekošais konts, pakalpojumu eksports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Eksports</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Tekošais konts, pakalpojumu imports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Imports</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Tekošais konts, sākotnējo ienākumu saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Tekošais konts, sākotnējo ienākumu kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Tekošais konts, sākotnējo ienākumu debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Tekošais konts, otrreizējo ienākumu saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Tekošais konts, otrreizējo ienākumu kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Tekošais konts, otrreizējo ienākumu debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        },
+        "1": {
+            "definition": "<p>Tekošā konta saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Euro zonas tekošais konts – svarīgāko darījuma partneru dalījumā</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Preces</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Pakalpojumi</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Sākotnējie ienākumi</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Otrreizējie ienākumi</p>"
+        },
+        "1": {
+            "title": "<p>Kopā</p>"
+        }
+    }
+}

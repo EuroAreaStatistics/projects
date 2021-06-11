@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Ieguldījumu fondi - aktīvi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Plūsmas"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Noguldījumi un kredīti",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: noguldījumi un kredīti (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Parāda vērtspapīri",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: neakciju vērtspapīri (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Kapitāla vērtspapīri",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: akcijas un pārējie kapitāla vērtspapīri, izņemot ieguldījumu fondu akcijas (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Ieguldījumu fondu akcijas un daļas",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: ieguldījumu fondu akcijas un daļas (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nefinanšu aktīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: nefinanšu aktīvi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Pārējie aktīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: pārējie aktīvi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, kopējie aktīvi/pasīvi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Noguldījumi un kredīti",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: noguldījumi un kredīti (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Parāda vērtspapīri",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: neakciju vērtspapīri (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Kapitāla vērtspapīri",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: akcijas un pārējie kapitāla vērtspapīri, izņemot ieguldījumu fondu akcijas (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Ieguldījumu fondu akcijas un daļas",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: ieguldījumu fondu akcijas un daļas (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nefinanšu aktīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: nefinanšu aktīvi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Pārējie aktīvi",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, aktīvu grupa: pārējie aktīvi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, kopējie aktīvi/pasīvi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, ceturkšņa dati)"
+        }
+    }
+}

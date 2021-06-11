@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruttó külföldi adósságállomány (a teljes gazdaság nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Bruttó</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Nettó külföldi adósság (a tartozások és a követelések különbsége, a teljes gazdaság nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruttó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci áron (a teljes gazdaság nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Bruttó arány</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Nettó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci árfolyamon (a tartozások és a követelések különbsége, a teljes gazdaság nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruttó külföldi adósság (a monetáris pénzügyi intézmények nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Bruttó</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Nettó külföldi adósság (a tartozások és a követelések különbsége, a monetáris pénzügyi intézmények nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; euróban denominált; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruttó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci áron (a monetáris pénzügyi intézmények nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Bruttó arány</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Nettó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci árfolyamon (a tartozások és a követelések különbsége, a monetáris pénzügyi intézmények nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; euróban denominált; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruttó külföldi adósság (az államháztartás nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Bruttó</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Nettó külföldi adósság (a tartozások és a követelések különbsége, az államháztartás nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruttó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci áron (az államháztartás nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Bruttó arány</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Nettó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci árfolyamon (ka tartozások és a követelések különbsége, az államháztartás nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruttó külföldi adósság (az MPI-ktől különböző szektorok és az államháztartás nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció;  szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Bruttó</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Nettó külföldi adósság (a tartozások és a követelések különbsége, az MPI-ktől különböző szektorok és az államháztartás nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruttó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci áron (az MPI-ktől különböző szektorok és az államháztartás nem rezidensekkel szembeni tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Bruttó arány</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Nettó külföldi adósság a bruttó hazai termék (GDP) százalékos arányában piaci árfolyamon (a tartozások és a követelések különbsége, az MPI-ktől különböző szektorok és az államháztartás nem rezidensekkel szembeni nettó tartozásállománya; negyedév végi pozíció; szezonálisan és munkanappal nem kiigazított adat; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Külső szektor - Külföldi adósság</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Teljes gazdaság</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetáris pénzügyi intézmény</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Államháztartás</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Egyéb szektorok</p>"
+        }
+    }
+}

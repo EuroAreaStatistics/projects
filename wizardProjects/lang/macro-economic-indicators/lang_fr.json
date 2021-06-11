@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Le ratio de déficit public (-) par rapport au PIB ou l’excédent budgétaire (+) a trait aux critères de Maastricht. Les statistiques de déficit public comprennent les règlements opérés dans le cadre des swaps. (Flux non financiers à prix courants, pourcentages, non corrigés des variations saisonnières ou des jours ouvrés). Les deux dernières années figurant dans les graphiques sont basées sur des projections de la Commission européenne (Direction générale des Affaires économiques et financières). La valeur de référence pour le déficit public retenue dans le Pacte de stabilité et de croissance est de 3 %.</p>",
+            "title": "<p>Ratio de déficit public/d’excédent budgétaire</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Le ratio de dette publique par rapport au PIB a trait aux critères de Maastricht. Les statistiques de dette publique utilisées sont celles prises en compte dans le cadre de la procédure de déficit excessif. (Encours financiers en valeur nominale, pourcentages, non corrigés des variations saisonnières ou des jours ouvrés). Les deux dernières années figurant dans les graphiques sont basées sur des projections de la Commission européenne (Direction générale des Affaires économiques et financières). La valeur de référence fixée par les critères de Maastricht est de 60 %.</p>",
+            "title": "<p>Ratio de dette publique</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Produit intérieur brut aux prix du marché, économie totale, en euros, volumes en données chaînées (recalculés selon année de référence 2010). Source : Eurostat</p>",
+            "title": "<p>En volume</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Produit intérieur brut aux prix du marché, économie totale, monnaie locale (pouvant inclure des montants convertis à la monnaie actuelle à un taux de change fixe), volumes en données chaînées (recalculés), taux de croissance sur un an, données corrigées des variations saisonnières et du nombre de jours ouvrés. Source : Eurostat</p>",
+            "title": "<p>Taux de croissance annuel</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio d'endettement des ménages par rapport à leur revenu disponible brut (données non consolidées, prix courants, pourcentages, non corrigées des variations saisonnières et des jours ouvrés).</p>",
+            "title": "<p>Taux d’endettement des ménages (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio d’endettement des sociétés non financières par rapport au PIB. L’endettement comprend les prêts contractés et les émissions de titres. (Données consolidées, prix de marché, pourcentages, non corrigées des variations saisonnières et des jours ouvrés).</p>",
+            "title": "<p>Taux d’endettement des entreprises</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ratio d’endettement des ménages par rapport à leur revenu disponible brut (données non consolidées, prix courants, pourcentages, non corrigées des variations saisonnières et des jours ouvrés). L’absence de données à consulter indique qu’aucune donnée n’est disponible.</p>",
+            "title": "<p>Taux d'endettement des ménages (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Taux de chômage harmonisé (en pourcentage de la population active civile), standardisé entre les pays, tous âges, hommes et femmes, données corrigées des variations saisonnières, pas du nombre de jours ouvrés. Source : Eurostat</p>",
+            "title": "<p>Taux de chômage</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indicateurs macroéconomiques</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PIB</p>"
+        },
+        "2": {
+            "title": "<p>Chômage</p>"
+        },
+        "3": {
+            "title": "<p>Endettement</p>"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investeringsforeninger - Investeringspolitik",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Beholdninger"
+        },
+        "2": {
+            "title": "Strømme"
+        },
+        "3": {
+            "title": "Vækstrater"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obligationsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: obligationsafdelinger (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Aktieafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: aktieafdelinger (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Blandede afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: blandede afdelinger (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ejendomsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: ejendomsafdelinger (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedgefonds",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: hedgefonds (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Andre afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: andre afdelinger (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obligationsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: obligationsafdelinger (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Aktieafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: aktieafdelinger (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Blandede afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: blandede afdelinger (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ejendomsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: ejendomsafdelinger (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedgefonds",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: hedgefonds (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Andre afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: andre afdelinger (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obligationsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: obligationsafdelinger (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Aktieafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: aktieafdelinger (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Blandede afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: blandede afdelinger (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ejendomsafdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: ejendomsafdelinger (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedgefonds",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: hedgefonds (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Andre afdelinger",
+            "definition": "Investeringsforeningsandele udstedt af investeringsforeninger, ekskl. pengemarkedsforeninger, fordelt efter investeringspolitik: andre afdelinger (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, investeringsforeningsandele (årlig vækstrate, samlet løbetid, i alle valutaer tilsammen, årlig ændring i pct., ikke sæsonkorrigeret, månedlige data)"
+        }
+    }
+}

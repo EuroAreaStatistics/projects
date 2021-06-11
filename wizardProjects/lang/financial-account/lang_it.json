@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Conto finanziario netto in percentuale del PIL ai prezzi di mercato (attività meno passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto netto</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Attività del conto finanziario in percentuale del PIL ai prezzi di mercato (attività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Passività del conto finanziario in percentuale del PIL ai prezzi di mercato (passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto passività/PIL</p>"
+        },
+        "1": {
+            "definition": "<p>Conto finanziario netto (attività meno passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Attività del conto finanziario (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Passività del conto finanziario (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Conto finanziario netto, investimenti diretti (attività meno passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Conto finanziario, investimenti diretti: attività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Conto finanziario, investimenti diretti: passività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Conto finanziario netto, investimenti di portafoglio (attività meno passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Conto finanziario, investimenti di portafoglio: attività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Conto finanziario, investimenti di portafoglio: passività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Conto finanziario netto, altri investimenti (attività meno passività, transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Conto finanziario, altri investimenti: attività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Conto finanziario, altri investimenti: passività (transazioni con i non residenti, dati cumulati su quattro trimestri, non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Settore esterno - Conto finanziario</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totale</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Investimenti diretti</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Investimenti di portafoglio</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Altri investimenti</p>"
+        }
+    }
+}

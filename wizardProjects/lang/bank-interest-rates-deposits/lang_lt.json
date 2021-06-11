@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankų palūkanų normos - Indėliai",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Namų ūkiai"
+        },
+        "2": {
+            "title": "Įmonės"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Vienadienių indėlių palūkanų normos",
+            "definition": "Euro zonos namų ūkių vienadieniai indėliai eurais (metinė norma, %, naujų indėlių sumos sutampa su šios kategorijos indėlių likučiais)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x ≤ 1 m.",
+            "definition": "Euro zonos namų ūkių indėliai eurais (ne ilgesnio kaip 1 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x &gt; 1 m.",
+            "definition": "Euro zonos namų ūkių indėliai eurais (ilgesnio kaip 1 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Indėliai, sutartas terminas;1 m. &lt; x ≤ 2 m.",
+            "definition": "Euro zonos namų ūkių indėliai eurais (ilgesnio kaip 1 metų, bet ne ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x ≤ 2 m.",
+            "definition": "Euro zonos namų ūkių indėliai eurais (ne ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x &gt; 2 m.",
+            "definition": "Euro zonos namų ūkių indėliai eurais (ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Įspėjamojo laikotarpio indėliai; x ≤ 3 mėn.",
+            "definition": "Euro zonos namų ūkių iki 3 mėn. (imtinai) įspėjamojo laikotarpio indėliai eurais (metinė norma, %, naujų indėlių sumos sutampa su šios kategorijos indėlių likučiais)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Atpirkimo sandoriai",
+            "definition": "Euro zonos namų ūkių ir ne finansų bendrovių atpirkimo sandoriai eurais (metinė norma, %, naujų sandorių palūkanų normos)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Vienadienių indėlių palūkanų normos",
+            "definition": "Euro zonos ne finansų bendrovių vienadieniai indėliai eurais (metinė norma, %, naujų indėlių sumos sutampa su šios kategorijos indėlių likučiais)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x ≤ 1 m.",
+            "definition": "Euro zonos ne finansų bendrovių indėliai eurais (ne ilgesnio kaip 1 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x &gt; 1 m.",
+            "definition": "Euro zonos ne finansų bendrovių indėliai eurais (ilgesnio kaip 1 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Indėliai, sutartas terminas; 1 m. &lt; x ≤ 2 m.",
+            "definition": "Euro zonos ne finansų bendrovių indėliai eurais (ilgesnio kaip 1 metų, bet ne ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x ≤ 2 m.",
+            "definition": "Euro zonos ne finansų bendrovių indėliai eurais (ne ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Indėliai, sutartas terminas; x &gt; 2 m.",
+            "definition": "Euro zonos ne finansų bendrovių indėliai eurais (ilgesnio kaip 2 metų sutarto termino) (metinė norma, %, naujų indėlių palūkanų normos)"
+        }
+    }
+}

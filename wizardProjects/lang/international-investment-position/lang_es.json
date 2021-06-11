@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posición de inversión internacional neta (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Posición de inversión internacional, activos (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Posición de inversión internacional, pasivos (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Posición de inversión internacional neta en porcentaje del PIB a precios de mercado (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neto en %</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Posición de inversión internacional, activos en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Activos en %</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Posición de inversión internacional, pasivos en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Pasivos en %</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Posición de inversión internacional, inversión directa neta (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Posición de inversión internacional, activos de inversión directa (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Posición de inversión internacional, pasivos de inversión directa (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Posición de inversión internacional, inversión directa neta en porcentaje del PIB a precios de mercado (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neto en %</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Posición de inversión internacional, activos de inversión directa en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Activos en %</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Posición de inversión internacional, pasivos de inversión directa en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Pasivos en %</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Posición de inversión internacional, inversión de cartera neta (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Posición de inversión internacional, activos de inversión de cartera (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Posición de inversión internacional, pasivos de inversión de cartera (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Posición de inversión internacional, inversión de cartera neta en porcentaje del PIB a precios de mercado (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neto en %</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Posición de inversión internacional, activos de inversión de cartera en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Activos en %</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Posición de inversión internacional, pasivos de inversión de cartera en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Pasivos en %</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Posición de inversión internacional, otra inversión neta (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Posición de inversión internacional, activos de otra inversión (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Posición de inversión internacional, pasivos de otra inversión (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Posición de inversión internacional, otra inversión neta en porcentaje del PIB a precios de mercado (activos menos pasivos, posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neto en %</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Posición de inversión internacional, activos de otra inversión en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Activos en %</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Posición de inversión internacional, pasivos de otra inversión en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Pasivos en %</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector exterior - Posición de inversión internacional</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Inversión directa</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Inversión de cartera</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Otra inversión</p>"
+        }
+    }
+}

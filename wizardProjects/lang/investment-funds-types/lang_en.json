@@ -1,0 +1,60 @@
+{
+    "project": {
+        "title": "Investment funds - By type of fund",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Open-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: open-end funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Closed-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: closed-end funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Open-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: open-end funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Closed-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: closed-end funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Open-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: open-end funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Closed-end funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by type of fund: closed-end funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Flows",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Growth rates",
+            "teaser": ""
+        }
+    }
+}

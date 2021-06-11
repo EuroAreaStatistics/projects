@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Neto finančni račun plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja minus obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>\r\n<p class=\"MsoNormal\"> </p>",
+            "title": "<p>Neto kot odstotek BDP</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Imetja na finančnem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Obveznosti na finančnem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Obveznosti kot odstotek BDP</p>"
+        },
+        "1": {
+            "definition": "<p>Neto finančni račun plačilne bilance (imetja minus obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Imetja na finančnem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Obveznosti na finančnem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Neto finančni račun plačilne bilance, neposredne naložbe (imetja minus obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finančni račun plačilne bilance, imetja iz naslova neposrednih naložb (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finančni račun plačilne bilance, obveznosti iz naslova neposrednih naložb (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Neto finančni račun plačilne bilance, saldo naložb v vrednostne papirje (imetja minus obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finančni račun plačilne bilance, imetja iz naslova naložb v vrednostne papirje (transakcije z nerezidenti; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6; kumulativno v štirih četrtletjih)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finančni račun plačilne bilance, obveznosti iz naslova naložb v vrednostne papirje (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Neto finančni račun plačilne bilance, ostale naložbe (imetja minus obveznosti, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finančni račun plačilne bilance, imetja iz naslova ostalih naložb (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finančni račun plačilne bilance, obveznosti iz naslova ostalih naložb (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Tujina - Finančni račun</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Skupaj</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Neposredne naložbe</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Naložbe v vrednostne papirje</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Ostale naložbe</p>"
+        }
+    }
+}

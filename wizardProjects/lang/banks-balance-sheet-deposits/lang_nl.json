@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Balans banken - Deposito’s",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Stromen"
+        },
+        "3": {
+            "title": "Groeicijfers"
+        },
+        "4": {
+            "title": "Lening/deposito-ratio"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Huishoudens, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Huishoudens, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, girale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Huishoudens; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd t/m 2 jaar huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Huishoudens; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd meer dan 2 jaar huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Huishoudens, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met opzegtermijn t/m 3 maanden huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Bedrijven, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Bedrijven, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, girale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Bedrijven; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd t/m 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Bedrijven; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd meer dan 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Bedrijven, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met opzegtermijn t/m 3 maanden niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Verzekeringen en pensioenen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Overige financiële ondernemingen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Huishoudens, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Huishoudens, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, girale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Huishoudens; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd t/m 2 jaar huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Huishoudens; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd meer dan 2 jaar huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Huishoudens, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met opzegtermijn t/m 3 maanden huishoudens eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Bedrijven, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Bedrijven, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, girale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Bedrijven; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd t/m 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Bedrijven; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met vaste looptijd meer dan 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Bedrijven, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, deposito's met opzegtermijn t/m 3 maanden niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Verzekeringen en pensioenen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Overige financiële ondernemingen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, totale deposito's overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Huishoudens, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers totale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Huishoudens, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers girale deposito's huishoudens eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Huishoudens; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met vaste looptijd t/m 2 jaar huishoudens eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Huishoudens; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met vaste looptijd meer dan 2 jaar huishoudens eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Huishoudens, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met opzegtermijn t/m 3 maanden huishoudens eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Bedrijven, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers totale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Bedrijven, giraal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers girale deposito's niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Bedrijven; vaste looptijd ≤ 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met vaste looptijd t/m 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Bedrijven; vaste looptijd &gt; 2j",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met vaste looptijd meer dan 2 jaar niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Bedrijven, met opzegtermijn; x ≤ 3m",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers deposito's met opzegtermijn t/m 3 maanden niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Verzekeringen en pensioenen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers totale deposito's verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Overige financiële ondernemingen, totaal",
+            "definition": "Balansstatistieken monetaire financiële instellingen, groeicijfers totale deposito's overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Lening/deposito-ratio",
+            "definition": "Balansstatistieken monetaire financiële instellingen, ratio tussen totale leningen en totale deposito's t.o.v. niet-financiële ondernemingen en huishoudens eurogebied en niet-financiële ondernemingen, huishoudens en niet-bancaire financiële instellingen buiten het eurogebied (exclusief overheid, alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, percentage, op kwartaalbasis)"
+        }
+    }
+}

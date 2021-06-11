@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Cenné papiere - Kótované akcie",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Nové emisie"
+        },
+        "3": {
+            "title": "Čisté emisie"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banky, stav",
+            "definition": "Zostatok kótovaných akcií vydaných peňažnými finančnými inštitúciami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Podniky, stav",
+            "definition": "Zostatok kótovaných akcií vydaných nefinančnými spoločnosťami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Iné finančné podniky, stav",
+            "definition": "Zostatok kótovaných akcií vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Spolu, stav",
+            "definition": "Celkový zostatok kótovaných akcií (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banky, nové",
+            "definition": "Hrubá emisia kótovaných akcií peňažnými finančnými inštitúciami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Podniky, nové",
+            "definition": "Hrubá emisia kótovaných akcií nefinančnými spoločnosťami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Iné finančné podniky, nové",
+            "definition": "Hrubá emisia kótovaných akcií finančnými spoločnosťami inými ako peňažné finančné inštitúcie (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Spolu, nové",
+            "definition": "Celková hrubá emisia kótovaných akcií (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banky, čisté",
+            "definition": "Čistá emisia kótovaných akcií peňažnými finančnými inštitúciami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Podniky, čisté",
+            "definition": "Čistá emisia kótovaných akcií nefinančnými spoločnosťami (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Iné finančné podniky, čisté",
+            "definition": "Čistá emisia kótovaných akcií finančnými spoločnosťami inými ako peňažné finančné inštitúcie (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Spolu, čisté",
+            "definition": "Celková čistá emisia kótovaných akcií (trhová hodnota, akcie denominované v eurách, vydané rezidentmi)"
+        }
+    }
+}

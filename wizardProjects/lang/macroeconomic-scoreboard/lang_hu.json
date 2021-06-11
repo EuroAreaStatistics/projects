@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Folyó fizetési mérleg a bruttó hazai termék (GDP) százalékában (hároméves mozgóátlag, a BPM6 és az ESA 2010 nemzetközi szabvány szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték +6%-nak és -4%-nak felel meg. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Folyó fizetési mérleg (3É)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Nettó nemzetközi befektetési pozíció a bruttó hazai termék (GDP) százalékában (éves, a BPM6 és az ESA 2010 nemzetközi szabvány szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték -35%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Nemzetközi befektetési pozíció (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>A reáleffektív árfolyam (HICP/CPI-vel deflálva, hároméves százalékos változás 41 más ipari országhoz viszonyítva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték az euroövezeti országok esetében -/+5%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Reáleffektív árfolyam (3É)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Az exportpiaci részesedés (értékalapon, ötéves százalékos változás, nemzetközi szabvány, például a BPM6 szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték -6%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Exportpiaci részesedés (5É)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominálértéken kifejezett fajlagos munkaerőköltség (hároméves százalékos változás, munkavállalók alapján). A fajlagos munkaerőköltség a teljes munkaerőköltség egységnyi kibocsátásra jutó értéke, az egy főre jutó munkajövedelem és a munkatermelékenység hányadosaként számítva (egy munkavállalóra jutó GDP-ben meghatározva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték az euroövezeti országok számára +9%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Nominális fajlagos munkaerőköltség (3É)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Lakásárak az Eurostat magánszektorbeli fogyasztási deflátorához viszonyítva (éves százalékos változás, új és használt lakások). Az euroövezet lakáscélú ingatlanár-mutatója országos forrásokból származó adatokon alapuló, nem harmonizált országos mutatók átlaga. A lefedettség országonként bizonyos mértékig eltérő. Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték +6%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Lakásárak</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Magánszektorbeli hiteláramlás a bruttó hazai termék (GDP) százalékában (konszolidált, a BPM6 és az ESA 2010 nemzetközi szabvány szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték 15%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Magánszektorbeli hiteláramlás</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Magánszektorbeli adósságállomány a GDP százalékában (konszolidált, a BPM6 és az ESA 2010 nemzetközi szabvány szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték 133%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Magánszektor adósságállománya</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Államháztartás adósságállománya a bruttó hazai termék (GDP) százalékában (a BPM6 és az ESA 2010 nemzetközi szabvány szerint számolva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték 60%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Államháztartás adósságállománya</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>A pénzügyi szektor teljes kötelezettségállománya (éves változás, nem konszolidált, az ESA 2010 nemzetközi szabvány alapján számítva). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték 16,5%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>A pénzügyi szektor kötelezettségei</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmonizált munkanélküliségi ráta (hároméves mozgóátlag). Az Európai Bizottság által elbírált makrogazdasági egyensúlyhiány-eljárás (MIP) értelmében a mutatóra vonatkozó tájékoztató jellegű küszöbérték 10%-kal egyenlő. Forrás: EKB és Európai Bizottság (Eurostat és Gazdasági és Pénzügyi Főigazgatóság).</p>",
+            "title": "<p>Munkanélküliségi ráta (3É)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makrogazdasági eredménytábla</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Külső/versenyképességi mutatók</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Belső mutatók</p>"
+        }
+    }
+}

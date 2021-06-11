@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery ostatným finančným sprostredkovateľom eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Iné finančné podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery poisťovniam a penzijným fondom eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Poisťovne a penzijné fondy, spolu</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery nefinančným spoločnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Domácnosti, spolu</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery ostatným finančným sprostredkovateľom eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Iné finančné podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery poisťovniam a penzijným fondom eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Poisťovne a penzijné fondy, spolu</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery nefinančným spoločnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Domácnosti, spolu</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu celkových úverov ostatným finančným sprostredkovateľom eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Iné finančné podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu celkových úverov poisťovniam a penzijným fondom eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Poisťovne a penzijné fondy, spolu</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu celkových úverov nefinančným spoločnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Podniky, spolu</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu celkových úverov domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Domácnosti, spolu</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou do jedného roka (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Podniky; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou do jedného roka (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Podniky; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu úverov nefinančným spoločnostiam eurozóny so splatnosťou do jedného roka (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Podniky; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou nad jeden rok až do päť rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Podniky; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou nad jeden rok až do päť rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Podniky; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu úverov nefinančným spoločnostiam eurozóny so splatnosťou nad jeden rok až do päť rokov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Podniky; 1 rok &lt; x ≤ 5 rokov</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou nad päť rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Podniky; x &gt; 5 rokov</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery nefinančným spoločnostiam eurozóny so splatnosťou nad päť rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Podniky; x &gt; 5 rokov</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu úverov nefinančným spoločnostiam eurozóny so splatnosťou nad päť rokov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Podniky; x &gt; 5 rokov</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery nefinančným spoločnostiam eurozóny očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, zostatky na konci obdobia). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Podniky, spolu (upravené)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery domácnostiam v eurozóne očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, zostatky na konci obdobia). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Domácnosti, spolu (upravené)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery nefinančným spoločnostiam eurozóny očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Podniky, spolu (upravené)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery domácnostiam v eurozóne očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Domácnosti, spolu (upravené)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery nefinančným spoločnostiam eurozóny očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, ročné percentuálne zmeny). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Podniky, spolu (upravené)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, celkové úvery domácnostiam v eurozóne očistené od predaja, sekuritizácie a fiktívneho združovania fondov (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, ročné percentuálne zmeny). Úvery očistené od predaja a sekuritizácie obsahujú úvery, ktoré boli odpredané alebo sekuritizované a vyradené zo súvahy bánk.</p>",
+            "title": "<p>Domácnosti, spolu (upravené)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, spotrebiteľské úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Domácnosti, spotrebiteľské úvery</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, spotrebiteľské úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Domácnosti, spotrebiteľské úvery</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu spotrebiteľských úverov domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Domácnosti, spotrebiteľské úvery</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery domácnostiam eurozóny na kúpu nehnuteľností na bývanie (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Domácnosti, hypotekárne úvery</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, úvery domácnostiam eurozóny na kúpu nehnuteľností na bývanie (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Domácnosti, hypotekárne úvery</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu úverov domácnostiam eurozóny na kúpu nehnuteľností na bývanie (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Domácnosti, hypotekárne úvery</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, ostatné úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)</p>",
+            "title": "<p>Domácnosti, iné úvery</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Súvahová štatistika PFI, ostatné úvery domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)</p>",
+            "title": "<p>Domácnosti, iné úvery</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Súvahová štatistika PFI, miery rastu ostatných úverov domácnostiam eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)</p>",
+            "title": "<p>Domácnosti, iné úvery</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Súvahová štatistika PFI, pomer medzi celkovými úvermi a celkovými vkladmi nefinančných podnikov a domácností eurozóny a nefinančných podnikov, domácností a nebankových finančných inštitúcií mimo eurozóny (okrem verejnej správy, vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, v percentách, štvrťročné údaje)</p>",
+            "title": "<p>Pomer úverov ku vkladom</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Banková súvaha - Úvery</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Stav</p>"
+        },
+        "2": {
+            "title": "<p>Toky</p>"
+        },
+        "3": {
+            "title": "<p>Miery rastu</p>"
+        },
+        "4": {
+            "title": "<p>Pomer úverov ku vkladom</p>"
+        }
+    }
+}

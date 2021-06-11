@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investmentfonds - Aktiva",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Veränderungen"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Einlagen und Kreditforderungen",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Einlagen und Kreditforderungen (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Schuldverschreibungen",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Wertpapiere außer Aktien (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Aktien",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Aktien, sonstige Dividendenwerte und Beteiligungen ohne Investmentfondsanteile (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Investmentfondsanteile",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Investmentfondsanteile (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nichtfinanzielle Vermögenswerte",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: nichtfinanzielle Vermögenswerte (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Sonstige Aktiva",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: sonstige Aktiva (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva/Passiva insgesamt (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Einlagen und Kreditforderungen",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Einlagen und Kreditforderungen (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Schuldverschreibungen",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Wertpapiere außer Aktien (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Aktien",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Aktien, sonstige Dividendenwerte und Beteiligungen ohne Investmentfondsanteile (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Investmentfondsanteile",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: Investmentfondsanteile (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nichtfinanzielle Vermögenswerte",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: nichtfinanzielle Vermögenswerte (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Sonstige Aktiva",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva: sonstige Aktiva (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Aktiva/Passiva insgesamt (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, vierteljährliche Daten)"
+        }
+    }
+}

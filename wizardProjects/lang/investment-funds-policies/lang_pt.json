@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fundos de investimento - Por política de investimento",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "“Stocks”"
+        },
+        "2": {
+            "title": "Fluxos"
+        },
+        "3": {
+            "title": "Taxas de crescimento"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos de obrigações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de obrigações (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos de ações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de ações (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos mistos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos mistos (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos imobiliários",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos imobiliários (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos de cobertura (“hedge funds”)",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de cobertura (“hedge funds”) (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Outros fundos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento exceto fundos do mercado monetário, com desagregação por política de investimento: outros fundos (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos de obrigações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de obrigações (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos de ações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de ações (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos mistos",
+            "definition": "Ações/unidades de participação (UP)  em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos mistos (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos imobiliários",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos imobiliários (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos de cobertura (“hedge funds”)",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de cobertura (“hedge funds”) (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Outros fundos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: outros fundos (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos de obrigações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de obrigações (todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos de ações",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de ações (todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos mistos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos mistos (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos imobiliários",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos imobiliários (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos de cobertura (“hedge funds”)",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: fundos de cobertura (“hedge funds”) (taxa de crescimento homólogal; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Outros fundos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por política de investimento: outros fundos (taxa de crescimentoholóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        }
+    }
+}

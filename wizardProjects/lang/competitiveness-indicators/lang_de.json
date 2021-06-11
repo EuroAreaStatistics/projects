@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indikatoren der Wettbewerbsfähigkeit - Nach Preisen und Kosten",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Wettbewerbsfähigkeit"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Verbraucherpreisindizes",
+            "definition": "Harmonisierte Indikatoren der Wettbewerbsfähigkeit (HCIs) auf Basis der Verbraucherpreisindizes (Durchschnittswerte für den Zeitraum; Index: Q1 1999 = 100).  Die Verbraucherpreisindizes messen die durchschnittliche Veränderung der Preise im Zeitablauf für einen repräsentativen Korb an Waren und Dienstleistungen, die von privaten Haushalten erworben werden. Die HCIs sollen als vergleichbare Messgrößen für die Preis- und Kostenwettbewerbsfähigkeit der Euro-Länder dienen, die auch den realen effektiven Wechselkursen (EWKs) des Euro entsprechen. Sie werden nach der gleichen Methode und anhand derselben Datenquellen berechnet wie die realen EWKs des Euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "BIP-Deflatoren",
+            "definition": "Harmonisierte Indikatoren der Wettbewerbsfähigkeit (HCIs) auf Basis der Deflatoren des Bruttoinlandsprodukts (BIP) (Durchschnittswerte für den Zeitraum; Index: Q1 1999 = 100).  Das BIP ist eine Messgröße für die Wirtschaftsleistung. Es misst die Gesamtproduktion von Waren und Dienstleistungen einer Volkswirtschaft nach Abzug der Vorleistungen zuzüglich der um Subventionen verminderten Produktions- und Importabgaben. Die BIP-Deflatoren beruhen auf den von Eurostat veröffentlichten vierteljährlichen Ergebnissen der Volkswirtschaftlichen Gesamtrechnungen (Durchschnittswerte für den Zeitraum; Index Q1 1999 = 100). Die HCIs sollen als vergleichbare Messgrößen für die Preis- und Kostenwettbewerbsfähigkeit der Euro-Länder dienen, die auch den realen effektiven Wechselkursen (EWKs) des Euro entsprechen. Sie werden nach der gleichen Methode und anhand derselben Datenquellen berechnet wie die realen EWKs des Euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Lohnstückkosten",
+            "definition": "Harmonisierte Indikatoren der Wettbewerbsfähigkeit (HCIs) auf Basis der Lohnstückkostenindizes für die Gesamtwirtschaft (Durchschnittswerte für den Zeitraum; Index: Q1 1999 = 100). Die Lohnstückkosten für die Gesamtwirtschaft werden als Quotient des Arbeitnehmerentgelts je Arbeitnehmer und der Arbeitsproduktivität berechnet. Die Arbeitsproduktivität wird anhand der von Eurostat veröffentlichten vierteljährlichen Ergebnisse der Volkswirtschaftlichen Gesamtrechnungen berechnet, und zwar als BIP zu konstanten Preisen geteilt durch die Gesamtzahl der Beschäftigten (Durchschnittswerte für den Zeitraum; Index: Q1 1999 = 100). Die HCIs sollen als vergleichbare Messgrößen für die Preis- und Kostenwettbewerbsfähigkeit der Euro-Länder dienen, die auch den realen effektiven Wechselkursen (EWKs) des Euro entsprechen. Sie werden nach der gleichen Methode und anhand derselben Datenquellen berechnet wie die realen EWKs des Euro."
+        }
+    }
+}

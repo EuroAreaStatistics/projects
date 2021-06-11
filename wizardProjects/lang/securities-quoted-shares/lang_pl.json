@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Papiery wartościowe - Akcje notowane",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Nowe emisje"
+        },
+        "3": {
+            "title": "Emisje netto"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banki, stany",
+            "definition": "Stany notowanych akcji monetarnych instytucji finansowych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Przedsiębiorstwa, stany",
+            "definition": "Stany notowanych akcji przedsiębiorstw (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Inst. finans. bez MIF, stany",
+            "definition": "Stany notowanych akcji instytucji finansowych innych niż monetarne (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Ogółem, stany",
+            "definition": "Łączne stany akcji notowanych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banki, nowe",
+            "definition": "Emisje brutto notowanych akcji monetarnych instytucji finansowych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Przedsiębiorstwa, nowe",
+            "definition": "Emisje brutto notowanych akcji przedsiębiorstw (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Inst. finans. bez MIF, nowe",
+            "definition": "Emisje brutto notowanych akcji instytucji finansowych innych niż monetarne (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Ogółem, nowe",
+            "definition": "Łączne emisje brutto akcji notowanych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banki, netto",
+            "definition": "Emisje netto notowanych akcji monetarnych instytucji finansowych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Przedsiębiorstwa, netto",
+            "definition": "Emisje netto notowanych akcji przedsiębiorstw (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Inst. finans. bez MIF, netto",
+            "definition": "Emisje netto notowanych akcji instytucji finansowych innych niż monetarne (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Ogółem, netto",
+            "definition": "Łączne emisje netto akcji notowanych (wartość rynkowa, wyrażone w euro, wyemitowane przez rezydentów)"
+        }
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Kortfristede gældsinstrumenter</p>\r\n<p>Samlet beholdning: %{sumOut} %{unit}</p>\r\n<p>Samlede udstedelser: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Ejersektor: %{from}</p>\r\n<p>Beholdning: %{value} %{unit}</p>\r\n<p>Instrument: Kortfristede gældsinstrumenter</p>\r\n<p>Udstedersektor: %{to}</p>\r\n<p>Andel af samlede beholdninger: %{percentFrom}</p>\r\n<p>Andel af samlede udstedelser: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Ejersektor: %{from}; Udstedersektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Langfristede gældsinstrumenter</p>\r\n<p>Samlet beholdning: %{sumOut} %{unit}</p>\r\n<p>Samlede udstedelser: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Ejersektor: %{from}</p>\r\n<p>Beholdning: %{value} %{unit}</p>\r\n<p>Instrument: Langfristede gældsinstrumenter</p>\r\n<p>Udstedersektor: %{to}</p>\r\n<p>Andel af samlede beholdninger: %{percentFrom}</p>\r\n<p>Andel af samlede udstedelser: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Ejersektor: %{from}; Udstedersektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Kortfristede lån</p>\r\n<p>Samlede udlån: %{sumOut} %{unit}</p>\r\n<p>Samlede indlån: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Långivende sektor: %{from}</p>\r\n<p>Udlån: %{value} %{unit}</p>\r\n<p>Instrument: Kortfristede lån</p>\r\n<p>Låntagende sektor: %{to}</p>\r\n<p>Andel af samlede udlån: %{percentFrom}</p>\r\n<p>Andel af samlede indlån: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Långivende sektor: %{from}; Låntagende sektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Langfristede lån</p>\r\n<p>Samlede udlån: %{sumOut} %{unit}</p>\r\n<p>Samlede indlån: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Långivende sektor: %{from}</p>\r\n<p>Udlån: %{value} %{unit}</p>\r\n<p>Instrument: Langfristede lån</p>\r\n<p>Låntagende sektor: %{to}</p>\r\n<p>Andel af samlede udlån: %{percentFrom}</p>\r\n<p>Andel af samlede indlån: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Långivende sektor: %{from}; Låntagende sektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Indskud</p>\r\n<p>Placeret beløb i alt: %{sumOut} %{unit}</p>\r\n<p>Modtaget beløb i alt: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Placerende sektor: %{from}</p>\r\n<p>Indskud: %{value} %{unit}</p>\r\n<p>Instrument: Indskud</p>\r\n<p>Modtagersektor: %{to}</p>\r\n<p>Placeret andel af samlede indskud: %{percentFrom}</p>\r\n<p>Andel af samlede indskud modtaget: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Placerende sektor: %{from}; Låntagende sektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Noterede aktier</p>\r\n<p>Samlet beløb: %{sumOut} %{unit}</p>\r\n<p>Samlede udstedelser: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Ejersektor: %{from}</p>\r\n<p>Beløb: %{value} %{unit}</p>\r\n<p>Instrument: Noterede aktier</p>\r\n<p>Udstedersektor: %{to}</p>\r\n<p>Andel af samlede beholdninger: %{percentFrom}</p>\r\n<p>Andel af samlede udstedelser: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Ejersektor: %{from}; Udstedersektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: Ejerandele og andele i investeringsforeninger</p>\r\n<p>Samlet beløb: %{sumOut} %{unit}</p>\r\n<p>Samlede udstedelser: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Ejersektor: %{from}</p>\r\n<p>Beholdning: %{value} %{unit}</p>\r\n<p>Instrument: Ejerandele og andele i investeringsforeninger</p>\r\n<p>Udstedersektor: %{to}</p>\r\n<p>Andel af samlede beholdninger: %{percentFrom}</p>\r\n<p>Andel af samlede udstedelser: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Ejersektor: %{from}; Udstedersektor: %{to}</p>",
+                "incoming": "<p>Passiver</p>",
+                "missing": {
+                    "incoming": "<p>- Foreligger ikke/Ikke anvendelig</p>",
+                    "outgoing": "<p>- Foreligger ikke/Ikke anvendelig</p>"
+                },
+                "outgoing": "<p>Aktiver</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Beholdninger inden for sektoren</p>"
+            },
+            "title": "<p>Tilgodehavender</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Data i netværksfiguren \"Finansierings- og investeringsaktivitet\" er taget fra sektorregnskaber, som bygger på fuldstændige og ensartede kvartalsdata for alle residente institutionelle sektorer. Figuren viser de finansielle sammenhænge inden for og mellem de forskellige institutionelle sektorer og mellem sektorerne og resten af verden. Den viser finansielle positioner mellem sektorer (data om strømme er også tilgængelige i ECB's offentlige databaser). Finansieringstypens oprindelse – egenkapital eller gæld – og samme instruments bestemmelsessektor viser, hvordan sektorer allokerer finansiering. Bjælkerne for de enkelte sektorer viser en given sektors mellemværender i et givet instrument. Negative udestående beløb kan forekomme som følge af short selling, dvs. salg af værdipapirer eller andre finansielle instrumenter, som ikke ejes af sælger. Pilene viser positionerne over for andre sektorer. Positioner inden for sektorerne ses ved siden af sektorens kategori.</p>\r\n<p>Dataene er baseret på det europæiske nationalregnskabssystem 2010 (ESA2010). Sektorer: ikkefinansielle selskaber, monetære finansielle institutioner, investeringsforeninger (undtagen pengemarkedsforeninger), andre finansielle institutioner, forsikringsselskaber, pensionskasser, offentlig forvaltning og service, husholdninger (inkl. nonprofitinstitutioner rettet mod husholdninger), resten af verden (omfatter mellemværender mellem residenter og ikkeresidenter). Instrumenter: indskud, kortfristede gældsinstrumenter, langfristede gældsinstrumenter, kortfristede lån, langfristede lån, noterede aktier, andele i investeringsforeninger. Dataene er ikke opgivet på konsolideret grundlag, dvs. at totaler og procenter for instrumenterne omfatter finansielle mellemværender inden for sektorerne (fx lån ydet af banker til andre banker), ultimostatuskontoen er ultimo kvartalet, dataene er hverken sæson- eller kalenderkorrigerede, beløbene er opgivet i mia. euro, den korte oprindelige løbetid er op til et år, den lange oprindelige løbetid er over et år eller uden fastsat løbetid, dataene er aggregatet for euroområdet,</p>\r\n<p>\"-\" betyder: Foreligger ikke/ikke anvendelig. Af tekniske grunde kan beløb og kvartaler kun opgives på engelsk/i henhold til de engelske talkonventioner (dvs. komma mellem tusinder og punktum før decimaler og fx Q3).</p>\r\n<p>De viste instrumenter giver ikke et fuldstændigt billede af alle finansielle aktiver og passiver, idet valuta, unoterede aktier og andre ejerandele, forsikrings- og pensionsordninger, finansielle derivater og andre forfaldne ikkebetalte mellemværender ikke er medtaget. Yderligere data: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Finansierings- og investeringsaktivitet</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Kortfristede gældsinstrumenter</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finans. selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Langfristede gældsinstrumenter</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Kortfristede lån</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Langfristede lån</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Indlån</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Noterede aktier</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>Resten af verden</p>",
+                "S11": "<p>Virksomheder</p>",
+                "S124": "<p>Investeringsforeninger</p>",
+                "S128": "<p>Forsikringsselskaber</p>",
+                "S129": "<p>Pensionskasser</p>",
+                "S12K": "<p>Banker</p>",
+                "S12O": "<p>Andre finansielle selskaber</p>",
+                "S13": "<p>Offentlig forvaltning og service</p>",
+                "S1M": "<p>Husholdninger</p>",
+                "WLD": "<p>I alt</p>"
+            },
+            "title": "<p>Ejerandele og andele i investeringsforeninger</p>"
+        }
+    }
+}

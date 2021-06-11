@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Értékpapír - Tőzsdei részvény",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állományadatok"
+        },
+        "2": {
+            "title": "Új kibocsátás"
+        },
+        "3": {
+            "title": "Nettó kibocsátás"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Bankok, állományok",
+            "definition": "Monetáris pénzügyi intézmények által kibocsátott tőzsdei részvényállomány (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Vállalatok, állományok",
+            "definition": "Nem pénzügyi vállalatok által kibocsátott tőzsdei részvényállomány (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Egyéb pénzügyi, állományok",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok által kibocsátott tőzsdei részvényállomány (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Összesen, állományok",
+            "definition": "Teljes tőzsdei részvényállomány (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Bankok, új",
+            "definition": "Monetáris pénzügyi intézmények általi, bruttó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Vállalatok, új",
+            "definition": "Nem pénzügyi vállalatok általi, bruttó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Egyéb pénzügyi, új",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok általi, bruttó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Összesen, új",
+            "definition": "Teljes bruttó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Bankok, nettó",
+            "definition": "Monetáris pénzügyi intézmények általi, nettó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Vállalatok, nettó",
+            "definition": "Nem pénzügyi vállalatok általi, nettó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Egyéb pénzügyi, nettó",
+            "definition": "Monetáris pénzügyi intézmények nélkül tekintett pénzügyi vállalatok általi, nettó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Összesen, nettó",
+            "definition": "Teljes nettó tőzsdei részvénykibocsátás (piaci érték, euróban denominálva, rezidensek általi kibocsátás)"
+        }
+    }
+}

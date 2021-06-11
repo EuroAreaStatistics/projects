@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Titoli - Titoli di debito",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Nuove emissioni"
+        },
+        "3": {
+            "title": "Emissioni nette"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banche, consistenze",
+            "definition": "Consistenze di titoli di debito emessi da istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banche, consistenze; x ≤ 1A",
+            "definition": "Consistenze di titoli di debito a breve termine emessi da istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banche, consistenze; x &gt; 1A",
+            "definition": "Consistenze di titoli di debito a lungo termine emessi da istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Società, consistenze",
+            "definition": "Consistenze di titoli di debito emessi da società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Società, consistenze; x ≤ 1A",
+            "definition": "Consistenze di titoli di debito a breve termine emessi da società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Società, consistenze; x &gt; 1A",
+            "definition": "Consistenze di titoli di debito a lungo termine emessi da società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Amm. pubbliche, consistenze",
+            "definition": "Consistenze di titoli di debito emessi da amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Amm. pubbliche, consistenze; x ≤ 1A",
+            "definition": "Consistenze di titoli di debito a breve termine emessi da amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Amm. pubbliche, consistenze; x &gt; 1A",
+            "definition": "Consistenze di titoli di debito a lungo termine emessi da amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "AIF, consistenze",
+            "definition": "Consistenze di titoli di debito emessi da società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "AIF, consistenze; x ≤ 1A",
+            "definition": "Consistenze di titoli di debito a breve termine emessi da società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "AIF, consistenze; x &gt; 1A",
+            "definition": "Consistenze di titoli di debito a lungo termine emessi da società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Totale, consistenze",
+            "definition": "Consistenze totali di titoli di debito (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Totale, consistenze; x ≤ 1A",
+            "definition": "Consistenze totali di titoli di debito a breve termine (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Totale, consistenze; x &gt; 1A",
+            "definition": "Consistenze totali di titoli di debito a lungo termine (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banche, nuove emissioni",
+            "definition": "Emissioni lorde di titoli di debito di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banche, nuove emissioni; x ≤ 1A",
+            "definition": "Emissioni lorde di titoli di debito a breve termine di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banche, nuove emissioni; x &gt; 1A",
+            "definition": "Emissioni lorde di titoli di debito a lungo termine di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Società, nuove emissioni",
+            "definition": "Emissioni lorde di titoli di debito di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Società, nuove emissioni; x ≤ 1A",
+            "definition": "Emissioni lorde di titoli di debito a breve termine di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Società, nuove emissioni; x &gt; 1A",
+            "definition": "Emissioni lorde di titoli di debito a lungo termine di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Amm. pubbliche, nuove emissioni",
+            "definition": "Emissioni lorde di titoli di debito di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Amm. pubbliche, nuove emissioni; x ≤ 1A",
+            "definition": "Emissioni lorde di titoli di debito a breve termine di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Amm. pubbliche, nuove emissioni; x &gt; 1A",
+            "definition": "Emissioni lorde di titoli di debito a lungo termine di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "AIF, nuove emissioni",
+            "definition": "Emissioni lorde di titoli di debito di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "AIF, nuove emissioni; x ≤ 1A",
+            "definition": "Emissioni lorde di titoli di debito a breve termine di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "AIF, nuove emissioni; x &gt; 1A",
+            "definition": "Emissioni lorde di titoli di debito a lungo termine di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Totale, nuove emissioni",
+            "definition": "Emissioni lorde totali di titoli di debito (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Totale, nuove emissioni; x &gt; 1A",
+            "definition": "Emissioni lorde totali di titoli di debito a lungo termine (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Totale, nuove emissioni; x ≤ 1A",
+            "definition": "Emissioni lorde totali di titoli di debito a breve termine (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banche, emissioni nette",
+            "definition": "Emissioni nette di titoli di debito di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banche, emissioni nette; x ≤ 1A",
+            "definition": "Emissioni nette di titoli di debito a breve termine di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banche, emissioni nette; x &gt; 1A",
+            "definition": "Emissioni nette di titoli di debito a lungo termine di istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Società, emissioni nette",
+            "definition": "Emissioni nette di titoli di debito di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Società, emissioni nette; x ≤ 1A",
+            "definition": "Emissioni nette di titoli di debito a breve termine di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Società, emissioni nette; x &gt; 1A",
+            "definition": "Emissioni nette di titoli di debito a lungo termine di società non finanziarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Amm. pubbliche, emissioni nette",
+            "definition": "Emissioni nette di titoli di debito di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Amm. pubbliche, emissioni nette; x ≤ 1A",
+            "definition": "Emissioni nette di titoli di debito a breve termine di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Amm. pubbliche, emissioni nette; x &gt; 1A",
+            "definition": "Emissioni nette di titoli di debito a lungo termine di amministrazioni pubbliche (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "AIF, emissioni nette",
+            "definition": "Emissioni nette di titoli di debito di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "AIF, emissioni nette; x ≤ 1A",
+            "definition": "Emissioni nette di titoli di debito a breve termine di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "AIF, emissioni nette; x &gt; 1A",
+            "definition": "Emissioni nette di titoli di debito a lungo termine di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Totale, emissioni nette",
+            "definition": "Emissioni nette totali di titoli di debito (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Totale, emissioni nette; x ≤ 1A",
+            "definition": "Emissioni nette totali di titoli di debito a breve termine (valore nominale, tutte le valute, euro, residenti)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Totale, emissioni nette; x &gt; 1A",
+            "definition": "Emissioni nette totali di titoli di debito a lungo termine (valore nominale, tutte le valute, euro, residenti)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Valdžios sektoriaus deficito ir BVP santykis arba valdžios sektoriaus pertekliaus ir BVP santykis yra vienas iš Mastrichto kriterijų. Į valdžios sektoriaus deficito statistiką įtraukiami atsiskaitymai pagal apsikeitimo sandorius (nefinansiniai srautai galiojančiomis kainomis, procentais, dėl sezoniškumo ar darbo dienų nekoreguoti). Grafikuose pateikti pastarųjų dvejų metų duomenys grindžiami Europos Komisijos (Ekonomikos ir finansų reikalų generalinio direktorato) prognozėmis. Pagal Stabilumo ir augimo paktą biudžeto deficito kriterijaus reikšmė – 3 %.</p>",
+            "title": "<p>Valdžios sektoriaus deficito / pertekliaus santykis</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Valdžios sektoriaus skolos ir BVP santykis yra vienas iš Mastrichto kriterijų. Jam apskaičiuoti naudojami tie patys valdžios sektoriaus skolos duomenys, kurie naudojami pagal perviršinio deficito procedūrą (finansiniai likučiai nominaliąja verte, procentais, dėl sezoniškumo ar darbo dienų nekoreguoti). Grafikuose pateikti pastarųjų dvejų metų duomenys grindžiami Europos Komisijos (Ekonomikos ir finansų reikalų generalinio direktorato) prognozėmis. Pagal Mastrichto sutartį šio kriterijaus reikšmė – 60 %.</p>",
+            "title": "<p>Valdžios sektoriaus skolos santykis</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bendrasis vidaus produktas rinkos kainomis, visa ekonomika, eurais, grandininiu metodu susieti kiekiai (pakeista skaičiavimo bazė, ataskaitiniai metai – 2010 m.), pakoreguota dėl sezoniškumo ir darbo dienų. Šaltinis: Eurostatas.</p>",
+            "title": "<p>Apimtis</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bendrasis vidaus produktas rinkos kainomis, visa ekonomika, nacionaline valiuta (gali apimti sumas, perskaičiuotas į esamą valiutą pagal fiksuotą kursą), grandininiu metodu susieti kiekiai (pakeista skaičiavimo bazė), augimo tempas per metus, pakoreguota dėl sezoniškumo ir darbo dienų. Šaltinis: Eurostatas.</p>",
+            "title": "<p>Metinis augimo tempas</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Namų ūkių skolos ir bendrųjų disponuojamųjų pajamų santykis (nekonsoliduoti duomenys, galiojančiomis kainomis, procentais, dėl sezoniškumo ar darbo dienų nekoreguoti).</p>",
+            "title": "<p>Namų ūkių skolos santykis (m.)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Ne finansų bendrovių skolos ir BVP santykis. Į skolą įtraukiamos paimtos paskolos ir išleisti skolos vertybiniai popieriai (konsoliduoti duomenys, rinkos kainomis, procentais, dėl sezoniškumo ar darbo dienų nekoreguoti).</p>",
+            "title": "<p>Bendrovių skolos santykis</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Namų ūkių skolos ir bendrųjų disponuojamųjų pajamų santykis (nekonsoliduoti duomenys, galiojančiomis kainomis, procentais, dėl sezoniškumo ar darbo dienų nekoreguoti). Jei duomenys nerodomi, vadinasi jų nėra.</p>",
+            "title": "<p>Namų ūkių skolos santykis (ketv.)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Suderintas nedarbo lygis (procentais, palyginti su darbo jėga), visose šalyse taikant vienodus metodus, visos amžiaus grupės, vyrai ir moterys, pakoreguota dėl sezoniškumo, nekoreguota dėl darbo dienų. Šaltinis: Eurostatas.</p>",
+            "title": "<p>Nedarbo lygis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonominiai rodikliai</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BVP</p>"
+        },
+        "2": {
+            "title": "<p>Nedarbas</p>"
+        },
+        "3": {
+            "title": "<p>Įsiskolinimas</p>"
+        }
+    }
+}

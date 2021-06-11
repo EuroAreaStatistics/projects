@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: aktywa rezerwowe (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Aktywa</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Międzynarodowa pozycja inwestycyjna: aktywa rezerwowe jako proc. PKB w cenach rynkowych (wobec nierezydentów, stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Aktywa jako % PKB</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sektor zewnętrzny - Aktywa rezerwowe</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Aktywa rezerwowe</p>"
+        }
+    }
+}

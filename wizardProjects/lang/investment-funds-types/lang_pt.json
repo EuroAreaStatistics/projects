@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Fundos de investimento - Por tipo de fundo",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "“Stocks”"
+        },
+        "2": {
+            "title": "Fluxos"
+        },
+        "3": {
+            "title": "Taxas de crescimento"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos abertos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos abertos (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundos fechados",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos fechados (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos abertos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos abertos (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundos fechados",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos fechados (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos abertos",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos abertos (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundos fechados",
+            "definition": "Ações/unidades de participação (UP) em fundos de investimento emitidas por fundos de investimento, exceto fundos do mercado monetário, com desagregação por tipo de fundo: fundos fechados (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário, e ações/unidades de participação (UP) em fundos de investimento (taxa de crescimento homóloga; todos os prazos; conjunto de todas as moedas; variação homóloga em percentagem; valores não corrigidos de sazonalidade; dados mensais)"
+        }
+    }
+}

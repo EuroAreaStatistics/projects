@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>O rácio do défice público em relação ao PIB (-) ou o rácio do excedente público em relação ao PIB (+) é um dos elementos dos critérios de Maastricht. As estatísticas relativas ao défice público incluem liquidações efetuadas ao abrigo de acordos de <em>swap</em> (fluxos não financeiros; a preços correntes; em percentagem; sem correção de sazonalidade ou de dias úteis). Os dois últimos anos apresentados nos gráficos têm por base previsões da Comissão Europeia (Direção-Geral dos Assuntos Económicos e Financeiros). O valor de referência para o défice orçamental definido no Pacto de Estabilidade e Crescimento é de 3%.</p>",
+            "title": "<p>Rácio do défice/excedente público</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>O rácio da dívida pública em relação ao PIB é um dos elementos dos critérios de Maastricht. As estatísticas da dívida pública são as utilizadas no contexto do procedimento relativo aos défices excessivos (<em>stocks</em> financeiros ao valor nominal; em percentagem; sem correção de sazonalidade ou de dias úteis). Os dois últimos anos apresentados nos gráficos têm por base as previsões da Comissão Europeia (Direção-Geral dos Assuntos Económicos e Financeiros). O valor de referência definido nos critérios de Maastricht é de 60%.</p>",
+            "title": "<p>Rácio da dívida pública</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Produto interno bruto (PIB) a preços de mercado; conjunto da economia; expresso em euros; dados encadeados em volume (base recalculada; ano de referência: 2010); com correção de sazonalidade e de dias úteis. Fonte: Eurostat.</p>",
+            "title": "<p>Volume</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Produto interno bruto (PIB) a preços de mercado; conjunto da economia; moeda nacional (pode incluir montantes convertidos para a moeda atual a uma taxa fixa); dados encadeados em volume (base recalculada); taxa de crescimento anualizada; com correção de sazonalidade e de dias úteis. Fonte: Eurostat.</p>",
+            "title": "<p>Taxa de crescimento</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Rácio da dívida das famílias em relação ao rendimento disponível bruto (valores não consolidados; a preços correntes; em percentagem; sem correção de sazonalidade ou de dias úteis).</p>",
+            "title": "<p>Rácio da dívida das famílias (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Rácio da dívida das sociedades não financeiras em relação ao PIB. A dívida inclui empréstimos contraídos e títulos de dívida emitidos (valores consolidados; a preços de mercado; em percentagem; sem correção de sazonalidade ou de dias úteis).</p>",
+            "title": "<p>Rácio da dívida das empresas</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Rácio da dívida das famílias em relação ao rendimento disponível bruto (valores não consolidados; a preços correntes; em percentagem; sem correção de sazonalidade ou de dias úteis). O facto de não serem exibidos alguns dados significa que os mesmos não estão disponíveis.</p>",
+            "title": "<p>Rácio da dívida das famílias (T)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Taxa de desemprego harmonizada (em percentagem da população ativa civil); normalizada entre países; todas as idades; homens e mulheres; com correção de sazonalidade e sem correção de dias úteis. Fonte: Eurostat.</p>",
+            "title": "<p>Taxa de desemprego</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indicadores macroeconómicos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PIB</p>"
+        },
+        "2": {
+            "title": "<p>Desemprego</p>"
+        },
+        "3": {
+            "title": "<p>Endividamento</p>"
+        }
+    }
+}

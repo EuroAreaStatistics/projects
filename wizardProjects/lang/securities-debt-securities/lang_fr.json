@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Titres - Titres de créance",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Nouvelles émissions"
+        },
+        "3": {
+            "title": "Émissions nettes"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banques, encours",
+            "definition": "Encours de titres de créance émis par les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banques, encours : x ≤ 1 an",
+            "definition": "Encours de titres de créance à court terme émis par les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banques, encours : x &gt; 1 an",
+            "definition": "Encours de titres de créance à long terme émis par les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Entreprises, encours",
+            "definition": "Encours de titres de créance émis par les sociétés non financières (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Entreprises, encours : x ≤ 1 an",
+            "definition": "Encours de titres de créance à court terme émis par les sociétés non financières (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Entreprises, encours : x &gt; 1 an",
+            "definition": "Encours de titres de créance à long terme émis par les sociétés non financières (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Pouvoirs publics, encours",
+            "definition": "Encours de titres de créance émis par les adm. publiques (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Pouvoirs publics, encours : x ≤ 1 an",
+            "definition": "Encours de titres de créance à court terme émis par les adm. publiques (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Pouvoirs publics, encours : x &gt; 1 an",
+            "definition": "Encours de titres de créance à long terme émis par les adm. publiques (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Autres inst. financières, encours",
+            "definition": "Encours de titres de créance émis par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Autres inst. financières, encours : x ≤ 1 an",
+            "definition": "Encours de titres de créance à court terme émis par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Autres inst. financières, encours : x &gt; 1 an",
+            "definition": "Encours de titres de créance à long terme émis par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Total, encours",
+            "definition": "Encours totaux de titres de créance (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Total, encours : x ≤ 1 an",
+            "definition": "Encours totaux de titres de créance à court terme (valeur nominale, toutes devises combinées, libellés en euros, émissions par les résidents)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Total, encours : x &gt; 1 an",
+            "definition": "Encours totaux de titres de créance à long terme (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banques, nouveaux",
+            "definition": "Émissions brutes de titres de créance par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banques, nouveaux : x ≤ 1 an",
+            "definition": "Émissions brutes de titres de créance à court terme par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banques, nouveaux : x &gt; 1 an",
+            "definition": "Émissions brutes de titres de créance à long terme par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Entreprises, nouveaux",
+            "definition": "Émissions brutes de titres de créance par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Entreprises, nouveaux : x ≤ 1 an",
+            "definition": "Émissions brutes de titres de créance à court terme par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Entreprises, nouveaux : x &gt; 1 an",
+            "definition": "Émissions brutes de titres de créance à long terme par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Pouvoirs publics, nouveaux",
+            "definition": "Émissions brutes de titres de créance par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Pouvoirs publics, nouveaux : x ≤ 1 an",
+            "definition": "Émissions brutes de titres de créance à court terme par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Pouvoirs publics, nouveaux : x &gt; 1 an",
+            "definition": "Émissions brutes de titres de créance à long terme par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Autres inst. financières, nouveaux",
+            "definition": "Émissions brutes de titres de créance par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Autres inst. financières, nouveaux : x ≤ 1 an",
+            "definition": "Émissions brutes de titres de créance à court terme par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Autres inst. financières, nouveaux : x &gt; 1 an",
+            "definition": "Émissions brutes de titres de créance à long terme par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Total, nouveaux",
+            "definition": "Émissions brutes totales de titres de créance (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Total, nouveaux : x &gt; 1 an",
+            "definition": "Émissions brutes totales de titres de créance à long terme (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Total, nouveaux : x ≤ 1 an",
+            "definition": "Émissions brutes totales de titres de créance à court terme (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banques, net",
+            "definition": "Émissions nettes de titres de créance par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banques, net : x ≤ 1 an",
+            "definition": "Émissions nettes de titres de créance à court terme par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banques, net : x &gt; 1 an",
+            "definition": "Émissions nettes de titres de créance à long terme par les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Entreprises, net",
+            "definition": "Émissions nettes de titres de créance par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Entreprises, net : x ≤ 1 an",
+            "definition": "Émissions nettes de titres de créance à court terme par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Entreprises, net : x &gt; 1 an",
+            "definition": "Émissions nettes de titres de créance à long terme par les sociétés non financières (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Pouvoirs publics, net",
+            "definition": "Émissions nettes de titres de créance par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Pouvoirs publics, net : x ≤ 1 an",
+            "definition": "Émissions nettes de titres de créance à court terme par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Pouvoirs publics, net : x &gt; 1 an",
+            "definition": "Émissions nettes de titres de créance à long terme par les adm. publiques (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Autres inst. financières, net",
+            "definition": "Émissions nettes de titres de créance par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Autres inst. financières, net : x ≤ 1 an",
+            "definition": "Émissions nettes de titres de créance à court terme par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Autres inst. financières, nets : x &gt; 1 an",
+            "definition": "Émissions nettes de titres de créance à long terme par les sociétés financières autres que les IFM (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Total, net",
+            "definition": "Émissions nettes totales de titres de créance (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Total, net : x ≤ 1 an",
+            "definition": "Émissions nettes totales de titres de créance à court terme (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Total, net : x &gt; 1 an",
+            "definition": "Émissions nettes totales de titres de créance à long terme (valeur nominale, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        }
+    }
+}

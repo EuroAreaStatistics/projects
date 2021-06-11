@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Ukazovatele konkurencieschopnosti - Podľa cien a nákladov",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurencieschopnosť"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indexy spotrebiteľských cien",
+            "definition": "Harmonizované ukazovatele konkurencieschopnosti (harmonised competitiveness indicators – HCI) vychádzajúce z indexov spotrebiteľských cien (priemerné hodnoty za dané obdobie; index: Q1 1999 = 100).  Indexy spotrebiteľských cien merajú, ako sa v priebehu času v priemere mení cena špecifického koša spotrebiteľských tovarov a služieb nakupovaných domácnosťami. Účelom HCI je poskytnúť porovnateľné miery cenovej a nákladovej konkurencieschopnosti krajín eurozóny, ktoré sú zároveň konzistentné s reálnymi efektívnymi výmennými kurzami eura. HCI sa zostavujú na základe rovnakých metodík a zdrojov údajov, aké sa používajú na výpočet efektívnych výmenných kurzov eura."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflátory HDP",
+            "definition": "Harmonizované ukazovatele konkurencieschopnosti (harmonised competitiveness indicators – HCI) vychádzajúce z deflátorov hrubého domáceho produktu (HDP) (priemerné hodnoty za dané obdobie; index: Q1 1999 = 100).  HDP je ukazovateľ hospodárskej aktivity. Vyjadruje hodnotu celkovej produkcie tovarov a služieb v hospodárstve po započítaní čistých daní z produktov a dovozu a odpočítaní medzispotreby. Deflátory HDP sa odvodzujú zo štvrťročných národných účtov zverejňovaných Eurostatom (priemerné hodnoty za dané obdobie; index: Q1 1999=100). Účelom HCI je poskytnúť porovnateľné miery cenovej a nákladovej konkurencieschopnosti krajín eurozóny, ktoré sú zároveň konzistentné s reálnymi efektívnymi výmennými kurzami eura. HCI sa zostavujú na základe rovnakých metodík a zdrojov údajov, aké sa používajú na výpočet efektívnych výmenných kurzov eura."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Jednotkové náklady práce",
+            "definition": "Harmonizované ukazovatele konkurencieschopnosti vychádzajúce z indexov jednotkových nákladov práce za celú ekonomiku (priemerné hodnoty za dané obdobie; index: Q1 1999 = 100). Jednotkové náklady práce za celú ekonomiku sa počítajú ako pomer kompenzácií na zamestnanca k produktivite práce. Produktivita práce sa meria ako podiel HDP v stálych cenách a celkového počtu zamestnancov vychádzajúc zo štvrťročných národných účtov zverejňovaných Eurostatom (priemerné hodnoty za dané obdobie; index: Q1 1999 = 100). Účelom HCI je poskytnúť porovnateľné miery cenovej a nákladovej konkurencieschopnosti krajín eurozóny, ktoré sú zároveň konzistentné s reálnymi efektívnymi výmennými kurzami eura. HCI sa zostavujú na základe rovnakých metodík a zdrojov údajov, aké sa používajú na výpočet efektívnych výmenných kurzov eura."
+        }
+    }
+}

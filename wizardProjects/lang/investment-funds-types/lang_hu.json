@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Befektetési alap - Alaptípus szerint",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állomány"
+        },
+        "2": {
+            "title": "Állományváltozás"
+        },
+        "3": {
+            "title": "Növekedési ütem"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Nyílt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy alaptípus szerinti bontásban: nyílt végű alap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Zárt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy alaptípus szerinti bontásban: zárt végű alap (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Nyílt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési részvény/jegy alaptípus szerinti bontásban: nyílt végű alap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Zárt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy alaptípus szerinti bontásban: zárt végű alap (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Nyílt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy alaptípus szerinti bontásban: nyílt végű alap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Zárt végű alap",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok által kibocsátott befektetési alap részesedés/jegy alaptípus szerinti bontásban: zárt végű alap (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, befektetési alap részesedés/jegy (éves növekedési ütem, teljes futamidő, összes pénznem együttvéve, éves százalékos változás, szezonális kiigazítás nélkül, havi adatok)"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "project": {
+        "title": "Investment funds - By investment policy",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Bond funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: bond funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Equity funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: equity funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Mixed funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: mixed funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Real estate funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: real estate funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedge funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: hedge funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Other funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: other funds (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (outstanding amounts at the end of the period, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Bond funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: bond funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Equity funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: equity funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Mixed funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: mixed funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Real estate funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: real estate funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedge funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: hedge funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Other funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: other funds (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (financial transactions, total maturity, all currencies combined, denominated in euro, not seasonally adjusted, monthly data)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Bond funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: bond funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Equity funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: equity funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Mixed funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: mixed funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Real estate funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: real estate funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedge funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: hedge funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Other funds",
+            "definition": "Investment fund shares/units issued by investment funds other than money market funds, broken down by investment policy: other funds (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "Investment funds other than money market funds, investment fund shares/units (annual growth rate, total maturity, all currencies combined, annual percentage changes, not seasonally adjusted, monthly data)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "Flows",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Growth rates",
+            "teaser": ""
+        }
+    }
+}

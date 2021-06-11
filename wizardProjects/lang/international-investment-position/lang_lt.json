@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Grynoji tarptautinių investicijų pozicija (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji pozicija</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Tarptautinių investicijų balansas, turtas (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Tarptautinių investicijų balansas, įsipareigojimai (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Grynoji tarptautinių investicijų pozicija bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Tarptautinių investicijų balansas, turtas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto santykis</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Tarptautinių investicijų balansas, įsipareigojimai bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Įsipareigojimų santykis</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynosios tiesioginės investicijos (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji pozicija</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Tarptautinių investicijų balansas, tiesioginių investicijų turtas (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Tarptautinių investicijų balansas, tiesioginių investicijų įsipareigojimai (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynoji tiesioginių investicijų pozicija bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Tarptautinių investicijų balansas, tiesioginių investicijų turtas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto santykis</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Tarptautinių investicijų balansas, tiesioginių investicijų įsipareigojimai bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Įsipareigojimų santykis</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynosios portfelinės investicijos (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji pozicija</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Tarptautinių investicijų balansas, portfelinių investicijų turtas (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Tarptautinių investicijų balansas, portfelinių investicijų įsipareigojimai (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynosios portfelinės investicijos bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Tarptautinių investicijų balansas, portfelinių investicijų turtas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto santykis</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Tarptautinių investicijų balansas, portfelinių investicijų įsipareigojimai bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Įsipareigojimų santykis</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynosios kitos investicijos (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji pozicija</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Tarptautinių investicijų balansas, kitų investicijų turtas (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Tarptautinių investicijų pozicija, kitų investicijų įsipareigojimai (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Tarptautinių investicijų balansas, grynosios kitos investicijos bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas minus įsipareigojimai, ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Tarptautinių investicijų balansas, kitų investicijų turtas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto santykis</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Tarptautinių investicijų balansas, kitų investicijų įsipareigojimai bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentams, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Įsipareigojimų santykis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Išorės sektorius - Tarptautinių investicijų balansas</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Iš viso</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Tiesioginės investicijos</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfelinės investicijos</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Kitos investicijos</p>"
+        }
+    }
+}

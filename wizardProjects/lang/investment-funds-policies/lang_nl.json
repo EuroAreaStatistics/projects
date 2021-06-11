@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Beleggingsfondsen - Naar beleggingsbeleid",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Stromen"
+        },
+        "3": {
+            "title": "Groeicijfers"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obligatiefondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: obligatiefondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Aandelenfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: aandelenfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Gemengde fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: gemengde fondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Vastgoedfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: vastgoedfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedge funds",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: hedge funds (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Overige fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: overige fondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obligatiefondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: obligatiefondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Aandelenfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: aandelenfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Gemengde fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: gemengde fondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Vastgoedfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: vastgoedfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedge funds",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: hedge funds (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Overige fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: overige fondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obligatiefondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: obligatiefondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Aandelenfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: aandelenfondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Gemengde fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: gemengde fondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Vastgoedfondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: vastgoedfondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedge funds",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: hedge funds (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Overige fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar beleggingsbeleid: overige fondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, procentuele mutaties op jaarbasis, niet seizoengecorrigeerd, kwartaalgegevens)"
+        }
+    }
+}

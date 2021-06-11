@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: titluri de natura datoriei pe termen scurt</p>\r\n<p>Suma totală deținută: %{sumOut} %{unit}</p>\r\n<p>Suma totală emisă: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector deținător: %{from}</p>\r\n<p>Suma deținută: %{value} %{unit}</p>\r\n<p>Instrument: titluri de natura datoriei pe termen scurt</p>\r\n<p>Sector emitent: %{to}</p>\r\n<p>Ponderea în totalul deținerilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul emisiunilor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector deținător: %{from}; sector emitent: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: titluri de natura datoriei pe termen lung</p>\r\n<p>Suma totală deținută: %{sumOut} %{unit}</p>\r\n<p>Suma totală emisă: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector deținător: %{from}</p>\r\n<p>Suma deținută: %{value} %{unit}</p>\r\n<p>Instrument: titluri de natura datoriei pe termen lung</p>\r\n<p>Sector emitent: %{to}</p>\r\n<p>Ponderea în totalul deținerilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul emisiunilor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector deținător: %{from}; sector emitent: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: împrumuturi pe termen scurt</p>\r\n<p>Suma totală creditată: %{sumOut} %{unit}</p>\r\n<p>Suma totală debitată: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector creditor: %{from}</p>\r\n<p>Suma creditată: %{value} %{unit}</p>\r\n<p>Instrument: împrumuturi pe termen scurt</p>\r\n<p>Sector debitor: %{to}</p>\r\n<p>Ponderea în totalul împrumuturilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul creditelor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector creditor: %{from}; sector debitor: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: împrumuturi pe termen lung</p>\r\n<p>Suma totală creditată: %{sumOut} %{unit}</p>\r\n<p>Suma totală debitată: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector creditor: %{from}</p>\r\n<p>Suma creditată: %{value} %{unit}</p>\r\n<p>Instrument: împrumuturi pe termen lung</p>\r\n<p>Sector debitor: %{to}</p>\r\n<p>Ponderea în totalul împrumuturilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul creditelor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector creditor: %{from}; sector debitor: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: depozite</p>\r\n<p>Suma totală plasată: %{sumOut} %{unit}</p>\r\n<p>Suma totală primită: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector deponent: %{from}</p>\r\n<p>Suma plasată: %{value}%{unit}</p>\r\n<p>Instrument: depozite</p>\r\n<p>Sector depozitar: %{to}</p>\r\n<p>Ponderea în totalul depozitelor plasate: %{percentFrom}</p>\r\n<p>Ponderea în totalul depozitelor primite: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector deponent: %{from}; sector depozitar: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: acțiuni cotate</p>\r\n<p>Suma totală deținută: %{sumOut} %{unit}</p>\r\n<p>Suma totală emisă: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector deținător: %{from}</p>\r\n<p>Suma deținută: %{value} %{unit}</p>\r\n<p>Instrument: acțiuni cotate</p>\r\n<p>Sector emitent: %{to}</p>\r\n<p>Ponderea în totalul deținerilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul emisiunilor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector deținător: %{from}; sector emitent: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Perioada: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: unități ale fondurilor de investiții</p>\r\n<p>Suma totală deținută: %{sumOut} %{unit}</p>\r\n<p>Suma totală emisă: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Perioada: %{date}</p>\r\n<p>Sector deținător: %{from}</p>\r\n<p>Suma deținută: %{value} %{unit}</p>\r\n<p>Instrument: unități ale fondurilor de investiții</p>\r\n<p>Sector emitent: %{to}</p>\r\n<p>Ponderea în totalul deținerilor: %{percentFrom}</p>\r\n<p>Ponderea în totalul emisiunilor: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sector deținător: %{from}; sector emitent: %{to}</p>",
+                "incoming": "<p>Pasive</p>",
+                "missing": {
+                    "incoming": "<p>- nu există date/datele nu se aplică</p>",
+                    "outgoing": "<p>- nu există date/datele nu se aplică</p>"
+                },
+                "outgoing": "<p>Active</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stocuri intrasector</p>"
+            },
+            "title": "<p>Solduri</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Datele incluse în diagrama „Dinamica finanțării și a investițiilor” sunt preluate din conturile sectoriale, care oferă un set complet și consecvent de date trimestriale pentru toate sectoarele instituționale rezidente. Diagrama prezintă interconectarea financiară care există în cadrul sectoarelor instituționale, între sectoarele instituționale, precum și între aceste sectoare și restul lumii. De asemenea, aceasta ilustrează pozițiile financiare între sectoare (datele privind fluxurile sunt disponibile și în bazele de date publice ale BCE). Originea tipului de finanțare – participații sau datorii –, precum și destinația acestui instrument indică modul în care sectoarele alocă fondurile. Barele aferente fiecărui sector indică activele și pasivele unui sector dat pentru un anumit instrument. Soldurile negative s-ar putea datora vânzării în lipsă, respectiv vânzării de titluri sau alte instrumente financiare care nu sunt deținute de vânzător. Săgețile indică pozițiile în raport cu alte sectoare. Pozițiile în cadrul sectoarelor sunt prezentate lângă denumirile sectoarelor.</p>\r\n<p>Datele se bazează pe Sistemul european de conturi naționale și regionale 2010 (SEC 2010). Sectoare: societăți nefinanciare, instituții financiare monetare, fonduri de investiții (altele decât fondurile pe piața monetară), alte instituții financiare, societăți de asigurări, fonduri de pensii, administrația publică, gospodăriile populației (inclusiv instituții fără scop lucrativ în serviciul gospodăriilor populației), restul lumii (care se referă la pozițiile între rezidenți și nerezidenți). Instrumente: depozite, titluri de natura datoriei pe termen scurt, titluri de natura datoriei pe termen lung, împrumuturi pe termen scurt, împrumuturi pe termen lung, acțiuni cotate, unități ale fondurilor de investiții. Datele sunt prezentate pe bază neconsolidată, și anume totalurile și ponderile instrumentelor includ pozițiile financiare intrasectoriale (de exemplu, împrumuturile acordate de bănci altor bănci); pozițiile bilanțiere de închidere se referă la sfârșitul trimestrului; datele nu sunt ajustate nici sezonier, nici calendaristic; sumele sunt exprimate în miliarde EUR; scadența inițială pe termen scurt este de până la un an; scadența inițială pe termen lung este de peste un an sau nu există o scadență declarată; date agregate pentru zona euro; simbolul „-” înseamnă că nu există date/datele nu se aplică.   </p>\r\n<p>Instrumentele prezentate nu oferă o imagine completă a tuturor activelor și pasivelor financiare, întrucât nu sunt prezentate valuta, acțiunile necotate sau alte acțiuni, sistemele de asigurare și de pensii, instrumentele financiare derivate și alte conturi de creanțe și datorii. Pentru date suplimentare, consultați: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>BCE</p>"
+        },
+        "title": "<p>Dinamica finanțării și a investițiilor</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>fonduri de pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Titluri de natura datoriei pe termen scurt</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Titluri de natura datoriei pe termen lung</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Împrumuturi pe termen scurt</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Împrumuturi pe termen lung</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Depozite</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Acțiuni cotate</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>restul lumii</p>",
+                "S11": "<p>sectorul corporativ</p>",
+                "S124": "<p>fonduri de investiții</p>",
+                "S128": "<p>societăți de asigurări</p>",
+                "S129": "<p>pensii</p>",
+                "S12K": "<p>bănci</p>",
+                "S12O": "<p>alte entități financiare</p>",
+                "S13": "<p>administrația publică</p>",
+                "S1M": "<p>gospodăriile populației</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Unități ale fondurilor de investiții</p>"
+        }
+    }
+}

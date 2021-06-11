@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kratkoročni dolžniški vrednostni papirji</p>\r\n<p>Skupni znesek v imetju: %{sumOut} %{unit}</p>\r\n<p>Skupni izdani znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>V imetju sektorja: %{from}</p>\r\n<p>Znesek v imetju: %{value} %{unit}</p>\r\n<p>Instrument: kratkoročni dolžniški vrednostni papirji</p>\r\n<p>Sektor izdajatelja: %{to}</p>\r\n<p>Delež skupnih imetij: %{percentFrom}</p>\r\n<p>Delež skupnih izdaj: %{percentTo}</p>"
+                },
+                "fromTo": "<p>V imetju sektorja: %{from}; sektor izdajatelja: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dolgoročni dolžniški vrednostni papirji</p>\r\n<p>Skupni znesek v imetju: %{sumOut} %{unit}</p>\r\n<p>Skupni izdani znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>V imetju sektorja: %{from}</p>\r\n<p>Znesek v imetju: %{value} %{unit}</p>\r\n<p>Instrument: dolgoročni dolžniški vrednostni papirji</p>\r\n<p>Sektor izdajatelja: %{to}</p>\r\n<p>Delež skupnih imetij: %{percentFrom}</p>\r\n<p>Delež skupnih izdaj: %{percentTo}</p>"
+                },
+                "fromTo": "<p>V imetju sektorja: %{from}; sektor izdajatelja: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kratkoročna posojila</p>\r\n<p>Skupni posojeni znesek: %{sumOut} %{unit}</p>\r\n<p>Skupni izposojeni znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>Sektor posojilodajalca: %{from}</p>\r\n<p>Posojeni znesek: %{value} %{unit}</p>\r\n<p>Instrument: kratkoročna posojila</p>\r\n<p>Sektor posojilojemalca: %{to}</p>\r\n<p>Delež skupnih posojil: %{percentFrom}</p>\r\n<p>Delež skupnega zadolževanja: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor posojilodajalca: %{from}; sektor posojilojemalca: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: dolgoročna posojila</p>\r\n<p>Skupni posojeni znesek: %{sumOut} %{unit}</p>\r\n<p>Skupni izposojeni znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>Sektor posojilodajalca: %{from}</p>\r\n<p>Posojeni znesek: %{value} %{unit}</p>\r\n<p>Instrument: dolgoročna posojila</p>\r\n<p>Sektor posojilojemalca: %{to}</p>\r\n<p>Delež skupnih posojil: %{percentFrom}</p>\r\n<p>Delež skupnega zadolževanja: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor posojilodajalca: %{from}; sektor posojilojemalca: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: vloge</p>\r\n<p>Skupni deponirani znesek: %{sumOut} %{unit}</p>\r\n<p>Skupni prejeti znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>Sektor deponenta: %{from}</p>\r\n<p>Deponirani znesek: %{value}%{unit}</p>\r\n<p>Instrument: vloge</p>\r\n<p>Sektor prejemnika vlog: %{to}</p>\r\n<p>Delež skupnih deponiranih vlog: %{percentFrom}</p>\r\n<p>Delež skupnih prejetih vlog: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Sektor deponenta: %{from}; sektor prejemnika vlog: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: delnice, ki kotirajo na borzi</p>\r\n<p>Skupni znesek v imetju: %{sumOut} %{unit}</p>\r\n<p>Skupni izdani znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>V imetju sektorja: %{from}</p>\r\n<p>Znesek v imetju: %{value} %{unit}</p>\r\n<p>Instrument: delnice, ki kotirajo na borzi</p>\r\n<p>Sektor izdajatelja: %{to}</p>\r\n<p>Delež skupnih imetij: %{percentFrom}</p>\r\n<p>Delež skupnih izdaj: %{percentTo}</p>"
+                },
+                "fromTo": "<p>V imetju sektorja: %{from}; sektor izdajatelja: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Obdobje: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: delnice/enote investicijskih skladov</p>\r\n<p>Skupni znesek v imetju: %{sumOut} %{unit}</p>\r\n<p>Skupni izdani znesek: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Obdobje: %{date}</p>\r\n<p>V imetju sektorja: %{from}</p>\r\n<p>Znesek v imetju: %{value} %{unit}</p>\r\n<p>Instrument: delnice/enote investicijskih skladov</p>\r\n<p>Sektor izdajatelja: %{to}</p>\r\n<p>Delež skupnih imetij: %{percentFrom}</p>\r\n<p>Delež skupnih izdaj: %{percentTo}</p>"
+                },
+                "fromTo": "<p>V imetju sektorja: %{from}; sektor izdajatelja: %{to}</p>",
+                "incoming": "<p>Obveznosti</p>",
+                "missing": {
+                    "incoming": "<p>- podatki ne obstajajo/podatki niso relevantni</p>",
+                    "outgoing": "<p>- podatki ne obstajajo/podatki niso relevantni</p>"
+                },
+                "outgoing": "<p>Sredstva</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stanje znotraj sektorja</p>"
+            },
+            "title": "<p>Stanje</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Podatki v mrežnih diagramih v razdelku »Financiranje in naložbe« so vzeti iz sektorskih računov, ki predstavljajo celovit in konsistenten sklop četrtletnih podatkov za vse rezidenčne institucionalne sektorje. Grafi prikazujejo finančno povezanost znotraj institucionalnih sektorjev in med njimi ter med sektorji in tujino. Predstavljajo finančne pozicije med sektorji (v javnih podatkovnih zbirkah ECB so na voljo tudi podatki o tokovih). Izvor posamezne vrste financiranja – kapitala ali dolga – in destinacija teh finančnih instrumentov kažeta, kako sektorji razporejajo financiranje. Modra prečka pri vsakem sektorju kaže sredstva in obveznosti določenega sektorja pri določenem instrumentu. Pojavi se lahko tudi negativno stanje zaradi prodaje na kratko, tj. prodaje vrednostnih papirjev ali drugih instrumentov, ki niso v lasti prodajalca. Puščice kažejo pozicije z drugimi sektorji. Pozicije znotraj sektorjev so prikazane poleg imena sektorja.</p>\r\n<p>Podatki temeljijo na Evropskem sistemu računov 2010 (ESR 2010). Sektorji: nefinančne družbe, denarne finančne institucije, investicijski skladi (razen skladov denarnega trga), druge finančne institucije, zavarovalnice, pokojninski skladi, širša država, gospodinjstva (vključno z nepridobitnimi institucijami, ki opravljajo storitve za gospodinjstva), tujina (pozicije med rezidenti in nerezidenti). Instrumenti: vloge, kratkoročni dolžniški vrednostni papirji, dolgoročni dolžniški vrednostni papirji, kratkoročna posojila, dolgoročna posojila, delnice, ki kotirajo na borzi, delnice/enote investicijskih skladov. Podatki so na nekonsolidirani podlagi, tj. skupni zneski in odstotki pri instrumentih vključujejo finančne pozicije znotraj sektorjev (npr. posojila bank drugim bankam); končne bilančne pozicije se nanašajo na konec četrtletja; podatki niso niti desezonirani niti prilagojeni za število delovnih dni; zneski so v milijardah EUR; kratkoročna originalna zapadlost je do enega leta, dolgoročna originalna zapadlost je nad eno leto ali brez navedbe zapadlosti; podatki se nanašajo na agregat euroobmočja; »-« pomeni, da podatki ne obstajajo/podatki niso relevantni.   </p>\r\n<p>Prikazani instrumenti ne dajejo celotne slike o vseh finančnih sredstvih in obveznostih, saj gotovina, delnice in drug lastniški kapital, ki ne kotirajo na borzi, zavarovalne in pokojninske sheme, izvedeni finančni instrumenti in druge terjatve/obveznosti tukaj niso vključeni. Več podrobnosti je na strani: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Financiranje in naložbe</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Kratkoročni dolžniški vrednostni papirji</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Dolgoročni dolžniški vrednostni papirji</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Kratkoročna posojila</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Dolgoročna posojila</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Vloge</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Delnice, ki kotirajo na borzi</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>tujina</p>",
+                "S11": "<p>podjetja</p>",
+                "S124": "<p>investicijski skladi</p>",
+                "S128": "<p>zavarovalnice</p>",
+                "S129": "<p>pokojninski skladi</p>",
+                "S12K": "<p>banke</p>",
+                "S12O": "<p>druge finančne institucije</p>",
+                "S13": "<p>država</p>",
+                "S1M": "<p>gospodinjstva</p>",
+                "WLD": "<p>skupaj</p>"
+            },
+            "title": "<p>Delnice/enote investicijskih skladov</p>"
+        }
+    }
+}

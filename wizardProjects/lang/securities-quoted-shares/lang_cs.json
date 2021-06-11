@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Cenné papíry - Kotované akcie",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Nové emise"
+        },
+        "3": {
+            "title": "Čisté emise"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banky, stav",
+            "definition": "Zůstatky kotovaných akcií vydaných měnovými finančními institucemi (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Podniky, stav",
+            "definition": "Zůstatky kotovaných akcií vydaných nefinančními podniky (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Ostatní finanční instituce, stav",
+            "definition": "Zůstatky kotovaných akcií vydaných finančními podniky jinými než měnové finanční instituce (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Celkem, stav",
+            "definition": "Celkové zůstatky kotovaných akcií (tržní hodnota, všechny měny, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banky, nové",
+            "definition": "Hrubé emise kotovaných akcií vydané měnovými finančními institucemi (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Podniky, nové",
+            "definition": "Hrubé emise kotovaných akcií vydané nefinančními podniky (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Ostatní finanční instituce, nové",
+            "definition": "Hrubé emise kotovaných akcií vydané finančními podniky jinými než měnové finanční instituce (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Celkem, nové",
+            "definition": "Celkové hrubé emise kotovaných akcií (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banky, netto",
+            "definition": "Čisté emise kotovaných akcií vydané měnovými finančními institucemi (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Podniky, netto",
+            "definition": "Čisté emise kotovaných akcií vydané nefinančními podniky (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Ostatní finanční instituce, netto",
+            "definition": "Čisté emise kotovaných akcií vydané finančními podniky jinými než měnové finanční instituce (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Celkem, netto",
+            "definition": "Celkové čisté emise kotovaných akcií (tržní hodnota, denominované v eurech, emitované rezidenty)"
+        }
+    }
+}

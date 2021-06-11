@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilanse bankowe - Depozyty",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Przepływy"
+        },
+        "3": {
+            "title": "Stopy wzrostu"
+        },
+        "4": {
+            "title": "Relacja kredytów do depozytów"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: jednodniowe depozyty gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe do 2 lat włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe powyżej 2 lat gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty z terminem wypowiedzenia do 3 miesięcy włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: jednodniowe depozyty przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe do 2 lat włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe powyżej 2 lat przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty z terminem wypowiedzenia do 3 miesięcy włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Ubezp. i emeryt.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Pozost. inst. pośr. finans.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: jednodniowe depozyty gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe do 2 lat włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe powyżej 2 lat gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Gosp. dom.; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty z terminem wypowiedzenia do 3 miesięcy włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: jednodniowe depozyty przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe do 2 lat włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty terminowe powyżej 2 lat przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Przedsiębiorstwa; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: depozyty z terminem wypowiedzenia do 3 miesięcy włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Ubezp. i emeryt.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Pozost. inst. pośr. finans.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: łączne depozyty pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Gosp. dom.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych depozytów gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Gosp. dom.; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu jednodniowych depozytów gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Gosp. dom.; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów terminowych do 2 lat włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Gosp. dom.; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów terminowych powyżej 2 lat gospodarstw domowych ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Gosp. dom.; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów z terminem wypowiedzenia do 3 miesięcy włącznie gospodarstw domowych ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Przedsiębiorstwa; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych depozytów przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Przedsiębiorstwa; jednodniowe",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu jednodniowych depozytów przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Przedsiębiorstwa; terminowe ≤ 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów terminowych do 2 lat włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Przedsiębiorstwa; terminowe &gt; 2 lata",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów terminowych powyżej 2 lat przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Przedsiębiorstwa; termin wypowiedzenia ≤ 3 mies.",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu depozytów z terminem wypowiedzenia do 3 miesięcy włącznie przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Ubezp. i emeryt.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych depozytów towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Pozost. inst. pośr. finans.; ogółem",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych depozytów pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Relacja kredytów do depozytów",
+            "definition": "Statystyka bilansowa monetarnych instytucji finansowych: relacja łącznych kredytów i pożyczek do łącznych depozytów dla przedsiębiorstw i gospodarstw domowych ze strefy euro oraz przedsiębiorstw, gospodarstw domowych i instytucji finansowych niebędących bankami spoza strefy euro (z wyłączeniem instytucji rządowych i samorządowych, wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, w proc., dane kwartalne)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Omjer državnog manjka i BDP-a (-) odnosno državnog viška i BDP-a (+) odnosi se na maastrichtske kriterije. Statistički podatci o državnom manjku uključuju namiru u okviru ugovora o razmjeni (nefinancijski tokovi, tekuće cijene, postotci, bez sezonske i kalendarske prilagodbe). Podatci za posljednje dvije godine navedeni u grafikonima utemeljeni su na predviđanjima Europske komisije (Opća uprava za gospodarske i financijske poslove). Referentna vrijednost za proračunski manjak prema Paktu o stabilnosti i rastu iznosi 3 %.</p>",
+            "title": "<p>Omjer državnog manjka/viška</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Omjer državnog duga i BDP-a odnosi se na maastrichtske kriterije. Upotrijebljeni su statistički podatci o državnom dugu koji se upotrebljavaju u sklopu postupka u slučaju prevelikog manjka (financijsko stanje u nominalnoj vrijednosti, postotci, bez sezonske i kalendarske prilagodbe). Podatci za posljednje dvije godine navedeni u grafikonima utemeljeni su na predviđanjima Europske komisije (Opća uprava za gospodarske i financijske poslove). Referentna vrijednost utvrđena maastrichtskim kriterijima iznosi 60 %.</p>",
+            "title": "<p>Omjer državnog duga</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruto domaći proizvod po tržišnim cijenama, ukupno gospodarstvo, u eurima, ulančane vrijednosti (preračunano na novu baznu godinu 2010.), sezonski i kalendarski prilagođeno. Izvor: Eurostat</p>",
+            "title": "<p>Obujam</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruto domaći proizvod po tržišnim cijenama, ukupno gospodarstvo, u domaćoj valuti (može uključiti iznose pretvorene u važeću valutu po fiksnom deviznom tečaju), ulančane vrijednosti (preračunano na baznu godinu), stopa rasta tijekom jedne godine, sezonski i kalendarski prilagođeno. Izvor: Eurostat</p>",
+            "title": "<p>Godišnja stopa rasta</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Omjer duga kućanstava i bruto raspoloživog dohotka (nekonsolidirano, tekuće cijene, postotci, bez sezonske i kalendarske prilagodbe).</p>",
+            "title": "<p>Omjer duga kućanstava (g.)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Omjer duga i BDP-a nefinancijskih društava. Dug uključuje uzete kredite i izdane dužničke vrijednosne papire (konsolidirano, tržišne cijene, postotci, bez sezonske i kalendarske prilagodbe).</p>",
+            "title": "<p>Omjer duga nefinancijskih društava</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Omjer duga kućanstva i bruto raspoloživog dohotka (nekonsolidirano, tekuće cijene, postotci, bez sezonske i kalendarske prilagodbe). Ako se podatci ne vide, to znači da nisu dostupni.</p>",
+            "title": "<p>Omjer duga kućanstava (tr.)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Usklađena stopa nezaposlenosti (izražena kao postotak civilnog radno sposobnog stanovništva), standardizirano po državama, sve dobne skupine, muškarci i žene, sezonski prilagođeno, bez kalendarske prilagodbe. Izvor: Eurostat</p>",
+            "title": "<p>Stopa nezaposlenosti</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomski pokazatelji</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BDP</p>"
+        },
+        "2": {
+            "title": "<p>Nezaposlenost</p>"
+        },
+        "3": {
+            "title": "<p>Zaduženost</p>"
+        }
+    }
+}

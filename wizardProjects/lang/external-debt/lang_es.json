@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Deuda exterior bruta (pasivos del total de la economía frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Bruta</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Deuda exterior neta (pasivos menos activos, pasivos netos del total de la economía frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neta</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Deuda exterior bruta en porcentaje del PIB a precios de mercado (pasivos del total de la economía frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Bruta en %</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Deuda exterior neta en porcentaje del PIB a precios de mercado (pasivos menos activos, pasivos netos del total de la economía frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neta en %</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Deuda exterior bruta (pasivos de instituciones financieras monetarias frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Bruta</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Deuda exterior neta (pasivos menos activos, pasivos netos de instituciones financieras monetarias frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neta</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Deuda exterior bruta en porcentaje del PIB a precios de mercado (pasivos de instituciones financieras monetarias frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Bruta en %</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Deuda exterior neta en porcentaje del PIB a precios de mercado (pasivos menos activos, pasivos netos de instituciones financieras monetarias frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neta en %</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Deuda exterior bruta (pasivos de Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Bruta</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Deuda exterior neta (pasivos menos activos, pasivos netos de Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neta</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Deuda exterior bruta en porcentaje del PIB a precios de mercado (pasivos de Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Bruta en %</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Deuda exterior neta en porcentaje del PIB a precios de mercado (pasivos menos activos, pasivos netos de Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Neta en %</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Deuda exterior bruta (pasivos de sectores distintos de IFM y Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Bruta</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Deuda exterior neta (pasivos menos activos, pasivos netos de sectores distintos de IFM y Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Neta</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Deuda exterior bruta en porcentaje del PIB a precios de mercado (pasivos de sectores distintos de IFM y Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010)</p>",
+            "title": "<p>Bruta en %</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Deuda exterior neta en porcentaje del PIB a precios de mercado (pasivos menos activos, pasivos netos de sectores distintos de IFM y Administraciones Públicas frente a no residentes, posición a fin de trimestre, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010)</p>",
+            "title": "<p>Neta en %</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector exterior - Deuda exterior</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total de la economía</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Instituciones financieras monetarias</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Administraciones Públicas</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Otros sectores</p>"
+        }
+    }
+}

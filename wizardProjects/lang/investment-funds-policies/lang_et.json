@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investeerimisfondid - Investeerimispoliitika alusel",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Vood"
+        },
+        "3": {
+            "title": "Kasvumäärad"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Võlakirjafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: võlakirjafondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Aktsiafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: aktsiafondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Segafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: segafondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kinnisvarafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: kinnisvarafondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Riskifondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: riskifondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Muud fondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: muud fondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Võlakirjafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: võlakirjafondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Aktsiafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: aktsiafondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Segafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: segafondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kinnisvarafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: kinnisvarafondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Riskifondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: riskifondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Muud fondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: muud fondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Võlakirjafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: võlakirjafondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Aktsiafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: aktsiafondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Segafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: segafondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kinnisvarafondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: kinnisvarafondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Riskifondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: riskifondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Muud fondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud investeerimispoliitika alusel: muud fondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien lainat yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Muut rahoituksenvälittäjät, yhteensä</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen lainat yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Vakuutuslaitokset ja eläkerahastot, yhteensä</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainat yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, yhteensä</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainat yhteensä (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, yhteensä</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien lainat yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Muut rahoituksenvälittäjät, yhteensä</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen lainat yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Vakuutuslaitokset ja eläkerahastot, yhteensä</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainat yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, yhteensä</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainat yhteensä (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, yhteensä</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen muiden rahoituksenvälittäjien lainakannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Muut rahoituksenvälittäjät, yhteensä</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen vakuutuslaitosten ja eläkerahastojen lainakannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Vakuutuslaitokset ja eläkerahastot, yhteensä</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainakannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, yhteensä</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainakannan kokonaiskehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, yhteensä</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten enintään yhden vuoden lainat (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x ≤ 1v</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten enintään yhden vuoden lainat (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x ≤ 1v</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten enintään yhden vuoden lainojen kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x ≤ 1v</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli yhden ja enintään viiden vuoden lainat (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: 1v &lt; x ≤ 5v</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli yhden ja enintään viiden vuoden lainat (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: 1v &lt; x ≤ 5v</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli yhden ja enintään viiden vuoden lainojen kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: 1v &lt; x ≤ 5v</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli viiden vuoden lainat (kanta euroina ajanjakson lopussa, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x &gt; 5v</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli viiden vuoden lainat (virrat euroina, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x &gt; 5v</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten yli viiden vuoden lainojen kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Yritykset, laina-aika: x &gt; 5v</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainat yhteensä ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Yritykset, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainat yhteensä ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Kotitaloudet, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainat yhteensä ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Yritykset, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainat yhteensä ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Kotitaloudet, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten lainakannan kokonaiskehitys ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Yritykset, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien lainakannan kokonaiskehitys ilman lainojen myynnin ja arvopaperistamisen sekä laskennallisten konsernitilijärjestelyjen vaikutusta (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot). Mukana ovat siis myös myydyt tai arvopaperistetut lainat, joita ei enää ilmoiteta pankin taseessa.</p>",
+            "title": "<p>Kotitaloudet, yhteensä (korjattuja tietoja)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien kulutusluotot (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, kulutusluotot</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien kulutusluotot (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, kulutusluotot</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien kulutusluottokannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, kulutusluotot</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien asuntolainat (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, asuntolainat</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien asuntolainat (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, asuntolainat</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien asuntolainakannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, asuntolainat</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien muut lainat (kanta euroina ajanjakson lopussa, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, muut lainat</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien muut lainat (virrat euroina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, muut lainat</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen kotitalouksien muiden lainojen kannan kehitys (vuotuinen prosenttimuutos, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat tiedot)</p>",
+            "title": "<p>Kotitaloudet, muut lainat</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Rahalaitosten tasetilastot, euroalueen yritysten ja kotitalouksien sekä euroalueen ulkopuolisten yritysten, kotitalouksien ja muiden rahoituslaitosten kuin pankkien (pl. julkisyhteisöt) lainakannan ja talletuskannan suhde (prosentteina, kaikki valuutat, kaikki maturiteetit, kausivaihtelun vaikutuksesta puhdistamattomat neljännesvuositiedot)</p>",
+            "title": "<p>Laina- ja talletuskannan suhde</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Pankkien tase - Lainat</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kannat</p>"
+        },
+        "2": {
+            "title": "<p>Virrat</p>"
+        },
+        "3": {
+            "title": "<p>Kehitys (prosenttimuutos)</p>"
+        },
+        "4": {
+            "title": "<p>Laina- ja talletuskannan suhde</p>"
+        }
+    }
+}

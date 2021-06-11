@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Lån i euro upp till 0,25 miljoner; med rörlig ränta eller med en ursprunglig räntebindningsperiod på upp till tre månader till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Små lån ≤ 0.25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Lån i euro upp till 1 miljon; med rörlig ränta eller med en ursprunglig räntebindningsperiod på upp till ett år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Små lån; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Lån i euro över 1 miljon; med rörlig ränta eller med en ursprunglig räntebindningsperiod på upp till ett år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Stora lån; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Lån i euro upp till 1 miljon euro; med en ursprunglig räntebindningsperiod på över ett år och upp till fem år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Små lån; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Lån i euro över 1 miljon; med en ursprunglig räntebindningsperiod på över ett år och upp till fem år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Stora lån; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Lån i euro upp till 1 miljon; med en ursprunglig räntebindningsperiod på över fem år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Små lån; x &gt; 5Y</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Lån i euro över 1 miljon; med en ursprunglig räntebindningsperiod på över fem år till icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Stora lån; x &gt; 5Y</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Konsumtionslån i euro; med rörlig ränta eller med en ursprunglig räntebindningstid på upp till ett år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Konsumtionslån; x ≤ 1Y</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Konsumtionslån i euro; med en ursprunglig räntebindningsperiod på över ett år och upp till fem år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Konsumtionslån; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Konsumtionslån i euro; med en ursprunglig räntebindningsperiod på över fem år och till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Konsumtionslån; x &gt; 5Y</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indikator för lånekostnader för nya bostadslån till hushåll (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Hushållens lånekostnader</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Bostadslån i euro; med rörlig ränta eller med en ursprunglig räntebindningstid på upp till ett år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Bostadslån; x ≤ 1Y</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Bostadslån i euro; med en ursprunglig räntebindningsperiod på över ett år och upp till fem år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Bostadslån; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Bostadslån i euro; med en ursprunglig räntebindningsperiod på över fem år och upp till tio år till hushåll i euroområdet (i procent per år, räntor på nya avtal).</p>",
+            "title": "<p>Bostadslån; 5Y &lt; x ≤ 10Y</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Bostadslån i euro; med en ursprunglig räntebindningsperiod på över tio år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Bostadslån; x &gt; 10Y</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Lån i euro för andra ändamål; med rörlig ränta eller med en ursprunglig räntebindningstid på upp till ett år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Övriga lån; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Lån i euro för andra ändamål, inklusive lån till enmansföretag och företag med delägare; med rörlig ränta eller en ursprunglig räntebindningsperiod på upp till ett år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Övriga lån; enskild(a) ägare/; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Lån i euro för andra ändamål; med en ursprunglig räntebindningsperiod på över ett år och upp till fem år till hushåll i euroområdet (i procent per år, räntor på nya avtal).</p>",
+            "title": "<p>Övriga lån; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Lån i euro för andra ändamål; med en ursprunglig räntebindningsperiod på över fem år till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Övriga lån; x &gt; 5Y</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indikator för lånekostnader för nya lån till icke-finansiella företag (i procent per år, räntor på nya avtal).</p>",
+            "title": "<p>Företagens lånekostnader</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikator för lånekostnader för korta lån till både hushåll och icke-finansiella företag</p>",
+            "title": "<p>Kortfristiga lånekostnader</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikator för lånekostnader för långa lån till både hushåll och icke-finansiella företag</p>",
+            "title": "<p>Långfristiga lånekostnader</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Revolverande lånekrediter och övertrasseringskrediter, blankolån och utökade kreditlån i euro till icke-finansiella företag i euroområdet (i procent per år, nya avtal och utestående belopp sammanfaller)</p>",
+            "title": "<p>Revolverande lån och övertrasseringskrediter</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Revolverande lånekrediter och övertrasseringskrediter, blankolån och utökade kreditlån i euro till hushåll i euroområdet (i procent per år, nya avtal och utestående belopp sammanfaller).</p>",
+            "title": "<p>Revolverande lån och övertrasseringskrediter</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Bostadslån i euro; totalt med rörlig ränta eller ursprunglig räntebindning till hushåll i euroområdet (i procent per år, räntor på nya avtal)</p>",
+            "title": "<p>Bostadslån, totalt</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankräntor - Lån</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Hushåll</p>"
+        },
+        "2": {
+            "title": "<p>Företag</p>"
+        },
+        "3": {
+            "title": "<p>Lånekostnader</p>"
+        }
+    }
+}

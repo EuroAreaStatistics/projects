@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Medzinárodná investičná pozícia, rezervné aktíva (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Aktíva</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Medzinárodná investičná pozícia, rezervné aktíva ako percento hrubého domáceho produktu (HDP) v trhových cenách (stav ku koncu štvrťroka voči nerezidentom, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer aktív</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Externý sektor - Rezervné aktíva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Rezervné aktíva</p>"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posição de investimento internacional líquida (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Ativos da posição de investimento internacional (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativos</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Passivos da posição de investimento internacional (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivos</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Posição de investimento internacional líquida em percentagem do PIB a preços de mercado (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Ativos da posição de investimento internacional em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos ativos</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Passivos da posição de investimento internacional em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos passivos</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Posição de investimento internacional: investimento direto líquido (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Posição de investimento internacional: ativos do investimento direto (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativos</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Posição de investimento internacional: passivos do investimento direto (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivos</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Posição de investimento internacional: investimento direto líquido em percentagem do PIB a preços de mercado (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Posição de investimento internacional: ativos do investimento direto em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos ativos</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Posição de investimento internacional: passivos do investimento direto em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos passivos</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Posição de investimento internacional: investimento de carteira líquido (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Posição de investimento internacional: ativos do investimento de carteira (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativos</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Posição de investimento internacional: passivos do investimento de carteira (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivos</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Posição de investimento internacional: investimento de carteira líquido em percentagem do PIB a preços de mercado (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Posição de investimento internacional: ativos do investimento de carteira em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos ativos</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Posição de investimento internacional: passivos do investimento de carteira em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos passivos</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Posição de investimento internacional: outro investimento líquido (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Em termos líquidos</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Posição de investimento internacional: ativos do outro investimento (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativos</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Posição de investimento internacional: passivos do outro investimento (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Passivos</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Posição de investimento internacional: outro investimento líquido em percentagem do PIB a preços de mercado (ativos <em>menos</em> passivos; posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio líquido</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Posição de investimento internacional: ativos do outro investimento em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos ativos</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Posição de investimento internacional: passivos do outro investimento em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos passivos</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Setor externo - Posição de investimento internacional</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Investimento direto</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Investimento de carteira</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Outro investimento</p>"
+        }
+    }
+}

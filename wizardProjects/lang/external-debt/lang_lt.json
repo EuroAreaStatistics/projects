@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bendroji skola užsieniui (visos ekonomikos įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Bendroji skola</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Grynoji skola užsieniui (įsipareigojimai minus turtas, grynieji visos ekonomikos įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji skola</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bendroji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (visos ekonomikos įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Bendrasis santykis</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Grynoji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (įsipareigojimai minus turtas, grynieji visos ekonomikos įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bendroji skola užsieniui (pinigų finansų įstaigų įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Bendroji skola</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Grynoji skola užsieniui (įsipareigojimai minus turtas, grynieji pinigų finansų įstaigų įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji skola</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bendroji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (pinigų finansų įstaigų įsipareigojimai nerezidentams, pozicija ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Bendrasis santykis</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Grynoji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (įsipareigojimai minus turtas, grynieji pinigų finansų įstaigų įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bendroji skola užsieniui (valdžios sektoriaus įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Bendroji skola</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Grynoji skola užsieniui (įsipareigojimai minus turtas, grynieji valdžios sektoriaus įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji skola</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bendroji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (valdžios sektoriaus įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Bendrasis santykis</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Grynoji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (įsipareigojimai minus turtas, grynieji valdžios sektoriaus įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bendroji skola užsieniui (sektorių, išskyrus PFĮ ir valdžios sektorių, įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Bendroji skola</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Grynoji skola užsieniui (įsipareigojimai minus turtas, grynieji sektorių, išskyrus PFĮ ir valdžios sektorių, įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Grynoji skola</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bendroji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (sektorių, išskyrus PFĮ ir valdžios sektorių, įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Bendrasis santykis</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Grynoji skola užsieniui bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (įsipareigojimai minus turtas, grynieji sektorių, išskyrus PFĮ ir valdžios sektorių, įsipareigojimai nerezidentams, ketvirčio pabaigoje, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis santykis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Išorės sektorius - Skola užsieniui</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Visos ekonomikos</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Pinigų finansų įstaigų</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Valdžios sektoriaus</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Kitų sektorių</p>"
+        }
+    }
+}

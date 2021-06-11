@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Wertpapiere - Börsennotierte Aktien",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Neuemissionen"
+        },
+        "3": {
+            "title": "Nettoabsatz"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banken, Bestand",
+            "definition": "Umlauf an von MFIs begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Kapitalgesellschaften, Bestand",
+            "definition": "Umlauf an von nichtfinanziellen Kapitalgesellschaften begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, Bestand",
+            "definition": "Umlauf an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Insgesamt, Bestand",
+            "definition": "Gesamtumlauf an börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banken, neu",
+            "definition": "Bruttoabsatz an von MFIs begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Kapitalgesellschaften, neu",
+            "definition": "Bruttoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen börsennotierten Aktien (Marktkurs, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, neu",
+            "definition": "Bruttoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Insgesamt, neu",
+            "definition": "Gesamtbruttoabsatz an börsennotierten Aktien (Marktkurs, in Euro, von Ansässigen begeben)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banken, netto",
+            "definition": "Nettoabsatz an von MFIs begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Kapitalgesellschaften, netto",
+            "definition": "Nettoabsatz an von nichtfinanziellen Kapitalgesellschaften begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Finanz. Kapitalgesellschaften, netto",
+            "definition": "Nettoabsatz an von finanziellen Kapitalgesellschaften (ohne MFIs) begebenen börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Insgesamt, netto",
+            "definition": "Gesamtnettoabsatz an börsennotierten Aktien (Marktwert, in Euro, von Ansässigen begeben)"
+        }
+    }
+}

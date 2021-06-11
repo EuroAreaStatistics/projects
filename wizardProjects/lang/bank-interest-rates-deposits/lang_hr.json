@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Kamatne stope banaka - depoziti",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kućanstva"
+        },
+        "2": {
+            "title": "Društva"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Prekonoćne kamatne stope",
+            "definition": "Prekonoćni depoziti kućanstava europodručja izraženi u eurima (postotci godišnje, novi poslovi i stanja se podudaraju)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x ≤ 1G",
+            "definition": "Depoziti kućanstava europodručja s ugovorenim rokom dospijeća do jedne godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x &gt; 1G",
+            "definition": "Depoziti kućanstava europodručja s ugovorenim rokom dospijeća duljim od godinu dana izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; 1G &lt; x ≤ 2G",
+            "definition": "Depoziti kućanstava europodručja s ugovorenim rokom dospijeća duljim od godine dana i do dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x ≤ 2G",
+            "definition": "Depoziti kućanstava europodručja s ugovorenim rokom dospijeća do dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x &gt; 2G",
+            "definition": "Depoziti kućanstava europodručja s ugovorenim rokom dospijeća duljim od dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Iskupivi depoziti s otk. rokom; x ≤ 3M",
+            "definition": "Iskupivi depoziti kućanstava europodručja s otkaznim rokom do tri mjeseca izraženi u eurima (postotci godišnje, novi poslovi i stanja se podudaraju)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo ugovori",
+            "definition": "Repo ugovori kućanstava i nefinancijskih društava europodručja izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Prekonoćne kamatne stope",
+            "definition": "Prekonoćni depoziti nefinancijskih društava europodručja izraženi u eurima (postotci godišnje, novi poslovi i stanja se podudaraju)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x ≤ 1G",
+            "definition": "Depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća do jedne godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x &gt; 1G",
+            "definition": "Depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od jedne godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; 1G &lt; x ≤ 2G",
+            "definition": "Depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od godine dana i do dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x ≤ 2G",
+            "definition": "Depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća do dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Depoziti, ug. rok dospijeća; x &gt; 2G",
+            "definition": "Depoziti nefinancijskih društava europodručja s ugovorenim rokom dospijeća duljim od dvije godine izraženi u eurima (postotci godišnje, kamatne stope na nove poslove)"
+        }
+    }
+}

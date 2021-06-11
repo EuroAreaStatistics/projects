@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Balancen på de løbende poster som procent af bruttonationalproduktet (BNP) (tre-års glidende gennemsnit, beregnet ifølge internationale standarder som BPM6 og ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator +6 pct. og -4 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Balancen på de løbende poster (3Å)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Den internationale nettoinvesteringsposition som procent af bruttonationalproduktet (BNP) (årlig, beregnet ifølge internationale standarder som BPM6 og ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator -35 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Den internationale investeringsposition (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Den reale effektive valutakurs (HICP-/CPI-deflateret, ændring i pct. over tre år i forhold til 41 andre industrilande). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator -/+5 pct. for eurolande. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Den reale effektive valutakurs (3Å)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Eksportmarkedsandele (målt i værdier, ændring i pct. over fem år, beregnet ifølge internationale standarder som BPM6). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator -6 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Eksportmarkedsandele (5Å)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominelle enhedslønomkostninger (ændring i pct. over tre år, baseret på personer). Enhedslønomkostninger er et mål for samlede lønomkostninger pr. produceret enhed som forholdet mellem lønsum pr. ansat og arbejdsproduktiviteten (defineret som BNP pr. ansat). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator +9 pct. for eurolande. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Nominelle enhedslønomkostninger (3Å)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Boligpriser i forhold til Eurostats privatforbrugsdeflator (år til år-ændring i pct., nye og eksisterende boliger). Boligejendomsprisindikatoren for euroområdet er et gennemsnit af ikkeharmoniserede landeindikatorer baseret på data fra nationale kilder. Dækningen varierer noget landene imellem. Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 6 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Boligpriser</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Kreditstrømme i den private sektor som pct. af bruttonationalproduktet (BNP) (konsolideret, beregnet ifølge internationale standarder som BPM6 og ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 15 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Kreditstrømme i den private sektor</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Den private sektors gæld som pct. af BNP (konsolideret, beregnet ifølge internationale standarder som BPM6 og ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 133 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Den private sektors gæld</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Den offentlige sektors gæld som pct. af bruttonationalproduktet (BNP) (beregnet ifølge internationale standarder som BPM6 og ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 60 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Den offentlige sektors gæld</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Den finansielle sektors passiver (år til år-ændringer, ikkekonsolideret, beregnet ifølge internationale standarder som ENS 2010). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 16,5 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Den finansielle sektors passiver</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmoniseret arbejdsløshedsprocent (3-års glidende gennemsnit). Ifølge <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proceduren for makroøkonomiske ubalancer</a>, som vurderes af Europa-Kommissionen, er de vejledende grænseværdier for denne indikator 10 pct. Kilder: ECB og Europa-Kommissionen (Eurostat og GD for Økonomiske og Finansielle Anliggender).</p>",
+            "title": "<p>Arbejdsløshedsprocent (3Å)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroøkonomisk resultattavle</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Eksterne indik./indik. for konkurrenceevnen</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Interne indikatorer</p>"
+        }
+    }
+}

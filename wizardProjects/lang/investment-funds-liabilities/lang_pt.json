@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Fundos de investimento - Passivos",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "“Stocks”"
+        },
+        "2": {
+            "title": "Fluxos"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "UP em fundos de investimento",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: ações/unidades de participação (UP) em fundos de investimento (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Empréstimos e depósitos recebidos",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: empréstimos e depósitos recebidos (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Outras responsabilidades",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: outras responsabilidades (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; total de ativos/passivos (saldos em fim de período; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "UP em fundos de investimento",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: ações/unidades de participação (UP) em fundos de investimento (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Empréstimos e depósitos recebidos",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: empréstimos e depósitos recebidos (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Outras responsabilidades",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; classe de passivos: outras responsabilidades (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fundos de investimento, exceto fundos do mercado monetário; total de ativos/passivos (transações financeiras; todos os prazos; conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; dados trimestrais)"
+        }
+    }
+}

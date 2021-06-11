@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indikaturi tal-kompetittività - Skont il-prezz u l-kost",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kompetittività"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indiċijiet prezzijiet għall-konsumatur",
+            "definition": "Indikaturi armonizzati tal-kompetittività (HCIs) ibbażati fuq l-indiċijiet tal-prezzijiet għall-konsumatur (medji għal perjodu; indiċi: T1 1999=100). L-indiċijiet tal-prezzijiet għall-konsumatur ikejlu l-bidla medja maż-żmien fil-prezzijiet imħallsin minn unitàjiet domestiċi għal basket speċifiku ta' prodotti u servizzi ta' konsum. L-għan tal-HCIs huwa li jipprovdu kejl komparabbli tal-kompetittività tal-prezzijiet u l-kostijiet tal-pajjiżi taż-żona tal-euro li jkun konsistenti wkoll mar-rati tal-kambju effettivi reali (EERs) tal-euro. L-HCIs jitfasslu bl-istess metodoloġija u sorsi ta' dejta li jintużaw għall-EERs tal-euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflaturi tal-PDG",
+            "definition": "Indikaturi armonizzati tal-kompetittività (HCIs) ibbażati fuq id-deflaturi tal-prodott domestiku gross (PDG) (medji għal perjodu; indiċi: T1 1999=100). Il-PDG huwa kejl tal-attività ekonomika. Huwa l-valur tal-produzzjoni totali tal-prodotti u s-servizzi ta' ekonomija partikolari, biż-żieda tat-taxxi netti fuq prodotti u oġġetti importati u bit-tnaqqis tal-konsum intermedju. Id-deflaturi tal-PDG jiġu kkalkulati mill-kontijiet nazzjonali trimestrali kif ippubblikati mill-Eurostat (medji għal perjodu; indiċi: T1 1999+100). L-għan tal-HCIs huwa li jipprovdu kejl komparabbli tal-kompetittività tal-prezzijiet u l-kostijiet tal-pajjiżi taż-żona tal-euro li jkun konsistenti wkoll mar-rati tal-kambju effettivi reali (EERs) tal-euro. L-HCIs jitfasslu bl-istess metodoloġija u sorsi ta' dejta li jintużaw għall-EERs tal-euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Kost/unità ta' xogħol",
+            "definition": "Indikaturi armonizzati tal-kompetittività (HCIs) ibbażati fuq l-indiċijiet tal-kost/unità ta' xogħol għall-ekonomija totali (medji għal perjodu; indiċi: T1 1999=100). Il-kostijiet/unita ta' xogħol għall-ekonomija totali huma kkalkulati bħala l-proporzjon ta' kumpens għal kull impjegat/produttività tax-xogħol. Il-produttività tax-xogħol titkejjel billi l-PDG bi prezzijiet kostanti jiġi diviż bit-total tal-persuni impjegati, bl-użu ta' ċifri mill-kontijiet nazzjonali trimestrali kif ippubblikati mill-Eurostat (medji għal perjodu; indiċi: T1 1999=100). L-għan tal-HCIs huwa li jipprovdu kejl komparabbli tal-kompetittività tal-prezzijiet u l-kostijiet tal-pajjiżi taż-żona tal-euro li jkun konsistenti wkoll mar-rati tal-kambju effettivi reali (EERs) tal-euro. L-HCIs jitfasslu bl-istess metodoloġija u sorsi ta' dejta li jintużaw għall-EERs tal-euro.<br />."
+        }
+    }
+}

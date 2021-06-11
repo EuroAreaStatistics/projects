@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Rachunek bieżący – przychody (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Rachunek bieżący – rozchody (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Rachunek bieżący – saldo jako procent PKB w cenach rynkowych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Saldo jako % PKB</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Rachunek bieżący – przychody jako procent PKB w cenach rynkowych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Przychody jako % PKB</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Rachunek bieżący – rozchody jako procent PKB w cenach rynkowych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Rozchody jako % PKB</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Rachunek bieżący – saldo obrotów towarowych (eksport minus import, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Rachunek bieżący – eksport towarów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Rachunek bieżący – import towarów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Rachunek bieżący – saldo usług (eksport minus import, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Rachunek bieżący – eksport usług (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Rachunek bieżący – import usług (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Rachunek bieżący – saldo dochodów pierwotnych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Rachunek bieżący – przychody z tytułu dochodów pierwotnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Rachunek bieżący – rozchody z tytułu dochodów pierwotnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Rachunek bieżący – saldo dochodów wtórnych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Rachunek bieżący – przychody z tytułu dochodów wtórnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Rachunek bieżący – rozchody z tytułu dochodów wtórnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo rachunku bieżącego (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Rachunek bieżący strefy euro – według głównych kontrahentów</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Towary</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Usługi</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Dochody pierwotne</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Dochody wtórne</p>"
+        },
+        "1": {
+            "title": "<p>Razem</p>"
+        }
+    }
+}

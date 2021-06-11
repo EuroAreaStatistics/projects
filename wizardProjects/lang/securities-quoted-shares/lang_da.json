@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Værdipapirer - Noterede aktier",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Udeståender"
+        },
+        "2": {
+            "title": "Nyudstedelser"
+        },
+        "3": {
+            "title": "Nettoudstedelser"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banker, udeståender",
+            "definition": "Udestående noterede aktier udstedt af monetære finansielle institutioner (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Selskaber, udeståender",
+            "definition": "Udestående noterede aktier udstedt af ikke-finansielle selskaber (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Andre finansielle, udeståender",
+            "definition": "Udestående noterede aktier udstedt af andre finansielle selskaber end monetære finansielle institutioner (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "I alt, udeståender",
+            "definition": "Samlede udestående noterede aktier (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banker, nye",
+            "definition": "Bruttoudstedelser af noterede aktier udstedt af monetære finansielle selskaber (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Selskaber, nye",
+            "definition": "Bruttoudstedelser af noterede aktier udstedt af ikke-finansielle selskaber (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Andre finansielle, nye",
+            "definition": "Bruttoudstedelser af noterede aktier udstedt af andre finansielle selskaber end monetære finansielle institutioner (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "I alt, nye",
+            "definition": "Bruttoudstedelser i alt af noterede aktier (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banker, netto",
+            "definition": "Nettoudstedelser af noterede aktier udstedt af monetære finansielle institutioner (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Selskaber, netto",
+            "definition": "Nettoudstedelser af noterede aktier udstedt af ikke-finansielle selskaber (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Andre finansielle, netto",
+            "definition": "Nettoudstedelser af noterede aktier udstedt af andre finansielle selskaber end finansielle institutioner (til kursværdi, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "I alt, netto",
+            "definition": "Nettoudstedelser i alt af noterede aktier (til kursværdi, denomineret i euro, udstedt af residenter)"
+        }
+    }
+}

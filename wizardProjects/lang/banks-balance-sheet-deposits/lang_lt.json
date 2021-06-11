@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bankų balansas - Indėliai",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Srautai"
+        },
+        "3": {
+            "title": "Augimo tempas"
+        },
+        "4": {
+            "title": "Paskolų ir indėlių santykis"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos namų ūkių indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos namų ūkių vienadieniai indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Bendrovės, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių vienadieniai indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Bendrovės, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Bendrovės, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Bendrovės, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Draudimas ir pensijos, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos draudimo bendrovių ir pensijų fondų indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Kitos finansų bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos kitų finansinių tarpininkų indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, likučiai laikotarpio pabaigoje)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos namų ūkių indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos namų ūkių vienadieniai indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Namų ūkiai, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos namų ūkių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Bendrovės, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių vienadieniai indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Bendrovės, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Bendrovės, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Bendrovės, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos ne finansų bendrovių indėliai (visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Draudimas ir pensijos, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos draudimo bendrovių ir pensijų fondų indėliai  (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Kitos finansų bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, visi euro zonos kitų finansinių tarpininkų indėliai (visomis valiutomis kartu, visų terminų, eurais, dėl sezoniškumo nekoreguota, finansiniai sandoriai)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Namų ūkiai, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos namų ūkių visų indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Namų ūkiai, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos namų ūkių vienadienių indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Namų ūkiai, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos namų ūkių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Namų ūkiai, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos namų ūkių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Namų ūkiai, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos namų ūkių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių visų indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Bendrovės, vienos nakties",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių vienadienių indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Bendrovės, sutarto termino ≤ 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto iki dvejų metų termino euro zonos ne finansų bendrovių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Bendrovės, sutarto termino &gt; 2 m.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, sutarto nuo dvejų metų termino euro zonos ne finansų bendrovių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Bendrovės, įspėjamojo laikotarpio; x ≤ 3 mėn.",
+            "definition": "Pinigų finansų įstaigų balanso statistika, įspėjamojo iki trijų mėnesių laikotarpio euro zonos ne finansų bendrovių indėlių augimo tempas (visomis valiutomis kartu, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Draudimas ir pensijos, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos draudimo bendrovių ir pensijų fondų visų indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Kitos finansų bendrovės, iš viso",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos kitų finansinių tarpininkų visų indėlių augimo tempas (visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, metinis pokytis procentais)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Paskolų ir indėlių santykis",
+            "definition": "Pinigų finansų įstaigų balanso statistika, euro zonos ne finansų bendrovių ir namų ūkių ir ne euro zonos ne finansų bendrovių, namų ūkių ir finansų įstaigų, išskyrus bankus, visų paskolų ir visų indėlių santykis (išskyrus valdžios sektorių, visomis valiutomis kartu, visų terminų, dėl sezoniškumo nekoreguota, procentais, ketvirčio duomenys)"
+        }
+    }
+}

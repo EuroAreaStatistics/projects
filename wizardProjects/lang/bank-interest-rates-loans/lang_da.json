@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på op til 0,25 mio. euro; variabel rente eller initial rentebinding på op til tre måneder til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Små udlån ≤ 0,25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på op til 1 mio. euro; variabel rente eller initial rentebinding på op til et år til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Små udlån; x ≤ 1Å</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på over 1 mio. euro; variabel rente eller initial rentebinding på op til et år for udlån til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Store udlån; x ≤ 1Å</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på op til 1 mio. euro; initial rentebinding på over et og op til fem år til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Små udlån; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på over 1 mio. euro; initial rentebinding på over et og op til fem år til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Store udlån; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på op til 1 mio. euro; initial rentebinding på over fem år til ikke-finansielle selskaber i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Små udlån; x &gt; 5Å</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån på over 1 mio. euro; initial rentebinding på over fem år til ikke-finansielle selskaber i euroområdet (i pct. p.a.,nyudlån)</p>",
+            "title": "<p>Store udlån; x &gt; 5Å</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til forbrug; variabel rente eller initial rentebindingsperiode på op til et år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til forbrug; x ≤ 1Å</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til forbrug; initial rentebindingsperiode på over et og op til fem år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til forbrug; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til forbrug; initial rentebindingsperiode på over fem år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til forbrug; &gt; 5Å</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indikator for sammensatte låneomkostninger for nye udlån til husholdninger til boligkøb (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Husholdningers låneomkostninger</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til boligkøb; variabel rente eller initial rentebindingsperiode på op til et år til euroområdets husholdninger (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til boligkøb; x ≤ 1Å</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til boligkøb; initial rentebindingsperiode på over et og op til fem år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til boligkøb; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til boligkøb; initial rentebindingsperiode på over fem og op til 10 år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til boligkøb; 5Å &lt; x ≤ 10Å</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til boligkøb; initial rentebindingsperiode på over 10 år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Udlån til boligkøb; x &gt; 10Å</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til andre formål; variabel rente eller initial rentebindingsperiode på op til et år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Andre udlån; x ≤ 1Å</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til andre formål, herunder udlån til enkeltmandsvirksomheder og ikke-registrerede interessentskaber; variabel rente eller initial rentebinding på op til et år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Andre udlån; personlige foretagender; x ≤ 1Å</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til andre formål; initial rentebindingsperiode på over et og op til fem år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Andre udlån; 1Å &lt; x ≤ 5Å</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede udlån til andre formål; initial rentebindingsperiode på over fem år til husholdninger i euroområdet (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Andre udlån; x &gt; 5Å</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indikator for sammensatte låneomkostninger for nye udlån til ikke-finansielle selskaber (i pct. p.a., nyudlån)</p>",
+            "title": "<p>Virksomheders låneomkostninger</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikator for sammensatte låneomkostninger for kortfristede lån til både husholdninger og ikke-finansielle selskaber</p>",
+            "title": "<p>Kortfristede låneomkostninger</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikator for sammensatte låneomkostninger for langfristede lån til både husholdninger og ikke-finansielle selskaber</p>",
+            "title": "<p>Langsigtede låneomkostninger</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Eurodenominerede revolverende udlån og overtræk, kundekort med kreditramme og bevilget kreditkortgæld til ikke-finansielle selskaber i euroområdet (i pct. p.a., nye og udestående forretninger er sammenfaldende)</p>",
+            "title": "<p>Revolverende udlån og overtræk</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Eurodenominerede revolverende udlån og overtræk, kundekort med kreditramme og bevilget kreditkortgæld til husholdninger i euroområdet (i pct. p.a., nye og udestående forretninger er sammenfaldende)</p>",
+            "title": "<p>Revolverende udlån og overtræk</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Eurodenominerede lån til boligkøb; variabel rente i alt eller rentefiksering fra lånets begyndelse til husholdninger i euroområdet (i pct. p.a., renten på nye forretninger)</p>",
+            "title": "<p>Udlån til boligkøb; i alt</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankrenter - Udlån</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Husholdninger</p>"
+        },
+        "2": {
+            "title": "<p>Virksomheder</p>"
+        },
+        "3": {
+            "title": "<p>Sammensatte låneomkostninger</p>"
+        }
+    }
+}

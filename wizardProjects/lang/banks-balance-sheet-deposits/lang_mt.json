@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Karta tal-bilanċ tal-banek - Depożiti",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stokks"
+        },
+        "2": {
+            "title": "Flussi"
+        },
+        "3": {
+            "title": "Rati tat-tkabbir"
+        },
+        "4": {
+            "title": "Proporzjon self/depożitu"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti overnight minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma sa sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma ta' aktar minn sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti rimborżati b'avviż sa tliet xhur minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti overnight minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma sa sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma ta' aktar minn sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti rimborżati b'avviż sa tliet xhur minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Assigurazzjoni u pensjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn korporazzjonijiet tal-assigurazzjoni u fondi tal-pensjoni fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Finanzjarji oħra, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn intermedjarji finanzjarji oħra fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, ammonti pendenti fi tmiem il-perjodu)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti overnight minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma sa sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma ta' aktar minn sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Unitajiet domestiċi, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti rimborżati b'avviż sa tliet xhur minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti overnight minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma sa sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti b'maturità miftiehma ta' aktar minn sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Korporazzjonijiet, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti rimborżati b'avviż sa tliet xhur minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Assigurazzjoni u pensjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn korporazzjonijiet tal-assigurazzjoni u fondi tal-pensjoni fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Finanzjarji oħra, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, depożiti totali minn intermedjarji finanzjarji oħra fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, denominati fl-euro, mhux aġġustati għall-istaġun, tranżazzjonijiet finanzjarji)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Unitajiet domestiċi, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti totali minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Unitajiet domestiċi, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti overnight minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Unitajiet domestiċi; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti b'maturità miftiehma sa sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Unitajiet domestiċi; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti b'maturità miftiehma ta' aktar minn sentejn minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Unitajiet domestiċi, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti rimborżati b'avviż sa tliet xhur minn unitajiet domestiċi fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Korporazzjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti totali minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Korporazzjonijiet, overnight",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti overnight minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Korporazzjonijiet; maturità miftiehma ≤ 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti b'maturità miftiehma sa sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Korporazzjonijiet; maturità miftiehma &gt; 2Y",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti b'maturità miftiehma ta' aktar minn sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Korporazzjonijiet, jinfdew b'avviż; x ≤ 3M",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti rimborżati b'avviż sa tliet xhur minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (muniti kollha flimkien, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Assigurazzjoni u pensjonijiet, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti totali minn korporazzjonijiet tal-assigurazzjoni u fondi tal-pensjoni fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Finanzjarji oħra, total",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, rati tat-tkabbir tad-depożiti totali minn intermedjarji finanzjarji oħra fiż-żona tal-euro (muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, tibdil perċentwali annwali)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Proporzjon self/depożitu",
+            "definition": "Statistika tal-karta tal-bilanċ ta' istituzzjonijiet finanzjarji monetarji, proporzjon bejn is-self totali u d-depożiti totali vis-à-vis korporazzjonijiet mhux finanzjarji u unitajiet domestiċi fiż-żona tal-euro u korporazzjonijiet mhux finanzjarji, unitajiet domestiċi u istituzzjonijiet finanzjarji li mhumiex banek barra ż-żona tal-euro (minbarra l-amministrazzjoni pubblika, muniti kollha flimkien, maturitajiet kollha, mhux aġġustati għall-istaġun, perċentwali, kull tliet xhur)"
+        }
+    }
+}

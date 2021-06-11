@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Dette extérieure brute (engagements de l’ensemble de l’économie vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes bruts</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Dette extérieure nette (engagements moins avoirs, engagements nets de l’ensemble de l’économie vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Dette extérieure brute en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements de l’ensemble de l’économie vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio brut</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Dette extérieure nette en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements moins avoirs, engagements nets de l’ensemble de l’économie vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio net</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Dette extérieure brute (engagements des institutions financières monétaires vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes bruts</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Dette extérieure nette (engagements moins avoirs, engagements nets des institutions financières monétaires vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Dette extérieure brute en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements des institutions financières monétaires vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio brut</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Dette extérieure nette en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements moins avoirs, engagements nets des institutions financières monétaires vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio net</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Dette extérieure brute (engagements des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes bruts</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Dette extérieure nette (engagements moins avoirs, engagements nets des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Dette extérieure brute en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio brut</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Dette extérieure nette en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements moins avoirs, engagements nets des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio net</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Dette extérieure brute (engagements des secteurs autres que les IFM et des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes bruts</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Dette extérieure nette (engagements moins avoirs, engagements nets des secteurs autres que les IFM et des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Dette extérieure brute en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements des secteurs autres que les IFM et des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio brut</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Dette extérieure nette en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements moins avoirs, engagements nets des secteurs autres que les IFM et des administrations publiques vis-à-vis des non-résidents, situation en fin de trimestre, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio net</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Secteur extérieur - Dette extérieure</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ensemble de l’économie</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Institutions financières monétaires</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Administrations publiques</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Autres secteurs</p>"
+        }
+    }
+}

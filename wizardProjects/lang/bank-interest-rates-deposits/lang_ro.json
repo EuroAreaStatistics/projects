@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Ratele dobânzilor bancare - Depozite",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Populație"
+        },
+        "2": {
+            "title": "Societăți"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Ratele dobânzilor overnight",
+            "definition": "Depozite overnight în euro constituite de populația din zona euro (% pe an, operațiunile noi și soldurile coincid)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Depozite, scadență inițială; x ≤ 1A",
+            "definition": "Depozite în euro cu scadența inițială de până la un an constituite de populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Depozite, scadență inițială; x &gt; 1A",
+            "definition": "Depozite în euro cu scadența inițială de peste un an constituite de populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Depozite, scadenţă iniţială; 1A &lt; x ≤ 2A",
+            "definition": "Depozite în euro cu scadența inițială de peste un an și până la doi ani constituite de populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Depozite, scadență inițială; x ≤ 2A",
+            "definition": "Depozite în euro cu scadența inițială de până la doi ani constituite de populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Depozite, scadență inițială; x &gt; 2A",
+            "definition": "Depozite în euro cu scadența inițială de peste doi ani constituite de populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Depozite rambursabile după notificare; x ≤ 3L",
+            "definition": "Depozite în euro rambursabile după notificare la cel mult trei luni de la notificare, constituite de populația din zona euro (% pe an, operațiunile noi și soldurile coincid)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Operațiuni repo",
+            "definition": "Operațiuni repo în euro aferente populației și societăților nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Ratele dobânzilor overnight",
+            "definition": "Depozite overnight în euro constituite de societăţile nefinanciare din zona euro (% pe an, operaţiunile noi și soldurile coincid)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Depozite, scadență inițială; x ≤ 1A",
+            "definition": "Depozite în euro cu scadența inițială de până la un an constituite de societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Depozite, scadență inițială; x &gt; 1A",
+            "definition": "Depozite în euro cu scadența inițială de peste un an constituite de societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Depozite, scadență inițială; 1A &lt; x ≤ 2A",
+            "definition": "Depozite în euro cu scadența inițială de peste un an și până la doi ani constituite de societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Depozite, scadență inițială; x ≤ 2A",
+            "definition": "Depozite în euro cu scadența inițială de până la doi ani constituite de societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Depozite, scadență inițială; x &gt; 2A",
+            "definition": "Depozite în euro cu scadența inițială de peste doi ani constituite de societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)"
+        }
+    }
+}

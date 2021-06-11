@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Investmentfonds - Nach Anlageschwerpunkten",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Veränderungen"
+        },
+        "3": {
+            "title": "Wachstumsraten"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Rentenfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Rentenfonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Aktienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Aktienfonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Gemischte Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: gemischte Fonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Immobilienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Immobilienfonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedge-Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Hedgefonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Sonstige Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: sonstige Fonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Rentenfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Rentenfonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Aktienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Aktienfonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Gemischte Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: gemischte Fonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Immobilienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Immobilienfonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedge-Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Hedgefonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Sonstige Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: sonstige Fonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Rentenfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Rentenfonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Aktienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Aktienfonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Gemischte Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: gemischte Fonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Immobilienfonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Immobilienfonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedge-Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: Hedgefonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Sonstige Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Anlageschwerpunkten: sonstige Fonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        }
+    }
+}

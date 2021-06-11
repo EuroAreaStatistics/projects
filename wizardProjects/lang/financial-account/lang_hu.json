@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>A nettó pénzügyi mérleg a bruttó hazai termék (GDP) százalékos arányában piaci áron (a bevételek és a kiadások különbsége, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Nettó arány</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Pénzügyi mérlegeszközök a bruttó hazai termék (GDP) százalékos arányában piaci áron (eszközök, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Eszközök aránya</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Pénzügyi mérlegtartozások a bruttó hazai termék (GDP) százalékos arányában piaci áron (kötelezettségek, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 és ESA 2010-es szabványok).</p>",
+            "title": "<p>Tartozások aránya</p>"
+        },
+        "1": {
+            "definition": "<p>Nettó pénzügyi mérleg (a követelések és a tartozások különbsége, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Pénzügyi mérlegen fennálló követelések (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Pénzügyi mérlegen fennálló tartozások (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Nettó pénzügyi mérleg, működő tőke (a követelések és a tartozások különbsége, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Pénzügyi mérleg, működőtőke-követelések (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Pénzügyi mérleg, működőtőke-tartozások (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Nettó pénzügyi mérleg, portfólióbefektetések (a követelések és a tartozások különbsége, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; szezonálisan és munkanappal nincs kiigazítva; BPM6 szabványok; ).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Pénzügyi mérleg, portfólióbefektetéseken fennálló követelések (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Pénzügyi mérleg, portfólióbefektetéseken fennálló tartozások (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Nettó pénzügyi mérleg, egyéb befektetések (a követelések és a tartozások különbsége, nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Nettó</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Pénzügyi mérleg, egyéb befektetéseken fennálló követelések (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Követelések</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Pénzügyi mérleg, egyéb befektetéseken fennálló tartozások (nem rezidensekkel szembeni tranzakciók; négy negyedéves kumulált adat; nincs szezonálisan és munkanappal kiigazítva; BPM6 szabványok).</p>",
+            "title": "<p>Tartozások</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Külső szektor - A pénzügyi mérleg</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Összesen</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Működőtőke-befektetés</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfólióbefektetés</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Egyéb befektetés</p>"
+        }
+    }
+}

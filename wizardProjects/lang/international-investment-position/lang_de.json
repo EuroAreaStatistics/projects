@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Netto-Auslandsvermögensstatus (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Grenzüberschreitende finanzielle Forderungen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Grenzüberschreitende finanzielle Verbindlichkeiten (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Netto-Auslandsvermögensstatus in Prozent des BIP zu Marktpreisen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Grenzüberschreitende finanzielle Forderungen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Grenzüberschreitende finanzielle Verbindlichkeiten in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Passiva in Prozent</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Auslandsvermögensstatus, Nettodirektinvestitionen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus Direktinvestitionen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus Direktinvestitionen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Auslandsvermögensstatus, Nettodirektinvestitionen in Prozent des BIP zu Marktpreisen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus Direktinvestitionen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus Direktinvestitionen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Passiva in Prozent</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Auslandsvermögensstatus, Netto-Wertpapieranlagen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus Wertpapieranlagen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus Wertpapieranlagen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Auslandsvermögensstatus, Netto-Wertpapieranlagen in Prozent des BIP zu Marktpreisen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus Wertpapieranlagen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus Wertpapieranlagen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Passiva in Prozent</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Auslandsvermögensstatus, Nettokapitalanlagen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus übrigen Kapitalanlagen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus übrigen Kapitalanlagen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Passiva</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Auslandsvermögensstatus, Nettokapitalanlagen in Prozent des BIP zu Marktpreisen (Forderungen minus Verbindlichkeiten, Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Nettoquote</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Auslandsvermögensstatus, Forderungen aus übrigen Kapitalanlagen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Aktiva in Prozent</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Auslandsvermögensstatus, Verbindlichkeiten aus übrigen Kapitalanlagen in Prozent des BIP zu Marktpreisen (Stand am Quartalsende gegenüber Gebietsfremden; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Passiva in Prozent</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Außenwirtschaft - Auslandsvermögensstatus</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Insgesamt</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Direktinvestitionen</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Wertpapieranlagen</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Übrige Kapitalanlagen</p>"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, saldo (izvoz minus uvoz, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, izvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna menjava, uvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, (izvoz minus uvoz, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, izvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Tekoči račun plačilne bilance, storitvena menjava, uvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Saldo tekočega računa plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Izdatki na tekočem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Izdatki kot odstotek BDP</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Saldo tekočega računa plačilne bilance (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Prejemki na tekočem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Izdatki na tekočem računu plačilne bilance (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Prejemki na tekočem računu plačilne bilance kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Prejemki kot odstotek BDP</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna in storitvena menjava, saldo (izvoz minus uvoz, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna in storitvena menjava, izvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Tekoči račun plačilne bilance, blagovna in storitvena menjava, uvoz (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Tekoči račun plačilne bilance, saldo primarnih dohodkov (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Tekoči račun plačilne bilance, prejemki v kategoriji primarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Tekoči račun plačilne bilance, izdatki v kategoriji primarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Tekoči račun plačilne bilance, saldo sekundarnih dohodkov (prejemki minus izdatki, transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Tekoči račun plačilne bilance, prejemki v kategoriji sekundarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Prejemki</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Tekoči račun plačilne bilance, izdatki v kategoriji sekundarnih dohodkov (transakcije z nerezidenti; kumulativno v štirih četrtletjih; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Izdatki</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Tujina - Tekoči račun</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Blago</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Storitve</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Skupaj</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Blago in storitve</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Primarni dohodki</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Sekundarni dohodki</p>"
+        }
+    }
+}

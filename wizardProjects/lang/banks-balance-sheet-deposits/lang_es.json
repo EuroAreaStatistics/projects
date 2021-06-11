@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Balances bancarios - Depósitos",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Saldos"
+        },
+        "2": {
+            "title": "Flujos"
+        },
+        "3": {
+            "title": "Tasas de crecimiento"
+        },
+        "4": {
+            "title": "Ratio préstamos/depósitos"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Hogares, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Hogares, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos a la vista de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Hogares; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento de hasta dos años de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Hogares; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos a plazo con vencimiento superior a dos años de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Hogares, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos disponibles con preaviso hasta tres meses de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Sociedades, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Sociedades, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones depósitos a la vista de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Sociedades; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento de hasta dos años de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Sociedades; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento superior a dos años de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Sociedades, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos disponibles con preaviso hasta tres meses de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Seguros y pensiones, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de las empresas de seguros y fondos de pensiones de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Otras instituciones financieras, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de otros intermediarios financieros de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, saldos vivos a fin de período)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Hogares, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Hogares, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos a la vista de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Hogares; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento de hasta dos años de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Hogares; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento superior a dos años de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Hogares, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos disponibles con preaviso hasta tres meses de los hogares de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Sociedades, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Sociedades, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos a la vista de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Sociedades; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento de hasta dos años de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Sociedades; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos con vencimiento superior a dos años de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Sociedades, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos disponibles con preaviso hasta tres meses de las sociedades no financieras de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Seguros y pensiones, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de empresas de seguros y fondos de pensiones de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Otras instituciones financieras, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, depósitos totales de otros intermediarios financieros de la zona del euro (en todas las monedas, denominados en euros, sin desestacionalizar, operaciones financieras)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Hogares, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos totales de los hogares de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Hogares, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos a la vista de los hogares de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Hogares; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos con vencimiento de hasta dos años de los hogares de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Hogares; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos con vencimiento superior a dos años de los hogares de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Hogares, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos disponibles con preaviso hasta tres meses de los hogares de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Sociedades, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos totales de las sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Sociedades, a la vista",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos a la vista de las sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Sociedades; vencimiento ≤ 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos con vencimiento de hasta dos años de las sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Sociedades; vencimiento &gt; 2 años",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos con vencimiento superior a dos años de las sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Sociedades, disponibles con preaviso; x ≤ 3 meses",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de depósitos disponibles con preaviso hasta tres meses de las sociedades no financieras de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Seguros y pensiones, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos totales de empresas de seguros y fondos de pensiones de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Otras instituciones financieras, total",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, tasas de crecimiento de los depósitos totales de otros intermediarios financieros de la zona del euro (en todas las monedas, sin desestacionalizar, tasas de variación interanuales)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Ratio préstamos/depósitos",
+            "definition": "Estadísticas de los balances de las instituciones financieras monetarias, ratio préstamos totales/depósitos totales frente a sociedades no financieras y hogares de la zona del euro y sociedades no financieras, hogares e instituciones financieras no bancarias no pertenecientes a la zona del euro (excluidas Administraciones Públicas, en todas las monedas, sin desestacionalizar, porcentaje, trimestral)"
+        }
+    }
+}

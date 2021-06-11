@@ -1,0 +1,26 @@
+{
+    "project": {
+        "title": "External sector - Reserve assets",
+        "options": {
+            "dataSourceURL": "a",
+            "relatedPublication": "a",
+            "dataSource": "a"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Assets",
+            "definition": "International investment position, reserve assets (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452173895267": {
+            "title": "Assets ratio",
+            "definition": "International investment position, reserve assets as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Reserve assets",
+            "teaser": ""
+        }
+    }
+}

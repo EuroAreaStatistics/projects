@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Pokazatelji konkurentnosti - po cijenama i troškovima",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurentnost"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indeksi potrošačkih cijena",
+            "definition": "Harmonizirani pokazatelji konkurentnosti utemeljeni na indeksima potrošačkih cijena (prosjeci razdoblja; indeks: 1. tromjesečje 1999. = 100). Indeksima potrošačkih cijena mjere se prosječne promjene razine potrošačkih cijena koje kućanstva plaćaju za konkretnu košaricu dobara i usluga tijekom vremena. Harmonizirani pokazatelji konkurentnosti usporediva su mjerila cjenovne i troškovne konkurentnosti država europodručja, koja su ujedno u skladu s realnim efektivnim tečajevima eura. Metodologija i izvori podataka koji su upotrijebljeni za konstruiranje harmoniziranih pokazatelja konkurentnosti jednaki su onima upotrijebljenima za realne efektivne tečajeve eura."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflatori BDP-a",
+            "definition": "Harmonizirani pokazatelji konkurentnosti utemeljeni na deflatorima bruto domaćeg proizvoda (prosjeci razdoblja; indeks: 1. tromjesečje 1999. = 100). BDP je mjerilo gospodarske aktivnosti. Predstavlja vrijednost ukupne proizvodnje dobara i usluga, umanjene za intermedijarnu potrošnju i uvećane za neto poreze na proizvode i uvoze. Deflatori BDP-a izvedeni su iz tromjesečnih nacionalnih računa koje je objavio Eurostat (prosjeci razdoblja; indeks: 1. tromjesečje 1999. = 100). Harmonizirani pokazatelji konkurentnosti usporediva su mjerila cjenovne i troškovne konkurentnosti država europodručja, koja su ujedno u skladu s realnim efektivnim tečajevima eura. Metodologija i izvori podataka koji su upotrijebljeni za konstruiranje harmoniziranih pokazatelja konkurentnosti jednaki su onima upotrijebljenima za realne efektivne tečajeve eura."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Jedinični troškovi rada",
+            "definition": "Harmonizirani pokazatelji konkurentnosti utemeljeni su na indeksima jediničnih troškova rada za ukupno gospodarstvo (prosjeci razdoblja; indeks: 1. tromjesečje 1999. = 100). Jedinični troškovi rada u ukupnom gospodarstvu izračunavaju se kao omjer naknade po zaposlenome i proizvodnosti rada. Proizvodnost rada mjeri se kao BDP u stalnim cijenama podijeljen s ukupnim brojem zaposlenih pomoću tromjesečnih nacionalnih računa koje je objavio Eurostat (prosjeci razdoblja; indeks: 1. tromjesečje 1999. = 100). Harmonizirani pokazatelji konkurentnosti usporediva su mjerila cjenovne i troškovne konkurentnosti država europodručja, koja su ujedno u skladu s realnim efektivnim tečajevima eura. Metodologija i izvori podataka koji su upotrijebljeni za konstruiranje harmoniziranih pokazatelja konkurentnosti jednaki su onima upotrijebljenima za realne efektivne tečajeve eura."
+        }
+    }
+}

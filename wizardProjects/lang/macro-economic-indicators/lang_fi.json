@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Julkisen talouden alijäämä (–) tai ylijäämä (+) suhteessa BKT:hen Maastrichtin sopimuksen kriteerien mukaan. (Prosentteina, muut virrat kuin rahoitusvirrat nykyarvoon, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot.) Julkisen talouden alijäämätilastoissa ovat mukana swapsopimuksiin liittyvät maksut. Kahden viimeisen vuoden tiedot perustuvat Euroopan komission talous- ja rahoitusasioiden pääosaston ennusteisiin. Vakaus- ja kasvusopimuksen mukainen alijäämäsuhteen vertailuarvo on 3 %.</p>",
+            "title": "<p>Julkisen talouden alijäämä-/ylijäämäsuhde</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Julkisen talouden velka suhteessa BKT:hen Maastrichtin sopimuksen kriteerien mukaan. (Prosentteina, velkakanta nimellisarvoon, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot.) Samoja julkisen talouden velkatilastoja käytetään liiallisia alijäämiä koskevan menettelyn yhteydessä. Kahden viimeisen vuoden tiedot perustuvat Euroopan komission talous- ja rahoitusasioiden pääosaston ennusteisiin. Maastrichtin sopimuksen mukainen velkasuhteen vertailuarvo on 60 %.</p>",
+            "title": "<p>Julkisen talouden velkasuhde</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruttokansantuote (koko talous, markkinahinnoin, euromääräisenä, määrätiedot ketjuindeksinä, perusvuosi 2010, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistetut tiedot). Lähde: Eurostat.</p>",
+            "title": "<p>Bruttokansantuote</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruttokansantuotteen vuosikasvu (koko talous, markkinahinnoin, kotimaan rahan määräisenä, voi sisältää kiinteällä vaihtokurssilla muunnettuja lukuja, määrätiedot ketjuindeksinä, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistetut tiedot). Lähde: Eurostat.</p>",
+            "title": "<p>BKT:n vuotuinen kasvuvauhti</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Kotitalouksien velan suhde käytettävissä oleviin bruttotuloihin (prosentteina, nykyarvoon, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat konsolidoimattomat tiedot).</p>",
+            "title": "<p>Kotitaloussektorin velkasuhde: vuositiedot</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Yritysten velan suhde BKT:hen (prosentteina, markkinahintaan, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat konsolidoidut tiedot). Velka sisältää lainat ja liikkeeseen lasketut velkapaperit.</p>",
+            "title": "<p>Yrityssektorin velkasuhde</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Kotitalouksien velan suhde käytettävissä oleviin bruttotuloihin (prosentteina, nykyarvoon, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat konsolidoimattomat tiedot). Kaikista maista tietoja ei ole saatavilla.</p>",
+            "title": "<p>Kotitaloussektorin velkasuhde: neljännesvuositiedot</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Yhdenmukaistettu työttömyysaste (prosentteina työvoimaan kuuluvasta siviiliväestöstä, ikään ja sukupuoleen katsomatta, kausivaihtelun vaikutuksesta puhdistetut mutta työpäivien määrän vaikutuksesta puhdistamattomat tiedot). Lähde: Eurostat.</p>",
+            "title": "<p>Työttömyysaste</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makrotalouden indikaattorit</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BKT</p>"
+        },
+        "2": {
+            "title": "<p>Työttömyys</p>"
+        },
+        "3": {
+            "title": "<p>Velkaantuneisuus</p>"
+        }
+    }
+}

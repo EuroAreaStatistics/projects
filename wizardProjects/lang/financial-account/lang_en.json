@@ -1,0 +1,92 @@
+{
+    "project": {
+        "title": "External sector - Financial account",
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": ""
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Net",
+            "definition": "Net financial account (assets minus liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452076605570": {
+            "title": "Assets",
+            "definition": "Financial account assets (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452076612489": {
+            "title": "Liabilities",
+            "definition": "Financial account liabilities (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077490778": {
+            "title": "Net",
+            "definition": "Net financial account, direct investment (assets minus liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077522557": {
+            "title": "Assets",
+            "definition": "Financial account, direct investment assets (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077529556": {
+            "title": "Liabilities",
+            "definition": "Financial account, direct investment liabilities (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077585632": {
+            "title": "Net",
+            "definition": "Net financial account, portfolio investment (assets minus liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077591544": {
+            "title": "Assets",
+            "definition": "Financial account, portfolio investment assets (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077597455": {
+            "title": "Liabilities",
+            "definition": "Financial account, portfolio investment liabilities (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077944808": {
+            "title": "Net",
+            "definition": "Net financial account, other investment (assets minus liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077955440": {
+            "title": "Assets",
+            "definition": "Financial account, other investment assets (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452077959600": {
+            "title": "Liabilities",
+            "definition": "Financial account, other investment liabilities (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1542702636664": {
+            "title": "Net ratio",
+            "definition": "Net financial account as percentage of gross domestic product (GDP) at market prices (assets minus liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "c1542702638198": {
+            "title": "Assets ratio",
+            "definition": "Financial account assets as percentage of gross domestic product (GDP) at market prices (assets, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards and ESA 2010 standards)."
+        },
+        "c1542702639166": {
+            "title": "Liabilities ratio",
+            "definition": "Financial account liabilities as percentage of gross domestic product (GDP) at market prices (liabilities, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards and ESA 2010 standards)."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Total",
+            "teaser": ""
+        },
+        "1452076650857": {
+            "title": "Direct investment",
+            "teaser": ""
+        },
+        "1452077565108": {
+            "title": "Portfolio investment",
+            "teaser": ""
+        },
+        "1452077929773": {
+            "title": "Other investment",
+            "teaser": ""
+        }
+    }
+}

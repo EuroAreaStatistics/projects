@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bankenbilanz - Einlagen",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Veränderungen"
+        },
+        "3": {
+            "title": "Wachstumsraten"
+        },
+        "4": {
+            "title": "Verhältnis von Krediten zu Einlagen"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Private Haushalte, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Private Haushalte, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, täglich fällige Einlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Laufzeit; x &gt;2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Kündigungsfrist; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, täglich fällige Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Laufzeit; x &gt; 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Kündigungsfr.; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Versicherungen und Pensionskassen, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen von Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Sonstige Finanzintermediäre, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen sonstiger Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, Bestände am Ende des Berichtszeitraums)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Private Haushalte, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Private Haushalte, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, täglich fällige Einlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Laufzeit; x &gt;2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Private Haushalte, Kündigungsfrist; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, täglich fällige Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Laufzeit; x &gt; 2J",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Kapitalgesellschaften, Kündigungsfr.; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Versicherungen und Pensionskassen, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen von Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Sonstige Finanzintermediäre, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Gesamteinlagen sonstiger Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, in Euro, nicht saisonbereinigt, transaktionsbedingte Veränderungen)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Private Haushalte, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Gesamteinlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Private Haushalte, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der täglich fälligen Einlagen privater Haushalte im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Private Haushalte, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Private Haushalte, Laufzeit; x &gt;2J",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Private Haushalte, Kündigungsfrist; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen privater Haushalte im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Kapitalgesellschaften, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Gesamteinlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Kapitalgesellschaften, täglich fällig",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der täglich fälligen Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Kapitalgesellschaften, Laufzeit; x ≤ 2J",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von bis zu zwei Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Kapitalgesellschaften, Laufzeit; x &gt; 2J",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Laufzeit von mehr als zwei Jahren (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Kapitalgesellschaften, Kündigungsfr.; x ≤ 3M",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Einlagen nichtfinanzieller Kapitalgesellschaften im Euro-Währungsgebiet mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (alle Währungen zusammen, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Versicherungen und Pensionskassen, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Gesamteinlagen von Versicherungen und Pensionskassen im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Sonstige Finanzintermediäre, insgesamt",
+            "definition": "Bilanzstatistik der MFIs, Wachstumsraten der Gesamteinlagen sonstiger Finanzintermediäre im Euro-Währungsgebiet (alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, Veränderung gegen Vorjahr in %)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Verhältnis von Krediten zu Einlagen",
+            "definition": "Bilanzstatistik der MFIs, Gesamtkredite an nichtfinanzielle Kapitalgesellschaften und private Haushalte im Euro-Währungsgebiet sowie an nichtfinanzielle Kapitalgesellschaften, private Haushalte und Finanzinstitute (ohne Banken) außerhalb des Euro-Währungsgebiets im Verhältnis der zu deren Gesamteinlagen (ohne öffentliche Haushalte, alle Währungen zusammen, alle Laufzeiten, nicht saisonbereinigt, in Prozent, vierteljährlich)"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Starptautisko investīciju bilance – rezerves aktīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Starptautisko investīciju bilance – rezerves aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ārējais sektors - rezerves aktīvi</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Rezerves aktīvi</p>"
+        }
+    }
+}

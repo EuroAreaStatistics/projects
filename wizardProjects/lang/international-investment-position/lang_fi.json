@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Ulkomainen varallisuusasema: saamiset euroalueen ulkopuolelta (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Ulkomainen varallisuusasema: velat euroalueen ulkopuolelle (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema suhteessa BKT:hen (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Ulkomainen varallisuusasema: saamiset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Ulkomainen varallisuusasema: velat suhteessa BKT:hen (velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Velkojen BKT-suhde</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset suorat sijoitukset (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Ulkomainen varallisuusasema: suoriin sijoituksiin liittyvät saamiset euroalueen ulkopuolelta (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Ulkomainen varallisuusasema: suoriin sijoituksiin liittyvät velat euroalueen ulkopuolelle (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset suorat sijoitukset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Ulkomainen varallisuusasema: suoriin sijoituksiin liittyvät saamiset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Ulkomainen varallisuusasema: suoriin sijoituksiin liittyvät velat suhteessa BKT:hen (velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Velkojen BKT-suhde</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset arvopaperisijoitukset (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Ulkomainen varallisuusasema: arvopaperisijoituksiin liittyvät saamiset euroalueen ulkopuolelta (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Ulkomainen varallisuusasema: arvopaperisijoituksiin liittyvät velat euroalueen ulkopuolelle (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset arvopaperisijoitukset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Ulkomainen varallisuusasema: arvopaperisijoituksiin liittyvät saamiset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Ulkomainen varallisuusasema: arvopaperisijoituksiin liittyvät velat suhteessa BKT:hen (velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Velkojen BKT-suhde</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset muut sijoitukset (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Ulkomainen varallisuusasema: muihin sijoituksiin liittyvät saamiset euroalueen ulkopuolelta (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Ulkomainen varallisuusasema: muihin sijoituksiin liittyvät velat euroalueen ulkopuolelle (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Velat</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Ulkomainen nettovarallisuusasema: nettomääräiset muut sijoitukset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta miinus velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Ulkomainen varallisuusasema: muihin sijoituksiin liittyvät saamiset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Ulkomainen varallisuusasema: muihin sijoituksiin liittyvät velat suhteessa BKT:hen (velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Velkojen BKT-suhde</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ulkoinen sektori - Ulkomainen varallisuusasema</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ulkomainen varallisuus kokonaisuutena</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Suorat sijoitukset</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Arvopaperisijoitukset</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Muut sijoitukset</p>"
+        }
+    }
+}

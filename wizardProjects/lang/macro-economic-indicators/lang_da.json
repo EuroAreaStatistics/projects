@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Det offentlige underskuds andel af BNP (-) eller det offentlige overskuds andel af BNP (+) refererer til Maastrichtkriterierne. Statistikkerne over offentlige underskud omfatter betalinger som led i swapaftaler. (Ikke-finansielle strømme, løbende priser, i procent, hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage.) De sidste to år, som fremgår af diagrammerne, er baseret på Europa-Kommissionens prognoser (Generaldirektoratet for Økonomiske og Finansielle Anliggender). Referenceværdien for budgetunderskuddet er i henhold til stabilitets- og vækstpagten 3 pct.</p>",
+            "title": "<p>Den offentlige underskuds-/overskudskvote</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Den offentlige gælds andel af BNP refererer til Maastrichtkriterierne. De anvendte statistikker over den offentlige gæld er dem, der anvendes i sammenhæng med proceduren i forbindelse med uforholdsmæssigt store underskud. (Finansielle beholdninger til nominel værdi, i procent, hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage.) De sidste to år, som fremgår af diagrammerne, er baseret på Europa-Kommissionens prognoser (Generaldirektoratet for Økonomiske og Finansielle Anliggender). Referenceværdien, som er fastsat i Maastrichtkriterierne, er 60 pct.</p>",
+            "title": "<p>Den offentlige gældskvote</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruttonationalprodukt i markedspriser, den samlede økonomi, denomineret i euro, kædeindekserede mængder (ombaseret, referenceår 2010), sæsonkorrigeret og justeret for antal arbejdsdage. Kilde: Eurostat.</p>",
+            "title": "<p>Mængde</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruttonationalprodukt i markedspriser, den samlede økonomi, indenlandsk valuta (kan omfatte beløb omregnet til den aktuelle valuta til en fastsat kurs), kædeindekserede mængder (ombaseret), vækstrate over ét år, sæsonkorrigeret og justeret for antal arbejdsdage. Kilde: Eurostat.</p>",
+            "title": "<p>Årlig vækstrate</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Husholdningernes gæld i forhold til disponibel bruttoindkomst (ikke konsolideret, løbende priser, i procent, hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage).</p>",
+            "title": "<p>Husholdningers gældskvote (årlig)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Den andel, som ikke-finansielle selskabers gæld udgør af BNP. Gælden omfatter optagne lån og udstedte gældsinstrumenter. (Konsolideret, til markedspris, i procent, hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage).</p>",
+            "title": "<p>Virksomheders gældskvote</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Husholdningers gæld i forhold til disponibel bruttoindkomst (ikke konsolideret, i løbende priser, i procent, hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage). Er data ikke synlige, er der ingen data til rådighed.</p>",
+            "title": "<p>Husholdningers gældskvote (kvartalsvis)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmoniseret arbejdsløshedsprocent (i pct. af den civile arbejdsstyrke), standardiseret på tværs af lande, alle aldersgrupper, mænd og kvinder, sæsonkorrigeret, ikke justeret for antal arbejdsdage. Kilde: Eurostat.</p>",
+            "title": "<p>Arbejdsløshedsprocent</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroøkonomiske indikatorer</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BNP</p>"
+        },
+        "2": {
+            "title": "<p>Arbejdsløshed</p>"
+        },
+        "3": {
+            "title": "<p>Gældsætning</p>"
+        }
+    }
+}

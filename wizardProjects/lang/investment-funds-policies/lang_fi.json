@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Sijoitusrahastot - Rahaston sijoituskohde",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Virrat"
+        },
+        "3": {
+            "title": "Kehitys (prosenttimuutos)"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Korkorahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: korkorahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Osakerahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: osakerahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Yhdistelmärahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: yhdistelmärahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kiinteistörahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: kiinteistörahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedge-rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: hedge-rahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Muut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: muut rahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Korkorahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: korkorahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Osakerahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: osakerahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Yhdistelmärahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: yhdistelmärahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kiinteistörahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: kiinteistörahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedge-rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: hedge-rahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Muut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahaston sijoituskohteen mukaan: muut rahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Korkorahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: korkorahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Osakerahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: osakerahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Yhdistelmärahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: yhdistelmärahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kiinteistörahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: kiinteistörahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedge-rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: hedge-rahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Muut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahaston sijoituskohteen mukaan: muut rahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        }
+    }
+}

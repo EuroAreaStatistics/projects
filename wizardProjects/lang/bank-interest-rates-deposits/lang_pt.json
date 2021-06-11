@@ -1,0 +1,74 @@
+{
+    "charts": {
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos à ordem denominados em euros das sociedades não financeiras da área do euro (percentagens por ano, novas operações e saldos coincidem)</p>",
+            "title": "<p>Taxas de juro dos depósitos à ordem</p>"
+        },
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos à ordem denominados em euros das famílias da área do euro (percentagens por ano, novas operações e saldos coincidem)</p>",
+            "title": "<p>Taxas de juro dos depósitos à ordem</p>"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado até 1 ano das sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x ≤ 1A</p>"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado até 1 ano das famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x ≤ 1A</p>"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 1 ano e até 2 anos das sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; 1A &lt; x ≤ 2A</p>"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 1 ano e até 2 anos das famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; 1A &lt; x ≤ 2A</p>"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 2 anos das sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x &gt; 2A</p>"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 2 anos das famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x &gt; 2A</p>"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 1 ano das sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x &gt; 1A</p>"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado superior a 1 ano das famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x &gt; 1A</p>"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado até 2 anos das sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x ≤ 2A</p>"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com prazo acordado até 2 anos das famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Depósito com prazo acordado; x ≤ 2A</p>"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados em euros com pré-aviso até 3 meses das famílias da área do euro (percentagens por ano, novas operações e saldos coincidem)</p>",
+            "title": "<p>Depósito com pré-aviso; x ≤ 3M</p>"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "definition": "<p>Acordos de recompra denominados em euros das famílias e sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Acordos de recompra (“repos”)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Taxas de juro bancárias - Depósitos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Famílias</p>"
+        },
+        "2": {
+            "title": "<p>Sociedades</p>"
+        }
+    }
+}

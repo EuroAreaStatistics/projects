@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Pankade bilanss - Hoiused",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Vood"
+        },
+        "3": {
+            "title": "Kasvumäärad"
+        },
+        "4": {
+            "title": "Laenude ja hoiuste suhtarv"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste üleööhoiused (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused lepingulise tähtajaga kuni kaks aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused lepingulise tähtajaga üle kahe aasta (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kuni kolmekuulise etteteatamisega lõpetatavad hoiused (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üleööhoiused (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused lepingulise tähtajaga kuni kaks aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused lepingulise tähtajaga üle kahe aasta (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni kolmekuulise etteteatamisega lõpetatavad hoiused (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Kindlustus ja pensionid, kokku",
+            "definition": "Rahaloomeasutuste statistika, euroala kindlustusseltside ja pensionifondide hoiused kokku (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Muud finantseerimisettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste üleööhoiused (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused lepingulise tähtajaga kuni kaks aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste hoiused lepingulise tähtajaga üle kahe aasta (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Kodumajapidamised, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kuni kolmekuulise etteteatamisega lõpetatavad hoiused (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üleööhoiused (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused lepingulise tähtajaga kuni kaks aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete hoiused lepingulise tähtajaga üle kahe aasta (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Mittefinantsettevõte, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni kolmekuulise etteteatamisega lõpetatavad hoiused (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Kindlustus ja pensionid, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kindlustusseltside ja pensionifondide hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Muud finantseerimisettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate hoiused kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Kodumajapidamised, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste koguhoiuste kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Kodumajapidamised, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste üleööhoiuste kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kuni kaheaastase lepingulise tähtajaga hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Kodumajapidamised, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste üle kaheaastase lepingulise tähtajaga hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Kodumajapidamised, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kuni kolmekuulise etteteatamisega lõpetatavate hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Mittefinantsettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete koguhoiuste kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Mittefinantsettevõte, üleööhoiused",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üleööhoiuste kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg ≤ 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni kaheaastase lepingulise tähtajaga hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Mittefinantsettevõte, lepinguline tähtaeg &gt; 2A",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üle kaheaastase lepingulise tähtajaga hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Mittefinantsettevõte, etteteatamisajaga lõpetatav; x ≤ 3K",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni kolmekuulise etteteatamisega lõpetatavate hoiuste kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Kindlustus ja pensionid, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala kindlustusseltside ja pensionifondide koguhoiuste kasvumäärad (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Muud finantseerimisettevõtted, kokku",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate koguhoiuste kasvumäärad (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, aastane muutus protsentides)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Laenude ja hoiuste suhtarv",
+            "definition": "Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete ja kodumajapidamiste ning euroalaväliste mittefinantsettevõtete, kodumajapidamiste ja mittepangast finantsasutuste kogulaenude ja koguhoiuste suhtarv (v.a valitsussektor; kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata kvartaliandmed protsentides)"
+        }
+    }
+}

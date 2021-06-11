@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Títulos - Títulos de dívida",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "“Stocks”"
+        },
+        "2": {
+            "title": "Emissões novas"
+        },
+        "3": {
+            "title": "Emissões líquidas"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Bancos: “stocks”",
+            "definition": "Saldos de títulos de dívida emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Bancos: “stocks”; x ≤ 1A",
+            "definition": "Saldos de títulos de dívida de curto prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros, emitidos por residentes)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Bancos: “stocks”; x &gt; 1A",
+            "definition": "Saldos de títulos de dívida de longo prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas, expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Empresas: “stocks”",
+            "definition": "Saldos de títulos de dívida emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Empresas: “stocks”; x ≤ 1A",
+            "definition": "Saldos de títulos de dívida de curto prazo emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Empresas: “stocks”; x &gt; 1A",
+            "definition": "Saldos de títulos de dívida de longo prazo emitidos por sociedades não financeiras (valor nominal, conjunto de todas as moedas; expresso em euros, emitidos por residentes)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Administrações públicas: “stocks”",
+            "definition": "Saldos de títulos de dívida emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Administrações públicas: “stocks”; x ≤ 1A",
+            "definition": "Saldos de títulos de dívida de curto prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Administrações públicas: “stocks”; x &gt; 1A",
+            "definition": "Saldos de títulos de dívida de longo prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Outros intermediários financeiros (OIF): “stocks”",
+            "definition": "Saldos de títulos de dívida emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "OIF: “stocks”; x ≤ 1A",
+            "definition": "Saldos de títulos de dívida de curto prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "OIF: “stocks”; x &gt; 1A",
+            "definition": "Saldos de títulos de dívida de longo prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Total: “stocks”",
+            "definition": "Saldos totais de títulos de dívida (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Total: “stocks”; x ≤ 1A",
+            "definition": "Saldos totais de títulos de dívida de curto prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Total: “stocks”;  x &gt; 1A",
+            "definition": "Saldos totais de títulos de dívida de longo prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Bancos: emissões novas",
+            "definition": "Emissões brutas de títulos de dívida emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Bancos: emissões novas; x ≤ 1A",
+            "definition": "Emissões brutas de títulos de dívida de curto prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Bancos: emissões novas; x &gt; 1A",
+            "definition": "Emissões brutas de títulos de dívida de longo prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Empresas: emissões novas",
+            "definition": "Emissões brutas de títulos de dívida emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Empresas: emissões novas; x ≤ 1A",
+            "definition": "Emissões brutas de títulos de dívida de curto prazo emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Empresas: emissões novas; x &gt; 1A",
+            "definition": "Emissões brutas de títulos de dívida de longo prazo emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Administrações públicas: emissões novas",
+            "definition": "Emissões brutas de títulos de dívida emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Administrações públicas: emissões novas; x ≤ 1A",
+            "definition": "Emissões brutas de títulos de dívida de curto prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Administrações públicas: emissões novas; x &gt; 1A",
+            "definition": "Emissões brutas de títulos de dívida de longo prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "OIF: emissões novas",
+            "definition": "Emissões brutas de títulos de dívida de emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "OIF: emissões novas; x ≤ 1A",
+            "definition": "Emissões brutas de títulos de dívida de curto prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "OIF: emissões novas; x &gt; 1A",
+            "definition": "Emissões brutas de títulos de dívida de longo prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Total: emissões novas",
+            "definition": "Total de emissões brutas de títulos de dívida (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Total: emissões novas; x &gt; 1A",
+            "definition": "Total de emissões brutas de títulos de dívida de longo prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Total: emissões novas;  x ≤ 1A",
+            "definition": "Total de emissões brutas de títulos de dívida de curto prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Bancos: emissões líquidas",
+            "definition": "Emissões líquidas de títulos de dívida emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Bancos: emissões líquidas; x ≤ 1A",
+            "definition": "Emissões líquidas de títulos de dívida de curto prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Bancos: emissões líquidas; x &gt; A",
+            "definition": "Emissões líquidas de títulos de dívida de longo prazo emitidos por instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Empresas: emissões líquidas",
+            "definition": "Emissões líquidas de títulos de dívida emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Empresas: emissões líquidas; x ≤ 1A",
+            "definition": "Emissões líquidas de títulos de dívida de curto prazo emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Empresas: emissões líquidas; x &gt; 1A",
+            "definition": "Emissões líquidas de títulos de dívida de longo prazo emitidos por sociedades não financeiras (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Administrações públicas: emissões líquidas",
+            "definition": "Emissões líquidas de títulos de dívida emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Administrações públicas: emissões líquidas; x ≤ 1A",
+            "definition": "Emissões líquidas de títulos de dívida de curto prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Administrações públicas: emissões líquidas; x &gt; 1A",
+            "definition": "Emissões líquidas de títulos de dívida de longo prazo emitidos por administrações públicas (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "OIF: emissões líquidas",
+            "definition": "Emissões líquidas de títulos de dívida emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "OIF: emissões líquidas; x ≤ 1A",
+            "definition": "Emissões líquidas de títulos de dívida de curto prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "OIF: emissões líquidas; x &gt; 1A",
+            "definition": "Emissões líquidas de títulos de dívida de longo prazo emitidos por sociedades financeiras, exceto instituições financeiras monetárias (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Total: emissões líquidas",
+            "definition": "Total de emissões líquidas de títulos de dívida (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Total: emissões líquidas;  x ≤ 1A",
+            "definition": "Total de emissões líquidas de títulos de dívida de curto prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Total: emissões líquidas; x &gt; 1A",
+            "definition": "Total de emissões líquidas de títulos de dívida de longo prazo (valor nominal; conjunto de todas as moedas; expresso em euros; emitidos por residentes)"
+        }
+    }
+}

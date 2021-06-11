@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih do 0,25 milijona EUR; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno treh mesecev za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Mala posojila ≤ 0,25; x ≤ 3 M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih do 1 milijona EUR; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Mala posojila; x ≤ 1 L</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih nad 1 milijonom EUR; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Velika posojila; x ≤ 1 L</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih do 1 milijona EUR; začetna določitev obrestne mere nad enim letom in do vključno petih let za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Mala posojila; 1 L &lt; x ≤ 5 L</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih nad 1 milijonom EUR; začetna določitev obrestne mere nad enim letom in do vključno petih let za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Velika posojila; 1 L &lt; x ≤ 5 L</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih do 1 milijona EUR; začetna določitev obrestne mere nad petimi leti za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Mala posojila; x &gt; 5 L</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Posojila v eurih nad 1 milijonom EUR; začetna določitev obrestne mere nad petimi leti za posojila nefinančnim družbam euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Velika posojila; x &gt; 5 L</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za potrošnjo v eurih; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Potrošniška posojila; x ≤ 1 L</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za potrošnjo v eurih; začetna določitev obrestne mere nad enim letom in do vključno petih let za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Potrošniška posojila; 1 L &lt; x ≤ 5 L</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za potrošnjo v eurih; začetna določitev obrestne mere nad petimi leti za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Potrošniška posojila; x &gt; 5 L</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Kazalnik skupnih stroškov zadolževanja za nova stanovanjska posojila gospodinjstvom (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stroški zadolževanja gospodinjstev</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Stanovanjska posojila v eurih; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stanovanjska posojila; x ≤ 1 L</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Stanovanjska posojila v eurih; začetna določitev obrestne mere nad enim letom in do vključno petih let za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stanovanjska posojila; 1 L &lt; x ≤ 5 L</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Stanovanjska posojila v eurih; začetna določitev obrestne mere nad petimi leti in do vključno desetih let za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stanovanjska posojila; 5 L &lt; x ≤ 10 L</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Stanovanjska posojila v eurih; začetna določitev obrestne mere nad desetimi leti za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stanovanjska posojila; x &gt; 10 L</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za druge namene v eurih; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Druga posojila; x ≤ 1 L</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Posojila za druge namene v eurih, vključno s posojili individualnim lastnikom in nekorporativnim partnerskim podjetjem; spremenljiva obrestna mera ali začetna določitev obrestne mere do vključno enega leta za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Druga posojila; individualni lastniki; x ≤ 1 L</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za druge namene v eurih; začetna določitev obrestne mere nad enim letom in do vključno petih let za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Druga posojila; 1 L &lt; x ≤ 5 L</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Posojila za druge namene v eurih; začetna določitev obrestne mere nad petimi leti za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Druga posojila; x &gt; 5 L</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Kazalnik skupnih stroškov zadolževanja za nova posojila nefinančnim družbam (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stroški zadolževanja družb</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Kazalnik skupnih stroškov zadolževanja za kratkoročna posojila gospodinjstvom in nefinančnim družbam</p>",
+            "title": "<p>Stroški kratkoročnega zadolževanja</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Kazalnik skupnih stroškov zadolževanja za dolgoročna posojila gospodinjstvom in nefinančnim družbam</p>",
+            "title": "<p>Stroški dolgoročnega zadolževanja</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Revolving posojila in prekoračitve stanja na računu, posojila po kreditnih karticah z odloženim brezobrestnim plačilom in obrestovana posojila po kreditnih karticah nefinančnim družbam euroobmočja v eurih (v odstotkih na leto, novi posli in stanja se ujemajo)</p>",
+            "title": "<p>Revolving posojila in prekoračitve stanja na računu</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Revolving posojila in prekoračitve stanja na računu, posojila po kreditnih karticah z odloženim brezobrestnim plačilom in obrestovana posojila po kreditnih karticah gospodinjstvom euroobmočja v eurih (v odstotkih na leto, novi posli in stanja se ujemajo)</p>",
+            "title": "<p>Revolving posojila in prekoračitve stanja na računu</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Stanovanjska posojila v eurih; skupna spremenljiva obrestna mera ali začetna določitev obrestne mere za posojila gospodinjstvom euroobmočja (v odstotkih na leto, obrestne mere za nove posle)</p>",
+            "title": "<p>Stanovanjska posojila, skupaj</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bančne obrestne mere - Posojila</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Gospodinjstva</p>"
+        },
+        "2": {
+            "title": "<p>Družbe</p>"
+        },
+        "3": {
+            "title": "<p>Skupni stroški zadolževanja</p>"
+        }
+    }
+}

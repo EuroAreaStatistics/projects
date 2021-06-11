@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Bytesbalansens kredit (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Bytesbalansens debet (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Bytesbalans i procent av bruttonationalprodukten (BNP) till marknadspriser (kredit minus debet, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6- och ENS2010-standarder).</p>",
+            "title": "<p>Bytesbalansen som andel av BNP</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Bytesbalansens kredit i procent av bruttonationalprodukten (BNP) till marknadspriser (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6- och ENS2010-standarder).</p>",
+            "title": "<p>Bytesbalansens kredittransaktioner i relation till BNP</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Bytesbalansens debet i procent av bruttonationalprodukten (BNP) till marknadspriser (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6- och ENS2010-standarder).</p>",
+            "title": "<p>Bytesbalansens debettransaktioner i relation till BNP</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Bytesbalans, handelsbalans netto (export minus import, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Bytesbalans varuexport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Export</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Bytesbalans, varuimport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Bytesbalans, tjänstenetto (export minus import, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Bytesbalans, tjänsteexport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Export</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Bytesbalans, tjänsteimport (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Bytesbalans, primärinkomstsaldo (kredit minus debet, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Bytesbalans, primärinkomstkredit (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Bytesbalans, primärinkomstdebet (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Bytesbalans, sekundärinkomstsaldo (kredit minus debet, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Bytesbalans, sekundärinkomstkredit (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Bytesbalans, sekundärinkomstdebet (transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1": {
+            "definition": "<p>Bytesbalanssaldo (kredit minus debet, transaktioner gentemot icke-hemmahörande, ackumulerat fyra kvartal, ej säsongs- eller kalenderjusterat, BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Euroområdets bytesbalans – efter huvudsakliga motparter</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Varor</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Tjänster</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Primärinkomster</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Sekundärinkomster</p>"
+        },
+        "1": {
+            "title": "<p>Totalt</p>"
+        }
+    }
+}

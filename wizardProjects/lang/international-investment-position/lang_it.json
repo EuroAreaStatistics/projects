@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posizione patrimoniale netta sull’estero (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Posizione netta</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Posizione patrimoniale sull’estero: attività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Posizione patrimoniale sull’estero: passività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Posizione patrimoniale netta sull’estero in percentuale del PIL ai prezzi di mercato (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto posizione netta/PIL</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Attività sull’estero in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Passività sull’estero in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto passività/PIL</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti diretti netti (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Posizione netta</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti diretti: attività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti diretti: passività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti diretti netti in percentuale del PIL ai prezzi di mercato (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto posizione netta/PIL</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Posizione patrimoniale sull’estero, attività a titolo di investimenti diretti in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Posizione patrimoniale sull’estero, passività a titolo di investimenti diretti in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto passività/PIL</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti di portafoglio netti (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Posizione netta</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti di portafoglio: attività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti di portafoglio: passività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Posizione patrimoniale sull’estero, investimenti di portafoglio netti in percentuale del PIL ai prezzi di mercato (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto posizione netta/PIL</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Posizione patrimoniale sull’estero, attività a titolo di investimenti di portafoglio in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Posizione patrimoniale sull’estero, passività a titolo di investimenti di portafoglio in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto passività/PIL</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Posizione patrimoniale sull’estero, altri investimenti netti (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Posizione netta</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Posizione patrimoniale sull’estero, altri investimenti: attività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Posizione patrimoniale sull’estero, altri investimenti: passività (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 ).</p>",
+            "title": "<p>Passività</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Posizione patrimoniale sull’estero, altri investimenti netti in percentuale del PIL ai prezzi di mercato (attività meno passività, posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto posizione netta/PIL</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Posizione patrimoniale sull’estero, attività a titolo di altri investimenti in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Posizione patrimoniale sull’estero, passività a titolo di altri investimenti in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto passività/PIL</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settore esterno - Posizione patrimoniale sull’estero</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totale</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Investimenti diretti</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Investimento di portafoglio</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Altri investimenti</p>"
+        }
+    }
+}

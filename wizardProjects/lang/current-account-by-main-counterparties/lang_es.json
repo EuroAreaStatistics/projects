@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Ingresos por cuenta corriente (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Ingresos</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Pagos por cuenta corriente (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pagos</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo por cuenta corriente en porcentaje del PIB a precios de mercado (ingresos menos pagos, transacciones frente a no residentes, acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Saldo en %</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Ingresos por cuenta corriente en porcentaje del PIB a precios de mercado (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Ingresos en %</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Pagos por cuenta corriente en porcentaje del PIB a precios de mercado (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Pagos en %</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Cuenta corriente, bienes, saldo (exportaciones menos importaciones, transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Cuenta corriente, bienes, exportaciones (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Exportaciones</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Cuenta corriente, bienes, importaciones (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Importaciones</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Cuenta corriente, servicios, saldo (exportaciones menos importaciones, transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Cuenta corriente, servicios, exportaciones (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Exportaciones</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Cuenta corriente, servicios, importaciones (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Importaciones</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Cuenta corriente, saldo de rentas primarias (ingresos menos pagos, transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Cuenta corriente, ingresos de rentas primarias (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Ingresos</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Cuenta corriente, pagos de rentas primarias (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Pagos</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Cuenta corriente, saldo de rentas secundarias (ingresos menos pagos, transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Cuenta corriente, ingresos de rentas secundarias (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Ingresos</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Cuenta corriente, pagos de rentas secundarias (transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Pagos</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo por cuenta corriente (ingresos menos pagos, transacciones frente a no residentes; acumulado de cuatro trimestres; sin desestacionalizar y sin ajustar por días laborables; metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Cuenta corriente de la zona del euro - por contrapartes principales</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Bienes</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Servicios</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Renta primaria</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Renta secundaria</p>"
+        },
+        "1": {
+            "title": "<p>Total</p>"
+        }
+    }
+}

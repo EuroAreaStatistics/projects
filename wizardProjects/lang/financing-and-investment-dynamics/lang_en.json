@@ -1,0 +1,280 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} held in total %{sumOut} %{unit} worth of short-term debt securities and issued %{sumIn} %{unit} worth of short-term debt securities.</p>",
+                    "relation": "<p>In %{date} %{from} held %{value} %{unit} worth of short-term debt securities issued by %{to}. These represented %{percentFrom} of total short-term debt securities held by %{from} and %{percentTo} of total short-term debt securities issued by %{to}.</p>"
+                },
+                "fromTo": "<p>held by %{from} and issued by %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} held in total %{sumOut} %{unit} worth of long-term debt securities and issued %{sumIn} %{unit} worth of long-term debt securities.</p>",
+                    "relation": "<p>In %{date} %{from} held %{value} %{unit} worth of  long-term debt securities issued by %{to}. These represented %{percentFrom} of total long-term debt securities held by %{from} and %{percentTo} of total long-term debt securities issued by %{to}.</p>"
+                },
+                "fromTo": "<p>held by %{from} and issued by %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} granted in total %{sumOut} %{unit} worth of short-term loans; a total of %{sumIn} %{unit} worth of short-term loans were granted to %{name}.</p>",
+                    "relation": "<p>In %{date} %{from} granted %{value} %{unit} worth of short-term loans to %{to}. This represented %{percentFrom} of total short-term loans granted by %{from} and %{percentTo} of total short-term loans granted to %{to}.</p>"
+                },
+                "fromTo": "<p>granted by %{from} to %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} granted in total %{sumOut} %{unit} worth of long-term loans; a total of %{sumIn} %{unit} worth of long-term loans were granted to %{name}.</p>",
+                    "relation": "<p>In %{date} %{from} granted %{value} %{unit} worth of long-term loans to %{to}. This represented %{percentFrom} of total long-term loans granted by %{from} and %{percentTo} of total long-term loans granted to %{to}.</p>"
+                },
+                "fromTo": "<p>granted by %{from} to %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} placed in total %{sumOut} %{unit} worth of deposits; %{sumIn} %{unit} worth of deposits were received by %{name}.</p>",
+                    "relation": "<p>In %{date} %{from} placed %{value} %{unit} worth of deposits with %{to}. This represented %{percentFrom} of total deposits placed by %{from} and %{percentTo} of total deposits placed with %{to}.</p>"
+                },
+                "fromTo": "<p>placed by %{from} with %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} held in total %{sumOut} %{unit} worth of listed shares and issued %{sumIn} %{unit} worth of listed shares.</p>",
+                    "relation": "<p>In %{date} %{from} held %{value} %{unit} worth of listed shares issued by %{to}. These represented %{percentFrom} of total listed shares held by %{from} and %{percentTo} of total listed shares issued by %{to}.</p>"
+                },
+                "fromTo": "<p>held by %{from} and issued by %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>In %{date} %{name} held in total %{sumOut} %{unit} worth of investment fund shares/units and issued %{sumIn} %{unit} worth of investment fund shares/units.</p>",
+                    "relation": "<p>In %{date} %{from} held %{value} %{unit} worth of investment fund shares/units issued by %{to}. These represented %{percentFrom} of total investment fund shares/units held by %{from} and %{percentTo} of total investment fund shares/units issued by %{to}.</p>"
+                },
+                "fromTo": "<p>held by %{from} and issued by %{to}</p>",
+                "incoming": "<p>Liabilities</p>",
+                "missing": {
+                    "incoming": "<p>- data do not exist/data are not applicable</p>",
+                    "outgoing": "<p>- data do not exist/data are not applicable</p>"
+                },
+                "outgoing": "<p>Assets</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>intra-sector stocks</p>"
+            },
+            "title": "<p>Outstanding amounts</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>The data shown in the “Financing and investment dynamics” network graph are taken from the sector accounts, which present a complete and consistent set of quarterly data for all resident institutional sectors. The graph shows the financial interconnectedness within and between institutional sectors and between them and the rest of the world. It presents financial positions between sectors (data on flows are also available in the ECB’s public databases). The origin of the financing type – equity or debt – and the destination of the same instrument show how sectors allocate financing. The bars for each sector show the assets and liabilities of a given sector for a given instrument. Negative outstanding amounts could appear due to short selling, i.e. the sale of securities or other financial instruments that are not owned by the seller. The arrows indicate the positions with other sectors. Positions within sectors are identified next to the sector headings.</p>\r\n<p>Data are based on the European System of Accounts 2010 (ESA2010). Sectors: non-financial corporations, monetary financial institutions, investment funds (other than money market funds), other financial institutions, insurance corporations, pension funds, general government, households (including non-profit institutions serving households), rest of the world (which refers to positions between residents and non-residents). Instruments: deposits, short-term debt securities, long-term debt securities, short-term loans, long-term loans, listed shares, investment fund shares/units. Data are on a non-consolidated basis, i.e. instrument totals and percentages include intra-sector financial positions (e.g. loans granted by banks to other banks); closing balance sheet positions are at end of quarter; data are neither seasonally adjusted nor calendar-adjusted; amounts are denominated in billions of euros; short-term original maturity is up to one year, long-term original maturity is over one year or no stated maturity; data are for the euro area aggregate, \"-\" means that data do not exist/data are not applicable.   </p>\r\n<p>The instruments shown do not give a complete account of all financial assets and liabilities, as currency, unlisted shares and other equity, insurance and pension schemes, financial derivatives and other accounts receivable/payable are not shown. For further data see: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Financing and investment dynamics</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "teaser": "",
+            "title": "<p>Short-term debt securities</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Long-term debt securities</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Short-term loans</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Long-term loans</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Deposits</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>rest of the world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Listed shares</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>rest of world</p>",
+                "S11": "<p>corporates</p>",
+                "S124": "<p>investment funds</p>",
+                "S128": "<p>insurers</p>",
+                "S129": "<p>pension funds</p>",
+                "S12K": "<p>banks</p>",
+                "S12O": "<p>other financials</p>",
+                "S13": "<p>government</p>",
+                "S1M": "<p>households</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Investment fund shares/units</p>"
+        }
+    }
+}

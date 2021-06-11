@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Credite aferente contului curent (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Credite</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Debite aferente contului curent (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Debite</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Soldul contului curent, ca procent din produsul intern brut (PIB) la prețurile pieței (credite minus debite, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010)</p>",
+            "title": "<p>Ponderea soldului</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Credite aferente contului curent, ca procent din produsul intern brut (PIB) la prețurile pieței (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010)</p>",
+            "title": "<p>Ponderea creditelor</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Debite aferente contului curent, ca procent din produsul intern brut (PIB) la prețurile pieței (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010)</p>",
+            "title": "<p>Ponderea debitelor</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Cont curent, bunuri, sold (exporturi minus importuri, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Sold</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Cont curent, bunuri, exporturi (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Exporturi</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Cont curent, bunuri, importuri (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Importuri</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Cont curent, servicii, sold (exporturi minus importuri, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Sold</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Cont curent, servicii, exporturi (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Exporturi</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Cont curent, servicii, importuri (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Importuri</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Cont curent, soldul veniturilor primare (credite minus debite, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Sold</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Cont curent, credite aferente veniturilor primare (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Credite</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Cont curent, debite aferente veniturilor primare (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Debite</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Cont curent, soldul veniturilor secundare (credite minus debite, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Sold</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Cont curent, credite aferente veniturilor secundare (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Credite</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Cont curent, debite aferente veniturilor secundare (operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Debite</p>"
+        },
+        "1": {
+            "definition": "<p>Soldul contului curent (credite minus debite, operațiuni față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6)</p>",
+            "title": "<p>Sold</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Contul curent al zonei euro - în funcție de contrapartidele principale</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Bunuri</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Servicii</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Venit primar</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Venit secundar</p>"
+        },
+        "1": {
+            "title": "<p>Total</p>"
+        }
+    }
+}

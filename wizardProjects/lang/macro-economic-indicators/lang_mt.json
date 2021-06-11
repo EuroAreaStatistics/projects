@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Il-proporzjon defiċit tal-gvern/PDG (-) jew serplas tal-gvern/PDG (+) jirreferi għall-kriterji ta' Maastricht. L-istatistika tad-defiċit tal-gvern tinkludi ħlasijiet bi swaps (flussi mhux finanzjarji, prezzijiet attwali, perċentwali, mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol). L-aħħar sentejn tal-grafika huma bbażati fuq tbassir tal-Kummissjoni Ewropea (Direttorat Ġenerali għall-Affarijiet Ekonomiċi u Finanzjarji). Il-valur ta' referenza għad-defiċit baġitarju skont il-Patt ta' Stabbiltà u Tkabbir huwa 3%.</p>",
+            "title": "<p>Proporzjon defiċit/serplas tal-gvern</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Il-proporzjon dejn tal-gvern/PDG jirreferi għall-kriterji ta' Maastricht. L-istatistika tad-dejn tal-gvern hija dik li tintuża fil-kuntest tal-proċedura ta' defiċit eċċessiv. (Stokks finanzjarji b'valur nominali, perċentwali, mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol). L-aħħar sentejn tal-grafika huma bbażati fuq tbassir tal-Kummissjoni Ewropea (Direttorat Ġenerali għall-Affarijiet Ekonomiċi u Finanzjarji). Il-valur ta' referenza stabbilit mill-kriterji ta' Maastricht huwa 60%.</p>",
+            "title": "<p>Proporzjon dejn tal-gvern</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Prodott domestiku gross bi prezzijiet tas-suq, ekonomija totali, denominat f'euro, volumi chain-linked (ibbażati mill-ġdid, sena ta' referenza 2010), aġġustat għall-istaġun u l-jiem tax-xogħol. Sors: Eurostat</p>",
+            "title": "<p>Volum</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Prodott domestiku gross bi prezzijiet tas-suq, ekonomija totali, munita domestika (tista' tinkludi ammonti konvertiti fil-munita kurrenti b'rata fissa), volumi chain-linked (ibbażati mill-ġdid), rata tat-tkabbir fuq żmien sena, aġġustat għall-istaġun u l-jiem tax-xogħol. Sors: Eurostat</p>",
+            "title": "<p>Rata tat-tkabbir annwali</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Proporzjon dejn/dħul disponibbli gross tal-unitajiet domestiċi (mhux konsolidat, prezzijiet attwali, perċentwali, mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol).</p>",
+            "title": "<p>Proporzjon dejn tal-unità domestika (sena)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Proporzjon dejn/PDG tal-korporazzjonijiet mhux finanzjarji. Id-dejn jinkludi self meħud, titoli tad-dejn maħruġin, obbligazzjonijiet tal-iskemi tal-pensjoni u kreditu kummerċjali (mhux konsolidat, prezzijiet tas-suq, punti perċentwali, mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol).</p>",
+            "title": "<p>Proporzjon dejn tal-korporazzjonijiet</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Proporzjon dejn/dħul disponibbli gross tal-unitajiet domestiċi (mhux konsolidat, prezzijiet attwali, perċentwali, mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol). Jekk ma tidhirx dejta, sinjal li mhix disponibbli.</p>",
+            "title": "<p>Proporzjon dejn tal-unità domestika (trimestru)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Rata armonizzata tal-qgħad (bħala perċentwali tal-forza tax-xogħol ċivili), standardizzata għall-pajjiżi kollha, l-etajiet kollha, irġiel u nisa, aġġustata għall-istaġun, mhux aġġustata għall-jiem tax-xogħol. Sors: Eurostat</p>",
+            "title": "<p>Rata tal-qgħad</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indikaturi makroekonomiċi</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PDG</p>"
+        },
+        "2": {
+            "title": "<p>Qgħad</p>"
+        },
+        "3": {
+            "title": "<p>Livell tad-dejn</p>"
+        }
+    }
+}

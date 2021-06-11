@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Pozost. inst. pośr. finans.; ogółem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Ubezp. i emeryt.; ogółem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty i pożyczki dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Gosp. dom.; ogółem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Pozost. inst. pośr. finans.; ogółem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Ubezp. i emeryt.; ogółem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty i pożyczki dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Gosp. dom.; ogółem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów dla pozostałych instytucji pośrednictwa finansowego ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Pozost. inst. pośr. finans.; ogółem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów dla towarzystw ubezpieczeniowych i funduszy emerytalno-rentowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Ubezp. i emeryt.; ogółem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów dla przedsiębiorstw ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów i pożyczek dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Gosp. dom.; ogółem</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności do 1 roku włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Przedsiębiorstwa; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności do 1 roku włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Przedsiębiorstwa; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów o terminie zapadalności do 1 roku włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Przedsiębiorstwa; x ≤ 1 rok</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności powyżej 1 roku, do 5 lat włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Przedsiębiorstwa; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności powyżej 1 roku, do 5 lat włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Przedsiębiorstwa; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów o terminie zapadalności powyżej 1 roku, do 5 lat włącznie dla przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Przedsiębiorstwa; 1 rok &lt; x ≤ 5 lat</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności powyżej 5 lat dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Przedsiębiorstwa; x &gt; 5 lat</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty o terminie zapadalności powyżej 5 lat dla przedsiębiorstw ze strefy euro (wszystkie waluty, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Przedsiębiorstwa; x &gt; 5 lat</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów o terminie zapadalności powyżej 5 lat dla przedsiębiorstw ze strefy euro (wszystkie waluty, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Przedsiębiorstwa; x &gt; 5 lat</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla przedsiębiorstw ze strefy euro skorygowane o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty i pożyczki dla gospodarstw domowych ze strefy euro skorygowane o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Gosp. dom.; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty dla przedsiębiorstw ze strefy euro skorygowane o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: łączne kredyty i pożyczki dla gospodarstw domowych ze strefy euro skorygowane o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Gosp. dom.; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów dla przedsiębiorstw ze strefy euro, skorygowanych o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Przedsiębiorstwa; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu łącznych kredytów i pożyczek dla gospodarstw domowych ze strefy euro, skorygowanych o sprzedaż, sekurytyzacje i cash pooling wirtualny (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.). Kredyty skorygowane o sprzedaż i sekurytyzacje obejmują kredyty, które zostały sprzedane lub zsekurytyzowane i nie są już wykazywane w bilansach banków.</p>",
+            "title": "<p>Gosp. dom.; ogółem (skoryg.)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty i pożyczki konsumpcyjne dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Gosp. dom.; kredyty konsumpcyjne</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty i pożyczki konsumpcyjne dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Gosp. dom.; kredyty konsumpcyjne</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów i pożyczek konsumpcyjnych dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Gosp. dom.; kredyty konsumpcyjne</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Gosp. dom.; kredyty mieszkaniowe</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty mieszkaniowe dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Gosp. dom.; kredyty mieszkaniowe</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów mieszkaniowych dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Gosp. dom.; kredyty mieszkaniowe</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, stany na koniec okresu)</p>",
+            "title": "<p>Gosp. dom.; pozostałe kredyty</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: kredyty i pożyczki na inne cele dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, wyrażone w euro, nieodsezonowane, transakcje finansowe)</p>",
+            "title": "<p>Gosp. dom.; pozostałe kredyty</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: stopy wzrostu kredytów i pożyczek na inne cele dla gospodarstw domowych ze strefy euro (wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, zmiany r/r w proc.)</p>",
+            "title": "<p>Gosp. dom.; pozostałe kredyty</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Statystyka bilansowa monetarnych instytucji finansowych: relacja łącznych kredytów i pożyczek do łącznych depozytów dla przedsiębiorstw i gospodarstw domowych ze strefy euro oraz przedsiębiorstw, gospodarstw domowych i instytucji finansowych niebędących bankami spoza strefy euro (z wyłączeniem instytucji rządowych i samorządowych, wszystkie waluty, wszystkie okresy zapadalności, nieodsezonowane, w proc., dane kwartalne)</p>",
+            "title": "<p>Relacja kredytów do depozytów</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bilanse bankowe - Kredyty</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Stany</p>"
+        },
+        "2": {
+            "title": "<p>Przepływy</p>"
+        },
+        "3": {
+            "title": "<p>Stopy wzrostu</p>"
+        },
+        "4": {
+            "title": "<p>Relacja kredytów do depozytów</p>"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Banki mérleg - Betét",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állomány"
+        },
+        "2": {
+            "title": "Állományváltozás"
+        },
+        "3": {
+            "title": "Növekedési ütem"
+        },
+        "4": {
+            "title": "Hitel-betét arány"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Háztartások, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Háztartások, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egynapos (O/N) betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Háztartások; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb két évre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Háztartások; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások két évnél hosszabb futamidőre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Háztartások, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb három hónapos határidővel felmondható betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Vállalatok, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Vállalatok, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egynapos betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Vállalatok; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb két évre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Vállalatok; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok két évnél hosszabb futamidőre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Vállalatok, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb három hónapos határidővel felmondható betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Biztosítás és nyugdíj, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Egyéb pénzügyi, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Háztartások, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Háztartások, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egynapos betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Háztartások; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb két évre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Háztartások; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások két évnél hosszabb futamidőre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Háztartások, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb három hónapos határidővel felmondható betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Vállalatok, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Vállalatok, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egynapos betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Vállalatok; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb két évre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Vállalatok; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok két évnél hosszabb futamidőre lekötött betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Vállalatok, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb három hónapos határidővel felmondható betétállománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Biztosítás és nyugdíj, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Egyéb pénzügyi, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes betétállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Háztartások, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes betétállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Háztartások, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egynapos betétállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Háztartások; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb két évre lekötött betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Háztartások; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások két évnél hosszabb futamidőre lekötött betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Háztartások, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások legfeljebb három hónapos határidővel felmondható betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Vállalatok, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes betétállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Vállalatok, egynapos",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egynapos betétállományának növekedési ütemei (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Vállalatok; lekötött ≤ 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb két évre lekötött betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Vállalatok; lekötött &gt; 2É",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok két évnél hosszabb futamidőre lekötött betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Vállalatok, felmondásos; x ≤ 3H",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb három hónapos határidővel felmondható betétállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Biztosítás és nyugdíj, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes betétállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Egyéb pénzügyi, összesen",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes betétállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Hitel-betét arány",
+            "definition": "Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatoknak és háztartásoknak az euroövezeten kívüli nem pénzügyi vállalatokkal, háztartásokkal és nem banki pénzügyi intézményekkel szembeni teljes hitelállományának a teljes betétállományhoz viszonyított aránya (államháztartás nélkül, összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, százalékos arány, negyedéves)"
+        }
+    }
+}

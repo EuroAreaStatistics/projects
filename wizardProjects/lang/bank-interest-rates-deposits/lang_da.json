@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankrenter - Indlån",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Husholdninger"
+        },
+        "2": {
+            "title": "Selskaber"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Dag til dag-rente",
+            "definition": "Eurodenominerede indlån på anfordring fra husholdninger i euroområdet (i pct. p.a., nye og udeståender forretninger er sammenfaldende)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x ≤ 1Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på op til et år fra husholdninger i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x &gt; 1Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over et år fra husholdninger i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Indlån, aftalt løbetid; 1Å &lt; x ≤ 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over et og op til to år fra husholdninger i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x ≤ 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på op til to år fra husholdninger i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x &gt; 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over to år fra husholdninger i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Indlån med opsigelsesvarsel; x ≤ 3M",
+            "definition": "Eurodenominerede indlån med opsigelsesvarsel på op til tre måneder fra husholdninger i euroområdet (i pct. p.a., nye og udestående forretninger er sammenfaldende)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repoer",
+            "definition": "Eurodenominerede repoer fra husholdninger og ikke-finansielle selskaber i euroområdet (i pct. p.a., nyindlån)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Dag til dag-rente",
+            "definition": "Eurodenominerede indlån på anfordring fra ikke-finansielle selskaber i euroområdet (i pct. p.a., nye og udestående forretninger er sammenfaldende)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x ≤ 1Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på op til et år fra ikke-finansielle selskaber i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x &gt; 1Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over et år fra ikke-finansielle selskaber i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Indlån, aftalt løbetid; 1Å &lt; x ≤ 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over et og op til to år fra ikke-finansielle selskaber i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x ≤ 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på op til to år fra ikke-finansielle selskaber i euroområdet (i pct. p.a.; nyindlån)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Indlån, aftalt løbetid; x &gt; 2Å",
+            "definition": "Eurodenominerede indlån med en aftalt løbetid på over to år fra ikke-finansielle selskaber i euroområdet (i pct. p.a., nyindlån)"
+        }
+    }
+}

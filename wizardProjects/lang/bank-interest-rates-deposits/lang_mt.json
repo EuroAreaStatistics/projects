@@ -1,0 +1,74 @@
+{
+    "charts": {
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti overnight denominati fl-euro minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda u ammonti pendenti jaqblu)</p>",
+            "title": "<p>Rati tal-imgħax overnight</p>"
+        },
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti overnight denominati fl-euro minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda u ammonti pendenti jaqblu)</p>",
+            "title": "<p>Rati tal-imgħax overnight</p>"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma sa sena minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x ≤ 1Y</p>"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma sa sena minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x ≤ 1Y</p>"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sena u sa sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; 1Y &lt; x ≤ 2Y</p>"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sena u sa sentejn minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; 1Y &lt; x ≤ 2Y</p>"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x &gt; 2Y</p>"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sentejn minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x &gt; 2Y</p>"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sena minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x &gt; 1Y</p>"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma ta' aktar minn sena minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x &gt; 1Y</p>"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma sa sentejn minn korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x ≤ 2Y</p>"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro b'maturità miftiehma sa sentejn minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Depożitu, maturità miftiehma; x ≤ 2Y</p>"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "definition": "<p>Depożiti denominati fl-euro rimborżati b'avviż sa tliet xhur minn unitajiet domestiċi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda u ammonti pendenti jaqblu)</p>",
+            "title": "<p>Depożitu rimborżat b'avviż; x ≤ 3M</p>"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "definition": "<p>Riakkwisti (repos) denominati fl-euro minn unitajiet domestiċi u korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Riakkwisti (repos)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Rati tal-imgħax tal-banek - Depożiti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Unitajiet domestiċi</p>"
+        },
+        "2": {
+            "title": "<p>Korporazzjonijiet</p>"
+        }
+    }
+}

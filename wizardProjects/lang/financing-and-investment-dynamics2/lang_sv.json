@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kortfristiga räntebärande värdepapper</p>\r\n<p>Totalt belopp som innehas: %{sumOut} %{unit}</p>\r\n<p>Totalt emitterat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Innehavande sektor: %{from}</p>\r\n<p>Belopp som innehas: %{value} %{unit}</p>\r\n<p>Instrument: kortfristiga räntebärande värdepapper</p>\r\n<p>Emitterande sektor: %{to}</p>\r\n<p>Andel av totalt innehav: %{percentFrom}</p>\r\n<p>Andel av totala emitteringar: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Innehavande sektor: %{from}; emitterande sektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: långfristiga räntebärande värdepapper</p>\r\n<p>Totalt belopp som innehas: %{sumOut} %{unit}</p>\r\n<p>Totalt emitterat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Innehavande sektor: %{from}</p>\r\n<p>Belopp som innehas: %{value} %{unit}</p>\r\n<p>Instrument: långfristiga räntebärande värdepapper</p>\r\n<p>Emitterande sektor: %{to}</p>\r\n<p>Andel av totalt innehav: %{percentFrom}</p>\r\n<p>Andel av totala emitteringar: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Innehavande sektor: %{from}; emitterande sektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kortfristiga lån</p>\r\n<p>Totalt utlånat belopp: %{sumOut} %{unit}</p>\r\n<p>Totalt lånat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Utlåningssektor: %{from}</p>\r\n<p>Utlånat belopp: %{value} %{unit}</p>\r\n<p>Instrument: kortfristiga lån</p>\r\n<p>Låntagarsektor: %{to}</p>\r\n<p>Andel utlåningar totalt: %{percentFrom}</p>\r\n<p>Andel av tagna lån totalt: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Utlåningssektor: %{from}; låntagarsektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: långfristiga lån</p>\r\n<p>Totalt utlånat belopp: %{sumOut} %{unit}</p>\r\n<p>Totalt lånat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Utlåningssektor: %{from}</p>\r\n<p>Utlånat belopp: %{value} %{unit}</p>\r\n<p>Instrument: långfristiga lån</p>\r\n<p>Låntagarsektor: %{to}</p>\r\n<p>Andel utlåningar totalt: %{percentFrom}</p>\r\n<p>Andel av tagna lån totalt: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Utlåningssektor: %{from}; låntagarsektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: inlåning</p>\r\n<p>Totalt placerat belopp: %{sumOut} %{unit}</p>\r\n<p>Totalt mottaget belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Placerande sektor: %{from}</p>\r\n<p>Placerat belopp: %{value} %{unit}</p>\r\n<p>Instrument: inlåning</p>\r\n<p>Mottagande sektor: %{to}</p>\r\n<p>Andel av placerade inlåningar totalt: %{percentFrom}</p>\r\n<p>Andel av mottagna inlåningar totalt: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Placerande sektor: %{from}; mottagande sektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: noterade aktier</p>\r\n<p>Totalt belopp som innehas: %{sumOut} %{unit}</p>\r\n<p>Totalt emitterat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Innehavande sektor: %{from}</p>\r\n<p>Belopp som innehas: %{value} %{unit}</p>\r\n<p>Instrument: noterade aktier</p>\r\n<p>Emitterande sektor: %{to}</p>\r\n<p>Andel av totalt innehav: %{percentFrom}</p>\r\n<p>Andel av totala emitteringar: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Innehavande sektor: %{from}; emitterande sektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Period: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: aktier/andelar i investeringsfonder</p>\r\n<p>Totalt belopp som innehas: %{sumOut} %{unit}</p>\r\n<p>Totalt emitterat belopp: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Period: %{date}</p>\r\n<p>Innehavande sektor: %{from}</p>\r\n<p>Belopp som innehas: %{value} %{unit}</p>\r\n<p>Instrument: aktier/andelar i investeringsfonder</p>\r\n<p>Emitterande sektor: %{to}</p>\r\n<p>Andel av totalt innehav: %{percentFrom}</p>\r\n<p>Andel av totala emitteringar: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Innehavande sektor: %{from}; emitterande sektor: %{to}</p>",
+                "incoming": "<p>Skulder</p>",
+                "missing": {
+                    "incoming": "<p>- ingen uppgift/uppgift ej relevant</p>",
+                    "outgoing": "<p>- ingen uppgift/uppgift ej relevant</p>"
+                },
+                "outgoing": "<p>Tillgångar</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Stockar inom sektorn</p>"
+            },
+            "title": "<p>Utestående belopp</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Uppgifterna i diagrammet för finansierings- och investeringsdynamik har tagits från räkenskaper för sektorerna. De visar kompletta och enhetliga kvartalsuppgifter för alla inhemska institutionella sektorer. Diagrammet visar de institutionella sektorernas inbördes finansiella förhållanden och förhållandena mellan dem och omvärlden. Det visar finansiella ställningar mellan olika sektorer (uppgifter om flöden finns också i ECB:s offentliga databaser). Ursprunget till finansieringstypen – eget kapital eller skuld – och detta instruments destination visar hur sektorerna fördelar finansieringen. Staplarna för varje sektor visar tillgångar och skulder i en given sektor för ett givet instrument.  Negativa utestående belopp kan uppstå p.g.a. blankning, dvs. försäljning av värdepapper eller andra instrument som inte ägs av säljaren. Pilarna indikerar positionerna gentemot andra sektorer. Positioner inom sektorerna hittas bredvid sektorsrubrikerna.</p>\r\n<p>Uppgifterna är baserade på Europeiska räkenskapssystemet 2010 (ENS 2010). Sektorer: icke-finansiella företag, monetära finansinstitut, investeringsfonder (andra än penningmarknadsfonder), andra finansiella institut, försäkringsföretag, pensionsfonder, offentlig sektor, hushåll (inbegripet icke vinstdrivande organisationer för hushåll), omvärlden (vilket betyder positioner mellan hemmahörande och icke-hemmahörande). Instrument: inlåning, kortfristiga räntebärande värdepapper, långfristiga räntebärande värdepapper, kortfristiga lån, långfristiga lån, noterade aktier, aktier/andelar i investeringsfonder. Uppgifterna är på icke konsoliderad basis, dvs. instruments totalbelopp och procentandel inbegriper finansiella ställningar inom sektorn (t.ex. lån till banker från andra banker), positioner i ingående balansräkning anges per kvartalsslut, uppgifter är varken säsongsrensade eller kalenderkorrigerade, belopp är i denominerade miljarder euro, kortfristig ursprunglig löptid är upp till ett år, långfristig ursprunglig löptid är över ett år eller har ingen angiven löptid, uppgifter anges aggregerat för euroområdet, ”-” betyder att inga uppgifter finns/uppgifter är ej relevanta.   </p>\r\n<p>Instrumenten som visas ger inte en komplett redogörelse av alla finansiella tillgångar och skulder, eftersom valuta, onoterade aktier och övrigt aktiekapital, försäkrings- och pensionssystem, finansiella derivat och andra obetalda/förutbetalda inkomster och utgifter inte visas. För ytterligare information, se: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Finansierings- och investeringsdynamik</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensionsfonder</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Kortfristiga räntebärande värdepapper</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Långfristiga räntebärande värdepapper</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Kortfristiga lån</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Långfristiga lån</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Inlåning</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Börsnoterade aktier</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>omvärlden</p>",
+                "S11": "<p>företag</p>",
+                "S124": "<p>investeringsfonder</p>",
+                "S128": "<p>försäkringsbolag</p>",
+                "S129": "<p>pensioner</p>",
+                "S12K": "<p>banker</p>",
+                "S12O": "<p>övriga finansinstitut</p>",
+                "S13": "<p>myndigheter</p>",
+                "S1M": "<p>hushåll</p>",
+                "WLD": "<p>totalt</p>"
+            },
+            "title": "<p>Aktier/andelar i investeringsfonder</p>"
+        }
+    }
+}

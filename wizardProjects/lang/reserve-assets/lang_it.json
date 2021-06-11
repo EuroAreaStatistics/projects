@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posizione patrimoniale sull’estero, attività di riserva (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6).</p>",
+            "title": "<p>Attività</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Posizione patrimoniale sull’estero, attività di riserva in percentuale del PIL ai prezzi di mercato (posizione a fine trimestre nei confronti dei non residenti, dati non corretti per gli effetti stagionali e il numero di giornate lavorative, standard BPM6 e SEC 2010).</p>",
+            "title": "<p>Rapporto attività/PIL</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settore esterno - Attività di riserva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Attività di riserva</p>"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Neto financijski račun kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina umanjena za obveze, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Imovina financijskog računa kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Obveze financijskog računa kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (obveze, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer obveza</p>"
+        },
+        "1": {
+            "definition": "<p>Neto financijski račun (imovina umanjena za obveze, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Imovina financijskog računa (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Obveze financijskog računa (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Neto financijski račun, saldo izravnih ulaganja (imovina umanjena za obveze, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Financijski račun, imovina na osnovi izravnih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Financijski račun, obveze na osnovi izravnih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Neto financijski račun, saldo portfeljnih ulaganja (imovina umanjena za obveze; transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Financijski račun, imovina na osnovi portfeljnih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Financijski račun, obveze na osnovi portfeljnih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Neto financijski račun, saldo ostalih ulaganja (imovina umanjena za obveze, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Financijski račun, imovina na osnovi ostalih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Financijski račun, obveze na osnovi ostalih ulaganja (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Vanjski sektor - financijski račun</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ukupno</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Izravna ulaganja</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfeljna ulaganja</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Ostala ulaganja</p>"
+        }
+    }
+}

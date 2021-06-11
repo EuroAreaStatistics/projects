@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Leistungsbilanzsaldo als prozentualer Anteil am Bruttoinlandsprodukt (BIP) (gleitender Dreijahresdurchschnitt, berechnet nach internationalen Standards wie BPM6 und ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegen die indikativen Schwellenwerte für diesen Indikator bei +6 % und -4 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Leistungsbilanzsaldo (3J)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Nettoauslandsvermögensstatus als prozentualer Anteil am Bruttoinlandsprodukt (BIP) (jährlich, berechnet nach internationalen Standards wie BPM6 und ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei -35 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Auslandsvermögensstatus (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Realer effektiver Wechselkurs (deflationiert mit dem HVPI/VPI, prozentuale Veränderung über drei Jahre im Vergleich zu 41 anderen Industrieländern). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren</a> <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegen die indikativen Schwellenwerte für diesen Indikator bei -/+5 % für Länder des Euroraums. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Realer effektiver Wechselkurs (3J)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Exportmarktanteile (als Wertanteil, prozentuale Veränderung über fünf Jahre, berechnet nach internationalen Standards wie BPM6). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei -6 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Exportmarktanteile (5J)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominale Lohnstückkosten (prozentuale Veränderung über drei Jahre auf Basis der Erwerbspersonen). Lohnstückkosten sind eine Messgröße der Gesamtarbeitskosten je Produkteinheit, die als Quotient aus dem gesamten Arbeitnehmerentgelt je Arbeitnehmer und der Arbeitsproduktivität (definiert als BIP je Erwerbsperson) berechnet wird. Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei +9 % für Länder des Euroraums. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Nominale Lohnstückkosten (3J)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Wohnimmobilienpreise gemessen an einem Eurostat-Deflator für den privaten Verbrauch (prozentuale Veränderung im Vorjahresvergleich, neue und bestehende Wohnimmobilien). Der Wohnimmobilienpreisindex für den Euroraum ist ein Durchschnitt der nicht harmonisierten nationalen Preisindizes auf Basis von Länderangaben). Der Erfassungsbereich variiert teilweise von Land zu Land. Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 6 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Wohnimmobilienpreise</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Kreditstrom des Privatsektors als prozentualer Anteil am Bruttoinlandsprodukt (BIP) (konsolidiert, berechnet nach internationalen Standards wie BPM6 und ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 15 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Kreditstrom des Privatsektors</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Privatsektorverschuldung als prozentualer Anteil am BIP (konsolidiert, berechnet nach internationalen Standards wie BPM6 und ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 133 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Privatsektorverschuldung</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Gesamtstaatlicher Schuldenstand als prozentualer Anteil am Bruttoinlandsprodukt (BIP) (berechnet nach internationalen Standards wie BPM6 und ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 60 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Gesamtstaatlicher Schuldenstand</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Verbindlichkeiten des Finanzsektors insgesamt (Veränderungen im Vorjahresvergleich, nicht konsolidiert, berechnet nach internationalen Standards wie ESA 2010). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 16,5 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Verbindlichkeiten des Finanzsektors</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmonisierte Arbeitslosenquote (gleitender Dreijahresdurchschnitt). Gemäß dem von der Europäischen Kommission ausgewerteten <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">Verfahren</a> <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_de.htm\">zur Überwachung makroökonomischer Ungleichgewichte (VMU)</a> liegt der indikative Schwellenwert für diesen Indikator bei 10 %. Quellen: EZB und Europäische Kommission (Eurostat und Generaldirektion Wirtschaft und Finanzen).</p>",
+            "title": "<p>Arbeitslosenquote (3J)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroökonomisches Scoreboard</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Externe/Wettbewerbsfähigkeitsindikatoren</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Interne Indikatoren</p>"
+        }
+    }
+}

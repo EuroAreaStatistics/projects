@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Tekošā konta bilance procentos no valsts iekšzemes kopprodukta (IKP) (triju gadu mainīgais vidējais rādītājs, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6 un EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir +6% un –4%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Tekošā konta bilance (3 gadu)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Tīrā starptautisko investīciju bilance procentos no valsts iekšzemes kopprodukta (IKP) (gada rādītājs, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6 un EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir –35%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Starptautisko investīciju bilance (gada)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Reālais efektīvais kurss (deflēts ar SPCI/PCI, triju gadu procentuālās pārmaiņas salīdzinājumā ar 41 citu attīstīto valsti). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam euro zonas valstīm ir ±5%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p class=\"MsoNormal\">Reālais efektīvais kurss (3 gadu)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Eksporta tirgus daļas (nosaka pēc vērtības, piecu gadu procentuālās pārmaiņas, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir –6%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Eksporta tirgus daļas (5 gadu)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominālās vienības darbaspēka izmaksas (triju gadu procentuālās pārmaiņas, pēc nodarbināto skaita). Vienības darbaspēka izmaksas ir produkcijas vienības kopējās darbaspēka izmaksas, kas aprēķinātas kā attiecība starp atlīdzību vienam nodarbinātajam un darba ražīgumu (kas noteikts kā IKP uz vienu nodarbināto). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam euro zonas valstīm ir +9%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Nominālās vienības darbaspēka izmaksas (3 gadu)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Mājokļu cenas attiecībā pret Eurostat privātā patēriņa deflatoru (procentuālās pārmaiņas salīdzinājumā ar iepriekšējā gada atbilstošo periodu, jaunie un esošie mājokļi). Euro zonas mājokļu cenu rādītājs ir nesaskaņotu valstu datu vidējais rādītājs, kam pamatā no katras valsts avotiem iegūti dati. Datu aptvērums dažādās valstīs nedaudz atšķiras. Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 6%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Mājokļu cenas</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Privātā sektora kredītu plūsma procentos no valsts iekšzemes kopprodukta (IKP) (konsolidēts rādītājs, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6 un EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 15%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Privātā sektora kredītu plūsma</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Privātā sektora parāds procentos no valsts iekšzemes kopprodukta (IKP) (konsolidēts rādītājs, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6 un EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 133%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Privātā sektora parāds</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Valdības sektora parāds procentos no valsts iekšzemes kopprodukta (IKP) (aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, MBR6 un EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 60%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Valdības sektora parāds</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Kopējās finanšu sektora saistības (pārmaiņas salīdzinājumā ar iepriekšējā gada atbilstošo periodu, nekonsolidēts rādītājs, aprēķina saskaņā ar starptautiskajiem standartiem, piemēram, EKS 2010). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 16.5%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Finanšu sektora saistības</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Saskaņotais bezdarba līmenis (triju gadu mainīgais vidējais rādītājs). Saskaņā ar Eiropas Komisijas izstrādāto <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">makroekonomiskās nelīdzsvarotības novēršanas procedūru (MNNP)</a> indikatīvā robežvērtība šim rādītājam ir 10%. Avoti: ECB un Eiropas Komisija (Eurostat un Ekonomikas un finanšu lietu ģenerāldirektorāts).</p>",
+            "title": "<p>Bezdarba līmenis (3 gadu)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekonomiskie rezultāti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ārējie/konkurētspējas rādītāji</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Iekšējie rādītāji</p>"
+        }
+    }
+}

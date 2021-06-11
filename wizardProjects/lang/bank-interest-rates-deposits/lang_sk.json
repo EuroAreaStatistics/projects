@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankové úrokové sadzby - Vklady",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Domácnosti"
+        },
+        "2": {
+            "title": "Podniky"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Úrokové sadzby jednodňových vkladov",
+            "definition": "Jednodňové eurové vklady domácností eurozóny (v % p. a., nové obchody zodpovedajú stavom)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x ≤ 1 rok",
+            "definition": "Eurové vklady domácností eurozóny s dohodnutou splatnosťou do jedného roka (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x > 1 rok",
+            "definition": "Eurové vklady domácností eurozóny s dohodnutou splatnosťou nad jeden rok (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; 1 rok < x ≤ 2 roky",
+            "definition": "Eurové vklady domácností eurozóny s dohodnutou splatnosťou nad jeden rok až do dvoch rokov (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x ≤ 2 roky",
+            "definition": "Eurové vklady domácností eurozóny s dohodnutou splatnosťou do dvoch rokov (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x > 2 roky",
+            "definition": "Eurové vklady domácností eurozóny s dohodnutou splatnosťou nad dva roky (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Vklady s výpovednou lehotou; x ≤ 3 mesiace",
+            "definition": "Eurové vklady domácností eurozóny s výpovednou lehotou do troch mesiacov (v % p. a., nové obchody zodpovedajú stavom)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo obchody",
+            "definition": "Eurové repo obchody domácností a nefinančných spoločností eurozóny (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Úrokové sadzby jednodňových vkladov",
+            "definition": "Jednodňové eurové vklady nefinančných spoločností eurozóny (v % p. a., nové obchody zodpovedajú stavom)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x ≤ 1 rok",
+            "definition": "Eurové vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou do jedného roka (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x > 1 rok",
+            "definition": "Eurové vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou nad jeden rok (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; 1 rok < x ≤ 2 roky",
+            "definition": "Eurové vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou nad jeden rok až do dvoch rokov (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x ≤ 2 roky",
+            "definition": "Eurové vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou do dvoch rokov (v % p. a., sadzby nových obchodov)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Vklady, dohodnutá doba splatnosti; x > 2 roky",
+            "definition": "Eurové vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou nad dva roky (v % p. a., sadzby nových obchodov)"
+        }
+    }
+}

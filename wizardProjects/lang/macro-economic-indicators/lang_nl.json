@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Het overheidstekort (-) of -overschot (+) in verhouding tot het bbp heeft betrekking op de Maastrichtcriteria. De overheidstekortstatistieken omvatten verrekeningen in het kader van swaps (niet-financiële stromen, huidige prijzen, percentages, niet voor seizoen of aantal werkdagen gecorrigeerd). De laatste twee jaren in de grafieken zijn gebaseerd op prognoses van de Europese Commissie (directoraat-generaal Economische en financiële zaken). De referentiewaarde voor het begrotingstekort volgens het stabiliteits- en groeipact is 3%.</p>",
+            "title": "<p>Overheidstekort/-overschotratio</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>De overheidsschuld in verhouding tot het bbp heeft betrekking op de Maastrichtcriteria. De overheidsschuldstatistieken worden gebruikt in de context van de procedure bij buitensporige tekorten (financiële standen tegen nominale waarde, percentages, niet voor seizoen of aantal werkdagen gecorrigeerd). De laatste twee jaren in de grafieken zijn gebaseerd op prognoses van de Europese Commissie (directoraat-generaal Economische en financiële zaken). De in de Maastrichtcriteria vastgelegde referentiewaarde bedraagt 60%.</p>",
+            "title": "<p>Overheidsschuldratio</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruto binnenlands product tegen marktprijzen, totale economie, luidende in euro, kettingvolumes (basisverlegging, referentiejaar 2010), voor seizoen en aantal werkdagen gecorrigeerd. Bron: Eurostat</p>",
+            "title": "<p>Volume</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruto binnenlands product tegen marktprijzen, totale economie, binnenlandse valuta (kan bedragen omvatten die tegen een vaste koers zijn omgerekend naar de huidige valuta), kettingvolumes (basisverlegging), groeicijfer over één jaar, voor seizoen en aantal werkdagen gecorrigeerd. Bron: Eurostat</p>",
+            "title": "<p>Twaalfmaands groei</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Schuld van de huishoudens in verhouding tot hun bruto besteedbaar inkomen (niet-geconsolideerd, huidige prijzen, percentages, niet voor seizoen of aantal werkdagen gecorrigeerd).</p>",
+            "title": "<p>Schuldratio huishoudens (jr)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Schuld van de niet-financiële ondernemingen in verhouding tot het bbp. Schuld omvat aangegane leningen en uitgegeven schuldbewijzen (geconsolideerd, marktprijzen, percentages, niet voor seizoen of aantal werkdagen gecorrigeerd).</p>",
+            "title": "<p>Schuldratio ondernemingen</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Schuld van de huishoudens in verhouding tot hun bruto besteedbaar inkomen (niet-geconsolideerd, huidige prijzen, percentages, niet voor seizoen of aantal werkdagen gecorrigeerd). Indien er geen gegevens te zien zijn, zijn er geen beschikbaar.</p>",
+            "title": "<p>Schuldratio huishoudens (kw)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Geharmoniseerd werkloosheidscijfer (als percentage van de burgerlijke beroepsbevolking), gestandaardiseerd voor de landen, alle leeftijden, mannen en vrouwen, voor seizoen gecorrigeerd, niet voor aantal werkdagen gecorrigeerd. Bron: Eurostat</p>",
+            "title": "<p>Werkloosheid</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Macro-economische indicatoren</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Bbp</p>"
+        },
+        "2": {
+            "title": "<p>Werkloosheid</p>"
+        },
+        "3": {
+            "title": "<p>Schuldenlast</p>"
+        }
+    }
+}

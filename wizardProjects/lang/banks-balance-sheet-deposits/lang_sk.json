@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Banková súvaha - Vklady",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        },
+        "3": {
+            "title": "Miery rastu"
+        },
+        "4": {
+            "title": "Pomer úverov ku vkladom"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, jednodňové vklady domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Domácnosti, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Podniky, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Podniky, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, jednodňové vklady nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Podniky, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Poisťovne a penzijné fondy, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady poisťovní a penzijných fondov eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Iné finančné podniky, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady ostatných finančných sprostredkovateľov eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, stav ku koncu obdobia)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, jednodňové vklady domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Domácnosti, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, vklady domácností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Podniky, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Podniky, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, jednodňové vklady nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Podniky, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Podniky, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, vklady nefinančných spoločností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Poisťovne a penzijné fondy, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady poisťovní a penzijných fondov eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Iné finančné podniky, spolu",
+            "definition": "Súvahová štatistika PFI, celkové vklady ostatných finančných sprostredkovateľov eurozóny (vo všetkých menách spolu, všetky splatnosti, denominované v eurách, neočistené od sezónnych vplyvov, finančné transakcie)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, spolu",
+            "definition": "Súvahová štatistika PFI, miery rastu celkových vkladov domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, miery rastu jednodňových vkladov domácností eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov domácností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov domácností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Domácnosti, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov domácností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Podniky, spolu",
+            "definition": "Súvahová štatistika PFI, miery rastu celkových vkladov nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Podniky, jednodňové vklady",
+            "definition": "Súvahová štatistika PFI, miery rastu jednodňových vkladov nefinančných spoločností eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Podniky, dohodnutá splatnosť ≤ 2 roky",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov nefinančných spoločností eurozóny s dohodnutou splatnosťou do dvoch rokov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Podniky, dohodnutá splatnosť &gt; 2 roky",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov nefinančných spoločností eurozóny s dohodnutou splatnosťou nad dva roky (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Podniky, výpovedná lehota; x ≤ 3 mesiace",
+            "definition": "Súvahová štatistika PFI, miery rastu vkladov nefinančných spoločností eurozóny s výpovednou lehotou do troch mesiacov (vo všetkých menách spolu, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Poisťovne a penzijné fondy, spolu",
+            "definition": "Súvahová štatistika PFI, miery rastu celkových vkladov poisťovní a penzijných fondov eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Iné finančné podniky, spolu",
+            "definition": "Súvahová štatistika PFI, miery rastu celkových vkladov ostatných finančných sprostredkovateľov eurozóny (vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, ročné percentuálne zmeny)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Pomer úverov ku vkladom",
+            "definition": "Súvahová štatistika PFI, pomer medzi celkovými úvermi a celkovými vkladmi nefinančných podnikov a domácností eurozóny a nefinančných podnikov, domácností a nebankových finančných inštitúcií mimo eurozóny (okrem verejnej správy, vo všetkých menách spolu, všetky splatnosti, neočistené od sezónnych vplyvov, v percentách, štvrťročné údaje)"
+        }
+    }
+}

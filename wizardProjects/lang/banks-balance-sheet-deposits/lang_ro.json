@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilanțurile băncilor - Depozite",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Fluxuri"
+        },
+        "3": {
+            "title": "Ritmuri de creștere"
+        },
+        "4": {
+            "title": "Raportul împrumuturi/depozite"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Populație, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Populație, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite overnight ale populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Populație; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Populație; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Populație, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Societăți, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Societăți, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite overnight ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Societăți; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Societăți; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Societăți, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Asigurări și pensii, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Alte instituții financiare, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Populație, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Populație, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite overnight ale populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Populație; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Populație; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Populație, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale populației din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Societăți, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Societăți, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite overnight ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Societăți; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Societăți; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Societăți, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite ale societăților nefinanciare din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Asigurări și pensii, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Alte instituții financiare, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, depozite totale ale altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Populație, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor totale ale populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Populație, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor overnight ale populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Populație; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor populației din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Populație; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor populației din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Populație, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor populației din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Societăți, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor totale ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Societăți, overnight",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor overnight ale societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Societăți; scadența inițială ≤ 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor societăților nefinanciare din zona euro cu scadența inițială de până la doi ani (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Societăți; scadența inițială &gt; 2A",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor societăților nefinanciare din zona euro cu scadența inițială mai mare de doi ani (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Societăți, rambursabile după notificare; x ≤ 3L",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor societăților nefinanciare din zona euro rambursabile după notificare la cel mult trei luni de la notificare (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Asigurări și pensii, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor totale ale societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Alte instituții financiare, total",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente depozitelor totale ale altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Raportul împrumuturi/depozite",
+            "definition": "Statistici privind bilanțurile instituțiilor financiare monetare, raportul dintre împrumuturile totale și depozitele totale aferente societăților nefinanciare și populației din zona euro, precum și societăților nefinanciare, populației și instituțiilor financiare nebancare din afara zonei euro (cu excepția administrațiilor publice, toate valutele combinate, toate scadențele, date neajustate sezonier, %, trimestrial)"
+        }
+    }
+}

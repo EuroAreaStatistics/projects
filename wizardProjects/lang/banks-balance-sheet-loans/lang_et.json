@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Muud finantseerimisettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste statistika, euroala kindlustusseltside ja pensionifondide laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Kindlustus ja pensionid, kokku</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Mittefinantsettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Kodumajapidamised, kokku</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Muud finantseerimisettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kindlustusseltside ja pensionifondide laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Kindlustus ja pensionid, kokku</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Mittefinantsettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste laenud kokku (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Kodumajapidamised, kokku</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala muude finantsvahendajate kogulaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Muud finantseerimisettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kindlustusseltside ja pensionifondide kogulaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Kindlustus ja pensionid, kokku</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kogulaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Mittefinantsettevõtted, kokku</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kogulaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Kodumajapidamised, kokku</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni üheaastase tähtajaga laenud (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Mittefinantsettevõte; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni üheaastase tähtajaga laenud (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Mittefinantsettevõte; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kuni üheaastase tähtajaga laenude kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Mittefinantsettevõte; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud tähtajaga üle ühe aasta ja kuni viis aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Mittefinantsettevõte; 1 A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud tähtajaga üle ühe aasta ja kuni viis aastat (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Mittefinantsettevõte; 1 A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üle ühe- ja kuni viieaastase tähtajaga laenude kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Mittefinantsettevõte; 1 A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üle viieaastase tähtajaga laenud (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Mittefinantsettevõte; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üle viieaastase tähtajaga laenud (kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Mittefinantsettevõte; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete üle viieaastase tähtajaga laenude kasvumäärad (kõik vääringud kokku, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Mittefinantsettevõte; x &gt; 5A</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud kokku (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Mittefinantsettevõtted kokku (kohandatud)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste laenud kokku (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Kodumajapidamised kokku (kohandatud)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete laenud kokku (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Mittefinantsettevõtted kokku (kohandatud)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste laenud kokku (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Kodumajapidamised kokku (kohandatud)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete kogulaenude kasvumäärad (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Mittefinantsettevõtted kokku (kohandatud)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste kogulaenude kasvumäärad (kohandatuna laenude müügi ja väärpaberistamisega ning tingliku rahalise kogumiga, kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides). Müügi ja väärtpaberistamisega kohandatud laenud hõlmavad müüdud või väärtpaberistatud laene, mis pankade bilansis enam ei kajastu.</p>",
+            "title": "<p>Kodumajapidamised kokku (kohandatud)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste tarbimislaenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Kodumajapidamised, tarbimislaenud</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste tarbimislaenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Kodumajapidamised, tarbimislaenud</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste tarbimislaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Kodumajapidamised, tarbimislaenud</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste eluasemelaenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Kodumajapidamised, eluasemelaenud</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste eluasemelaenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Kodumajapidamised, eluasemelaenud</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste eluasemelaenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Kodumajapidamised, eluasemelaenud</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste muud laenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, jääk perioodi lõpus)</p>",
+            "title": "<p>Kodumajapidamised, muud laenud</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste muud laenud (kõik vääringud kokku, kõik tähtajad, eurodes nomineeritud, hooajaliselt korrigeerimata, finantstehingud)</p>",
+            "title": "<p>Kodumajapidamised, muud laenud</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala kodumajapidamiste muude laenude kasvumäärad (kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata, aastane muutus protsentides)</p>",
+            "title": "<p>Kodumajapidamised, muud laenud</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Rahaloomeasutuste bilansistatistika, euroala mittefinantsettevõtete ja kodumajapidamiste ning euroalaväliste mittefinantsettevõtete, kodumajapidamiste ja mittepangast finantsasutuste kogulaenude ja koguhoiuste suhtarv (v.a valitsussektor; kõik vääringud kokku, kõik tähtajad, hooajaliselt korrigeerimata kvartaliandmed protsentides)</p>",
+            "title": "<p>Laenude ja hoiuste suhtarv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Pankade bilanss - Laenud</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Jääk</p>"
+        },
+        "2": {
+            "title": "<p>Vood</p>"
+        },
+        "3": {
+            "title": "<p>Kasvumäärad</p>"
+        },
+        "4": {
+            "title": "<p>Laenude ja hoiuste suhtarv</p>"
+        }
+    }
+}

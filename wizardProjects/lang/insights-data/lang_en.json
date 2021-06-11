@@ -1,0 +1,17 @@
+{
+    "charts": {
+        "1": {
+            "definition": "[Add indicator definition]",
+            "title": "[Add indicator title. Short!]"
+        }
+    },
+    "project": {
+        "title": "insights-data"
+    },
+    "tabs": {
+        "1": {
+            "teaser": "",
+            "title": "[Add tab title]"
+        }
+    }
+}

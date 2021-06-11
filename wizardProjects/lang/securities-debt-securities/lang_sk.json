@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Cenné papiere - Dlhové cenné papiere",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Nové emisie"
+        },
+        "3": {
+            "title": "Čisté emisie"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banky, stav",
+            "definition": "Zostatok dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banky, stav; x ≤ 1 rok",
+            "definition": "Zostatok krátkodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banky, stav; x &gt; 1 rok",
+            "definition": "Zostatok dlhodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Podniky, stav",
+            "definition": "Zostatok dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Podniky, stav; x ≤ 1 rok",
+            "definition": "Zostatok krátkodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Podniky, stav; x &gt; 1 rok",
+            "definition": "Zostatok dlhodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Verejná správa, stav",
+            "definition": "Zostatok dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Verejná správa, stav; x ≤ 1 rok",
+            "definition": "Zostatok krátkodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Verejná správa, stav; x &gt; 1 rok",
+            "definition": "Zostatok dlhodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Iné finančné podniky, stav",
+            "definition": "Zostatok dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Iné finančné podniky, stav; x ≤ 1 rok",
+            "definition": "Zostatok krátkodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Iné finančné podniky, stav; x &gt; 1 rok",
+            "definition": "Zostatok dlhodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Spolu, stav",
+            "definition": "Celkový zostatok dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Spolu, stav; x ≤ 1 rok",
+            "definition": "Celkový zostatok krátkodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Spolu, stav; x &gt; 1 rok",
+            "definition": "Celkový zostatok dlhodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banky, nové",
+            "definition": "Hrubá emisia dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banky, nové; x ≤ 1 rok",
+            "definition": "Hrubá emisia krátkodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banky, nové; x &gt; 1 rok",
+            "definition": "Hrubá emisia dlhodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Podniky, nové",
+            "definition": "Hrubá emisia dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Podniky, nové; x ≤ 1 rok",
+            "definition": "Hrubá emisia krátkodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Podniky, nové; x &gt; 1 rok",
+            "definition": "Hrubá emisia dlhodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Verejná správa, nové",
+            "definition": "Hrubá emisia dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Verejná správa, nové; x ≤ 1 rok",
+            "definition": "Hrubá emisia krátkodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Verejná správa, nové; x &gt; 1 rok",
+            "definition": "Hrubá emisia dlhodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Iné finančné podniky, nové",
+            "definition": "Hrubá emisia dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Iné finančné podniky, nové; x ≤ 1 rok",
+            "definition": "Hrubá emisia krátkodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Iné finančné podniky, nové; x &gt; 1 rok",
+            "definition": "Hrubá emisia dlhodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Spolu, nové",
+            "definition": "Celková hrubá emisia dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Spolu, nové; x &gt; 1 rok",
+            "definition": "Celková hrubá emisia dlhodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Spolu, nové; x ≤ 1 rok",
+            "definition": "Celková hrubá emisia krátkodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banky, čisté",
+            "definition": "Čistá emisia dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banky, čisté; x ≤ 1 rok",
+            "definition": "Čistá emisia krátkodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banky, čisté; x &gt; 1 rok",
+            "definition": "Čistá emisia dlhodobých dlhových cenných papierov vydaných peňažnými finančnými inštitúciami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Podniky, čisté",
+            "definition": "Čistá emisia dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Podniky, čisté; x ≤ 1 rok",
+            "definition": "Čistá emisia krátkodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Podniky, čisté; x &gt; 1 rok",
+            "definition": "Čistá emisia dlhodobých dlhových cenných papierov vydaných nefinančnými spoločnosťami (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Verejná správa, čisté",
+            "definition": "Čistá emisia dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Verejná správa, čisté; x ≤ 1 rok",
+            "definition": "Čistá emisia krátkodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Verejná správa, čisté; x &gt; 1 rok",
+            "definition": "Čistá emisia dlhodobých dlhových cenných papierov vydaných verejnou správou (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Iné finančné podniky, čisté",
+            "definition": "Čistá emisia dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Iné finančné podniky, čisté; x ≤ 1 rok",
+            "definition": "Čistá emisia krátkodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Iné finančné podniky, čisté; x &gt; 1 rok",
+            "definition": "Čistá emisia dlhodobých dlhových cenných papierov vydaných finančnými spoločnosťami inými ako peňažné finančné inštitúcie (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Spolu, čisté",
+            "definition": "Celková čistá emisia dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Spolu, čisté; x ≤ 1 rok",
+            "definition": "Celková čistá emisia krátkodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Spolu, čisté; x &gt; 1 rok",
+            "definition": "Celková čistá emisia dlhodobých dlhových cenných papierov (nominálna hodnota, vo všetkých menách spolu, cenné papiere denominované v eurách, vydané rezidentmi)"
+        }
+    }
+}

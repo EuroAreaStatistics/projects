@@ -1,0 +1,204 @@
+{
+    "project": {
+        "title": "Securities - Debt Securities",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banks, stocks",
+            "definition": "Outstanding amounts of debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banks, stocks; x ≤ 1Y",
+            "definition": "Outstanding amounts of short-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banks, stocks; x &gt; 1Y",
+            "definition": "Outstanding amounts of long-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Corporations, stocks",
+            "definition": "Outstanding amounts of debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Corporations, stocks; x ≤ 1Y",
+            "definition": "Outstanding amounts of short-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Corporations, stocks; x &gt; 1Y",
+            "definition": "Outstanding amounts of long-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Government, stocks",
+            "definition": "Outstanding amounts of debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Government, stocks; x ≤ 1Y",
+            "definition": "Outstanding amounts of short-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Government, stocks; x &gt; 1Y",
+            "definition": "Outstanding amounts of long-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Other financials, stocks",
+            "definition": "Outstanding amounts of debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Other financials, stocks; x ≤ 1Y",
+            "definition": "Outstanding amounts of short-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Other financials, stocks; x &gt; 1Y",
+            "definition": "Outstanding amounts of long-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Total, stocks",
+            "definition": "Total outstanding amounts of debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Total, stocks; x ≤ 1Y",
+            "definition": "Total outstanding amounts of short-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Total, stocks; x &gt; 1Y",
+            "definition": "Total outstanding amounts of long-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banks, new",
+            "definition": "Gross issues of debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banks, new; x ≤ 1Y",
+            "definition": "Gross issues of short-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banks, new; x &gt; 1Y",
+            "definition": "Gross issues of long-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Corporations, new",
+            "definition": "Gross issues of debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Corporations, new; x ≤ 1Y",
+            "definition": "Gross issues of short-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Corporations, new; x &gt; 1Y",
+            "definition": "Gross issues of long-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Government, new",
+            "definition": "Gross issues of debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Government, new; x ≤ 1Y",
+            "definition": "Gross issues of short-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Government, new; x &gt; 1Y",
+            "definition": "Gross issues of long-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Other financials, new",
+            "definition": "Gross issues of debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Other financials, new; x ≤ 1Y",
+            "definition": "Gross issues of short-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Other financials, new; x &gt; 1Y",
+            "definition": "Gross issues of long-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Total, new",
+            "definition": "Total gross issues of debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Total, new; x &gt; 1Y",
+            "definition": "Total gross issues of long-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Totals, new; x ≤ 1Y",
+            "definition": "Total gross issues of short-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banks, net",
+            "definition": "Net issues of debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banks, net; x ≤ 1Y",
+            "definition": "Net issues of short-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banks, net; x &gt; 1Y",
+            "definition": "Net issues of long-term debt securities issued by monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Corporations, net",
+            "definition": "Net issues of debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Corporations, net; x ≤ 1Y",
+            "definition": "Net issues of short-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Corporations, net; x &gt; 1Y",
+            "definition": "Net issues of long-term debt securities issued by non-financial corporations (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Government, net",
+            "definition": "Net issues of debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Government, net; x ≤ 1Y",
+            "definition": "Net issues of short-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Government, net; x &gt; 1Y",
+            "definition": "Net issues of long-term debt securities issued by general government (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Other financials, net",
+            "definition": "Net issues of debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Other financials, net; x ≤ 1Y",
+            "definition": "Net issues of short-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Other financials, net; x &gt; 1Y",
+            "definition": "Net issues of long-term debt securities issued by financial corporations other than monetary financial institutions (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Total, net",
+            "definition": "Total net issues of debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Total, net; x ≤ 1Y",
+            "definition": "Total net issues of short-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Total, net; x &gt; 1Y",
+            "definition": "Total net issues of long-term debt securities (nominal value, all currencies combined, denominated in euro, issued by residents)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "New issues",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Net issues",
+            "teaser": ""
+        }
+    }
+}

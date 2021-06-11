@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Titluri de valoare - Acțiuni cotate",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Emisiuni noi"
+        },
+        "3": {
+            "title": "Emisiuni nete"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Bănci, stocuri",
+            "definition": "Solduri aferente acțiunilor cotate emise de instituţii financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Societăți, stocuri",
+            "definition": "Solduri aferente acțiunilor cotate emise de societăți nefinanciare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Alte instituții financiare, stocuri",
+            "definition": "Solduri aferente acțiunilor cotate emise de societăți financiare, altele decât instituțiile financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total, stocuri",
+            "definition": "Solduri totale aferente acţiunilor cotate (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Bănci, noi",
+            "definition": "Emisiuni brute de acțiuni cotate emise de instituții financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Societăți, noi",
+            "definition": "Emisiuni brute de acțiuni cotate emise de societăți nefinanciare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Alte instituții financiare, noi",
+            "definition": "Emisiuni brute de acțiuni cotate emise de societăți financiare, altele decât instituțiile financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total, noi",
+            "definition": "Emisiuni brute totale de acţiuni cotate (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Bănci, nete",
+            "definition": "Emisiuni nete de acțiuni cotate emise de instituții financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Societăți, nete",
+            "definition": "Emisiuni nete de acțiuni cotate emise de societăți nefinanciare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Alte instituții financiare, nete",
+            "definition": "Emisiuni nete de acțiuni cotate emise de societăți financiare, altele decât instituțiile financiare monetare (valoare de piață, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total, nete",
+            "definition": "Emisiuni nete totale de acţiuni cotate (valoare de piață, exprimate în euro, emise de rezidenți)"
+        }
+    }
+}

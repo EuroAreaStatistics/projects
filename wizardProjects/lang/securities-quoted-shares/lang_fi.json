@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Arvopaperit - Noteeratut osakkeet",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Uudet liikkeeseenlaskut"
+        },
+        "3": {
+            "title": "Liikkeeseenlaskut, netto"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Pankit, kannat",
+            "definition": "Euroalueen rahalaitosten liikkeeseen laskemien noteerattujen osakkeiden kannat (markkina-arvoon, euroina)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Yritykset, kannat",
+            "definition": "Euroalueen yritysten liikkeeseen laskemien noteerattujen osakkeiden kannat (markkina-arvoon, euroina)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Muut rahoituslaitokset, kannat",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten liikkeeseen laskemien noteerattujen osakkeiden kannat (markkina-arvoon, euroina)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Yhteensä, kannat",
+            "definition": "Euroalueella olevien liikkeeseen laskemien noteerattujen osakkeiden kannat yhteensä (markkina-arvoon, euroina)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Pankit, uudet",
+            "definition": "Euroalueen rahalaitosten noteerattujen osakkeiden bruttoliikkeeseenlaskut (markkina-arvoon, euroina)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Yritykset, uudet",
+            "definition": "Euroalueen yritysten noteerattujen osakkeiden bruttoliikkeeseenlaskut (markkina-arvoon, euroina)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Muut rahoituslaitokset, uudet",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten noteerattujen osakkeiden bruttoliikkeeseenlaskut (markkina-arvoon, euroina)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Yhteensä, uudet",
+            "definition": "Euroalueella olevien liikkeeseen laskemien noteerattujen osakkeiden bruttoliikkeeseenlaskut yhteensä (markkina-arvoon, euroina)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Pankit, netto",
+            "definition": "Euroalueen rahalaitosten noteerattujen osakkeiden nettoliikkeeseenlaskut (markkina-arvoon, euroina)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Yritykset, netto",
+            "definition": "Euroalueen yritysten noteerattujen osakkeiden nettoliikkeeseenlaskut (markkina-arvoon, euroina)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Muut rahoituslaitokset, netto",
+            "definition": "Euroalueen muiden rahoituslaitosten kuin rahalaitosten noteerattujen osakkeiden nettoliikkeeseenlaskut  (markkina-arvoon, euroina)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Yhteensä, netto",
+            "definition": "Euroalueella olevien liikkeeseen laskemien noteerattujen osakkeiden nettoliikkeeseenlaskut yhteensä (markkina-arvoon, euroina)"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Dług zewnętrzny brutto (zobowiązania całej gospodarki wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Dług zewnętrzny netto (pasywa minus aktywa, zobowiązania netto całej gospodarki wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Dług zewnętrzny brutto jako procent PKB w cenach rynkowych (zobowiązania całej gospodarki wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Brutto jako % PKB</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Dług zewnętrzny netto jako procent PKB w cenach rynkowych (pasywa minus aktywa, zobowiązania netto całej gospodarki wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Dług zewnętrzny brutto (zobowiązania monetarnych instytucji finansowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Dług zewnętrzny netto (pasywa minus aktywa, zobowiązania netto monetarnych instytucji finansowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Dług zewnętrzny brutto jako procent PKB w cenach rynkowych (zobowiązania monetarnych instytucji finansowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Brutto jako % PKB</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Dług zewnętrzny netto jako procent PKB w cenach rynkowych (pasywa minus aktywa, zobowiązania netto monetarnych instytucji finansowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Dług zewnętrzny brutto (zobowiązania sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Dług zewnętrzny netto (pasywa minus aktywa, zobowiązania netto sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Dług zewnętrzny brutto jako procent PKB w cenach rynkowych (zobowiązania sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Brutto jako % PKB</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Dług zewnętrzny netto jako procent PKB w cenach rynkowych (pasywa minus aktywa, zobowiązania netto sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Dług zewnętrzny brutto (zobowiązania wszystkich sektorów oprócz sektora monetarnych instytucji finansowych i sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Dług zewnętrzny netto (pasywa minus aktywa, zobowiązania netto wszystkich sektorów oprócz sektora monetarnych instytucji finansowych i sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Dług zewnętrzny brutto jako procent PKB w cenach rynkowych (zobowiązania wszystkich sektorów oprócz sektora monetarnych instytucji finansowych i sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Brutto jako % PKB</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Dług zewnętrzny netto jako procent PKB w cenach rynkowych (pasywa minus aktywa, zobowiązania netto wszystkich sektorów oprócz sektora monetarnych instytucji finansowych i sektora instytucji rządowych i samorządowych wobec nierezydentów; stan na koniec kwartału; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Netto jako % PKB</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sektor zewnętrzny - Dług zewnętrzny</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Gospodarka ogółem</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Sektor monetarnych instytucji finansowych</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Sektor instytucji rządowych i samorządowych</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Pozostałe sektory</p>"
+        }
+    }
+}

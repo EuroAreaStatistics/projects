@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, citiem euro zonas finanšu starpniekiem izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Citas finanšu iestādes, kopā</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrībām un pensiju fondiem izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Apdrošināšanas sabiedrības, pensiju fondi, kopā</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Nefinanšu sabiedrības, kopā</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Mājsaimniecības, kopā</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, citiem euro zonas finanšu starpniekiem izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Citas finanšu iestādes, kopā</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrībām un pensiju fondiem izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Apdrošināšanas sabiedrības, pensiju fondi, kopā</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Nefinanšu sabiedrības, kopā</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Mājsaimniecības, kopā</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, citiem euro zonas finanšu starpniekiem izsniegto kredītu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Citas finanšu iestādes, kopā</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas apdrošināšanas sabiedrībām un pensiju fondiem izsniegto kredītu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Apdrošināšanas sabiedrības, pensiju fondi, kopā</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Nefinanšu sabiedrības, kopā</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Mājsaimniecības, kopā</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti ar termiņu līdz 1 gadam (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti  ar termiņu līdz 1 gadam (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredīti ar termiņu līdz 1 gadam pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x ≤ 1G</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti ar termiņu 1–5 gadi (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Nefinanšu sabiedrības; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti ar termiņu 1–5 gadi (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Nefinanšu sabiedrības; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu ar termiņu 1–5 gadi pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Nefinanšu sabiedrības; 1G &lt; x ≤ 5G</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti ar termiņu ilgāku par 5 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x &gt; 5G</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegtie kredīti ar termiņu ilgāku par 5 gadiem (visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x &gt; 5G</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu ar termiņu ilgāku par 5 gadiem pieauguma temps (visas valūtas kopā, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Nefinanšu sabiedrības; x &gt; 5G</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Nefin. sabiedr., kopā (koriģ.)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Mājsaimniecības, kopā (koriģ.)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Nefin. sabiedr., kopā (koriģ.</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējais atlikums (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Mājsaimniecības, kopā (koriģ.)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas nefinanšu sabiedrībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Nefin. sabiedr., kopā (koriģ.)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu, kas koriģēti atbilstoši kredītu pārdošanas, vērtspapīrošanas un līdzekļu apvienošanas darbībām, kopējā atlikuma pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas). Kredīti, kas koriģēti atbilstoši pārdošanas un vērtspapīrošanas darbībām, ietver kredītus, kas pārdoti vai vērtspapīroti un vairs nav uzrādīti banku bilancēs.</p>",
+            "title": "<p>Mājsaimniecības, kopā (koriģ.)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie patēriņa kredīti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Mājsaimniecības, patēriņa kredīti</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie patēriņa kredīti (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Mājsaimniecības, patēriņa kredīti</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto patēriņa kredītu pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Mājsaimniecības, patēriņa kredīti</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie kredīti mājokļa iegādei (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Mājsaimniecības, kredīti mājokļa iegādei</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie kredīti mājokļa iegādei (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Mājsaimniecības, kredīti mājokļa iegādei</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu mājokļa iegādei pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Mājsaimniecības, kredīti mājokļa iegādei</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie kredīti citiem mērķiem (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, atlikums perioda beigās)</p>",
+            "title": "<p>Mājsaimniecības, pārējie kredīti</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegtie kredīti citiem mērķiem (visas valūtas kopā, visas termiņu grupas, izteikts euro, sezonāli neizlīdzināti dati, finanšu darījumi)</p>",
+            "title": "<p>Mājsaimniecības, pārējie kredīti</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, euro zonas mājsaimniecībām izsniegto kredītu citiem mērķiem pieauguma temps (visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, gada procentuālās pārmaiņas)</p>",
+            "title": "<p>Mājsaimniecības, pārējie kredīti</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Monetāro finanšu iestāžu bilances statistika, attiecība starp euro zonas nefinanšu sabiedrību un mājsaimniecību un ārpus euro zonas esošo valstu nefinanšu sabiedrību, mājsaimniecību un nebanku finanšu iestāžu kopējo kredītu atlikumu un kopējo noguldījumu atlikumu (izņemot valdību, visas valūtas kopā, visas termiņu grupas, sezonāli neizlīdzināti dati, %, ceturksnī)</p>",
+            "title": "<p>Kredītu un noguldījumu attiecība</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Banku bilance - kredīti</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Atlikumi</p>"
+        },
+        "2": {
+            "title": "<p>Plūsmas</p>"
+        },
+        "3": {
+            "title": "<p>Pieauguma temps</p>"
+        },
+        "4": {
+            "title": "<p>Kredītu un noguldījumu attiecība</p>"
+        }
+    }
+}

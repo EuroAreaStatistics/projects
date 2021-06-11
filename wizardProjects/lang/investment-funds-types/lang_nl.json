@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Beleggingsfondsen - Naar type fonds",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Stromen"
+        },
+        "3": {
+            "title": "Groeicijfers"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Open-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: open-end-fondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Closed-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: closed-end-fondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (uitstaande bedragen per einde periode, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Open-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: open-end-fondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Closed-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: closed-end-fondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (financiële transacties, alle looptijden, alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, kwartaalgegevens)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Open-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: open-end-fondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Closed-end-fondsen",
+            "definition": "Aandelen/deelnemingen in beleggingsfondsen uitgegeven door beleggingsfondsen anders dan geldmarktfondsen, uitgesplitst naar type fonds: closed-end-fondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, mutaties in procenten per jaar, niet seizoengecorrigeerd, maandgegevens)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totaal",
+            "definition": "Beleggingsfondsen anders dan geldmarktfondsen, aandelen/deelnemingen in beleggingsfondsen (twaalfmaands groei, alle looptijden, alle valuta's samen, procentuele mutaties op jaarbasis, niet seizoengecorrigeerd, kwartaalgegevens)"
+        }
+    }
+}

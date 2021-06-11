@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Pankkikorot - Talletukset",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kotitaloudet"
+        },
+        "2": {
+            "title": "Yritykset"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Yön yli ‑korot",
+            "definition": "Euroalueen kotitalouksien euromääräiset yön yli ‑talletukset (vuosikorko, uudet talletukset = talletuskanta)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Määräaikaistalletukset, x ≤ 1 v",
+            "definition": "Euroalueen kotitalouksien uudet euromääräiset enintään vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Määräaikaistalletukset, x &gt; 1 v",
+            "definition": "Euroalueen kotitalouksien uudet euromääräiset yli vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Määräaikaistalletukset, 1 v &lt; x ≤ 2 v",
+            "definition": "Euroalueen kotitalouksien uudet euromääräiset yli vuoden mutta enintään kahden vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Määräaikaistalletukset, x ≤ 2 v",
+            "definition": "Euroalueen kotitalouksien uudet euromääräiset enintään kahden vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Määräaikaistalletukset, x &gt; 2 v",
+            "definition": "Euroalueen kotitalouksien uudet euromääräiset yli kahden vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Irtisanomisehtoiset talletukset, x ≤ 3 kk",
+            "definition": "Euroalueen kotitalouksien euromääräiset irtisanomisajaltaan enintään kolmen kuukauden talletukset (vuosikorko, uudet talletukset = talletuskanta)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repotalletukset",
+            "definition": "Euroalueen kotitalouksien ja yritysten uudet euromääräiset repotalletukset (vuosikorko)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Yön yli ‑korot",
+            "definition": "Euroalueen yritysten euromääräiset yön yli ‑talletukset (vuosikorko, uudet talletukset = talletuskanta)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Määräaikaistalletukset, x ≤ 1 v",
+            "definition": "Euroalueen yritysten uudet euromääräiset enintään vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Määräaikaistalletukset, x &gt; 1 v",
+            "definition": "Euroalueen yritysten uudet euromääräiset yli vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Määräaikaistalletukset, 1 v &lt; x ≤ 2 v",
+            "definition": "Euroalueen yritysten uudet euromääräiset yli vuoden mutta enintään kahden vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Määräaikaistalletukset, x ≤ 2 v",
+            "definition": "Euroalueen yritysten uudet euromääräiset enintään kahden vuoden määräaikaistalletukset (vuosikorko)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Määräaikaistalletukset, x &gt; 2 v",
+            "definition": "Euroalueen yritysten uudet euromääräiset yli kahden vuoden määräaikaistalletukset (vuosikorko)"
+        }
+    }
+}

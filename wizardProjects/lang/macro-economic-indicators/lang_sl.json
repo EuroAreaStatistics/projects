@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Razmerje med javnofinančnim primanjkljajem in BDP (-) oz. razmerje med javnofinančnim presežkom in BDP (+) se nanaša na maastrichtske kriterije. Statistični podatki o javnofinančnem primanjkljaju vključujejo poravnave po pogodbah o zamenjavi. (Nefinančni tokovi, tekoče cene, v odstotkih, ni desezonirano ali prilagojeno za število delovnih dni). V grafih se zadnji dve leti nanašata na napovedi Evropske komisije (Generalni direktorat za gospodarske in finančne zadeve). Po Paktu za stabilnost in rast je referenčna vrednost za javnofinančni primanjkljaj 3%.</p>",
+            "title": "<p>Stopnja javnofinančnega primanjkljaja/presežka</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Razmerje med javnim dolgom in BDP se nanaša na maastrichtske kriterije. Statistični podatki o javnem dolgu so podatki, ki se uporabljajo tudi v postopku v zvezi s čezmernim primanjkljajem. (Stanje finančnih instrumentov po nominalni vrednosti, v odstotkih, ni desezonirano ali prilagojeno za število delovnih dni). V grafih se zadnji dve leti nanašata na napovedi Evropske komisije (Generalni direktorat za gospodarske in finančne zadeve). Referenčna vrednost, ki jo določajo maastrichtski kriteriji, je 60%.</p>",
+            "title": "<p>Stopnja javnega dolga</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruto domači proizvod po tržnih cenah, celotno gospodarstvo, v EUR, verižni obseg (preračunan na bazno leto 2010), desezonirano in prilagojeno za število delovnih dni. Vir: Eurostat.</p>",
+            "title": "<p>Obseg</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruto domači proizvod po tržnih cenah, celotno gospodarstvo, v domači valuti (lahko vključuje zneske, preračunane v to valuto po fiksnem tečaju), verižni obseg (preračunan na bazno leto), stopnja rasti v enem letu, desezonirano in prilagojeno za število delovnih dni. Vir: Eurostat.</p>",
+            "title": "<p>Medletna stopnja rasti</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Razmerje med zadolženostjo gospodinjstev in bruto razpoložljivim dohodkom (ni konsolidirano, tekoče cene, v odstotkih, ni desezonirano ali prilagojeno za število delovnih dni).</p>",
+            "title": "<p>Stopnja zadolženosti gospodinjstev (L)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Razmerje med zadolženostjo nefinančnih družb in BDP. Dolg vključuje najeta posojila in izdane dolžniške vrednostne papirje. (Konsolidirano, tržne cene, v odstotkih, ni desezonirano ali prilagojeno za število delovnih dni).</p>",
+            "title": "<p>Stopnja zadolženosti gospodarskih družb</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Razmerje med zadolženostjo gospodinjstev in bruto razpoložljivim dohodkom (ni konsolidirano, tekoče cene, v odstotkih, ni desezonirano ali prilagojeno za število delovnih dni). Če se podatki ne pojavijo, pomeni, da podatki niso na voljo.</p>",
+            "title": "<p>Stopnja zadolženosti gospodinjstev (Č)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmonizirana stopnja brezposelnosti (kot odstotek civilnega aktivnega prebivalstva), standardizirano po državah, vse starosti, moški in ženske, desezonirano, ni prilagojeno za število delovnih dni. Vir: Eurostat.</p>",
+            "title": "<p>Stopnja brezposelnosti</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroekonomski kazalniki</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BDP</p>"
+        },
+        "2": {
+            "title": "<p>Brezposelnost</p>"
+        },
+        "3": {
+            "title": "<p>Zadolženost</p>"
+        }
+    }
+}

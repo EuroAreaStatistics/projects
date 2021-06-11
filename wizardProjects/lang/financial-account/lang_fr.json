@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Compte financier net en pourcentage du produit intérieur brut (PIB) aux prix du marché (avoirs moins engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Solde net (en %)</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Avoirs du compte financier en pourcentage du produit intérieur brut (PIB) aux prix du marché (avoirs, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio d’avoirs</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Engagements du compte financier en pourcentage du produit intérieur brut (PIB) aux prix du marché (engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio d’engagements</p>"
+        },
+        "1": {
+            "definition": "<p>Compte financier net (avoirs moins engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Avoirs du compte financier (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Avoirs</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Engagements du compte financier (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Engagements</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Compte financier net, investissements directs (avoirs moins engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Compte financier, avoirs au titre des investissements directs (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Avoirs</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Compte financier, engagements au titre des investissements directs (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Engagements</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Compte financier net, solde des investissements de portefeuille (avoirs moins engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Compte financier, avoirs au titre des investissements de portefeuille (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Avoirs</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Compte financier, engagements au titre des investissements de portefeuille (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Engagements</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Compte financier net, solde des autres investissements (avoirs moins engagements, transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>En termes nets</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Compte financier, avoirs au titre des autres investissements (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Avoirs</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Compte financier, engagements au titre des autres investissements (transactions vis-à-vis des non-résidents ; données cumulées sur quatre trimestres ; non corrigées des variations saisonnières et des jours ouvrés ; normes BPM6).</p>",
+            "title": "<p>Engagements</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Secteur extérieur - Compte financier</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Investissements directs</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Investissements de portefeuille</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Autres investissements</p>"
+        }
+    }
+}

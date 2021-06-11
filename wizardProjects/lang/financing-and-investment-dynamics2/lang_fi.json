@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: lyhytaikaiset velkapaperit</p>\r\n<p>Hallussa pidetyt: %{sumOut} %{unit}</p>\r\n<p>Liikkeeseen lasketut: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Hallussa pitävä sektori: %{from}</p>\r\n<p>Hallussa: %{value} %{unit}</p>\r\n<p>Instrumentti: lyhytaikaiset velkapaperit</p>\r\n<p>Liikkeeseenlaskijasektori: %{to}</p>\r\n<p>Osuus kaikista hallussa pidetyistä: %{percentFrom}</p>\r\n<p>Osuus kaikista liikkeeseen lasketuista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hallussa pitävä sektori: %{from}; Liikkeeseenlaskijasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: pitkäaikaiset velkapaperit</p>\r\n<p>Hallussa pidetyt: %{sumOut} %{unit}</p>\r\n<p>Liikkeeseen lasketut: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Hallussa pitävä sektori: %{from}</p>\r\n<p>Hallussa: %{value} %{unit}</p>\r\n<p>Instrumentti: pitkäaikaiset velkapaperit</p>\r\n<p>Liikkeeseenlaskijasektori: %{to}</p>\r\n<p>Osuus kaikista hallussa pidetyistä: %{percentFrom}</p>\r\n<p>Osuus kaikista liikkeeseen lasketuista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hallussa pitävä sektori: %{from}; Liikkeeseenlaskijasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: lyhytaikaiset lainat</p>\r\n<p>Annetut lainat: %{sumOut} %{unit}</p>\r\n<p>Saadut lainat: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Lainanantajasektori: %{from}</p>\r\n<p>Annetut lainat: %{value} %{unit}</p>\r\n<p>Instrumentti: lyhytaikaiset lainat</p>\r\n<p>Lainansaajasektori: %{to}</p>\r\n<p>Osuus kaikista annetuista lainoista: %{percentFrom}</p>\r\n<p>Osuus kaikista saaduista lainoista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Lainanantajasektori: %{from}; Lainansaajasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: pitkäaikaiset lainat</p>\r\n<p>Annetut lainat: %{sumOut} %{unit}</p>\r\n<p>Saadut lainat: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Lainanantajasektori: %{from}</p>\r\n<p>Annetut lainat: %{value} %{unit}</p>\r\n<p>Instrumentti: pitkäaikaiset lainat</p>\r\n<p>Lainansaajasektori: %{to}</p>\r\n<p>Osuus kaikista annetuista lainoista: %{percentFrom}</p>\r\n<p>Osuus kaikista saaduista lainoista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Lainanantajasektori: %{from}; Lainansaajasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: talletukset</p>\r\n<p>Tehdyt talletukset: %{sumOut} %{unit}</p>\r\n<p>Saadut talletukset: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Tallettajasektori: %{from}</p>\r\n<p>Tehdyt talletukset: %{value}%{unit}</p>\r\n<p>Instrumentti: talletukset</p>\r\n<p>Talletusten saajasektori: %{to}</p>\r\n<p>Osuus kaikista tehdyistä talletuksista: %{percentFrom}</p>\r\n<p>Osuus kaikista saaduista talletuksista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Tallettajasektori: %{from}; Talletusten saajasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: noteeratut osakkeet</p>\r\n<p>Hallussa pidetyt: %{sumOut} %{unit}</p>\r\n<p>Liikkeeseen lasketut: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Hallussa pitävä sektori: %{from}</p>\r\n<p>Hallussa: %{value} %{unit}</p>\r\n<p>Instrumentti: noteeratut osakkeet</p>\r\n<p>Liikkeeseenlaskijasektori: %{to}</p>\r\n<p>Osuus kaikista hallussa pidetyistä: %{percentFrom}</p>\r\n<p>Osuus kaikista liikkeeseen lasketuista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hallussa pitävä sektori: %{from}; Liikkeeseenlaskijasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Sektori: %{name}       </p>\r\n<p>Instrumentti: sijoitusrahasto-osuudet</p>\r\n<p>Hallussa pidetyt: %{sumOut} %{unit}</p>\r\n<p>Liikkeeseen lasketut: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Tarkastelujakso: %{date}</p>\r\n<p>Hallussa pitävä sektori: %{from}</p>\r\n<p>Hallussa: %{value} %{unit}</p>\r\n<p>Instrumentti: sijoitusrahasto-osuudet</p>\r\n<p>Liikkeeseenlaskijasektori: %{to}</p>\r\n<p>Osuus kaikista hallussa pidetyistä: %{percentFrom}</p>\r\n<p>Osuus kaikista liikkeeseen lasketuista: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hallussa pitävä sektori: %{from}; Liikkeeseenlaskijasektori: %{to}</p>",
+                "incoming": "<p>Velat</p>",
+                "missing": {
+                    "incoming": "<p>- ei tietoja / ei sovellu yhteyteen</p>",
+                    "outgoing": "<p>- ei tietoja / ei sovellu yhteyteen</p>"
+                },
+                "outgoing": "<p>Saamiset</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorin sisällä</p>"
+            },
+            "title": "<p>Kanta</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Kaavion tiedot perustuvat sektoritileihin, jotka sisältävät kattavat neljännesvuosittaiset tiedot euroalueen institutionaalisista sektoreista. Kaaviosta käyvät ilmi eri sektoreiden sisäiset ja keskinäiset rahoitussuhteet sekä sektoreiden suhteet muuhun maailmaan. Rahoitussuhteet esitetään kantatietoina. Virtatiedot ovat saatavilla EKP:n julkisissa tietokannoissa. Rahoituksen myöntäjä- ja saajasektorien tarkastelu kertoo, miten eri sektorit rahoittavat toisiaan eri instrumenttien avulla, ja sektorin nimen alla olevista palkeista käyvät ilmi sektorin tarkasteltavaan instrumenttiin liittyvät saamiset ja velat. Kantatiedot voivat olla myös negatiivisia lyhyeksi myynnin vuoksi (tällöin myyjä myy arvopapereita tai muita rahoitusinstrumentteja, joita ei omista). Nuolet kertovat, mikä osa saamisista ja veloista liittyy mihinkin muuhun sektoriin. Sektorien sisäinen rahoitus on esitetty heti sektorin nimen alla.</p>\r\n<p>Tiedot pohjautuvat Euroopan kansantalouden tilinpitojärjestelmään (EKT 2010). Sektorit: yritykset, rahalaitokset, sijoitusrahastot (pl. rahamarkkinarahastot). muut rahoituslaitokset, vakuutuslaitokset, eläkerahastot, julkisyhteisöt, kotitaloudet, (ml. kotitalouksia palvelevat voittoa tavoittelemattomat yhteisöt), ulkomaat (euroalueella olevien ja euroalueen ulkopuolisten väliset rahoitussuhteet). Instrumentit: talletukset, lyhytaikaiset velkapaperit, pitkäaikaiset velkapaperit, lyhytaikaiset lainat, pitkäaikaiset lainat, noteeratut osakkeet, sijoitusrahastojen rahasto-osuudet. Tietoja ei ole konsolidoitu, eli mukana on myös sektorien sisäinen rahoitus (esim. lainat pankeilta toisille pankeille). Tasetiedot ovat vuosineljänneksen lopun tietoja, eikä niitä ole puhdistettu kausivaihtelun vaikutuksista eikä kalenterivaikutuksista. Luvut esitetään miljardeina euroina (teknisistä syistä englanniksi eli ”billion euros” tai ”bn EUR”). Lyhytaikaisina pidetään instrumentteja, joiden alkuperäinen maturiteetti on enintään vuoden, ja pitkäaikaisina instrumentteja, joiden alkuperäinen maturiteetti on yli vuoden tai joiden kohdalla ei ole ilmoitettu maturitettia. Tiedot on annettu euroalueen tasolla, ja ”-” tarkoittaa, että tietoja joko ei ole saatavilla tai tarkasteltavien sektorien välillä ei ole kyseisenlaista rahoitustoimintaa.   </p>\r\n<p>Kuviossa ei ole esitetty kaikkia rahoitussaamisia ja ‑velkoja. Esimerkiksi valuutat, noteeraamattomat osakkeet ja muut osuudet, vakuutukset, eläkejärjestelyt, rahoitusjohdannaiset sekä muiden saamisten ja velkojen luokkaan kuuluvat instrumentit on jätetty pois. Lisätietoja: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>EKP</p>"
+        },
+        "title": "<p>Rahoitus ja sijoitukset</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkerahastot</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Lyhytaikaiset velkapaperit</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Pitkäaikaiset velkapaperit</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Lyhytaikaiset lainat</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Pitkäaikaiset lainat</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Talletukset</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Noteeratut osakkeet</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>ulkomaat</p>",
+                "S11": "<p>yritykset</p>",
+                "S124": "<p>sijoitusrahastot</p>",
+                "S128": "<p>vakuutuslaitokset</p>",
+                "S129": "<p>eläkkeet</p>",
+                "S12K": "<p>pankit</p>",
+                "S12O": "<p>muut rahoituslaitokset</p>",
+                "S13": "<p>julkisyhteisöt</p>",
+                "S1M": "<p>kotitaloudet</p>",
+                "WLD": "<p>yhteensä</p>"
+            },
+            "title": "<p>Sijoitusrahastojen rahasto-osuudet</p>"
+        }
+    }
+}

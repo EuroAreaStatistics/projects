@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von bis zu 0,25 Mio €; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu drei Monaten (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kleine Kredite ≤ 0,25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von bis zu 1 Mio €; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kleine Kredite; x ≤ 1J</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von mehr als 1 Mio €; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Große Kredite; x ≤ 1J</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von bis zu 1 Mio € mit anfänglicher Zinsbindung von mehr als einem und bis zu fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kleine Kredite; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von mehr als 1 Mio € mit anfänglicher Zinsbindung von mehr als einem und bis zu fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Große Kredite; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von bis zu 1 Mio € mit anfänglicher Zinsbindung von mehr als fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kleine Kredite; x &gt; 5J</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende Kredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet von mehr als 1 Mio € mit anfänglicher Zinsbindung von mehr als fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Große Kredite; x &gt; 5J</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Konsumentenkredite an private Haushalte im Euro-Währungsgebiet; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Konsumentenkredite; x ≤ 1J</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Konsumentenkredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als einem und bis zu fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Konsumentenkredite; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Konsumentenkredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Konsumentenkredite; x &gt; 5J</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Zusammengesetzter Indikator der Kreditfinanzierungskosten privater Haushalte für Wohnungsbaukredite im Neugeschäft (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kreditkosten private Haushalte</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Wohnungsbaukredite; x ≤ 1J</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als einem und bis zu fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Wohnungsbaukredite; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als fünf und bis zu zehn Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Wohnungsbaukredite; 5J &lt; x ≤ 10J</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als zehn Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Wohnungsbaukredite; x &gt; 10J</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende sonstige Kredite an private Haushalte im Euro-Währungsgebiet; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Sonstige Kredite; x ≤ 1J</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Auf Euro lautende sonstige Kredite an private Haushalte im Euro-Währungsgebiet einschließlich Krediten an Einzelunternehmen und Personengesellschaften ohne Rechtspersönlichkeit; variabel verzinslich oder mit anfänglicher Zinsbindung von bis zu einem Jahr (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Sonstige Kredite; Einzelunternehmen; x ≤ 1J</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende sonstige Kredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als einem und bis zu fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Sonstige Kredite; 1J &lt; x ≤ 5J</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende sonstige Kredite an private Haushalte im Euro-Währungsgebiet mit anfänglicher Zinsbindung von mehr als fünf Jahren (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Sonstige Kredite; x &gt; 5J</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Zusammengesetzter Indikator der Kreditfinanzierungskosten nichtfinanzieller Kapitalgesellschaften für Kredite im Neugeschäft (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Kreditkosten Kapitalgesellschaften</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Zusammengesetzter Indikator der Kreditfinanzierungskosten privater Haushalte und nichtfinanzieller Kapitalgesellschaften für kurzfristige Kredite</p>",
+            "title": "<p>Kurzfristige Kreditkosten</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Zusammengesetzter Indikator der Kreditfinanzierungskosten privater Haushalte und nichtfinanzieller Kapitalgesellschaften für langfristige Kredite</p>",
+            "title": "<p>Langfristige Kreditkosten</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Auf Euro lautende revolvierende Kredite und Überziehungskredite sowie unechte und echte Kreditkartenkredite an nichtfinanzielle Kapitalgesellschaften im Euro-Währungsgebiet (in % p. a., Neugeschäft entspricht Beständen)</p>",
+            "title": "<p>Revolvierende Kredite und Überziehungskredite</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Auf Euro lautende revolvierende Kredite und Überziehungskredite sowie unechte und echte Kreditkartenkredite an private Haushalte im Euro-Währungsgebiet (in % p. a., Neugeschäft entspricht Beständen)</p>",
+            "title": "<p>Revolvierende Kredite und Überziehungskredite</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Auf Euro lautende Wohnungsbaukredite an private Haushalte im Euro-Währungsgebiet; variabel verzinslich oder anfängliche Zinsbindung insgesamt (in % p. a., Zinssätze im Neugeschäft)</p>",
+            "title": "<p>Wohnungsbaukredite; insgesamt</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankzinssätze - Kredite</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Private Haushalte</p>"
+        },
+        "2": {
+            "title": "<p>Kapitalgesellschaften</p>"
+        },
+        "3": {
+            "title": "<p>Zusammengesetzte Kreditkosten</p>"
+        }
+    }
+}

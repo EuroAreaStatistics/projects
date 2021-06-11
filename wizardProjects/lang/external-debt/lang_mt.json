@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Dejn estern gross (passiv tal-ekonomija totali <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Gross</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Dejn estern nett (passiv nieqes attiv, passiv nett tal-ekonomija totali <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Dejn estern gross bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv tal-ekonomija totali <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon gross</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Dejn estern nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv nieqes attiv, passiv nett tal-ekonomija totali <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Dejn estern gross (passiv tal-istituzzjonijiet finanzjarji monetarji <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Gross</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Dejn estern nett (passiv nieqes attiv, passiv nett tal-istituzzjonijiet finanzjarji monetarji <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Dejn estern gross bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv tal-istituzzjonijiet finanzjarji monetarji <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon gross</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Dejn estern nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv nieqes attiv, passiv nett tal-istituzzjonijiet finanzjarji monetarji <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Dejn estern gross (passiv tal-amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Gross</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Dejn estern nett (passiv nieqes attiv, passiv nett tal-amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Dejn estern gross bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv tal-amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon gross</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Dejn estern nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv nieqes attiv, passiv nett tal-amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Dejn estern gross (passiv ta’ setturi barra MFIs u amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Gross</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Dejn estern nett (passiv nieqes attiv, passiv nett ta’ setturi barra MFIs u amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Dejn estern gross bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv ta’ setturi barra MFIs u amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon gross</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Dejn estern nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (passiv nieqes attiv, passiv nett ta’ setturi barra MFIs u amministrazzjoni pubblika <em>vis-à-vis</em> mhux residenti; pożizzjoni fi tmiem it-trimestru; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settur estern - Dejn estern</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ekonomija totali</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Istituzzjonijiet finanzjarji monetarji (MFIs)</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Amministrazzjoni pubblika</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Setturi oħra</p>"
+        }
+    }
+}

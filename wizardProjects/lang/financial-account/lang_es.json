@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Saldo por cuenta financiera en porcentaje del PIB a precios de mercado (activos menos pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Saldo (en %)</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Cuenta financiera, activos en porcentaje del PIB a precios de mercado (activos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Ratio de activos</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Cuenta financiera, pasivos en porcentaje del PIB a precios de mercado (pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Ratio de pasivos</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo por cuenta financiera (activos menos pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Cuenta financiera, activos (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Cuenta financiera, pasivos (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Cuenta financiera, saldo de inversión directa (activos menos pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Cuenta financiera, activos de inversión directa (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Cuenta financiera, pasivos de inversión directa (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Cuenta financiera, saldo de inversión de cartera (activos menos pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Cuenta financiera, activos de inversión de cartera (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Cuenta financiera, pasivos de inversión de cartera (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Cuenta financiera, saldo de otra inversión (activos menos pasivos, transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Cuenta financiera, activos de otra inversión (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Cuenta financiera, pasivos de otra inversión (transacciones frente a no residentes, acumulado de cuatro trimestres, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Pasivos</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Sector exterior - Cuenta financiera</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Inversión directa</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Inversión de cartera</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Otra inversión</p>"
+        }
+    }
+}

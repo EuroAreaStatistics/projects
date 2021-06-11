@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Fondi tal-investiment - Obbligazzjonijiet",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stokks"
+        },
+        "2": {
+            "title": "Flussi"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Unitajiet ta' fondi tal-investiment",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: ishma/unitajiet f'fondi tal-investiment (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Self u depożiti riċevuti",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: self u depożiti riċevuti (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Obbligazzjonijiet oħra",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: obbligazzjonijiet oħra (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, assi/obbligazzjonijiet totali (ammonti pendenti fi tmiem il-perjodu, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Unitajiet ta' fondi tal-investiment",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: ishma/unitajiet f'fondi tal-investiment (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Self u depożiti riċevuti",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: self u depożiti riċevuti (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Obbligazzjonijiet oħra",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, klassi tal-obbligazzjonijiet: obbligazzjonijiet oħra (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondi tal-investiment li mhumiex fondi tas-suq monetarju, assi/obbligazzjonijiet totali (tranżazzjonijiet finanzjarji, maturità totali, muniti kollha flimkien, denominati fl-euro, mhux aġġustati għall-istaġun, dejta ta' kull tliet xhur)"
+        }
+    }
+}

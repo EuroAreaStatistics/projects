@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Papiery wartościowe - Dłużne papiery wartościowe",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Nowe emisje"
+        },
+        "3": {
+            "title": "Emisje netto"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banki, stany",
+            "definition": "Stany dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banki, stany; x ≤ 1 rok",
+            "definition": "Stany krótkoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banki, stany; x &gt; 1 rok",
+            "definition": "Stany długoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, stany",
+            "definition": "Stany dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, stany; x ≤ 1 rok",
+            "definition": "Stany krótkoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, stany; x &gt; 1 rok",
+            "definition": "Stany długoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., stany",
+            "definition": "Stany dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., stany; x ≤ 1 rok",
+            "definition": "Stany krótkoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., stany; x &gt; 1 rok",
+            "definition": "Stany długoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, stany",
+            "definition": "Stany dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, stany; x ≤ 1 rok",
+            "definition": "Stany krótkoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, stany; x &gt; 1 rok",
+            "definition": "Stany długoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Ogółem, stany",
+            "definition": "Łączne stany dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Ogółem, stany; x ≤ 1 rok",
+            "definition": "Łączne stany krótkoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Ogółem, stany; x &gt; 1 rok",
+            "definition": "Łączne stany długoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banki, nowe",
+            "definition": "Emisje brutto dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banki, nowe; x ≤ 1 rok",
+            "definition": "Emisje brutto krótkoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banki, nowe; x &gt; 1 rok",
+            "definition": "Emisje brutto długoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, nowe",
+            "definition": "Emisje brutto dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, nowe; x ≤ 1 rok",
+            "definition": "Emisje brutto krótkoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, nowe; x &gt; 1 rok",
+            "definition": "Emisje brutto długoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., nowe",
+            "definition": "Emisje brutto dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., nowe; x ≤ 1 rok",
+            "definition": "Emisje brutto krótkoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., nowe; x &gt; 1 rok",
+            "definition": "Emisje brutto długoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, nowe",
+            "definition": "Emisje brutto dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, nowe; x ≤ 1 rok",
+            "definition": "Emisje brutto krótkoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, nowe; x &gt; 1 rok",
+            "definition": "Emisje brutto długoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Ogółem, nowe",
+            "definition": "Łączne emisje brutto dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Ogółem, nowe; x &gt; 1 rok",
+            "definition": "Łączne emisje brutto długoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Ogółem, nowe; x ≤ 1 rok",
+            "definition": "Łączne emisje brutto krótkoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banki, netto",
+            "definition": "Emisje netto dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banki, netto; x ≤ 1 rok",
+            "definition": "Emisje netto krótkoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banki, netto; x &gt; 1 rok",
+            "definition": "Emisje netto długoterminowych dłużnych papierów wartościowych monetarnych instytucji finansowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, netto",
+            "definition": "Emisje netto dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, netto; x ≤ 1 rok",
+            "definition": "Emisje netto krótkoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Przedsiębiorstwa, netto; x &gt; 1 rok",
+            "definition": "Emisje netto długoterminowych dłużnych papierów wartościowych przedsiębiorstw (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., netto",
+            "definition": "Emisje netto dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., netto; x ≤ 1 rok",
+            "definition": "Emisje netto krótkoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Inst. rządowe i samorząd., netto; x &gt; 1 rok",
+            "definition": "Emisje netto długoterminowych dłużnych papierów wartościowych instytucji rządowych i samorządowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, netto",
+            "definition": "Emisje netto dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, netto; x ≤ 1 rok",
+            "definition": "Emisje netto krótkoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Inst. finans. bez MIF, netto; x &gt; 1 rok",
+            "definition": "Emisje netto długoterminowych dłużnych papierów wartościowych instytucji finansowych innych niż monetarne (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Ogółem, netto",
+            "definition": "Łączne emisje netto dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Ogółem, netto; x ≤ 1 rok",
+            "definition": "Łączne emisje netto krótkoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Ogółem, netto; x &gt; 1 rok",
+            "definition": "Łączne emisje netto długoterminowych dłużnych papierów wartościowych (wartość nominalna, wszystkie waluty, wyrażone w euro, wyemitowane przez rezydentów)"
+        }
+    }
+}

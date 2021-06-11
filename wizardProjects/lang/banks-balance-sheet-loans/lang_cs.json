@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry ostatním finančním zprostředkovatelům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Ostatní finanční instituce celkem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry pojišťovnám a penzijním fondům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Pojištění a penze celkem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry nefinančním podnikům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Podniky celkem</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Domácnosti celkem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry ostatním finančním zprostředkovatelům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Ostatní finanční instituce celkem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry pojišťovnám a penzijním fondům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Pojištění a penze celkem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry nefinančním podnikům v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Podniky celkem</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Domácnosti celkem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů ostatním finančním zprostředkovatelům v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Ostatní finanční instituce celkem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů pojišťovnám a penzijním fondům v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Pojištění a penze celkem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů nefinančním podnikům v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Podniky celkem</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů domácnostem v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Domácnosti celkem</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností do jednoho roku (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Podniky; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností do jednoho roku (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Podniky; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu úvěrů nefinančním podnikům v eurozóně se splatností do jednoho roku (všechny měny, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Podniky; x ≤ 1Y</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností od jednoho roku do pěti let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Podniky; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností od jednoho roku do pěti let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Podniky; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu úvěrů nefinančním podnikům v eurozóně se splatností od jednoho roku do pěti let (všechny měny, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Podniky; 1 Y &lt; x ≤ 5Y</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností od pěti let (všechny měny, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Podniky; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry nefinančním podnikům v eurozóně se splatností od pěti let (všechny měny, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Podniky; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu úvěrů nefinančním podnikům v eurozóně se splatností od pěti let (všechny měny, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Podniky; x &gt; 5Y</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry nefinančním podnikům v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Podniky celkem (upraveno)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry domácnostem v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Domácnosti celkem (upraveno)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry nefinančním podnikům v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Podniky celkem (upraveno)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, celkové úvěry domácnostem v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Domácnosti celkem (upraveno)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů nefinančním podnikům v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Podniky celkem (upraveno)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu celkových úvěrů domácnostem v eurozóně upravené o prodej úvěrů, sekuritizaci a fiktivní cash pooling (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny). Úvěry upravené o prodej a sekuritizaci zahrnují úvěry, které byly prodány nebo sekuritizovány a nejsou již dále vykazovány v rozvahách bank.</p>",
+            "title": "<p>Domácnosti celkem (upraveno)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, spotřebitelské úvěry domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Domácnosti, spotřeba</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, spotřebitelské úvěry domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Domácnosti, spotřeba</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu spotřebitelských úvěrů domácnostem v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Domácnosti, spotřeba</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry na bydlení domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Domácnosti, úvěry na bydlení</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry na bydlení domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Domácnosti, úvěry na bydlení</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu úvěrů na bydlení domácnostem v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Domácnosti, úvěry na bydlení</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry na další potřeby domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, zůstatky na konci období)</p>",
+            "title": "<p>Domácnosti, ostatní úvěry</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, úvěry na další potřeby domácnostem v eurozóně (všechny měny, všechny splatnosti, denominované v eurech, bez sezonního očištění, finanční transakce)</p>",
+            "title": "<p>Domácnosti, ostatní úvěry</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, tempo růstu úvěrů na další potřeby domácnostem v eurozóně (všechny měny, všechny splatnosti, bez sezonního očištění, roční procentní změny)</p>",
+            "title": "<p>Domácnosti, ostatní úvěry</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Rozvahová statistika měnových finančních institucí, poměr celkových úvěrů k celkovým vkladům u nefinančních podniků a domácností v eurozóně a nefinančních podniků, domácností a nebankovních finančních institucí mimo eurozónu (bez vládních institucí, všechny měny, všechny splatnosti, bez sezonního očištění, v procentech, čtvrtletně)</p>",
+            "title": "<p>Poměr úvěrů k vkladům</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankovní rozvaha - Úvěry</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Stav</p>"
+        },
+        "2": {
+            "title": "<p>Toky</p>"
+        },
+        "3": {
+            "title": "<p>Tempa růstu</p>"
+        },
+        "4": {
+            "title": "<p>Poměr úvěrů k vkladům</p>"
+        }
+    }
+}

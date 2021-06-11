@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Netto investiční pozice vůči zahraničí (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Aktiva investiční pozice vůči zahraničí (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Pasiva investiční pozice vůči zahraničí (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Netto investiční pozice vůči zahraničí jako procento hrubého domácího produktu (HDP) v tržních cenách (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Aktiva investiční pozice vůči zahraničí jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Pasiva investiční pozice vůči zahraničí jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr pasiv</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto přímé investice (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva přímých investic (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva přímých investic (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Závazky</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto přímé investice jako procento hrubého domácího produktu (HDP) v tržních cenách (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva přímých investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva přímých investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr pasiv</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto portfoliové investice (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva portfoliových investiv, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva portfoliových investic (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto portfoliové investice jako procento hrubého domácího produktu (HDP) v tržních cenách (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva portfoliových investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva portfoliových investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr pasiv</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto ostatní investice (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva ostatních investic (pozice na konci čtvrtletí nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva ostatních investic (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Investiční pozice vůči zahraničí, netto ostatní investice jako procento hrubého domácího produktu (HDP) v tržních cenách (aktiva minus pasiva, pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Netto poměr</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Investiční pozice vůči zahraničí, aktiva ostatních investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Investiční pozice vůči zahraničí, pasiva ostatních investic jako procento hrubého domácího produktu (HDP) v tržních cenách (pozice na konci čtvrtletí vůči nerezidentům, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr pasiv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externí sektor - Investiční pozice vůči zahraničí</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Celkem</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Přímé investice</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfoliové investice</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Ostatní investice</p>"
+        }
+    }
+}

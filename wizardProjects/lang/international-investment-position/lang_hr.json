@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Neto stanje međunarodnih ulaganja (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Imovina na osnovi stanja međunarodnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Obveze na osnovi stanja međunarodnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Neto stanje međunarodnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Imovina na osnovi stanja međunarodnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Obveze na osnovi stanja međunarodnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer obveza</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Neto međunarodna ulaganja, neto izravna ulaganja (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi izravnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi izravnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Stanje međunarodnih ulaganja, neto izravna ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi izravnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi izravnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer obveza</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Stanje međunarodnih ulaganja, neto portfeljna ulaganja (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi portfeljnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi portfeljnih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Stanje međunarodnih ulaganja, neto portfeljna ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi portfeljnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi portfeljnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer obveza</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Stanje međunarodnih ulaganja, neto ostala ulaganja (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi ostalih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi ostalih ulaganja (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Obveze</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Stanje međunarodnih ulaganja, neto ostala ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (imovina umanjena za obveze, stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Neto omjer</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Stanje međunarodnih ulaganja, imovina na osnovi ostalih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Stanje međunarodnih ulaganja, obveze na osnovi ostalih ulaganja kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer obveza</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Vanjski sektor - stanje međunarodnih ulaganja</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ukupno</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Izravna ulaganja</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfeljna ulaganja</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Ostala ulaganja</p>"
+        }
+    }
+}

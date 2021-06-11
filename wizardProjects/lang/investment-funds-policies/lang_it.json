@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fondi di investimento - Per strategia di investimento",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Flussi"
+        },
+        "3": {
+            "title": "Tassi di crescita"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi obbligazionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi obbligazionari (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi azionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi azionari (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi misti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi misti (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fondi immobiliari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi immobiliari (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Hedge fund",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: hedge fund (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Altri fondi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: altri fondi (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi obbligazionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi obbligazionari (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi azionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi azionari (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi misti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi misti (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fondi immobiliari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi immobiliari (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Hedge fund",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: hedge fund (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Altri fondi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: altri fondi (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati mensili non destagionalizzati)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi obbligazionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi obbligazionari (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi azionari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi azionari (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi misti",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi misti (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fondi immobiliari",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: fondi immobiliari (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Hedge fund",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: hedge fund (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Altri fondi",
+            "definition": "Quote/partecipazioni emesse da fondi di investimento diversi dai fondi comuni monetari, scomposizione per strategia di investimento: altri fondi (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, quote/partecipazioni in fondi di investimento (tasso di crescita sui dodici mesi, tutte le scadenze, tutte le valute, variazioni percentuali sui dodici mesi, dati mensili non destagionalizzati)"
+        }
+    }
+}

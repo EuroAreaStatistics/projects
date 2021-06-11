@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais ≤ 0,25 mln. EUR; kintamoji palūkanų norma arba ne ilgesnio kaip 3 mėn. pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Nedidelės paskolos ≤ 0,25; x ≤ 3 mėn.</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &lt; 1 mln. EUR; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Nedidelės paskolos; x ≤ 1 m.</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &gt; 1 mln. EUR; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Didelės paskolos; x ≤ 1 m.</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &lt; 1 mln. EUR; ilgesnio kaip 1 metų, bet ne ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Nedidelės paskolos; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &gt; 1 mln. EUR; ilgesnio kaip 1 metų, bet ne ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Didelės paskolos; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &lt; 1 mln. EUR; ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Nedidelės paskolos; x &gt; 5 m.</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Paskolos eurais &gt; 1 mln. EUR; ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Didelės paskolos; x &gt; 5 m.</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Vartojimo paskolos eurais; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Vartojimo paskolos; x ≤ 1 m.</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Vartojimo paskolos eurais; ilgesnio kaip 1 metų, bet ne ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Vartojimo paskolos; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Vartojimo paskolos eurais; ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Vartojimo paskolos; x &gt; 5 m.</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Namų ūkių naujų paskolų būstui įsigyti sudėtinis skolinimosi kainos rodiklis (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Namų ūkių skolinimosi kaina</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Paskolos būstui įsigyti eurais; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Paskolos būstui įsigyti; x ≤ 1 m.</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Paskolos būstui įsigyti eurais; ilgesnio kaip 1 metų, bet ne ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Paskolos būstui įsigyti; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Paskolos būstui įsigyti eurais; ilgesnio kaip 5 metų, bet ne ilgesnio kaip 10 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Paskolos būstui įsigyti; 5 m. &lt; x ≤ 10 m.</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Paskolos būstui įsigyti eurais; ilgesnio kaip 10 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Paskolos būstui įsigyti; x &gt; 10 m.</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Kitos paskolos eurais; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Kitos paskolos; x ≤ 1 m.</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Kitos paskolos, įskaitant paskolas individ. komerc. veikla užsiimantiems asmenims ir jungtinės veiklos sutarties pagrindu veikiantiems asmenims, eurais; kintamoji palūkanų norma arba ne ilgesnio kaip 1 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Kitos paskolos; individ. komerc. veiklai; x ≤ 1 m.</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Kitos paskolos eurais; ilgesnio kaip 1 metų, bet ne ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Kitos paskolos; 1 m. &lt; x ≤ 5 m.</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Kitos paskolos eurais; ilgesnio kaip 5 metų pradinio palūkanų normos fiksavimo laikotarpio, euro zonos namų ūkiams (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Kitos paskolos; x &gt; 5 m.</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Naujų paskolų būstui įsigyti ne finansų bendrovėms sudėtinis skolinimosi kainos rodiklis (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Įmonių skolinimosi kaina</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Trumpalaikių paskolų namų ūkiams ir ne finansų bendrovėms sudėtinis skolinimosi kainos rodiklis</p>",
+            "title": "<p>Trumpalaikė skolinimosi kaina</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Ilgalaikių paskolų namų ūkiams ir ne finansų bendrovėms sudėtinis skolinimosi kainos rodiklis</p>",
+            "title": "<p>Ilgalaikė skolinimosi kaina</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Atnaujinamosios paskolos ir sąskaitų kreditavimas, patogumo ir išplėstinis kreditas eurais, euro zonos ne finansų bendrovėms (metinė norma, %, naujų paskolų sumos sutampa su šios kategorijos paskolų likučiais)</p>",
+            "title": "<p>Atnaujinamosios paskolos ir sąskaitų kreditavimas</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Atnaujinamosios paskolos ir sąskaitų kreditavimas, patogumo ir išplėstinis kreditas eurais, euro zonos namų ūkiams (metinė norma, %, naujų paskolų sumos sutampa su šios kategorijos paskolų likučiais)</p>",
+            "title": "<p>Atnaujinamosios paskolos ir sąskaitų kreditavimas</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Paskolos eurais būstui įsigyti; kintamoji palūkanų norma arba pradinis palūkanų normos fiksavimas euro zonos namų ūkiams, iš viso (metinė norma, %, naujų paskolų palūkanų normos)</p>",
+            "title": "<p>Paskolos būstui įsigyti, iš viso</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bankų palūkanų normos - Paskolos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Namų ūkiai</p>"
+        },
+        "2": {
+            "title": "<p>Įmonės</p>"
+        },
+        "3": {
+            "title": "<p>Sudėtinė skolinimosi kaina</p>"
+        }
+    }
+}

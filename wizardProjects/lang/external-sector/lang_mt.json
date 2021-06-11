@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Kont kurrenti, prodotti, bilanċ (esportazzjoni mingħajr importazzjoni, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Kont kurrenti, prodotti, esportazzjoni (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Esportazzjoni</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Kont kurrenti, prodotti, importazzjoni (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Importazzjoni</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Kont kurrenti, servizzi, bilanċ (esportazzjoni mingħajr importazzjoni, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Kont kurrenti, servizzi, esportazzjoni (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Esportazzjoni</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Kont kurrenti, servizzi, importazzjoni (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri kumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Importazzjoni</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Bilanċ tal-kont kurrenti bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (krediti nieqes debiti, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-bilanċ</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Debiti tal-kont kurrenti bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tad-debiti</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Bilanċ tal-kont kurrenti (krediti nieqes debiti, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Krediti tal-kont kurrenti (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Krediti</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Debiti tal-kont kurrenti (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Krediti tal-kont kurrenti bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-krediti</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Kont kurrenti, prodotti u servizzi, bilanċ (esportazzjoni mingħajr importazzjoni, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Kont kurrenti, prodotti u servizzi, esportazzjoni (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Esportazzjoni</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Kont kurrenti,prodotti u servizzi, importazzjoni (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Importazzjoni</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Kont kurrenti, bilanċ tad-dħul primarju (krediti nieqes debiti, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Kont kurrenti, krediti tad-dħul primarju (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Krediti</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Kont kurrenti, debiti tad-dħul primarju (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Kont kurrenti, bilanċ tad-dħul sekondarju (krediti nieqes debiti, tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Bilanċ</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Kont kurrenti, krediti tad-dħul sekondarju (tranżazzjonijiet <em>vis-à-vis</em> mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Krediti</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Kont kurrenti, debiti tad-dħul sekondarju (tranżazzjonijiet vis-à-vis mhux residenti; erba’ trimestri akkumulati; mhux aġġustati għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Debiti</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Settur estern - Kont kurrenti</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": ""
+        },
+        "t1571672318658": {
+            "title": ""
+        },
+        "1449847839830": {
+            "title": "<p>Total</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Prodotti u servizzi</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Dħul primarju</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Dħul sekondarju</p>"
+        }
+    }
+}

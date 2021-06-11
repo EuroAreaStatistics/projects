@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Bilan des banques - Dépôts",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Flux"
+        },
+        "3": {
+            "title": "Taux de croissance"
+        },
+        "4": {
+            "title": "Ratio prêts/dépôts"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Ménages, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Ménages, jour le jour",
+            "definition": "Statistiques de bilan des IFM, dépôts à vue des ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Ménages, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée inférieure ou égale à 2 ans des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Ménages, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée supérieure à 2 ans des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Ménages, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, dépôts remboursables avec un préavis inférieur ou égal à trois mois des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Entreprises, total",
+            "definition": "Statistiques de bilan des IFM, dépôts à vue des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Entreprises, jour le jour",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Entreprises, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée inférieure ou égale à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Entreprises, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée supérieure à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Entreprises, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, dépôts remboursables avec un préavis inférieur ou égal à trois mois des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Ass. et retraites, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des sociétés d'assurance et des fonds de pension de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Autres inst. financières, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, encours en fin de période)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Ménages, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Ménages, jour le jour",
+            "definition": "Statistiques de bilan des IFM, dépôts à vue des ménages de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Ménages, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée inférieure ou égale à 2 ans des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Ménages, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée supérieure à 2 ans des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Ménages, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, dépôts remboursables avec un préavis inférieur ou égal à trois mois des ménages de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Entreprises, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Entreprises, jour le jour",
+            "definition": "Statistiques de bilan des IFM, dépôts à vue des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Entreprises, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée inférieure ou égale à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Entreprises, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, dépôts à terme d’une durée supérieure à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Entreprises, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, dépôts remboursables avec un préavis inférieur ou égal à trois mois des sociétés non financières de la zone euro (toutes devises combinées, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Ass. et retraites, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des sociétés d'assurance et des fonds de pension de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Autres inst. financières, total",
+            "definition": "Statistiques de bilan des IFM, dépôts totaux des autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, libellés en euros, non corrigés des variations saisonnières, transactions financières)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Ménages, total",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts totaux des ménages de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Ménages, jour le jour",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à vue des ménages de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Ménages, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à terme d’une durée inférieure ou égale à 2 ans des ménages de la zone euro (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Ménages, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à terme d’une durée supérieure à 2 ans des ménages de la zone euro (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Ménages, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts remboursables avec un préavis inférieur ou égal à trois mois des ménages de la zone euro (toutes devises combinées, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Entreprises, total",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts totaux des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Entreprises, jour le jour",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à vue des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Entreprises, durée initiale ≤ 2 ans",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à terme d’une durée inférieure ou égale à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Entreprises, durée initiale &gt; 2 ans",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts à terme d’une durée supérieure à 2 ans des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Entreprises, remb. av. préavis : x ≤ 3M",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts remboursables avec un préavis inférieur ou égal à trois mois des sociétés non financières de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Ass. et retraites, total",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts totaux des sociétés d'assurance et des fonds de pension de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Autres inst. financières, total",
+            "definition": "Statistiques de bilan des IFM, taux de croissance des dépôts totaux des autres intermédiaires financiers de la zone euro (toutes devises combinées, toutes échéances, non corrigés des variations saisonnières, variations annuelles en pourcentage)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Ratio prêts/dépôts",
+            "definition": "Statistiques de bilan des IFM, ratio entre prêts totaux et dépôts totaux vis-à-vis des sociétés non financières et des ménages de la zone euro et des sociétés non financières, des ménages et des établissements financiers non bancaires hors zone euro (hors administrations publiques, toutes devises combinées, toutes échéances, non corrigé des variations saisonnières, en pourcentage, données trimestrielles)"
+        }
+    }
+}

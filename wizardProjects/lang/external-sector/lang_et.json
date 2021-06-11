@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Jooksevkonto, kaubad, saldo (eksport miinus import, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Jooksevkonto, kaubad, eksport (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Jooksevkonto, kaubad, import (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Jooksevkonto, teenused, saldo (eksport miinus import, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Jooksevkonto, teenused, eksport (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Jooksevkonto, teenused, import (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Import</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Jooksevkonto saldo osakaal kogu SKPst turuhindades (kreedit miinus deebet, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Eelarvetasakaalu suhtarv</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Jooksevkonto deebeti osakaal kogu SKPst turuhindades (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Deebeti suhtarv</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Jooksevkonto saldo (kreedit miinus deebet, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Jooksevkonto kreedit (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kreedit</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Jooksevkonto deebet (tehingud mitteresidentide suhtes, eurodes nomineeritud, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Deebet</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Jooksevkonto kreediti osakaal kogu SKPst turuhindades (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kreediti suhtarv</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Jooksevkonto, kaubad ja teenused, saldo (eksport miinus import, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Jooksevkonto, kaubad ja teenused, eksport (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Jooksevkonto, kaubad ja teenused, import (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Import</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Jooksevkonto, esmaste tulude saldo (kreedit miinus deebet, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Jooksevkonto, esmaste tulude kreedit (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kreedit</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Jooksevkonto, esmaste tulude deebet (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Deebet</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Jooksevkonto, teiseste tulude saldo (kreedit miinus deebet, tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Jooksevkonto, teiseste tulude kreedit (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kreedit</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Jooksevkonto, teiseste tulude deebet (tehingud mitteresidentide suhtes, nelja kvartali kumulatiivne summa, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Deebet</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Välissektor - Jooksevkonto</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Kaubad</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Teenused</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Kokku</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Kaubad ja teenused</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Esmased tulud</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Teisesed tulud</p>"
+        }
+    }
+}

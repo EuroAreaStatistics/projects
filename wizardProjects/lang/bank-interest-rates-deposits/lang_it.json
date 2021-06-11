@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Tassi di interesse bancari - Depositi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Famiglie"
+        },
+        "2": {
+            "title": "Società"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Tassi di interesse overnight",
+            "definition": "Depositi overnight denominati in euro detenuti dalle famiglie dell’area dell’euro (percentuali annue, i nuovi depositi coincidono con le consistenze in essere)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Depositi, durata prestabilita; x ≤ 1A",
+            "definition": "Depositi denominati in euro con durata prestabilita fino a un anno detenuti dalle famiglie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Depositi, durata prestabilita; x &gt; 1A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a un anno detenuti dalle famiglie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Depositi, durata prestabilita; 1A &lt; x ≤ 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a un anno e fino a due anni detenuti dalle famiglie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Depositi, durata prestabilita; x ≤ 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita fino a due anni detenuti dalle famiglie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Depositi, durata prestabilita; x &gt; 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a due anni detenuti dalle famiglie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Depositi con preavviso; x ≤ 3M",
+            "definition": "Depositi denominati in euro rimborsabili con preavviso fino a tre mesi detenuti dalle famiglie dell’area dell’euro (percentuali annue, i nuovi depositi coincidono con le consistenze in essere)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "PcT",
+            "definition": "Pronti contro termine denominati in euro delle famiglie e delle società non finanziarie dell’area dell’euro (percentuali annue, tassi sulle nuove operazioni)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Tassi di interesse overnight",
+            "definition": "Depositi overnight denominati in euro detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, i nuovi depositi coincidono con le consistenze in essere)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Depositi, durata prestabilita; x ≤ 1A",
+            "definition": "Depositi denominati in euro con durata prestabilita fino a un anno detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Depositi, durata prestabilita; x &gt; 1A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a un anno detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Depositi, durata prestabilita; 1A &lt; x ≤ 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a un anno e fino a due anni detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Depositi, durata prestabilita; x ≤ 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita fino a due anni detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Depositi, durata prestabilita; x &gt; 2A",
+            "definition": "Depositi denominati in euro con durata prestabilita superiore a due anni detenuti dalle società non finanziarie dell’area dell’euro (percentuali annue, tassi sui nuovi depositi)"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "OPCVM - Selon la politique d'investissement",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Flux"
+        },
+        "3": {
+            "title": "Taux de croissance"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds obligataires",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds obligataires (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds en actions",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds en actions (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds mixtes",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds mixtes (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds immobiliers",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds immobiliers (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fonds spéculatifs",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds spéculatifs (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Autres fonds",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : autres fonds (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (encours en fin de période, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds obligataires",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds obligataires (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds en actions",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds en actions (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds mixtes",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds mixtes (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds immobiliers",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds immobiliers (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fonds spéculatifs",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds spéculatifs (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Autres fonds",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : autres fonds (transactions financières, durée totale, toutes devises confondues, libellés en euros, non corrigés des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (transactions financières, durée totale, toutes devises confondues, libellées en euros, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds obligataires",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds obligataires (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds en actions",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds en actions (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds mixtes",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds mixtes (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds immobiliers",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds immobiliers (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fonds spéculatifs",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : fonds spéculatifs (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Autres fonds",
+            "definition": "Parts d'OPCVM émises par des OPCVM non monétaires, réparties selon la politique d'investissement : autres fonds (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Total",
+            "definition": "OPCVM non monétaires : parts d'OPCVM (taux de croissance annuel, durée totale, toutes devises confondues, variations annuelles en pourcentage, non corrigées des variations saisonnières, données mensuelles)"
+        }
+    }
+}

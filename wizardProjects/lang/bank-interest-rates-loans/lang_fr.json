@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant inférieur ou égal à 0,25 million d'euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à trois mois pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts de faible montant (≤ 0,25) : x ≤ 3 mois</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant inférieur ou égal à 1 million d'euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts de faible montant : x ≤ 1 an</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant supérieur à 1 million d'euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts importants : x ≤ 1 an</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant inférieur ou égal à 1 million d'euros ; période de fixation initiale du taux supérieure à un an et inférieure ou égale à cinq ans pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts de faible montant : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant supérieur à 1 million d'euros ; période de fixation initiale du taux supérieure à un an et inférieure ou égale à cinq ans pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts importants : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant inférieur ou égal à 1 million d'euros ; période de fixation initiale du taux supérieure à cinq ans pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts de faible montant : x &gt; 5 ans</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Prêts libellés en euros d'un montant supérieur à 1 million d'euros ; période de fixation initiale du taux supérieure à cinq ans pour les sociétés non financières de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêts importants : x &gt; 5 ans</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à la consommation libellés en euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt à la consommation : x ≤ 1 an</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à la consommation libellés en euros ; période de fixation initiale du taux supérieure à un an et inférieure ou égale à cinq ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt à la consommation : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à la consommation libellés en euros ; période de fixation initiale du taux supérieure à cinq ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt à la consommation : x &gt; 5 ans</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicateur composite du coût de l'emprunt pour les nouveaux prêts au logement consentis aux ménages (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Coût de l'emprunt des ménages</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts au logement libellés en euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt au logement :  x ≤ 1 an</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts au logement libellés en euros ; période de fixation initiale du taux supérieure à un an et inférieure ou égale à cinq ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt au logement : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts au logement libellés en euros ; période de fixation initiale du taux supérieure à cinq ans et inférieure ou égale à dix ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt au logement : 5 ans &lt; x ≤ 10 ans</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts au logement libellés en euros ; période de fixation initiale du taux supérieure à dix ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Prêt au logement : x &gt; 10 ans</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à d'autres fins libellés en euros ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Autres prêts : x ≤ 1 an</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Prêts à d'autres fins libellés en euros, y compris les prêts aux entrepreneurs individuels et aux sociétés de personnes ; taux variable ou période de fixation initiale du taux inférieure ou égale à un an pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Autres prêts, entrepreneurs individuels : x ≤ 1 an</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à d'autres fins libellés en euros ; période de fixation initiale du taux supérieure à un an et inférieure ou égale à cinq ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Autres prêts : 1 an &lt; x ≤ 5 ans</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Prêts à d'autres fins libellés en euros ; période de fixation initiale du taux supérieure à cinq ans pour les ménages de la zone euro (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Autres prêts : x &gt; 5 ans</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicateur composite du coût de l'emprunt pour les nouveaux prêts aux sociétés non financières (en pourcentages annuels, taux des contrats nouveaux)</p>",
+            "title": "<p>Coût de l'emprunt des entreprises</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicateur composite du coût de l'emprunt pour les prêts à court terme aux ménages et aux sociétés non financières</p>",
+            "title": "<p>Coût à court terme de l'emprunt</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicateur composite du coût de l'emprunt pour les prêts à long terme aux ménages et aux sociétés non financières</p>",
+            "title": "<p>Coût à long terme de l'emprunt</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Crédits renouvelables et découverts, crédits de commodité et prorogations de crédits consentis aux sociétés non financières de la zone euro, libellés en euros (en pourcentages annuels, les contrats nouveaux et les encours correspondent)</p>",
+            "title": "<p>Crédits renouvelables et découverts</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Crédits renouvelables et découverts, crédits de commodité et prorogations de crédits consentis aux ménages de la zone euro, libellés en euros (en pourcentages annuels, les contrats nouveaux et les encours correspondent)</p>",
+            "title": "<p>Crédits renouvelables et découverts</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Prêts au logement libellés en euros ; taux variable total ou fixation initiale du taux pour les ménages de la zone euro (en pourcentages annuels, taux des prêts nouveaux)</p>",
+            "title": "<p>Prêt au logement, total</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Taux d'intérêt bancaires - Prêts</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ménages</p>"
+        },
+        "2": {
+            "title": "<p>Entreprises</p>"
+        },
+        "3": {
+            "title": "<p>Coût composite de l'emprunt</p>"
+        }
+    }
+}

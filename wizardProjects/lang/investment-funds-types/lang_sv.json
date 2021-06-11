@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investeringsfonder - Per typ av fond",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställning"
+        },
+        "2": {
+            "title": "Flöden"
+        },
+        "3": {
+            "title": "Tillväxttakter"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Öppna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: öppna fonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Slutna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: slutna fonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Öppna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: öppna fonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Slutna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: slutna fonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Öppna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: öppna fonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Slutna fonder",
+            "definition": "Andelar i investeringsfonder utgivna av investeringsfonder andra än penningmarknadsfonder, fördelade per typ av fond: slutna fonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, andelar i investeringsfonder (årlig tillväxttakt, total löptid, alla valutor sammanlagt, årliga procentuella förändringar, ej säsongsrensat, månadsuppgifter)"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, legfeljebb 0,25 millió € összegű hitelek változó kamatozással vagy legfeljebb három hónapra rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Kis összegű hitelek ≤ 0,25; x ≤ 3H</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, legfeljebb 1 millió € összegű hitelek változó kamatozással vagy legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Kis összegű hitelek; x ≤ 1É</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, 1 millió €-nál nagyobb összegű hitelek változó kamatozással vagy legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Nagy összegű hitelek; x ≤ 1É</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, legfeljebb 1 millió € összegű hitelek egy évnél hosszabb, de legfeljebb öt éves időtartamra rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Kis összegű hitelek; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, 1 millió €-nál nagyobb összegű hitelek egy évnél hosszabb időre, de legfeljebb öt évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Nagy összegű hitelek; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak kihelyezett, euróban denominált, legfeljebb 1 millió € összegű hitelek öt évnél hosszabb időtartamra rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Kis összegű hitelek; x &gt; 5É</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált, 1 millió €-nál nagyobb összegű hitelek öt évnél hosszabb időre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Nagy összegű hitelek; x &gt; 5É</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált fogyasztási hitelek változó kamatozással vagy eredetileg legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Fogyasztási hitel; x ≤ 1É</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált fogyasztási hitelek egy évnél hosszabb, de legfeljebb öt éves időtartamra rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Fogyasztási hitel; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált fogyasztási hitelek öt évnél hosszabb időre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Fogyasztási hitel; x &gt; 5É</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Háztartásoknak kihelyezett új lakáshitelek összesített hitelköltség-mutatója (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Háztartások hitelköltsége</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak kihelyezett, euróban denominált lakáshitelek változó kamatozással vagy legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Lakáshitel; x ≤ 1É</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált lakáshitelek egy évnél hosszabb időre, de legfeljebb öt évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Lakáshitel; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált lakáshitelek öt évnél hosszabb időre, de legfeljebb tíz évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Lakáshitel; 5É &lt; x ≤ 10É</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált lakáshitelek tíz évnél hosszabb időtartamra rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Lakáshitel; x &gt; 10É</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak kihelyezett, euróban denominált egyéb hitelek változó kamatozással vagy legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Egyéb hitel; x ≤ 1É</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak kihelyezett, euróban denominált egyéb hitelek – beleértve az egyéni vállalkozóknak és betéti társaságoknak nyújtott hiteleket –, változó kamatozással vagy legfeljebb egy évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Egyéb hitel; vállalkozók; x ≤ 1É</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak kihelyezett, euróban denominált egyéb hitelek egy évnél hosszabb időre, de legfeljebb öt évre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Egyéb hitel; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak kihelyezett, euróban denominált egyéb hitelek öt évnél hosszabb időre rögzített kamattal (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Egyéb hitel; x &gt; 5É</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Nem pénzügyi vállalatoknak kihelyezett új hitelek összesített hitelköltség-mutatója (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Vállalatok hitelköltsége</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Háztartásoknak és nem pénzügyi vállalatoknak kihelyezett rövid lejáratú hitelek összesített hitelköltség-mutatója</p>",
+            "title": "<p>Rövid távú hitelköltség</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Háztartásoknak és nem pénzügyi vállalatoknak kihelyezett hosszú lejáratú hitelek összesített hitelköltség-mutatója</p>",
+            "title": "<p>Hosszú távú hitelköltség</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Euroövezeti nem pénzügyi vállalatoknak nyújtott, euróban denominált rulírozó hitelek, folyószámlahitelek, kényelmi és kiterjesztett hitelek (éves százalék, új és már kihelyezett hitelek kamata)</p>",
+            "title": "<p>Rulírozó hitel, folyószámlahitel</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált rulírozó hitelek, folyószámlahitelek, kényelmi és kiterjesztett hitelek (éves százalék, új és már kihelyezett hitelek kamata)</p>",
+            "title": "<p>Rulírozó hitel, folyószámlahitel</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Euroövezeti háztartásoknak nyújtott, euróban denominált változó kamatozású vagy eredetileg rögzített kamatú lakáshitelek összesen (éves százalék, új hitelek kamata)</p>",
+            "title": "<p>Lakásvásárlási hitel, összesen</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Banki kamatlábak - Hitel</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Háztartások</p>"
+        },
+        "2": {
+            "title": "<p>Vállalatok</p>"
+        },
+        "3": {
+            "title": "<p>Összesített hitelköltség</p>"
+        }
+    }
+}

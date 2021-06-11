@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Wskaźniki konkurencyjności - Według cen i kosztów",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurencyjność"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Wskaźniki cen konsumpcyjnych",
+            "definition": "Zharmonizowane wskaźniki konkurencyjności (HCI) oparte na wskaźnikach cen konsumpcyjnych (średniookresowo; indeks: I kw. 1999 = 100). Wskaźniki cen konsumpcyjnych pokazują, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za określony koszyk towarów i usług konsumpcyjnych. Wskaźniki HCI mierzą konkurencyjność cenową i kosztową krajów strefy euro w sposób porównywalny i spójny z realnymi efektywnymi kursami euro (EER). Wskaźniki te opracowuje się za pomocą tych samych metod i źródeł danych co kursy EER dla euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflatory PKB",
+            "definition": "Zharmonizowane wskaźniki konkurencyjności (HCI) oparte na deflatorach produktu krajowego brutto (PKB) (średniookresowo; indeks: I kw. 1999 = 100). PKB jest miarą aktywności gospodarczej. Jest to wartość wszystkich wytworzonych towarów i usług w danej gospodarce plus podatki netto od produktów i importu minus spożycie pośrednie. Deflatory PKB oblicza się na podstawie kwartalnych rachunków narodowych publikowanych przez Eurostat (średniookresowo; indeks: I kw. 1999 = 100). Wskaźniki HCI mierzą konkurencyjność cenową i kosztową krajów strefy euro w sposób porównywalny i spójny z realnymi efektywnymi kursami euro (EER). Wskaźniki te opracowuje się za pomocą tych samych metod i źródeł danych co kursy EER dla euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Jednostkowe koszty pracy",
+            "definition": "Zharmonizowane wskaźniki konkurencyjności oparte na wskaźnikach jednostkowych kosztów pracy dla całej gospodarki (średniookresowo; indeks: I kw. 1999 = 100). Jednostkowe koszty pracy dla całej gospodarki są obliczane jako stosunek przeciętnego wynagrodzenia do wydajności pracy. Wydajność pracy stanowi iloraz PKB w cenach stałych i łącznej liczby zatrudnionych, na podstawie kwartalnych rachunków narodowych publikowanych przez Eurostat (średniookresowo; indeks: I kw. 1999 = 100). Wskaźniki HCI mierzą konkurencyjność cenową i kosztową krajów strefy euro w sposób porównywalny i spójny z realnymi efektywnymi kursami euro (EER). Wskaźniki te opracowuje się za pomocą tych samych metod i źródeł danych co kursy EER dla euro."
+        }
+    }
+}

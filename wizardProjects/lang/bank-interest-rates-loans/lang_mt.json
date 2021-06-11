@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro sa €0.25 miljun; iffissar tar-rata varjabbli jew inizjali sa tliet xhur għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self żgħir ≤ 0.25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro sa €1 miljun; iffissar tar-rata varjabbli jew inizjali sa sena għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self żgħir; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro ta' aktar minn €1 miljun; iffissar tar-rata varjabbli jew inizjali sa sena għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self kbir; x ≤ 1Y</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro sa €1 miljun; iffissar tar-rata inizjali ta' aktar minn sena u sa ħames snin għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self żgħir; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro ta' aktar minn €1 miljun; iffissar tar-rata inizjali ta' aktar minn sena u sa ħames snin għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self kbir; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro sa €1 miljun; iffissar tar-rata inizjali ta' aktar minn ħames snin għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self żgħir; x &gt; 5Y</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Self denominat f'euro ta' aktar minn €1 miljun; iffissar tar-rata inizjali ta' aktar minn ħames snin għal korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self kbir; x &gt; 5Y</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Self għall-konsum denominat f'euro; iffissar tar-rata varjabbli jew inizjali sa sena għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għall-konsum; x ≤ 1Y</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Self għall-konsum denominat f'euro; iffissar tar-rata inizjali ta' aktar minn sena u sa ħames snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għall-konsum; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Self għall-konsum denominat f'euro; iffissar tar-rata inizjali ta' aktar minn ħames snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għall-konsum; x &gt; 5Y</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indikatur tal-ispiża komposta tas-self għal self ġdid għax-xiri ta' dar lil individwi (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Kost tas-self għal individwi</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Self għax-xiri ta' dar denominat f'euro; iffissar tar-rata varjabbli jew inizjali sa sena għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għax-xiri ta' dar; x ≤ 1Y</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Self għax-xiri ta' dar denominat f'euro; iffissar tar-rata inizjali ta' aktar minn sena u sa ħames snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għax-xiri ta' dar; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Self għax-xiri ta' dar denominat f'euro; iffissar tar-rata inizjali ta' aktar minn ħames snin u sa għaxar snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għax-xiri ta' dar; 5Y &lt; x ≤ 10Y</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Self għax-xiri ta' dar denominat f'euro; iffissar tar-rata inizjali ta' aktar minn għaxar snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għax-xiri ta' dar; x &gt; 10Y</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Self għal għanijiet oħra denominat f'euro; iffissar tar-rata varjabbli jew inizjali sa sena għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self ieħor; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Self għal għanijiet oħra denominat f'euro, inkluż self għal sidien uniċi u soċjetajiet mhux inkorporati; iffissar tar-rata varjabbli jew inizjali sa sena għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self ieħor; sidien uniċi; x ≤ 1Y</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Self għal għanijiet oħra denominat f'euro; iffissar tar-rata inizjali ta' aktar minn sena u sa ħames snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self ieħor; 1Y &lt; x ≤ 5Y</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Self għal għanijiet oħra denominat f'euro; iffissar tar-rata inizjali ta' aktar minn ħames snin għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self ieħor; x &gt; 5Y</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indikatur tal-kost kompost tas-self għal self ġdid lil korporazzjonijiet mhux finanzjarji (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Kost tas-self għal korporattivi</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikatur tal-kost kompost tas-self għal self b'terminu qasir lil individwi u korporazzjonijiet mhux finanzjarji</p>",
+            "title": "<p>Kost tas-self b'terminu qasir</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indikatur tal-kost kompost tas-self għal self b'terminu twil lil individwi u korporazzjonijiet mhux finanzjarji</p>",
+            "title": "<p>Kost tas-self b'terminu twil</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Self ċirkolanti u kurrenti denominat f'euro, kreditu ta' konvenjenza u estiż lil korporazzjonijiet mhux finanzjarji fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda u ammonti pendenti jaqblu)</p>",
+            "title": "<p>Self ċirkolanti u kurrenti</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Self ċirkolanti u kurrenti denominat f'euro, kreditu ta' konvenjenza u estiż lil individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda u ammonti pendenti jaqblu)</p>",
+            "title": "<p>Self ċirkolanti u kurrenti</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Self għax-xiri ta' dar denominat f'euro; total iffissar tar-rata varjabbli jew inizjali għal individwi fiż-żona tal-euro (perċentwali fis-sena, rati għal negozji ġodda)</p>",
+            "title": "<p>Self għax-xiri ta' dar, total</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Rati tal-imgħax tal-banek - Self</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Individwi</p>"
+        },
+        "2": {
+            "title": "<p>Korporazzjonijiet</p>"
+        },
+        "3": {
+            "title": "<p>Kost kompost tas-self</p>"
+        }
+    }
+}

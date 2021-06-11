@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Løbende poster, varer, saldo (eksport minus import, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Løbende poster, varer, eksport (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Løbende poster, varer, import (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Løbende poster, tjenester, saldo (eksport minus import, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Løbende poster, tjenester, eksport (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Løbende poster, tjenester, import (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret, hverken sæsonkorrigeret eller korrigeret for antal arbejdstage; BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Løbende poster som procentdel af bruttonationalproduktet (BNP) i markedspriser (kredit minus debet; transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6 og ENS 2010-standarder).</p>",
+            "title": "<p>Saldo (i pct.)</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Løbende poster (debet) som procentdel af bruttonationalproduktet (BNP) i markedspriser (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Debet (i pct.)</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Saldo på de løbende poster (kredit minus debet; transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Løbende poster (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Løbende poster (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Løbende poster (kredit) som procentdel af bruttonationalproduktet (BNP) i markedspriser (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Kredit (i pct.)</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Løbende poster, varer og tjenester, saldo (eksport minus import; transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Løbende poster, varer og tjenester, eksport (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Løbende poster, varer og tjenester, import (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Løbende poster, saldo for primær indkomst (kredit minus debet; transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Løbende poster, primær indkomst (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Løbende poster, primær indkomst (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Løbende poster, saldo for sekundær indkomst (kredit minus debet; transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Løbende poster, sekundær indkomst (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Løbende poster, sekundær indkomst (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ekstern sektor - Løbende poster</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Varer</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Tjenester</p>"
+        },
+        "1449847839830": {
+            "title": "<p>I alt</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Varer og tjenester</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Primær indkomst</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Sekundær indkomst</p>"
+        }
+    }
+}

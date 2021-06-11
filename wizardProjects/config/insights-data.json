@@ -1,0 +1,36 @@
+{
+    "charts": {
+        "1": {
+            "definition": {
+                "en": "[Add indicator definition]"
+            },
+            "title": {
+                "en": "[Add indicator title. Short!]"
+            },
+            "options": []
+        }
+    },
+    "project": {
+        "tabs": [
+            "1"
+        ],
+        "title": {
+            "en": "insights-data"
+        },
+        "owner": "ECBstage",
+        "url": "insights-data"
+    },
+    "tabs": {
+        "1": {
+            "charts": [
+                "1"
+            ],
+            "teaser": {
+                "en": ""
+            },
+            "title": {
+                "en": "[Add tab title]"
+            }
+        }
+    }
+}

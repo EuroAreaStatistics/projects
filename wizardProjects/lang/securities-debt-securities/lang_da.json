@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Værdipapirer - Gældsinstrumenter",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Udeståender"
+        },
+        "2": {
+            "title": "Nyudstedelser"
+        },
+        "3": {
+            "title": "Nettoudstedelser"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Banker, udeståender",
+            "definition": "Udeståender af gældsinstrumenter udstedt af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Banker, udeståender; x ≤ 1Å",
+            "definition": "Udeståender af kortfristede gældsinstrumenter udstedt af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Banker, udeståender; x &gt; 1Å",
+            "definition": "Udeståender af langfristede gældsinstrumenter udstedt af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Selskaber, udeståender",
+            "definition": "Udeståender af gældsinstrumenter udstedt af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Selskaber, udeståender; x ≤ 1Å",
+            "definition": "Udeståender af kortfristede gældsinstrumenter udstedt af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Selskaber, udeståender; x &gt; 1Å",
+            "definition": "Udeståender af langfristede gældsinstrumenter udstedt af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Offentlig forvaltning, udeståender",
+            "definition": "Udeståender af gældsinstrumenter udstedt af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Offentlig forvaltning, udeståender; x ≤ 1Å",
+            "definition": "Udeståender af kortfristede gældsinstrumenter udstedt af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Offentlig forvaltning, udeståender; x &gt; 1Å",
+            "definition": "Udeståender af langfristede gældsinstrumenter udstedt af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Andre finansielle, udeståender",
+            "definition": "Udeståender af gældsinstrumenter udstedt af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Andre finansielle, udeståender; x ≤ 1Å",
+            "definition": "Udeståender af kortfristede gældsinstrumenter udstedt af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Andre finansielle, udeståender; x &gt; 1Å",
+            "definition": "Udeståender af langfristede gældsinstrumenter udstedt af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "I alt, udeståender",
+            "definition": "Udeståender i alt af gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "I alt, udeståender; x ≤ 1Å",
+            "definition": "Udeståender i alt af kortfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "I alt, udeståender; x &gt; 1Å",
+            "definition": "Udeståender i alt af langfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Banker, nye",
+            "definition": "Bruttoudstedelser af gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Banker, nye; x ≤ 1Å",
+            "definition": "Bruttoudstedelser af kortfristede gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Banker, nye; x &gt; 1Å",
+            "definition": "Bruttoudstedelser af langfristede gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Selskaber, nye",
+            "definition": "Bruttoudstedelser af gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Selskaber, nye; x ≤ 1Å",
+            "definition": "Bruttoudstedelser af kortfristede gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Selskaber, nye; x &gt; 1Å",
+            "definition": "Bruttoudstedelser af langfristede gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Offentlig forvaltning, nye",
+            "definition": "Bruttoudstedelser af gældsinstrumenter foretaget af offentlig forvaltning og servise (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Offentlig forvaltning, nye; x ≤ 1Å",
+            "definition": "Bruttoudstedelser af kortfristede gældsinstrumenter foretaget af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Offentlig forvaltning, nye; x &gt; 1Å",
+            "definition": "Bruttoudstedelser af langfristede gældsinstrumenter foretaget af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Andre finansielle, nye",
+            "definition": "Bruttoudstedelser af gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Andre finansielle, nye; x ≤ 1Å",
+            "definition": "Bruttoudstedelser af kortfristede gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Andre finansielle, nye; x &gt; 1Å",
+            "definition": "Bruttoudstedelser af langfristede gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "I alt, nye",
+            "definition": "Bruttoudstedelser i alt af gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "I alt, nye; x &gt; 1Å",
+            "definition": "Bruttoudstedelser i alt af langfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "I alt, nye; x ≤ 1Å",
+            "definition": "Bruttoudstedelser i alt af kortfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Banker, netto",
+            "definition": "Nettoudstedelser af gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Banker, netto; x ≤ 1Å",
+            "definition": "Nettoudstedelser af kortfristede gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Banker, netto; x &gt; 1Å",
+            "definition": "Nettoudstedelser af langfristede gældsinstrumenter foretaget af monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Selskaber, netto",
+            "definition": "Nettoudstedelser af gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Selskaber, netto; x ≤ 1Å",
+            "definition": "Nettoudstedelser af kortfristede gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Selskaber, netto; x &gt; 1Å",
+            "definition": "Nettoudstedelser af langfristede gældsinstrumenter foretaget af ikke-finansielle selskaber (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Offentlig forvaltning netto",
+            "definition": "Nettoudstedelser af gældsinstrumenter foretaget af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Offentlig forvaltning, netto; x ≤ 1Å",
+            "definition": "Nettoudstedelser af kortfristede gældsinstrumenter foretaget af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Offentlig forvaltning, netto; x &gt; 1Å",
+            "definition": "Nettoudstedelser af langfristede gældsinstrumenter foretaget af offentlig forvaltning og service (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Andre finansielle, netto",
+            "definition": "Nettoudstedelser af gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Andre finansielle, netto; x ≤ 1Å",
+            "definition": "Nettoudstedelser af kortfristede gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Andre finansielle, netto; x &gt; 1Å",
+            "definition": "Nettoudstedelser af langfristede gældsinstrumenter foretaget af andre finansielle selskaber end monetære finansielle institutioner (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "I alt, netto",
+            "definition": "Nettoudstedelser i alt af gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "I alt, netto; x ≤ 1Å",
+            "definition": "Nettoudstedelser i alt af kortfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "I alt, netto; x &gt; 1Å",
+            "definition": "Nettoudstedelser i alt af langfristede gældsinstrumenter (nominel værdi, i alle valutaer tilsammen, denomineret i euro, udstedt af residenter)"
+        }
+    }
+}

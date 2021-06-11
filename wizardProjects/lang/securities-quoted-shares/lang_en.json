@@ -1,0 +1,72 @@
+{
+    "project": {
+        "title": "Securities - Listed shares",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banks, stocks",
+            "definition": "Outstanding amounts of listed shares issued by monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Corporations, stocks",
+            "definition": "Outstanding amounts of listed shares issued by non-financial corporations (market value, denominated in euro, issued by residents)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Other financials, stocks",
+            "definition": "Outstanding amounts of listed shares issued by financial corporations other than monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total, stocks",
+            "definition": "Total outstanding amounts of listed shares (market value, denominated in euro, issued by residents)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banks, new",
+            "definition": "Gross issues of listed shares by monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Corporations, new",
+            "definition": "Gross issues of listed shares by non-financial corporations (market value, denominated in euro, issued by residents)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Other financials, new",
+            "definition": "Gross issues of listed shares by financial corporations other than monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total, new",
+            "definition": "Total gross issues of listed shares (market value, denominated in euro, issued by residents)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banks, net",
+            "definition": "Net issues of listed shares by monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Corporations, net",
+            "definition": "Net issues of listed shares by non-financial corporations (market value, denominated in euro, issued by residents)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Other financials, net",
+            "definition": "Net issues of listed shares by financial corporations other than monetary financial institutions (market value, denominated in euro, issued by residents)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total, net",
+            "definition": "Total net issues of listed shares (market value, denominated in euro, issued by residents)"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocks",
+            "teaser": ""
+        },
+        "2": {
+            "title": "New issues",
+            "teaser": ""
+        },
+        "3": {
+            "title": "Net issues",
+            "teaser": ""
+        }
+    }
+}

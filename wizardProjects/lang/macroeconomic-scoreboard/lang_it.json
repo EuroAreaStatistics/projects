@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo delle partite correnti in percentuale del PIL (media mobile di tre anni, calcolo effettuato in conformità agli standard internazionali ad es. di BPM6 e SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è +6% e -4%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Saldo delle partite correnti (3 anni)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Posizione patrimoniale netta sull’estero in percentuale del PIL (su base annua, calcolo effettuato in conformità agli standard internazionali ad es. di BPM6 e SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è -35%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Posizione patrimoniale sull’estero (su base annua)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Tasso di cambio effettivo reale (deflazionato con IAPC/IPC, variazione percentuale su 3 anni rispetto ad altri 41 paesi industriali). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è -/+5% per i paesi dell’area dell’euro. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Tasso di cambio effettivo reale (3 anni)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Quote del mercato delle esportazioni (misurate in termini di valore, variazione percentuale su 5 anni, calcolo effettuato in conformità agli standard internazionali ad es. del BPM6). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è -6%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Quote del mercato delle esportazioni (5 anni)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Costo nominale del lavoro per unità di prodotto, ossia CLUP nominale (variazione percentuale su 3 anni, per numero di occupati). Il CLUP è un indice del costo totale del lavoro per unità di prodotto, calcolato come rapporto fra i redditi per occupato e la produttività del lavoro (definita come PIL per occupato). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è +9% per i paesi dell’area dell’euro. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>CLUP nominale (3 anni)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Prezzi delle abitazioni, ai quali si applica un deflatore dei consumi privati dell’Eurostat (variazione percentuale sul periodo corrispondente, immobili nuovi e già esistenti). L’indicatore dei prezzi degli immobili residenziali per l’area dell’euro risulta da una media di indicatori per paese non armonizzati, che si basano su fonti di dati nazionali. In certa misura la copertura varia da un paese all’altro. In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 6%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Prezzi delle abitazioni</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Flussi di credito al settore privato in percentuale del PIL (su base consolidata, calcolo effettuato in conformità agli standard internazionali ad es. di BPM6 e SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 15%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Flussi di credito al settore privato</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Debito del settore privato in percentuale del PIL (su base consolidata, calcolo effettuato in conformità agli standard internazionali ad es. di BPM6 e SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per </a><a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 133%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Debito del settore privato</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Debito delle amministrazioni pubbliche in percentuale del PIL (calcolo effettuato in conformità agli standard internazionali ad es. di BPM6 e SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 60%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Debito delle amministrazioni pubbliche</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Totale delle passività del settore finanziario (variazioni sul periodo corrispondente, su base non consolidata, calcolo effettuato in conformità agli standard internazionali ad es. del SEC 2010). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 16,5%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Passività del settore finanziario</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Tasso di disoccupazione armonizzato (media mobile di tre anni). In base alla <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">procedura per gli squilibri macroeconomici</a>, secondo la valutazione della Commissione europea, la soglia indicativa per questo indicatore è il 10%. Fonti: BCE e Commissione europea (Eurostat e DG Affari economici e finanziari)</p>",
+            "title": "<p>Tasso di disoccupazione (3 anni)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Quadro di valutazione macroeconomico</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indicatori esterni / di competitività</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indicatori interni</p>"
+        }
+    }
+}

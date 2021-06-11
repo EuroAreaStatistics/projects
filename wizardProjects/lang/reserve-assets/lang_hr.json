@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Stanje međunarodnih ulaganja, devizne pričuve (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Imovina</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Stanje međunarodnih ulaganja, devizne pričuve kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (stanje na kraju tromjesečja prema nerezidentima; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010).</p>",
+            "title": "<p>Omjer imovine</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Vanjski sektor - devizne pričuve</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Devizne pričuve</p>"
+        }
+    }
+}

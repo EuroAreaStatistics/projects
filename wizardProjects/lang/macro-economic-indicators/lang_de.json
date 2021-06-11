@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Mit Verhältnis des öffentlichen Defizits zum BIP (-) bzw. Verhältnis des öffentlichen Überschusses zum BIP (+) wird auf die Maastricht-Kriterien Bezug genommen. Die Statistiken zum Defizit der öffentlichen Haushalte umfassen Ausgleichszahlungen aufgrund von Swap-Vereinbarungen. (Nichtfinanzielle Veränderungen, in jeweiligen Preisen, in Prozent, nicht saisonbereinigt/nicht arbeitstäglich bereinigt.) Die Angaben für die in den Abbildungen dargestellten letzten zwei Jahre basieren auf Prognosen der Europäischen Kommission (Generaldirektion Wirtschaft und Finanzen). Gemäß dem Stabilitäts- und Wachstumspakt beträgt der Referenzwert für das Haushaltsdefizit 3 %.</p>",
+            "title": "<p>Defizit- bzw. Überschussquote des Staates</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Mit Verhältnis des öffentlichen Schuldenstands zum BIP wird auf die Maastricht-Kriterien Bezug genommen. Die Statistiken zur Verschuldung der öffentlichen Haushalte entsprechen den Statistiken, die im Rahmen des Verfahrens bei einem übermäßigen Defizit herangezogen werden. (Schuldenstände zum Nennwert, in Prozent, nicht saisonbereinigt/nicht arbeitstäglich bereinigt.) Die Angaben für die in den Abbildungen dargestellten letzten zwei Jahre basieren auf Prognosen der Europäischen Kommission (Generaldirektion Wirtschaft und Finanzen). Der durch die Maastricht-Kriterien festgelegte Referenzwert beträgt 60 %.</p>",
+            "title": "<p>Schuldenquote des Staates</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Bruttoinlandsprodukt zu Marktpreisen, Gesamtwirtschaft, in Euro, verkettete Volumenindizes (umbasiert, Referenzjahr 2010), saisonbereinigt und arbeitstäglich bereinigt. Quelle: Eurostat.</p>",
+            "title": "<p>Volumen</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Bruttoinlandsprodukt zu Marktpreisen, Gesamtwirtschaft, Inlandswährung (enthält ggf. zu einem festen Kurs in die aktuelle Währung umgerechnete Beträge), verkettete Volumenindizes (umbasiert), Wachstumsrate für ein Jahr, saisonbereinigt/arbeitstäglich bereinigt. Quelle: Eurostat.</p>",
+            "title": "<p>Jahreswachstumsrate</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Verhältnis der Verschuldung der privaten Haushalte zum verfügbaren Einkommen (brutto) (nicht konsolidiert, in jeweiligen Preisen, in Prozent, nicht saisonbereinigt/nicht arbeitstäglich bereinigt).</p>",
+            "title": "<p>Schuldenquote der privaten Haushalte (J)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Verhältnis der Verschuldung der nichtfinanziellen Kapitalgesellschaften zum BIP. Unter Verschuldung sind die aufgenommenen Kredite und ausgegebenen Schuldverschreibungen erfasst. (Konsolidiert, in Marktpreisen, in Prozent, nicht saisonbereinigt/nicht arbeitstäglich bereinigt).</p>",
+            "title": "<p>Schuldenquote der Unternehmen</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Verhältnis der Verschuldung der privaten Haushalte zum verfügbaren Einkommen (brutto) (nicht konsolidiert, in jeweiligen Preisen, in Prozent, nicht saisonbereinigt/nicht arbeitstäglich bereinigt). Falls keine Daten angezeigt werden, stehen keine Daten zur Verfügung.</p>",
+            "title": "<p>Schuldenquote der privaten Haushalte (Q)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Harmonisierte Arbeitslosenquote (in % der zivilen Erwerbsbevölkerung), länderübergreifend standardisiert, alle Altersgruppen, Männer und Frauen, saisonbereinigt, nicht arbeitstäglich bereinigt. Quelle: Eurostat.</p>",
+            "title": "<p>Arbeitslosenquote</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Makroökonomische Indikatoren</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>BIP</p>"
+        },
+        "2": {
+            "title": "<p>Arbeitslosigkeit</p>"
+        },
+        "3": {
+            "title": "<p>Verschuldung</p>"
+        }
+    }
+}

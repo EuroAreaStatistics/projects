@@ -1,0 +1,20 @@
+{
+    "project": {
+        "title": "Financial Sector - Insurance Corporations and Pension Funds",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Total Assets",
+            "definition": "Total Assets (financial and non-financial) - counterpart area World (all entities), counterpart institutional sector Total economy including Rest of the World (all sectors) - Debit (uses/assets) - Non-consolidated, Current prices - Euro, Neither seasonally nor working day adjusted - ESA95 TP table Not applicable"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Assets",
+            "teaser": ""
+        }
+    }
+}

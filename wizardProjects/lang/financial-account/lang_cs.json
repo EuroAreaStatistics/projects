@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Čistý finanční účet jako procentní podíl hrubého domácího produktu (HDP) v tržních cenách (aktiva minus pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Čistý poměr</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Aktiva finančního účtu jako procento hrubého domácího produktu (HDP) v tržních cenách (aktiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr aktiv</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Pasiva finančního účtu jako procentní podíl hrubého domácího produktu (HDP) v tržních cenách (pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr pasiv</p>"
+        },
+        "1": {
+            "definition": "<p>Čistý finanční účet (aktiva minus pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Aktiva finančního účtu (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Pasiva finančního účtu (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Čistý finanční účet, přímé investice (aktiva minus pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finanční účet, aktiva přímých investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finanční účet, pasiva přímých investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Čistý finanční účet, portfoliové investice (aktiva minus pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finanční účet, aktiva portfoliových investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finanční účet, pasiva portfoliových investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Čistý finanční účet, ostatní investice (aktiva minus pasiva, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finanční účet, aktiva ostatních investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Aktiva</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finanční účet, pasiva ostatních investic (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Pasiva</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Externí sektor - Finanční účet</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Celkem</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Přímé investice</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfoliové investice</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Ostatní investice</p>"
+        }
+    }
+}

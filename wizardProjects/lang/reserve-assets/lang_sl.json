@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Stanje mednarodnih naložb, rezervna imetja (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Stanje mednarodnih naložb, rezervna imetja kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Tujina - Rezervna imetja</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Rezervna imetja</p>"
+        }
+    }
+}

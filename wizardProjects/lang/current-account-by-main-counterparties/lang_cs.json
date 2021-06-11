@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Příjmy běžného účtu (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Příjmy</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Výdaje běžného účtu (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Výdaje</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo běžného účtu jako procento hrubého domácího produktu (HDP) v tržních cenách (příjmy minus výdaje, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr salda</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Příjmy běžného účtu jako procento hrubého domácího produktu (HDP) v tržních cenách (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr příjmů</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Výdaje běžného účtu jako procento hrubého domácího produktu (HDP) v tržních cenách (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6 a ESA 2010).</p>",
+            "title": "<p>Poměr výdajů</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Běžný účet, zboží, saldo (vývoz minus dovoz, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Běžný účet, zboží, vývoz (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Vývoz</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Běžný účet, zboží, dovoz (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Dovoz</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Běžný účet, služby, saldo (vývoz minus dovoz, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Běžný účet, služby, vývoz (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Vývoz</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Běžný účet, služby, dovoz (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Dovoz</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Běžný účet, saldo prvotních důchodů (příjmy minus výdaje, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Běžný účet, příjmy z prvotních důchodů (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Příjmy</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Běžný účet, výdaje za prvotní důchody (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Výdaje</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Běžný účet, saldo druhotných důchodů (příjmy minus výdaje, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Běžný účet, příjmy z druhotných důchodů (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Příjmy</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Běžný účet, výdaje za druhotné důchody (transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Výdaje</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo běžného účtu (příjmy minus výdaje, transakce vůči nerezidentům, úhrn za čtyři čtvrtletí, bez sezonního očištění a bez očištění o vliv počtu pracovních dní, standardy BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Běžný účet eurozóny podle hlavních protistran</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Zboží</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Služby</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Prvotní důchody</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Druhotné důchody</p>"
+        },
+        "1": {
+            "title": "<p>Celkem</p>"
+        }
+    }
+}

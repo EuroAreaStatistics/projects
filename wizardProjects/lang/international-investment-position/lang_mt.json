@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali netta (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Attiv tal-pożizzjoni tal-investiment internazzjonali (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Passiv tal-pożizzjoni tal-investiment internazzjonali (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali netta bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Attiv tal-pożizzjoni tal-investiment internazzjonali bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-attiv</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Passiv tal-pożizzjoni tal-investiment internazzjonali bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-passiv</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment dirett nett (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv tal-investiment dirett (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv tal-investiment dirett (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment dirett nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv tal-investiment dirett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-attiv</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv tal-investiment dirett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-passiv</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment tal-portafoll nett (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv tal-investiment tal-portafoll (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv tal-investiment tal-portafoll (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment tal-portafoll nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv tal-investiment tal-portafoll bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-attiv</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv tal-investiment tal-portafoll bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-passiv</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment ieħor nett (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Nett</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv ta’ investiment ieħor (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Attiv</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv ta’ investiment ieħor (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6).</p>",
+            "title": "<p>Passiv</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, investiment ieħor nett bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (attiv nieqes passiv, pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon nett</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, attiv ta’ investiment ieħor bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-attiv</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Pożizzjoni tal-investiment internazzjonali, passiv ta’ investiment ieħor bħala perċentwali tal-prodott domestiku gross (PDG) bi prezzijiet tas-suq (pożizzjoni fi tmiem it-trimestru <em>vis-à-vis</em> mhux residenti; mhux aġġustat għall-istaġun jew għall-jiem tax-xogħol; standards BPM6 u ESA 2010).</p>",
+            "title": "<p>Proporzjon tal-passiv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Settur estern - Pożizzjoni tal-investiment internazzjonali</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Investiment dirett</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Investiment tal-portafoll</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Investiment ieħor</p>"
+        }
+    }
+}

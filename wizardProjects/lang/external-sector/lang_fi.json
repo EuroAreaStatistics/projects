@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Vaihtotase, tavarakaupan tase (vienti miinus tuonti, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Tavarakaupan tase</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Vaihtotase, tavarat, vienti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Vienti</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Vaihtotase, tavarat, tuonti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Tuonti</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Vaihtotase, palvelukaupan tase (vienti miinus tuonti, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Palvelukaupan tase</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Vaihtotase, palvelut, vienti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Vienti</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Vaihtotase, palvelut, tuonti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Tuonti</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Vaihtotase, ali- tai ylijäämä prosentteina suhteessa markkinahintaiseen BKT:hen (saapuvat rahavirrat miinus lähtevät rahavirrat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettoaseman BKT-suhde</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Vaihtotase, lähtevät rahavirrat prosentteina suhteessa markkinahintaiseen BKT:hen (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Lähtevien rahavirtojen BKT-suhde</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Vaihtotase, ali- tai ylijäämä (saapuvat miinus lähtevät rahavirrat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Vaihtotase, saapuvat rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saapuvat rahavirrat</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Vaihtotase, lähtevät rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot, ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Lähtevät rahavirrat</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Vaihtotase, saapuvat rahavirrat prosentteina suhteessa markkinahintaiseen BKT:hen (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saapuvien rahavirtojen BKT-suhde</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Vaihtotase, tavara- ja palvelukaupan tase (vienti miinus tuonti, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Tavara- ja palvelukaupan tase</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Vaihtotase, tavarat ja palvelut, vienti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Vienti</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Vaihtotase, tavarat ja palvelut, tuonti (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Tuonti</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Vaihtotase, ensitulon tilin ali- tai ylijäämä (saapuvat miinus lähtevät rahavirrat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Vaihtotase, ensitulon tilin saapuvat rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saapuvat rahavirrat</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Vaihtotase, ensitulon tilin lähtevät rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Lähtevät rahavirrat</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Vaihtotase, tulojen uudelleenjaon tilin ali- tai ylijäämä (saapuvat miinus lähtevät rahavirrat, transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Nettoasema</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Vaihtotase, tulojen uudelleenjaon tilin saapuvat rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saapuvat rahavirrat</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Vaihtotase, tulojen uudelleenjaon tilin lähtevät rahavirrat (transaktiot euroalueen ulkopuolella olevien kanssa, neljän neljänneksen kumulatiiviset tiedot ilman kausitasoitusta ja työpäiväkorjausta, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Lähtevät rahavirrat</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Ulkoinen sektori - Vaihtotase</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Tavarat</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Palvelut</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Yhteensä</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Tavarat ja palvelut</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Ensitulon tili</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Tulojen uudelleenjaon tili</p>"
+        }
+    }
+}

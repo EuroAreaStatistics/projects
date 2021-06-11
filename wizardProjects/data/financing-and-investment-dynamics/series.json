@@ -1,0 +1,65 @@
+{
+  "indicators": [
+    {
+      "name": "1_1_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F3.S._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Short-term debt securities"
+    },
+    {
+      "name": "2_2_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F3.L._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Long-term debt securities"
+    },
+    {
+      "name": "3_3_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F4.S._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Short-term loans",
+      "clearColumns": ["S12K"]
+    },
+    {
+      "name": "4_4_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F4.L._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Long-term loans"
+    },
+    {
+      "name": "5_5_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F2M.T._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Deposits",
+      "clearColumns": ["S124","S12O","S128","S129","S1M"]
+    },
+    {
+      "name": "6_6_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F511._Z._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Listed shares",
+      "clearColumns": ["S1M"]
+    },
+    {
+      "name": "7_7_%s",
+      "url": "https://sdw-wsrest.ecb.europa.eu/service/data/QSA/Q.N.%s.W0+W1+W2.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.S1+S11+S12K+S124+S12O+S128+S129+S13+S1M.N.A+L.LE.F52._Z._Z.XDC._T.S.V.N._T?startPeriod=2013-Q4",
+      "title": "Investment fund shares/units",
+      "clearColumns": ["S11","S12O","S128","S129","S13","S1M"]
+    }
+  ],
+  "variants": {
+    "aut": "AT",
+    "bel": "BE",
+    "cyp": "CY",
+    "deu": "DE",
+    "esp": "ES",
+    "est": "EE",
+    "fin": "FI",
+    "fra": "FR",
+    "grc": "GR",
+    "irl": "IE",
+    "ita": "IT",
+    "ltu": "LT",
+    "lux": "LU",
+    "lva": "LV",
+    "mlt": "MT",
+    "nld": "NL",
+    "prt": "PT",
+    "svk": "SK",
+    "svn": "SI",
+    "eur": "I8"
+  }
+}

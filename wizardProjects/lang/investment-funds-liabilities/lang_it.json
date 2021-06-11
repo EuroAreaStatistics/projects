@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Fondi di investimento - Passività",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Flussi"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Partecipazioni in fondi di investimento",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: quote/partecipazioni in fondi di investimento (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Depositi e prestiti",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: depositi e prestiti (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Altre passività",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: altre passività (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, attività/passività totali (consistenze in essere a fine periodo, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Partecipazioni in fondi di investimento",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: quote/partecipazioni in fondi di investimento (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Depositi e prestiti",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: depositi e prestiti (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Altre passività",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, categoria di passività: altre passività (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Totale",
+            "definition": "Fondi di investimento diversi dai fondi comuni monetari, attività/passività totali (operazioni finanziarie, tutte le scadenze, tutte le valute, euro, dati trimestrali non destagionalizzati)"
+        }
+    }
+}

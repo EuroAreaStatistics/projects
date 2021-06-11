@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Taux d'intérêt bancaires - Dépôts",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ménages"
+        },
+        "2": {
+            "title": "Entreprises"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Taux d'intérêt au jour le jour",
+            "definition": "Dépôts à vue des ménages de la zone euro libellés en euros (en pourcentages annuels, les contrats nouveaux et les encours correspondent)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Dépôts, durée initiale : x ≤ 1 an",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros d'une durée inférieure ou égale à un an (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Dépôts, durée initiale : x &gt; 1 an",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros d'une durée supérieure à un an (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Dépôts, durée initiale : 1 an &lt; x ≤ 2 ans",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros d'une durée supérieure à un an et inférieure ou égale à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Dépôts, durée initiale : x ≤ 2 ans",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros d'une durée inférieure ou égale à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Dépôts, durée initiale : x &gt; 2 ans",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros d'une durée supérieure à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Dépôts remboursables avec préavis : x ≤ 3M",
+            "definition": "Dépôts des ménages de la zone euro libellés en euros remboursables avec un préavis inférieur ou égal à trois mois (en pourcentages annuels, les contrats nouveaux et les encours correspondent)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Pensions",
+            "definition": "Pensions des ménages et des sociétés non financières de la zone euro libellées en euros (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Taux d'intérêt au jour le jour",
+            "definition": "Dépôts à vue des sociétés non financières de la zone euro libellés en euros (en pourcentages annuels, les contrats nouveaux et les encours correspondent)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Dépôts, durée initiale : x ≤ 1 an",
+            "definition": "Dépôts des sociétés non financières de la zone euro libellés en euros d'une durée inférieure ou égale à un an (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Dépôts, durée initiale : x &gt; 1 an",
+            "definition": "Dépôts des sociétés non financières de la zone euro libellés en euros d'une durée supérieure à un an (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Dépôts, durée initiale : 1 an &lt; x ≤ 2 ans",
+            "definition": "Dépôts des sociétés non financières de la zone euro libellés en euros d'une durée supérieure à un an et inférieure ou égale à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Dépôts, durée initiale : x ≤ 2 ans",
+            "definition": "Dépôts des sociétés non financières de la zone euro libellés en euros d'une durée inférieure ou égale à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Dépôts, durée initiale : x &gt; 2 ans",
+            "definition": "Dépôts des sociétés non financières de la zone euro libellés en euros d'une durée supérieure à deux ans (en pourcentages annuels, taux des contrats nouveaux)"
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "project": {
+        "title": "External sector - International investment position",
+        "options": {
+            "dataSourceURL": "a",
+            "dataSource": "a",
+            "relatedPublication": "a",
+            "publicationThumbnail": "a",
+            "publicationWebpage": "a"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Net",
+            "definition": "Net international investment position (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452078153688": {
+            "title": "Assets",
+            "definition": "International investment position assets (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452078164312": {
+            "title": "Liabilities",
+            "definition": "International investment position liabilities (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452078474747": {
+            "title": "Net ratio",
+            "definition": "Net international investment position as percentage of gross domestic product (GDP) at market prices (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452078481924": {
+            "title": "Assets ratio",
+            "definition": "International investment position assets as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452078482964": {
+            "title": "Liabilities ratio",
+            "definition": "International investment position liabilities as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083453379": {
+            "title": "Net",
+            "definition": "International investment position, net direct investment (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083458828": {
+            "title": "Assets",
+            "definition": "International investment position, direct investment assets (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083467083": {
+            "title": "Liabilities",
+            "definition": "International investment position, direct investment liabilities (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083469652": {
+            "title": "Net ratio",
+            "definition": "International investment position, net direct investment as percentage of gross domestic product (GDP) at market prices (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083657448": {
+            "title": "Assets ratio",
+            "definition": "International investment position, direct investment assets as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083665965": {
+            "title": "Liabilities ratio",
+            "definition": "International investment position, direct investment liabilities as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083823790": {
+            "title": "Net",
+            "definition": "International investment position, net portfolio investment (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083831718": {
+            "title": "Assets",
+            "definition": "International investment position, portfolio investment assets (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083836630": {
+            "title": "Liabilities",
+            "definition": "International investment position, portfolio investment liabilities (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083845402": {
+            "title": "Net ratio",
+            "definition": "International investment position, net portfolio investment as percentage of gross domestic product (GDP) at market prices (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083855802": {
+            "title": "Assets ratio",
+            "definition": "International investment position, portfolio investment assets as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083862995": {
+            "title": "Liabilities ratio",
+            "definition": "International investment position, portfolio investment liabilities as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083953848": {
+            "title": "Net",
+            "definition": "International investment position,net other investment (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083961207": {
+            "title": "Assets",
+            "definition": "International investment position, other investment assets (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083967828": {
+            "title": "Liabilities",
+            "definition": "International investment position, other investment liabilities (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452083973260": {
+            "title": "Net ratio",
+            "definition": "International investment position, net other investment as percentage of gross domestic product (GDP) at market prices (assets minus liabilities, position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083984533": {
+            "title": "Assets ratio",
+            "definition": "International investment position, other investment assets as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        },
+        "1452083988124": {
+            "title": "Liabilities ratio",
+            "definition": "International investment position, other investment liabilities as percentage of gross domestic product (GDP) at market prices (position at end of quarter vis-à-vis non-residents; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards)."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Total",
+            "teaser": ""
+        },
+        "1452083440251": {
+            "title": "Direct investment",
+            "teaser": ""
+        },
+        "1452083810038": {
+            "title": "Portfolio investment",
+            "teaser": ""
+        },
+        "1452083942063": {
+            "title": "Other investment",
+            "teaser": ""
+        }
+    }
+}

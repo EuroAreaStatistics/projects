@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Konkurrenskraftsindikatorer - Per pris och kostnad",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurrens"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Konsumentprisindex",
+            "definition": "Harmoniserade konkurrenskraftsindikatorer (HKI) baserade på konsumentprisindex (periodgenomsnitt; index: Q1 1999=100). Konsumentprisindexen är mått på den genomsnittliga förändringen över tid i de priser som hushållen betalar för en viss korg med konsumtionsvaror och tjänster. Syftet med HKI är att ge jämförbara mått på euroländernas konkurrenskraft i pris- och kostnadshänseende, vilka dessutom överensstämmer med eurons reala effektiva växelkurser. HKI är uppbyggda med samma metoder och datakällor som används för eurons effektiva växelkurser."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "BNP-deflatorer",
+            "definition": "Harmoniserade konkurrenskraftsindikatorer (HKI) baserade på deflatorer för bruttonationalprodukten (BNP) (periodgenomsnitt; index: Q1 1999=100). BNP är ett mått på ekonomisk aktivitet. Det är värdet på en ekonomis totala produktion av varor och tjänster, plus nettoskatter på produkter och import och minus insatsförbrukning. BNP-deflatorerna härleds från kvartalsvisa nationella räkenskaper som offentliggörs av Eurostat (periodgenomsnitt; index Q1 1999=100). Syftet med HKI är att ge jämförbara mått på euroländernas konkurrenskraft i pris- och kostnadshänseende, vilka dessutom överensstämmer med eurons reala effektiva växelkurser. HKI är uppbyggda med samma metoder och datakällor som används för eurons effektiva växelkurser."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Enhetsarbetskostnad",
+            "definition": "Harmoniserade konkurrenskraftsindikatorer (HKI) baserade på enhetsarbetskostnadsindex för hela ekonomin (periodgenomsnitt; index: Q1 1999=100). Enhetsarbetskostnaderna för hela ekonomin beräknas som förhållandet mellan ersättningen per anställd och arbetsproduktiviteten. Arbetsproduktiviteten mäts som BNP i fasta priser dividerat med total sysselsättning BNP utifrån kvartalsvisa nationella räkenskaper som offentliggörs av Eurostat (periodgenomsnitt; index: Q1 1999=100). Syftet med HKI är att ge jämförbara mått på euroländernas konkurrenskraft i pris- och kostnadshänseende, vilka dessutom överensstämmer med eurons reala effektiva växelkurser. HKI är uppbyggda med samma metoder och datakällor som används för eurons effektiva växelkurser."
+        }
+    }
+}

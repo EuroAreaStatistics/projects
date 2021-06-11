@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Bežný účet, saldo tovarov (vývoz mínus dovoz, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Bežný účet, vývoz tovarov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Vývoz</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Bežný účet, dovoz tovarov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Dovoz</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Bežný účet, saldo služieb (vývoz mínus dovoz, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Bežný účet, vývoz služieb (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Vývoz</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Bežný účet, dovoz služieb (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Dovoz</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Saldo bežného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (kredity mínus debety, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer salda</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Debety bežného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer debetov</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Saldo bežného účtu (kredity mínus debety, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Kredity bežného účtu (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Kredity</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Debety bežného účtu (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Debety</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Kredity bežného účtu ako percento hrubého domáceho produktu (HDP) v trhových cenách (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6 a ESA 2010).</p>",
+            "title": "<p>Pomer kreditov</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Bežný účet, saldo tovarov a služieb (vývoz mínus dovoz, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Bežný účet, vývoz tovarov a služieb (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Vývoz</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Bežný účet, dovoz tovarov a služieb (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Dovoz</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Bežný účet, saldo prvotných dôchodkov (kredity mínus debety, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Bežný účet, kredity prvotných dôchodkov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Kredity</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Bežný účet, debety prvotných dôchodkov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Debety</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Bežný účet, saldo druhotných dôchodkov (kredity mínus debety, transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Bežný účet, kredity druhotných dôchodkov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Kredity</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Bežný účet, debety druhotných dôchodkov (transakcie s nerezidentmi, kumulované za štyri štvrťroky, neočistené od sezónnych vplyvov a vplyvu počtu pracovných dní, podľa BPM6).</p>",
+            "title": "<p>Debety</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Externý sektor - Bežný účet</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Tovary</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Služby</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Spolu</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Tovary a služby</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Prvotné dôchodky</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Druhotné dôchodky</p>"
+        }
+    }
+}

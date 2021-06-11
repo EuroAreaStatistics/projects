@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investmentfonds - Nach Art des Fonds",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Bestände"
+        },
+        "2": {
+            "title": "Veränderungen"
+        },
+        "3": {
+            "title": "Wachstumsraten"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Offene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: offene Fonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Geschlossene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: geschlossene Fonds (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (Bestände am Ende des Berichtszeitraums, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Offene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: offene Fonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Geschlossene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: geschlossene Fonds (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (transaktionsbedingte Veränderungen, Gesamtlaufzeit, alle Währungen zusammen, in Euro, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Offene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: offene Fonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Geschlossene Fonds",
+            "definition": "Von Investmentfonds ohne Geldmarktfonds emittierte Investmentfondsanteile, nach Art des Fonds: geschlossene Fonds (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Insgesamt",
+            "definition": "Investmentfonds ohne Geldmarktfonds, Investmentfondsanteile (Jahreswachstumsrate, Gesamtlaufzeit, alle Währungen zusammen, Veränderung gegen Vorjahr in %, nicht saisonbereinigt, monatliche Daten)"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Investiční fondy - Pasiva",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stav"
+        },
+        "2": {
+            "title": "Toky"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Podílové listy investičních fondů",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: akcie / podílové listy investičních fondů (zůstatky na konci období, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Úvěry a přijaté vklady",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: úvěry a přijaté vklady (zůstatky na konci období, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Ostatní závazky",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: ostatní pasiva (zůstatky na konci období, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Celkem",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, celková aktiva/pasiva (zůstatky na konci období, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Podílové listy investičních fondů",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: akcie / podílové listy investičních fondů (finanční transakce, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Úvěry a přijaté vklady",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: úvěry a přijaté vklady (finanční transakce, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Ostatní závazky",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, skupina pasiv: ostatní pasiva (finanční transakce, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Celkem",
+            "definition": "Investiční fondy jiné než fondy peněžního trhu, celková aktiva/pasiva (finanční transakce, celková splatnost, všechny měny, denominované v eurech, bez sezonního očištění, čtvrtletní údaje)"
+        }
+    }
+}

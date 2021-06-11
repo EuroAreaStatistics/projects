@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Fundusze inwestycyjne - Aktywa",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Przepływy"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Depozyty i należności kredytowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: depozyty oraz należności z tytułu kredytów i pożyczek (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Dłużne papiery wartościowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: papiery wartościowe inne niż akcje (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Udziały kapitałowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: akcje i inne udziały kapitałowe (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Jednostki funduszy inwestycyjnych",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: udziały i jednostki uczestnictwa w funduszach inwestycyjnych (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Aktywa niefinansowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: aktywa niefinansowe (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Pozostałe aktywa",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: pozostałe aktywa (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, aktywa/zobowiązania ogółem (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Depozyty i należności kredytowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: depozyty oraz należności z tytułu kredytów i pożyczek (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Dłużne papiery wartościowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: papiery wartościowe inne niż akcje (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Udziały kapitałowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: akcje i inne udziały kapitałowe (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Jednostki funduszy inwestycyjnych",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: udziały i jednostki uczestnictwa w funduszach inwestycyjnych (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Aktywa niefinansowe",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: aktywa niefinansowe (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Pozostałe aktywa",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria aktywów: pozostałe aktywa (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, aktywa/zobowiązania ogółem (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Alte instituții financiare, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Asigurări și pensii, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Societăți, total</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Populație, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Alte instituții financiare, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Asigurări și pensii, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Societăți, total</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Populație, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate altor intermediari financiari din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Alte instituții financiare, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate societăților de asigurări și fondurilor de pensii din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Asigurări și pensii, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate societăților nefinanciare din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Societăți, total</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Populație, total</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de până la un an acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Societăți; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de până la un an acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Societăți; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor cu scadența de până la un an acordate societăților nefinanciare din zona euro (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Societăți; x ≤ 1A</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de peste un an și până la cinci ani acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Societăți; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de peste un an și până la cinci ani acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Societăți; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor cu scadența de peste un an și până la cinci ani acordate societăților nefinanciare din zona euro (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Societăți; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de peste 5 ani acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Societăți; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite cu scadența de peste 5 ani acordate societăților nefinanciare din zona euro (toate valutele combinate, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Societăți; x &gt; 5A</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor cu scadența de peste 5 ani acordate societăților nefinanciare din zona euro (toate valutele combinate, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Societăți; x &gt; 5A</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților nefinanciare din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Societăți, total (date ajustate)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate populației din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Populație, total (date ajustate)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate societăților nefinanciare din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Societăți, total (date ajustate)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite totale acordate populației din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Populație, total (date ajustate)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate societăților nefinanciare din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Societăți, total (date ajustate)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor totale acordate populației din zona euro, date ajustate cu volumul vânzărilor de credite, al operațiunilor de securitizare și al concentrării noționale a lichidităților (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale). Creditele ajustate cu volumul vânzărilor și al operațiunilor de securitizare includ creditele care au fost vândute sau securitizate și care nu mai sunt evidențiate în bilanțurile băncilor.</p>",
+            "title": "<p>Populație, total (date ajustate)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite de consum acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Populație, consum</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite de consum acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Populație, consum</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor de consum acordate populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Populație, consum</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite pentru achiziția de locuințe acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Populație, credite pentru locuințe</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite pentru achiziția de locuințe acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Populație, credite pentru locuințe</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor pentru achiziția de locuințe acordate populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Populație, credite pentru locuințe</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite pentru alte destinații acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, solduri la sfârșitul perioadei)</p>",
+            "title": "<p>Populație, alte credite</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, credite pentru alte destinații acordate populației din zona euro (toate valutele combinate, toate scadențele, exprimate în euro, date neajustate sezonier, operațiuni financiare)</p>",
+            "title": "<p>Populație, alte credite</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, ritmuri de creștere aferente creditelor pentru alte destinații acordate populației din zona euro (toate valutele combinate, toate scadențele, date neajustate sezonier, variații procentuale anuale)</p>",
+            "title": "<p>Populație, alte credite</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Statistici privind bilanțurile instituțiilor financiare monetare, raportul dintre împrumuturile totale și depozitele totale aferente societăților nefinanciare și populației din zona euro, precum și societăților nefinanciare, populației și instituțiilor financiare nebancare din afara zonei euro (cu excepția administrațiilor publice, toate valutele combinate, toate scadențele, date neajustate sezonier, %, trimestrial)</p>",
+            "title": "<p>Raportul împrumuturi/depozite</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bilanțurile băncilor - Credite</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Stocuri</p>"
+        },
+        "2": {
+            "title": "<p>Fluxuri</p>"
+        },
+        "3": {
+            "title": "<p>Ritmuri de creștere</p>"
+        },
+        "4": {
+            "title": "<p>Raportul împrumuturi/depozite</p>"
+        }
+    }
+}

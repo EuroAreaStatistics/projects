@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indicadores de competitividade - Por preço e custo",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Competitividade"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Índices de preços no consumidor",
+            "definition": "Indicadores de competitividade harmonizados (ICH) com base nos índices de preços no consumidor (IPC) (médias do período; índice: T1 1999=100). Os IPC medem a variação média ao longo do tempo dos preços pagos pelas famílias por um cabaz específico de bens de consumo e serviços. Os ICH visam proporcionar medidas comparáveis para a competitividade de preços e os custos dos países da área do euro, que sejam também compatíveis com as taxas de câmbio efetivas (TCE) reais do euro. São elaborados com base na mesma metodologia e fontes de dados utilizadas para as TCE do euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflatores do PIB",
+            "definition": "Indicadores de competitividade harmonizados  (ICH) com base nos deflatores do produto interno bruto (PIB) (médias do período; índice: T1 1999=100). O PIB é uma medida da atividade económica. Constitui o valor da produção total de bens e serviços de uma economia, mais impostos líquidos sobre produtos e importações, menos o consumo intermédio. Os deflatores do PIB são calculados a partir das contas nacionais trimestrais publicadas pelo Eurostat (médias do período; índice: T1 1999=100). Os ICH visam proporcionar medidas comparáveis para a competitividade de preços e custos dos países da área do euro, que sejam também compatíveis com as taxas de câmbio efetivas (TCE) reais do euro. São elaborados com base na mesma metodologia e fontes de dados utilizadas para as TCE do euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Custos unitários do trabalho",
+            "definition": "Indicadores de competitividade harmonizados (ICH) com base nos custos unitários do trabalho para o total da economia (médias do período; índice: T1 1999=100). Os custos unitários do trabalho para o total da economia são calculados como o rácio entre a remuneração por trabalhador e a produtividade do trabalho. A produtividade do trabalho é medida como o PIB a preços constantes dividido pelo total de pessoas empregadas, utilizando as contas nacionais trimestrais publicadas pelo Eurostat (médias do período; índice: T1 1999=100). Os ICH visam proporcionar medidas comparáveis para a competitividade de preços e custos dos países da área do euro, que sejam também compatíveis com as taxas de câmbio efetivas (TCE) reais do euro. São elaborados com base na mesma metodologia e fontes de dados utilizadas para as TCE do euro."
+        }
+    }
+}

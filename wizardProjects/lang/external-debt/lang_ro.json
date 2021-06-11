@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Datoria externă brută (pasive ale economiei totale față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni bruți</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Datoria externă netă (pasive minus active, pasive nete ale economiei totale față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Datoria externă brută ca pondere în produsul intern brut (PIB) la prețurile pieței (pasivele economiei totale față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea brută</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Datoria externă netă ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive minus active, pasive nete ale economiei totale față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Datoria externă brută (pasive ale instituțiilor financiare monetare față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni bruți</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Datoria externă netă (pasive minus active, pasive nete ale instituțiilor financiare monetare față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Datoria externă brută ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive ale instituțiilor financiare monetare față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea brută</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Datoria externă netă ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive minus active, pasive nete ale instituțiilor financiare monetare față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Datoria externă brută (pasive ale administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni bruți</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Datoria externă netă (pasive minus active, pasive nete ale administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Datoria externă brută ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive ale administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea brută</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Datoria externă netă ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive minus active, pasive nete ale administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Datoria externă brută (pasive ale sectoarelor altele decât cele ale IFM și administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni bruți</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Datoria externă netă (pasive minus active, pasive nete ale sectoarelor altele decât cele ale IFM și administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>În termeni neți</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Datoria externă brută ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive ale sectoarelor altele decât cele ale IFM și administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea brută</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Datoria externă netă ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive minus active, pasive nete ale sectoarelor altele decât cele ale IFM și administrației publice față de nerezidenți; poziție la sfârșit de trimestru; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea netă</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector extern - Datoria externă</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Economia totală</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Instituții financiare monetare</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Administrație publică</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Alte sectoare</p>"
+        }
+    }
+}

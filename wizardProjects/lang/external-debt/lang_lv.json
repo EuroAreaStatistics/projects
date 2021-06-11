@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruto ārējais parāds (visas tautsaimniecības saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Neto ārējais parāds (pasīvi mīnus aktīvi, visas tautsaimniecības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (visas tautsaimniecības saistības pret nerezidentiem, atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Bruto rādītājs</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Neto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (pasīvi mīnus aktīvi, visas tautsaimniecības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruto ārējais parāds (monetāro finanšu iestāžu saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Neto ārējais parāds (pasīvi mīnus aktīvi, monetāro finanšu iestāžu neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (monetāro finanšu iestāžu saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Bruto rādītājs</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Neto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (pasīvi mīnus aktīvi, monetāro finanšu iestāžu neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruto ārējais parāds (valdības saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Neto ārējais parāds (pasīvi mīnus aktīvi, valdības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (valdības saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Bruto rādītājs</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Neto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (pasīvi mīnus aktīvi, valdības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruto ārējais parāds (ne-MFI sektoru un valdības saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Neto ārējais parāds (pasīvi mīnus aktīvi, ne-MFI sektoru un valdības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (ne-MFI sektoru un valdības saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Bruto rādītājs</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Neto ārējais parāds % no iekšzemes kopprodukta (IKP) tirgus cenās (pasīvi mīnus aktīvi, ne-MFI sektoru un valdības neto saistības pret nerezidentiem; atlikumi ceturkšņa beigās; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ārējais sektors - ārējais parāds</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Visa tautsaimniecība</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetārās finanšu iestādes</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Valdība</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Citi sektori</p>"
+        }
+    }
+}

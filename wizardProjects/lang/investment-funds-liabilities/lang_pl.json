@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Fundusze inwestycyjne - Zobowiązania",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Przepływy"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Jednostki funduszy inwestycyjnych",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: udziały i jednostki uczestnictwa w funduszach inwestycyjnych (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Otrzymane kredyty i depozyty",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: otrzymane kredyty i pożyczki oraz przyjęte depozyty (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Pozostałe zobowiązania",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: pozostałe zobowiązania (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, aktywa/zobowiązania ogółem (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Jednostki funduszy inwestycyjnych",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: udziały i jednostki uczestnictwa w funduszach inwestycyjnych (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Otrzymane kredyty i depozyty",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: otrzymane kredyty i pożyczki oraz przyjęte depozyty (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Pozostałe zobowiązania",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, kategoria zobowiązań: pozostałe zobowiązania (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, aktywa/zobowiązania ogółem (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane kwartalne, nieodsezonowane)"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "charts": {
+        "AME.A..1.0.319.0.UBLGE": {
+            "definition": "<p>Ponderea deficitului public în PIB (-) sau ponderea excedentului public în PIB (+) se referă la criteriile de la Maastricht. Statisticile privind deficitul public includ decontările din cadrul operațiunilor de swap. (Fluxuri nefinanciare, prețuri curente, procente, date neajustate sezonier sau cu numărul zilelor lucrătoare.) Ultimii doi ani prezentați în grafice se bazează pe previziunile Comisiei Europene (Direcția Generală Afaceri Economice și Financiare). Valoarea de referință stabilită pentru deficitul bugetar în cadrul Pactului de stabilitate și creștere este de 3%.</p>",
+            "title": "<p>Ponderea deficitului/excedentului public în PIB</p>"
+        },
+        "AME.A..1.0.319.0.UDGGL": {
+            "definition": "<p>Ponderea datoriei publice în PIB se referă la criteriile de la Maastricht. Statisticile privind datoria publică sunt cele utilizate în contextul procedurii de deficit excesiv. (Stocuri financiare la valoarea nominală, procente, date neajustate sezonier sau cu numărul zilelor lucrătoare.) Ultimii doi ani prezentați în grafice se bazează pe previziunile Comisiei Europene (Direcția Generală Afaceri Economice și Financiare). Valoarea de referință stabilită în criteriile de la Maastricht este de 60%.</p>",
+            "title": "<p>Ponderea datoriei publice în PIB</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N": {
+            "definition": "<p>Produsul intern brut la prețurile pieței, total economie, exprimat în euro, volume înlănțuite (recalculate, an de referință 2010), date ajustate sezonier și cu numărul zilelor lucrătoare. Sursa: Eurostat.</p>",
+            "title": "<p>Volum</p>"
+        },
+        "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY": {
+            "definition": "<p>Produsul intern brut la prețurile pieței, total economie, monedă națională (poate include sume convertite în moneda actuală la rată fixă), volume înlănțuite (recalculate), ritm de creștere pe parcursul unei perioade de un an, date ajustate sezonier și cu numărul zilelor lucrătoare. Sursa: Eurostat.</p>",
+            "title": "<p>Ritm anual de creștere</p>"
+        },
+        "QSA.A.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ponderea datoriei populației în venitul disponibil brut (date neconsolidate, prețuri curente, procente, date neajustate sezonier sau cu numărul zilelor lucrătoare).</p>",
+            "title": "<p>Ponderea datoriei populației în PIB (A)</p>"
+        },
+        "QSA.Q.N..W0.S11.S1.N.L.LE.FPT.T._Z.XDC_R_B1GQ_CY._T.S.V.N._T": {
+            "definition": "<p>Ponderea datoriei societăților nefinanciare în PIB. Datoriile includ împrumuturi contractate și titluri de natura datoriei emise. (Date consolidate, prețuri ale pieței, procente, date neajustate sezonier sau cu numărul zilelor lucrătoare.)</p>",
+            "title": "<p>Ponderea datoriei societăților în PIB</p>"
+        },
+        "QSA.Q.N..W0.S1M.S1.N.L.LE.F4.T._Z.XDC_R_B6G_CY._T.S.V.N._T": {
+            "definition": "<p>Ponderea datoriei populației în venitul disponibil brut (date neconsolidate, prețuri curente, procente, date neajustate sezonier sau cu numărul zilelor lucrătoare). Neafișarea datelor echivalează cu nedisponibilitatea acestora.</p>",
+            "title": "<p>Ponderea datoriei populației în PIB (T)</p>"
+        },
+        "STS.M..S.UNEH.RTT000.4.000": {
+            "definition": "<p>Rata armonizată a șomajului (ca procentaj din forța de muncă), standardizată la nivelul țărilor, toate vârstele, sex masculin și feminin, date ajustate sezonier, neajustate cu numărul zilelor lucrătoare. Sursa: Eurostat.</p>",
+            "title": "<p>Rata șomajului</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Indicatori macroeconomici</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>PIB</p>"
+        },
+        "2": {
+            "title": "<p>Șomaj</p>"
+        },
+        "3": {
+            "title": "<p>Grad de îndatorare</p>"
+        }
+    }
+}

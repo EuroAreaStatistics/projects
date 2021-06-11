@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: lühiajalised võlaväärtpaberid</p>\r\n<p>Hoitav kogusumma: %{sumOut} %{unit}</p>\r\n<p>Emiteeritud kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Hoidev sektor: %{from}</p>\r\n<p>Hoitav summa: %{value} %{unit}</p>\r\n<p>Instrument: lühiajalised võlaväärtpaberid</p>\r\n<p>Emiteeriv sektor: %{to}</p>\r\n<p>Osakaal kogupositsioonis: %{percentFrom}</p>\r\n<p>Osakaal koguemissioonis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hoidev sektor: %{from}; emiteeriv sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: pikaajalised võlaväärtpaberid</p>\r\n<p>Hoitav kogusumma: %{sumOut} %{unit}</p>\r\n<p>Emiteeritud kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Hoidev sektor: %{from}</p>\r\n<p>Hoitav summa: %{value} %{unit}</p>\r\n<p>Instrument: pikaajalised võlaväärtpaberid</p>\r\n<p>Emiteeriv sektor: %{to}</p>\r\n<p>Osakaal kogupositsioonis: %{percentFrom}</p>\r\n<p>Osakaal koguemissioonis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hoidev sektor: %{from}; emiteeriv sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: lühiajalised laenud</p>\r\n<p>Antud laenude kogusumma: %{sumOut} %{unit}</p>\r\n<p>Võetud laenude kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Laenuandja sektor: %{from}</p>\r\n<p>Laenuks antud summa: %{value} %{unit}</p>\r\n<p>Instrument: lühiajalised laenud</p>\r\n<p>Laenuvõtja sektor: %{to}</p>\r\n<p>Osakaal antud laenude kogusummas: %{percentFrom}</p>\r\n<p>Osakaal võetud laenude kogusummas: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Laenuandja sektor: %{from}; laenuvõtja sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: pikaajalised laenud</p>\r\n<p>Antud laenude kogusumma: %{sumOut} %{unit}</p>\r\n<p>Võetud laenude kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Laenuandja sektor: %{from}</p>\r\n<p>Laenuks antud summa: %{value} %{unit}</p>\r\n<p>Instrument: pikaajalised laenud</p>\r\n<p>Laenuvõtja sektor: %{to}</p>\r\n<p>Osakaal antud laenude kogusummas: %{percentFrom}</p>\r\n<p>Osakaal võetud laenude kogusummas: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Laenuandja sektor: %{from}; laenuvõtja sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: hoiused</p>\r\n<p>Avatud hoiuste kogusumma: %{sumOut} %{unit}</p>\r\n<p>Saadud kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Hoiuse teinud sektor: %{from}</p>\r\n<p>Hoiuse summa: %{value} %{unit}</p>\r\n<p>Instrument: hoiused</p>\r\n<p>Saaja sektor: %{to}</p>\r\n<p>Osakaal avatud hoiuste kogusummas: %{percentFrom}</p>\r\n<p>Osakaal saadud hoiuste kogusummas: %{percentFrom}</p>"
+                },
+                "fromTo": "<p>Hoiuse teinud sektor: %{from}; saaja sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: noteeritud aktsiad</p>\r\n<p>Hoitav kogusumma: %{sumOut} %{unit}</p>\r\n<p>Emiteeritud aktsiate kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Hoidev sektor: %{from}</p>\r\n<p>Hoitav summa: %{value} %{unit}</p>\r\n<p>Instrument: noteeritud aktsiad</p>\r\n<p>Emiteeriv sektor: %{to}</p>\r\n<p>Osakaal kogupositsioonis: %{percentFrom}</p>\r\n<p>Osakaal koguemissioonis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hoidev sektor: %{from}; emiteeriv sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Ajavahemik: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: investeerimisfondide aktsiad/osakud</p>\r\n<p>Hoitav kogusumma: %{sumOut} %{unit}</p>\r\n<p>Emiteeritud aktsiate/osakute kogusumma: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Ajavahemik: %{date}</p>\r\n<p>Hoidev sektor: %{from}</p>\r\n<p>Hoitav summa: %{value} %{unit}</p>\r\n<p>Instrument: investeerimisfondide aktsiad/osakud</p>\r\n<p>Emiteeriv sektor: %{to}</p>\r\n<p>Osakaal kogupositsioonis: %{percentFrom}</p>\r\n<p>Osakaal koguemissioonis: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Hoidev sektor: %{from}; emiteeriv sektor: %{to}</p>",
+                "incoming": "<p>Kohustused</p>",
+                "missing": {
+                    "incoming": "<p>- andmed puuduvad / ei ole asjakohased</p>",
+                    "outgoing": "<p>- andmed puuduvad / ei ole asjakohased</p>"
+                },
+                "outgoing": "<p>Varad</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Sektorisisene jääk</p>"
+            },
+            "title": "<p>Jääk</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Joonisel „Rahastamise ja investeeringute dünaamika” toodud andmed pärinevad sektorite andmetest, mis annavad tervikliku ja järjepideva ülevaate kõigi residentidest institutsiooniliste sektorite kvartaliandmetest. Joonisel näidatakse institutsiooniliste sektorite siseseid ja nende vahelisi finantsseoseid, samuti seotust ülejäänud maailmaga. Samuti kujutatakse sektoritevahelisi finantspositsioone (andmed voogude kohta on kättesaadavad ka EKP avalikes andmebaasides). Rahastamisliigi (omakapital või võlakapital) päritolu ja sama instrumendi sihteesmärk näitavad, kuidas sektorid rahalisi vahendeid jaotavad. Iga sektori kohta näidatakse selle varasid ja kohustusi instrumentide kaupa. Võimalikud negatiivsed jäägid on tingitud lühikeseks müügist, st selliste väärtpaberite või muude finantsinstrumentide müügist, mida müüja ei oma. Nooltega on tähistatud positsioonid teiste sektorite suhtes. Sektorisisesed positsioonid on esitatud sektori nime kõrval.</p>\r\n<p>Andmed põhinevad Euroopa rahvamajanduse ja regionaalse arvepidamise süsteemil (ESA 2010). Sektorid: mittefinantsettevõtted, rahaloomeasutused, investeerimisfondid (v.a rahaturufondid), muud finantseerimisasutused, kindlustusseltsid, pensionifondid, valitsussektor, kodumajapidamised (sh kodumajapidamisi teenindavad mittetulundusühingud), ülejäänud maailm (residentide ja mitteresidentide vahelised positsioonid). Instrumendid: hoiused, lühiajalised võlaväärtpaberid, pikaajalised võlaväärtpaberid, lühiajalised laenud, pikaajalised laenud, noteeritud aktsiad, investeerimisfondide aktsiad/osakud. Andmed on konsolideerimata, st instrumentide kogunäitajad ja protsentuaalsed näitajad hõlmavad sektorisiseseid finantspositsioone (nt pankadelt teistele pankadele antud laenud); bilansipositsioonid on esitatud kvartalilõpu seisuga; andmeid ei ole hooajaliselt ega kalendrilise mõjuga korrigeeritud; summad on esitatud miljardites eurodes; lühiajaliste instrumentide esialgne tähtaeg on kuni üks aasta; pikaajaliste instrumentide esialgne tähtaeg on üle ühe aasta või tähtaega pole märgitud; andmed on euroala koondnäitajad; „-” tähendab, et andmed puuduvad või ei ole asjakohased.   </p>\r\n<p>Esitatud instrumendid ei anna terviklikku ülevaadet kõigist finantsvaradest ja -kohustustest (nt puuduvad vääring, noteerimata aktsiad ja osakud, kindlustus- ja pensionikavad, tuletisinstrumendid ning muud saadavad/makstavad arved). Täpsemalt vt: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>EKP</p>"
+        },
+        "title": "<p>Rahastamise ja investeeringute dünaamika</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Lühiajalised võlaväärtpaberid</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Pikaajalised võlaväärtpaberid</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Lühiajalised laenud</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Pikaajalised laenud</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Hoiused</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Noteeritud aktsiad</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>ülejäänud maailm</p>",
+                "S11": "<p>ettevõtted</p>",
+                "S124": "<p>investeerimisfondid</p>",
+                "S128": "<p>kindlustusandjad</p>",
+                "S129": "<p>pensionifondid</p>",
+                "S12K": "<p>pangad</p>",
+                "S12O": "<p>muud finantsettevõtted</p>",
+                "S13": "<p>valitsussektor</p>",
+                "S1M": "<p>kodumajapidamised</p>",
+                "WLD": "<p>kokku</p>"
+            },
+            "title": "<p>Investeerimisfondide aktsiad/osakud</p>"
+        }
+    }
+}

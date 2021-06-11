@@ -1,0 +1,74 @@
+{
+    "charts": {
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos a un día denominados en euros de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones y saldos vivos coinciden)</p>",
+            "title": "<p>Tipos de interés a un día</p>"
+        },
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos a un día denominados en euros de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones y saldos vivos coinciden)</p>",
+            "title": "<p>Tipos de interés a un día</p>"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento hasta un año de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x ≤ 1 año</p>"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento hasta un año de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x ≤ 1 año</p>"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de un año y hasta dos años de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; 1 año &lt; x ≤ 2 años</p>"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de un año y hasta dos años de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; 1 año &lt; x ≤ 2 años</p>"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de dos años de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x &gt; 2 años</p>"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de dos años de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x &gt; 2 años</p>"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de un año de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x &gt; 1 año</p>"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento a más de un año de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x &gt; 1 año</p>"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento hasta dos años de las sociedades no financieras de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x ≤ 2 años</p>"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros con vencimiento hasta dos años de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Depósito, vencimiento; x ≤ 2 años</p>"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "definition": "<p>Depósitos denominados en euros disponibles con preaviso hasta tres meses de los hogares de la zona del euro (porcentajes anuales, nuevas operaciones y saldos vivos coinciden)</p>",
+            "title": "<p>Depósitos disponibles con preaviso; x ≤ 3 meses</p>"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "definition": "<p>Cesiones temporales de los hogares y sociedades no financieras de la zona del euro denominadas en euros (porcentajes anuales, nuevas operaciones)</p>",
+            "title": "<p>Cesiones temporales</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Tipos de interés bancarios - Depósitos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Hogares</p>"
+        },
+        "2": {
+            "title": "<p>Empresas</p>"
+        }
+    }
+}

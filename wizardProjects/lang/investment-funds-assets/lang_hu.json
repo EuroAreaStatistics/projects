@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Befektetési alap - Eszköz",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Állomány"
+        },
+        "2": {
+            "title": "Állományváltozás"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Betét, hitelkövetelés",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: betét és hitelkövetelés (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Hitelpapír",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: részvények nélkül vett értékpapírok (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Részvény",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: részvény és egyéb részesedés (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Befektetési jegy",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: befektetési alap részesedés/jegy (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nem pénzügyi eszköz",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: nem pénzügyi eszköz (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Egyéb eszköz",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: egyéb eszköz (időszak végi állományok, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, teljes eszköz-, ill. forrásállomány (időszak végi állomány, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Betét, hitelkövetelés",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: betét, hitelkövetelés (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Hitelpapír",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: részvények nélkül tekintett értékpapírok (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Részvény",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: részvény és egyéb részesedés  (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Befektetési jegy",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: befektetési alap részesedés/jegy (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nem pénzügyi eszköz",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: nem pénzügyi eszköz (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Egyéb eszköz",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, eszközosztály: egyéb eszköz (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Összesen",
+            "definition": "A pénzpiaci alapok nélkül tekintett befektetési alapok, teljes eszköz-, ill. forrásállomány (pénzügyi tranzakciók, teljes futamidő, összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, negyedéves adatok)"
+        }
+    }
+}

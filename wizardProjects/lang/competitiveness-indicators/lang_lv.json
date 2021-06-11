@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Konkurētspējas rādītāji - cenu un izmaksu dalījumā",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurētspēja"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Patēriņa cenu indeksi",
+            "definition": "Saskaņotie konkurētspējas rādītāji (SKR), kas balstīti uz patēriņa cenu indeksiem (perioda vidējie rādītāji; indekss: 1999. gada 1. cet. = 100). Patēriņa cenu indeksi atspoguļo cenu, ko mājsaimniecības maksā par konkrētu patēriņa preču un pakalpojumu grozu, vidējās pārmaiņas laika periodā. SKR mērķis ir sniegt salīdzināmus euro zonas valstu cenu un izmaksu konkurētspējas rādītājus, kas atbilst arī euro reālajiem efektīvajiem kursiem. SKR aprēķinā izmantota euro reālā efektīvā kursa aprēķina metodika un datu avoti."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "IKP deflatori",
+            "definition": "Saskaņotie konkurētspējas rādītāji (SKR), kas balstīti uz iekšzemes kopprodukta (IKP) deflatoriem (perioda vidējie rādītāji; indekss: 1999. gada 1. cet. = 100). IKP ir ekonomiskās aktivitātes rādītājs. IKP ir tautsaimniecībā saražoto preču un pakalpojumu kopapjoma vērtība, pieskaitot produktu un importa tīros nodokļu ieņēmumus un atskaitot starppatēriņu. IKP deflatorus iegūst no Eurostat publicētajiem ceturkšņa nacionālajiem kontiem (perioda vidējie rādītāji; indekss: 1999. gada 1. cet. = 100). SKR mērķis ir sniegt salīdzināmus euro zonas valstu cenu un izmaksu konkurētspējas rādītājus, kas atbilst arī euro reālajiem efektīvajiem kursiem. SKR aprēķinā izmantota euro reālā efektīvā kursa aprēķina metodika un datu avoti."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Vienības darbaspēka izmaksas",
+            "definition": "Saskaņotie konkurētspējas rādītāji (SKR), kas balstīti uz visas tautsaimniecības vienības darbaspēka izmaksu indeksiem (perioda vidējie rādītāji; indekss: 1999. gada 1. cet. = 100). Vienības darbaspēka izmaksas visā tautsaimniecībā aprēķina kā attiecību starp viena nodarbinātā atlīdzību un darba ražīgumu. Darba ražīgumu aprēķina, dalot IKP salīdzināmajās cenās ar kopējo nodarbināto skaitu, izmantojot Eurostat publicētos ceturkšņa nacionālos kontus (perioda vidējie rādītāji; indekss: 1999. gada 1. cet. = 100). SKR mērķis ir sniegt salīdzināmus euro zonas valstu cenu un izmaksu konkurētspējas rādītājus, kas atbilst arī euro reālajiem efektīvajiem kursiem. SKR aprēķinā izmantota euro reālā efektīvā kursa aprēķina metodika un datu avoti."
+        }
+    }
+}

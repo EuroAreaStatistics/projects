@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Euro area current account – by main counterparties",
+        "options": {
+            "dataSourceURL": "",
+            "dataSource": ""
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Balance",
+            "definition": "Current account balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564068909178": {
+            "title": "Credits",
+            "definition": "Current account credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1564068910267": {
+            "title": "Debits",
+            "definition": "Current account debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564068912843": {
+            "title": "Balance ratio",
+            "definition": "Current account balance as a percentage of gross domestic product (GDP) at market prices (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working-day adjusted; BPM6 and ESA 2010 standards).\n"
+        },
+        "c1564068914122": {
+            "title": "Credits ratio",
+            "definition": "Current account credits as a percentage of gross domestic product (GDP) at market prices (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working-day adjusted; BPM6 and ESA 2010 standards).\n"
+        },
+        "c1564068923105": {
+            "title": "Debits ratio",
+            "definition": "Current account debits as a percentage of gross domestic product (GDP) at market prices (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working-day adjusted; BPM6 and ESA 2010 standards).\n"
+        },
+        "c1564069009278": {
+            "title": "Balance",
+            "definition": "Current account, goods, balance (exports minus imports, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069010262": {
+            "title": "Exports",
+            "definition": "Current account, goods, exports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069011133": {
+            "title": "Imports",
+            "definition": "Current account, goods, imports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069099259": {
+            "title": "Balance",
+            "definition": "Current account, services, balance (exports minus imports, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069100395": {
+            "title": "Exports",
+            "definition": "Current account, services, exports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069101212": {
+            "title": "Imports",
+            "definition": "Current account, services, imports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069138405": {
+            "title": "Balance",
+            "definition": "Current account, primary income balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069139195": {
+            "title": "Credits",
+            "definition": "Current account, primary income credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069140068": {
+            "title": "Debits",
+            "definition": "Current account, primary income debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards).\n"
+        },
+        "c1564069182310": {
+            "title": "Balance",
+            "definition": "Current account, secondary income balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1564069183037": {
+            "title": "Credits",
+            "definition": "Current account, secondary income credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1564069183806": {
+            "title": "Debits",
+            "definition": "Current account, secondary income debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Total",
+            "teaser": ""
+        },
+        "t1564068865672": {
+            "title": "Goods",
+            "teaser": ""
+        },
+        "t1564068866815": {
+            "title": "Services",
+            "teaser": ""
+        },
+        "t1564068868407": {
+            "title": "Primary income",
+            "teaser": ""
+        },
+        "t1564068869622": {
+            "title": "Secondary income",
+            "teaser": ""
+        }
+    }
+}

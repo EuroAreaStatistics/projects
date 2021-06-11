@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Poziția investițională internațională, active de rezervă (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Poziția investițională internațională, active de rezervă ca pondere în produsul intern brut (PIB) la prețurile pieței (poziție la sfârșit de trimestru față de nerezidenți; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector extern - Active de rezervă</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Active de rezervă</p>"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Koguvälisvõlg (kogu majanduse kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Koguvõlg</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Netovälisvõlg (kohustused miinus varad, kogu majanduse netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netovõlg</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Koguvälisvõla osakaal kogu SKPst turuhindades (kogu majanduse kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Koguvõla suhtarv</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Netovälisvõla osakaal kogu SKPst turuhindades (kohustused miinus varad, kogu majanduse netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Netovõla suhtarv</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Koguvälisvõlg (rahaloomeasutuste kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Koguvõlg</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Netovälisvõlg (kohustused miinus varad, rahaloomeasutuste netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netovõlg</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Koguvälisvõla osakaal kogu SKPst turuhindades (rahaloomeasutuste kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Koguvõla suhtarv</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Netovälisvõla osakaal kogu SKPst turuhindades (kohustused miinus varad, rahaloomeasutuste netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Netovõla suhtarv</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Koguvälisvõlg (valitsussektori kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Koguvõlg</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Netovälisvõlg (kohustused miinus varad, valitsussektori netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netovõlg</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Koguvälisvõla osakaal kogu SKPst turuhindades (valitsussektori kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Koguvõla suhtarv</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Netovälisvõla osakaal kogu SKPst turuhindades (kohustused miinus varad, valitsussektori netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Netovõla suhtarv</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Koguvälisvõlg (valitsussektori ja muude sektorite (v.a rahaloomeasutuste sektor) kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Koguvõlg</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Netovälisvõlg (kohustused miinus varad, valitsussektori ja muude sektorite (v.a rahaloomeasutuste sektor) kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Netovõlg</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Koguvälisvõla osakaal kogu SKPst turuhindades (valitsussektori ja muude sektorite (v.a rahaloomeasutuste sektor) kohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Koguvõla suhtarv</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Koguvälisvõla osakaal kogu SKPst turuhindades (kohustused miinus varad, valitsussektori ja muude sektorite (v.a rahaloomeasutuste sektor) netokohustused mitteresidentide suhtes, kvartali lõpu seisuga, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Netovõla suhtarv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Välissektor - Välisvõlg</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kogu majandus</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Rahaloomeasutused</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Valitsussektor</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Muud sektorid</p>"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Titres - Actions cotées",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Encours"
+        },
+        "2": {
+            "title": "Nouvelles émissions"
+        },
+        "3": {
+            "title": "Émissions nettes"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banques, encours",
+            "definition": "Encours d'actions cotées émises par les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Entreprises, encours",
+            "definition": "Encours d'actions cotées émises par les sociétés non financières (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Autres inst. financières, encours",
+            "definition": "Encours d'actions cotées émises par les sociétés financières autres que les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total, encours",
+            "definition": "Encours totaux d'actions cotées (valeur de marché, toutes devises combinées, libellées en euros, émissions par les résidents)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banques, nouveaux",
+            "definition": "Émissions brutes d'actions cotées par les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Entreprises, nouveaux",
+            "definition": "Émissions brutes d'actions cotées par les sociétés non financières (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Autres inst. financières, nouveaux",
+            "definition": "Émissions brutes d'actions cotées par les sociétés financières autres que les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total, nouveaux",
+            "definition": "Émissions brutes totales d'actions cotées (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banques, net",
+            "definition": "Émissions nettes d'actions cotées par les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Entreprises, net",
+            "definition": "Émissions nettes d'actions cotées par les sociétés non financières (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Autres inst. financières, net",
+            "definition": "Émissions nettes d'actions cotées par les sociétés financières autres que les IFM (valeur de marché, libellées en euros, émissions par les résidents)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total, net",
+            "definition": "Émissions nettes totales d'actions cotées (valeur de marché, libellées en euros, émissions par les résidents)"
+        }
+    }
+}

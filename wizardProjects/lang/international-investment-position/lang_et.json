@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Rahvusvaheline netoinvesteerimispositsioon (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Rahvusvahelise investeerimispositsiooni varad (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Rahvusvahelise investeerimispositsiooni kohustused (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Rahvusvahelise netoinvesteerimispositsiooni osakaal kogu SKPst turuhindades, (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Eelarvetasakaalu suhtarv</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Rahvusvahelise investeerimispositsiooni varade osakaal kogu SKPst turuhindades, (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Rahvusvahelise investeerimispositsiooni kohustuste osakaal kogu SKPst turuhindades, (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kohustuste suhtarv</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute saldo (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute varad (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute kohustused (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute saldo osakaal kogu SKPst turuhindades (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Eelarvetasakaalu suhtarv</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute varade osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, otseinvesteeringute kohustuste osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kohustuste suhtarv</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute netoväärtus (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute varad (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute kohustused (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute netoväärtuse osakaal kogu SKPst turuhindades (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Eelarvetasakaalu suhtarv</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute varade osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, portfelliinvesteeringute kohustuste osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kohustuste suhtarv</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringute netoväärtus (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringutega seotud varad (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Varad</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringutega seotud kohustused (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 standardid)</p>",
+            "title": "<p>Kohustused</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringute netoväärtuse osakaal kogu SKPst turuhindades (varad miinus kohustused, kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Eelarvetasakaalu suhtarv</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringutega seotud varade osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Varade suhtarv</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Rahvusvaheline investeerimispositsioon, muude investeeringutega seotud kohustuste osakaal kogu SKPst turuhindades (kvartali lõpu seisuga mitteresidentide suhtes, hooajaliselt või tööpäevade arvu järgi korrigeerimata, BPM6 ja ESA 2010 standardid)</p>",
+            "title": "<p>Kohustuste suhtarv</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Välissektor - Rahvusvaheline investeerimispositsioon</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kokku</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Välismaised otseinvesteeringud</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfelliinvesteeringud</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Muud investeeringud</p>"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investicijski fondovi - prema vrsti fonda",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        },
+        "3": {
+            "title": "Stope rasta"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Otvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: otvoreni fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Zatvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: zatvoreni fondovi (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Otvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: otvoreni fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Zatvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: zatvoreni fondovi (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Otvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: otvoreni fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Zatvoreni fondovi",
+            "definition": "Dionice/udjeli investicijskih fondova koje su izdali investicijski fondovi koji nisu novčani fondovi, prema vrsti fonda: zatvoreni fondovi (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, dionice/udjeli investicijskih fondova (godišnja stopa rasta, svi rokovi dospijeća, sve valute, godišnje promjene u postotcima, nedesezonirano, mjesečni podatci)"
+        }
+    }
+}

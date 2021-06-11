@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Nettokapitalbalancen over for udlandet (aktiver minus passiver, stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Kapitalbalancen over for udlandet (aktiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Kapitalbalancen over for udlandet (passiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Nettokapitalbalancen over for udlandet som en procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver minus passiver; stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Kapitalbalancen over for udlandet (aktiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Aktiver (i pct.)</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Kapitalbalancen over for udlandet (passiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Passiver (i pct.)</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (netto) (aktiver minus passiver, stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (aktiver) (stilling ultimo kvartalet over for ikkeresidenter; sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (passiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (netto) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver minus passiver, stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Nettokvotient</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (aktiver) som en procentdel af bruttonationalproduktet (BNP) til markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Aktiver (i pct.)</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Kapitalbalancen over for udlandet, direkte investeringer (passiver) som en procentdel af bruttonationalproduktet (BNP) til markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Passiver (i pct.)</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesteringer (netto) (aktiver minus passiver, stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesteringer (aktiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesteringer (passiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesternger (netto) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver minus passiver, stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesternger (aktiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder)</p>",
+            "title": "<p>Aktiver (i pct.)</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Kapitalbalancen over for udlandet, porteføljeinvesteringer (passiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Passiver (i pct.)</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (netto) (aktiver minus passiver; stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (aktiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (passiver) (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Passiver</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (netto) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (aktiver minus passiver; stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Netto (i pct.)</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (aktiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Aktiver (i pct.)</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Kapitalbalancen over for udlandet, andre investeringer (passiver) som en procentdel af bruttonationalproduktet (BNP) i markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Passiver (i pct.)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ekstern sektor - Udenlandske direkte investeringer</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>I alt</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Direkte investeringer</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Porteføljeinvesteringer</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Andre investeringer</p>"
+        }
+    }
+}

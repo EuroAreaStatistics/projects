@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investeringsfonder - Tillgångar",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Ställning"
+        },
+        "2": {
+            "title": "Flöden"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Inlåning och lånefordringar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: inlåning och lånefordringar (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Skuldförbindelser",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: värdepapper andra än aktier (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Aktier",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: aktier och andra ägarandelar exklusive investeringsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Andelar i investeringsfonder",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: andelar i investeringsfonder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Icke-finansiella tillgångar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: icke-finansiella tillgångar (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Övriga tillgångar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: övriga tillgångar (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: totalt tillgångar/skulder (utestående belopp vid periodens slut, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Inlåning och lånefordringar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: inlåning och lånefordringar (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Skuldförbindelser",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: värdepapper andra än aktier (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Aktier",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: aktier och andra ägarandelar exklusive investeringsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Andelar i investeringsfonder",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: andelar i investeringsfonder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Icke-finansiella tillgångar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: icke-finansiella tillgångar (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Övriga tillgångar",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, tillgångsklass: övriga tillgångar (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Totalt",
+            "definition": "Investeringsfonder andra än penningmarknadsfonder, totalt tillgångar/skulder (finansiella transaktioner, total löptid, alla valutor sammanlagt, i euro, ej säsongsrensat, kvartalsuppgifter)"
+        }
+    }
+}

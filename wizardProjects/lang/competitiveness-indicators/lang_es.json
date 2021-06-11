@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indicadores de competitividad - En términos de precios y costes",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Competitividad"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Índices de precios de consumo",
+            "definition": "Indicadores de competitividad armonizados (ICA) basados en los índices de precios de consumo (medias del período; índice: T1 1999=100). Los índices de precios de consumo miden la variación media a lo largo del tiempo de los precios de una cesta concreta de bienes y servicios de consumo adquiridos por los hogares. El objetivo de los ICA es ofrecer medidas comparables de la competitividad en términos de precios y costes en los países de la zona del euro que sean también coherentes con los tipos de cambio efectivos (TCE) reales del euro. Los ICA se elaboran utilizando la misma metodología y las mismas fuentes de datos que las empleadas en los cálculos de los TCE del euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflactores del PIB",
+            "definition": "Indicadores de competitividad armonizados (ICA) basados en los deflactores del producto interior bruto (PIB) (medias del período; índice: T1 1999=100). El PIB es una medida de la actividad económica. Es el valor de la producción total de bienes y servicios de una economía, incluidos los impuestos netos sobre producción e importaciones y excluidos los consumos intermedios. Los deflactores del PIB se obtienen a partir de las cuentas nacionales trimestrales publicadas por Eurostat (medias del período; índice: T1 1999=100). El objetivo de los ICA es ofrecer medidas comparables de la competitividad en términos de precios y costes en los países de la zona del euro que sean también coherentes con los tipos de cambio efectivos (TCE) reales del euro. Los ICA se elaboran utilizando la misma metodología y las mismas fuentes de datos que las empleadas en los cálculos de los TCE del euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Costes laborales unitarios",
+            "definition": "Indicadores de competitividad armonizados basados en índices de costes laborales unitarios para el total de la economía (medias del período; índice: T1 1999=100). Los costes laborales unitarios para el total de la economía se calculan como la ratio entre la remuneración por asalariado y la productividad del trabajo. La productividad del trabajo se mide como el PIB a precios constantes dividido por el número total de personas empleadas utilizando las cuentas nacionales trimestrales publicadas por Eurostat (medias del período; índice: T1 1999=100). El objetivo de los ICA es ofrecer medidas comparables de la competitividad en términos de precios y costes en los países de la zona del euro que sean también coherentes con los tipos de cambio efectivos (TCE) reales del euro. Los ICA se elaboran utilizando la misma metodología y las mismas fuentes de datos que las empleadas en los cálculos de los TCE del euro."
+        }
+    }
+}

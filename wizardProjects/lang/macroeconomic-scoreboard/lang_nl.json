@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Balans van de lopende rekening als percentage van bruto binnenlands product (bbp) (driejaars voortschrijdend gemiddelde, berekend volgens internationale normen zoals BPM6 en ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator +6% en -4%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Balans lopende rekening (3j)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Netto internationale investeringspositie als percentage van bruto binnenlands product (bbp) (op jaarbasis, berekend volgens internationale normen zoals BPM6 en ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator -35%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Internationale investeringspositie (j)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Reëel effectieve wisselkoers (HICP/CPI-gedefleerd, procentuele mutatie over drie jaren t.o.v. 41 andere industriële landen). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator -/+5% voor de landen van het eurogebied. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Reëel effectieve wisselkoers (3j)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Exportmarktaandelen (gemeten in waarden, procentuele mutatie over vijf jaren, berekend volgens internationale normen zoals BPM6). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator -6%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Exportmarktaandelen (5j)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominale arbeidskosten per eenheid product (procentuele mutatie over drie jaren, gebaseerd op personen). De arbeidskosten per eenheid product zijn een maatstaf van de totale arbeidskosten per eenheid product, berekend als de ratio van beloning per werknemer t.o.v. de arbeidsproductiviteit (gedefinieerd als bbp per werknemer). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator +9% voor de landen van het eurogebied. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Nominale arbeidskosten per eenheid product (3j)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>De huizenprijzen ten opzichte van een particuliereconsumptiedeflator van Eurostat (jaar-op-jaar procentuele mutatie, nieuwe en bestaande woningen). De indicator van prijzen van niet-commercieel onroerend goed voor het eurogebied is een gemiddelde van niet-geharmoniseerde landenindicatoren op basis van gegevens uit nationale bronnen. De dekking loopt enigszins uiteen tussen de verschillende landen. Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 6%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Huizenprijzen</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>De kredietstroom particuliere sector als percentage van bruto binnenlands product (bbp) (geconsolideerd, berekend volgens internationale normen zoals BPM6 en ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 15%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Kredietstroom particuliere sector</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Schuld particuliere sector als percentage van bruto binnenlands product (bbp) (geconsolideerd, berekend volgens internationale normen zoals BPM6 en ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 133%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Schuld particuliere sector</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>De overheidsschuld als percentage van bruto binnenlands product (bbp) (geconsolideerd, berekend volgens internationale normen zoals BPM6 en ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 60%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Schuld overheid</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Totale passiva van de financiële sector (jaar-op-jaar mutaties, niet-geconsolideerd, berekend volgens internationale normen zoals ESR 2010). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 16,5%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Passiva financiële sector</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Geharmoniseerd werkloosheidspercentage (driejaars voortschrijdend gemiddelde). Volgens de door de Europese Commissie beoordeelde <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> is de indicatieve drempel voor deze indicator 10%. Bronnen: ECB en Europese Commissie (Eurostat en DG Economische en financiële zaken).</p>",
+            "title": "<p>Werkloosheidspercentage (3j)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Macro-economisch scorebord</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Externe/concurrentievermogen-indicatoren</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Interne indicatoren</p>"
+        }
+    }
+}

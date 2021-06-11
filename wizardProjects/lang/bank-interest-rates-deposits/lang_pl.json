@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankowe stopy procentowe - Depozyty",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Gospodarstwa domowe"
+        },
+        "2": {
+            "title": "Przedsiębiorstwa"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Depozyty jednodniowe",
+            "definition": "Eurowe depozyty jednodniowe gospodarstw domowych ze strefy euro (oproc. roczne, nowe umowy pokrywają się ze stanami)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Depozyty terminowe; x ≤ 1 rok",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem pierwotnym do 1 roku włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Depozyty terminowe; x &gt; 1 rok",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem pierwotnym powyżej 1 roku (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Depozyty terminowe; 1 rok &lt; x ≤ 2 lata",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem pierwotnym powyżej 1 roku, do 2 lat włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Depozyty terminowe; x ≤ 2 lata",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem pierwotnym do 2 lat włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Depozyty terminowe; x &gt; 2 lata",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem pierwotnym powyżej 2 lat (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Depozyty z terminem wypow.; x ≤ 3 mies.",
+            "definition": "Depozyty eurowe gospodarstw domowych ze strefy euro z terminem wypowiedzenia do 3 mies. włącznie (oproc. roczne, nowe umowy pokrywają się ze stanami)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Umowy repo",
+            "definition": "Eurowe umowy repo z gospodarstwami domowymi i przedsiębiorstwami ze strefy euro (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Depozyty jednodniowe",
+            "definition": "Eurowe depozyty jednodniowe przedsiębiorstw ze strefy euro (oproc. roczne, nowe umowy pokrywają się ze stanami)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Depozyty terminowe; x ≤ 1 rok",
+            "definition": "Depozyty eurowe przedsiębiorstw ze strefy euro z terminem pierwotnym do 1 roku włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Depozyty terminowe; x &gt; 1 rok",
+            "definition": "Depozyty eurowe przedsiębiorstw ze strefy euro z terminem pierwotnym powyżej 1 roku (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Depozyty terminowe; 1 rok &lt; x ≤ 2 lata",
+            "definition": "Depozyty eurowe przedsiębiorstw ze strefy euro z terminem pierwotnym powyżej 1 roku, do 2 lat włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Depozyty terminowe; x ≤ 2 lata",
+            "definition": "Depozyty eurowe przedsiębiorstw ze strefy euro z terminem pierwotnym do 2 lat włącznie (oproc. roczne, nowe umowy)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Depozyty terminowe; x &gt; 2 lata",
+            "definition": "Depozyty eurowe przedsiębiorstw ze strefy euro z terminem pierwotnym powyżej 2 lat (oproc. roczne, nowe umowy)"
+        }
+    }
+}

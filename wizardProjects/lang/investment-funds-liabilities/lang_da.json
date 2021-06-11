@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Investeringsforeninger - Passiver",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Beholdninger"
+        },
+        "2": {
+            "title": "Strømme"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Investeringsforeningsandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: investeringsforeningsandele (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Lån og indskud, som er modtaget",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: lån og indskud, som er modtaget (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Andre passiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: andre passiver (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktiver/passiver i alt (udeståender ultimo perioden, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Investeringsforeningsandele",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: investeringsforeningsandele (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Lån og indskud, som er modtaget",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: lån og indskud, som er modtaget (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Andre passiver",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, passivklasse: andre passiver (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "I alt",
+            "definition": "Investeringsforeninger, ekskl. pengemarkedsforeninger, aktiver/passiver i alt (finansielle transaktioner, samlet løbetid, i alle valutaer tilsammen, denomineret i euro, ikke sæsonkorrigeret, kvartalsvise data)"
+        }
+    }
+}

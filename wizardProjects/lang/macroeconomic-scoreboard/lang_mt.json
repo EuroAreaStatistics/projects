@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bilanċ tal-kont kurrenti bħala perċentwali tal-prodott domestiku gross (PDG) (medja mobbli ta' tliet snin, ikkalkulat skont standards internazzjonali bħall-BPM6 u l-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa +6% u -4%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Bilanċ tal-Kont Kurrenti (3 snin)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Pożizzjoni netta tal-investiment internazzjonali bħala perċentwali tal-prodott domestiku gross (PDG) (annwali, ikkalkulata skont standards internazzjonali bħall-BPM6 u l-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa -35%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Pożizzjoni tal-Investiment Internazzjonali (annwali)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Rata tal-kambju reali effettiva (deflatata bl-HICP/CPI, bidla perċentwali fuq tliet snin relattiva għal 41 pajjiż industrijali ieħor). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa -/+5% għall-pajjiżi taż-żona tal-euro. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Rata tal-Kambju Reali Effettiva (3 snin)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Ishma tas-suq tal-esportazzjoni (imkejla bil-valuri, bidla perċentwali fuq ħames snin, ikkalkulati skont standards internazzjonali bħall-BPM6). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa -6%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Ishma tas-Suq tal-Esportazzjoni (5 snin)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Kost nominali ta' unit ta' xogħol (bidla perċentwali fuq tliet snin, ibbażat fuq il-persuni). Il-kostijiet ta' unit ta' xogħol huma kejl tal-kostijiet totali tax-xogħol għal kull unit ta' produzzjoni, ikkalkulat bħala l-proporzjon tal-kumpens għal kull impjegat mal-produttività tax-xogħol (iddefinit bħala PDG għal kull persuna impjegata). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa +9% għall-pajjiżi taż-żona tal-euro. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Kost Nominali ta' Unit ta' Xogħol (3 snin)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Prezzijiet tad-djar relattivi għal deflatur tal-konsum privat tal-Eurostat (bidla perċentwali minn sena għal sena, djar ġodda u eżistenti). L-indikatur tal-prezzijiet tal-proprjetà residenzjali għaż-żona tal-euro huwa medja tal-indikaturi mhux armonizzati tal-pajjiżi bbażata fuq dejta minn sorsi nazzjonali. Il-kopertura tvarja xi ftit minn pajjiż għal ieħor. Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 6%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Prezzijiet tad-Djar</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Fluss ta' kreditu tas-settur privat bħala perċentwali tal-prodott domestiku gross (PDG) (konsolidat, ikkalkulat skont standards internazzjonali bħall-BPM6 u l-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 15%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Fluss ta' Kreditu tas-Settur Privat</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dejn tas-settur privat bħala perċentwali tal-PDG (konsolidat, ikkalkulat skont standards internazzjonali bħall-BPM6 u l-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 133%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Dejn tas-Settur Privat</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dejn tas-settur tal-amministrazzjoni pubblika bħala perċentwali tal-prodott domestiku gross (PDG) (ikkalkulat skont standards internazzjonali bħall-BPM6 u l-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 60%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Dejn tas-Settur tal-Amministrazzjoni Pubblika</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Total tal-passiv tas-settur finanzjarju (tibdil minn sena għal sena, mhux konsolidat, ikkalkulat skont standards internazzjonali bħall-ESA 2010). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 16.5%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Passiv tas-Settur Finanzjarju</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Rata armonizzata tal-qgħad (medja mobbli ta' tliet snin). Skont il-<a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Proċedura ta' Żbilanċ Makroekonomiku (MIP)</a> evalwata mill-Kummissjoni Ewropea, il-limitu indikattiv għal dan l-indikatur huwa 10%. Sorsi: BĊE u Kummissjoni Ewropea (Eurostat u DĠ Affarijiet Ekonomiċi u Finanzjarji).</p>",
+            "title": "<p>Rata tal-Qgħad (3 snin)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Skorbord Makroekonomiku</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indikaturi esterni/tal-kompetittività</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indikaturi interni</p>"
+        }
+    }
+}

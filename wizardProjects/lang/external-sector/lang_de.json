@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Leistungsbilanz, Warenhandel, Saldo (Ausfuhren minus Einfuhren, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Leistungsbilanz, Warenhandel, Ausfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausfuhren</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Leistungsbilanz, Warenhandel, Einfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einfuhren</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Leistungsbilanz, Dienstleistungen, Saldo (Ausfuhren minus Einfuhren, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Leistungsbilanz, Dienstleistungen, Ausfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausfuhren</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Leistungsbilanz, Dienstleistungen, Einfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einfuhren</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Leistungsbilanzsaldo in Prozent des BIP zu Marktpreisen (Einnahmen minus Ausgaben, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Leistungsbilanzquote</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Ausgaben in der Leistungsbilanz in Prozent des BIP zu Marktpreisen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Ausgabenquote</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Leistungsbilanzsaldo (Einnahmen minus Ausgaben, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Einnahmen in der Leistungsbilanz (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einnahmen</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Ausgaben in der Leistungsbilanz (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausgaben</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Einnahmen in der Leistungsbilanz in Prozent des BIP zu Marktpreisen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6 und ESVG 2010).</p>",
+            "title": "<p>Einnahmenquote</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Leistungsbilanz, Warenhandel und Dienstleistungen, Saldo (Ausfuhren minus Einfuhren, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Leistungsbilanz, Warenhandel und Dienstleistungen, Ausfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausfuhren</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Leistungsbilanz, Warenhandel und Dienstleistungen, Einfuhren (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einfuhren</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Leistungsbilanz, Saldo der Primäreinkommen (Einnahmen minus Ausgaben, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Leistungsbilanz, Primäreinnahmen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einnahmen</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Leistungsbilanz, Primärausgaben (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausgaben</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Leistungsbilanz, Saldo der Sekundäreinkommen (Einnahmen minus Ausgaben, Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Leistungsbilanz, Sekundäreinnahmen (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Einnahmen</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Leistungsbilanz, Sekundärausgaben (Transaktionen mit Gebietsfremden; über vier Quartale kumuliert; nicht saisonbereinigt/nicht arbeitstäglich bereinigt; gemäß BPM6).</p>",
+            "title": "<p>Ausgaben</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Außenwirtschaft - Leistungsbilanz</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Warenhandel</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Dienstleistungen</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Insgesamt</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Warenhandel und Dienstleistungen</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Primäreinkommen</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Sekundäreinkommen</p>"
+        }
+    }
+}

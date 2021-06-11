@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Pankade intressimäärad - Hoiused",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kodumajapidamised"
+        },
+        "2": {
+            "title": "Ettevõtted"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Üleööintressimäärad",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud üleööhoiused (protsendid aasta kohta, uued hoiused ja jääk kattuvad)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x ≤ 1A",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused lepingulise tähtajaga kuni üks aasta (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x > 1A",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused lepingulise tähtajaga üle ühe aasta (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga 1A < x ≤ 2A",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused lepingulise tähtajaga üle ühe aasta ja kuni kaks aastat (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x ≤ 2A",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused lepingulise tähtajaga kuni kaks aastat (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x > 2A",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused lepingulise tähtajaga üle kahe aasta (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Etteteatamistähtajaga lõpetatavad hoiused; x ≤ 3K",
+            "definition": "Euroala kodumajapidamiste eurodes nomineeritud hoiused, mis on lõpetatavad kolmekuulise etteteatamisajaga (protsendid aasta kohta, uued hoiused ja jääk kattuvad)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repotehingud",
+            "definition": "Euroala kodumajapidamiste ja mittefinantsettevõtete eurodes nomineeritud repotehingud (protsendid aasta kohta, uute tehingute intressimäärad)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Üleööintressimäärad",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud üleööhoiused (protsendid aasta kohta, uued hoiused ja jääk kattuvad)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x ≤ 1A",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud hoiused lepingulise tähtajaga kuni üks aasta (protsendid aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x > 1A",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud hoiused lepingulise tähtajaga üle ühe aasta (protsentides aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga 1A < x ≤ 2A",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud hoiused lepingulise tähtajaga üle ühe aasta ja kuni kaks aastat (protsentides aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x ≤ 2A",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud hoiused lepingulise tähtajaga kuni kaks aastat (protsentides aasta kohta, uute hoiuste intressimäärad)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Hoiused lepingulise tähtajaga x > 2A",
+            "definition": "Euroala mittefinantsettevõtete eurodes nomineeritud hoiused lepingulise tähtajaga üle kahe aasta (protsentides aasta kohta, uute hoiuste intressimäärad)"
+        }
+    }
+}

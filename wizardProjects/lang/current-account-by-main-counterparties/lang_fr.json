@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Crédits du compte courant (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Crédits</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Débits du compte courant (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Débits</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Solde du compte courant en pourcentage du produit intérieur brut (PIB) aux prix du marché (crédits moins débits, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Solde (en %)</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Crédits du compte courant en pourcentage du produit intérieur brut (PIB) aux prix du marché (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratio de crédits</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Débits du compte courant en pourcentage du produit intérieur brut (PIB) aux prix du marché (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6 et SEC 2010).</p>",
+            "title": "<p>Ratios de débits</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Compte courant, biens, solde (exportations moins importations, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Solde</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Compte courant, biens, exportations (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Exportations</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Compte courant, biens, importations (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Importations</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Compte courant, services, solde (exportations moins importations, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Solde</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Compte courant, services, exportations (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Exportations</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Compte courant, services, importations (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Importations</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Compte courant, solde des revenus primaires (crédits moins débits, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Solde</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Compte courant, crédits au titre des revenus primaires (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Crédits</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Compte courant, débits au titre des revenus primaires (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Débits</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Compte courant, solde des revenus secondaires (crédits moins débits, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Solde</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Compte courant, crédits au titre des revenus secondaires (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Crédits</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Compte courant, débits au titre des revenus secondaires (transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Débits</p>"
+        },
+        "1": {
+            "definition": "<p>Solde du compte courant (crédits moins débits, transactions vis-à-vis des non-résidents, données cumulées sur quatre trimestres, non corrigés des variations saisonnières et des jours ouvrés, normes BPM6).</p>",
+            "title": "<p>Solde</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Compte des transactions courantes de la zone euro – Par contreparties principales</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Biens</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Services</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Revenus primaires</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Revenus secondaires</p>"
+        },
+        "1": {
+            "title": "<p>Total</p>"
+        }
+    }
+}

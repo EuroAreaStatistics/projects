@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investicijski fondovi - imovina",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Potraživanja po depozitima i kreditima",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: potraživanja po depozitima i kreditima (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Dužnički vrijednosni papiri",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: vrijednosni papiri osim dionica (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Vlasnički kapital",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: dionice i drugi vlasnički kapital isključujući dionice investicijskih fondova (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Udjeli investicijskih fondova",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: dionice/udjeli investicijskih fondova (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nefinancijska imovina",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: nefinancijska imovina (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Ostala imovina",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: ostala imovina (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, ukupna imovina/obveze (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Potraživanja po depozitima i kreditima",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: potraživanja po depozitima i kreditima (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Dužnički vrijednosni papiri",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: vrijednosni papiri osim dionica (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Vlasnički kapital",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: dionice i drugi vlasnički kapital isključujući dionice investicijskih fondova (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Udjeli investicijskih fondova",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: dionice/udjeli investicijskih fondova (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nefinancijska imovina",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: nefinancijska imovina (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Ostala imovina",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija imovine: ostala imovina (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, ukupna imovina/obveze (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        }
+    }
+}

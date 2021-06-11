@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten tot en met € 0,25 miljoen; aan niet-financiële ondernemingen uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met drie maanden (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Kleine leningen ≤ 0,25; x ≤ 3m</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten tot en met € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Kleine leningen, rentevast t/m 1 jr</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten van meer dan € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Grote leningen, rentevast t/m 1 jr</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten tot en met € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met een aanvankelijke rentevaste periode van meer dan een jaar tot en met vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Kleine leningen, rentevast &gt; 1 jr t/m 5 jr</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten van meer dan € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met een aanvankelijke rentevaste periode van meer dan een jaar tot en met vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Grote leningen, rentevast &gt; 1 jr t/m 5 jr</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten tot en met € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met een aanvankelijke rentevaste periode van meer dan vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Kleine leningen, rentevast &gt; 5 jr</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>In euro luidende kredieten van meer dan € 1 miljoen; aan niet-financiële ondernemingen uit het eurogebied met een aanvankelijke rentevaste periode van meer dan vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Grote leningen, rentevast &gt; 5 jr</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend consumptief krediet; aan huishoudens uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Consumptief krediet, looptijd t/m 1 jr</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend consumptief krediet; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van langer dan een jaar tot en met vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Consumptief krediet, rentevast &gt; 1 jr t/m 5 jr</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend consumptief krediet; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van langer dan vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Consumptief krediet, looptijd t/m 5 jr</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicator van de samengestelde kosten voor de financiering van nieuwe kredieten aan huishoudens voor woningaankopen (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Financieringskosten huishoudens</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidende woninghypotheken; aan huishoudens uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Leningen voor woningaankoop: rentevast t/m 1 jr</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidende woninghypotheken; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van langer dan een jaar tot en met vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Leningen voor woningaankoop: rentevast &gt; 1 jr t/m 5 jr</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidende woninghypotheken; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van langer dan vijf jaar tot en met tien jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Leningen voor woningaankoop: rentevast &gt; 5 jr t/m 10 jr</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend krediet voor de aankoop van een woning; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van meer dan tien jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Leningen voor woningaankoop: rentevast &gt; 10 jr</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend krediet voor andere doeleinden ; aan huishoudens uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Overig krediet, rentevast t/m 1 jr</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>In euro luidend krediet voor andere doeleinden, waaronder leningen aan eenmanszaken en ondernemingen zonder rechtspersoonlijkheid; aan huishoudens uit het eurogebied met variabele rente of een aanvankelijke rentevaste periode tot en met één jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Overig krediet; eenmanszaken; rentevast t/m 1 jr</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend krediet voor andere doeleinden; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van langer dan een jaar tot en met vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Overig krediet, rentevast &gt; 1 jr t/m 5 jr</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidend krediet voor andere doeleinden; aan huishoudens uit het eurogebied met een aanvankelijke rentevaste periode van meer dan vijf jaar (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Overig krediet, rentevast &gt; 5 jr</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicator van de samengestelde kosten voor de financiering van nieuwe kredieten aan niet-financiële ondernemingen (in procenten per jaar, tarieven voor nieuwe contracten)</p>",
+            "title": "<p>Financieringskosten ondernemingen</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicator van de samengestelde kosten voor de financiering van kortlopende leningen aan zowel huishoudens als niet-financiële ondernemingen</p>",
+            "title": "<p>Kosten kortlopende financiering</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicator van de samengestelde kosten voor de financiering van langlopende leningen aan zowel huishoudens als niet-financiële ondernemingen</p>",
+            "title": "<p>Kosten langlopende financiering</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>In euro luidende doorlopende leningen, rekening-courantkredieten, alsmede facilitaire en verruimde kredieten op creditcards aan niet-financiële vennootschappen in het eurogebied (in procenten per jaar, nieuwe en bestaande uitzettingen vallen samen)</p>",
+            "title": "<p>Doorlopende leningen en rekening-courantkredieten</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>In euro luidende doorlopende leningen, rekening-courantkredieten, alsmede facilitaire en verruimde kredieten op creditcards aan huishoudens in het eurogebied (in procenten per jaar, nieuwe en bestaande uitzettingen vallen samen)</p>",
+            "title": "<p>Doorlopende leningen en rekening-courantkredieten</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>In euro luidende leningen voor woningaankoop; totale variabele rente of tarief eerste rentevastperiode voor huishoudens in eurogebied (in procenten per jaar, tarieven nieuwe leningen)</p>",
+            "title": "<p>Leningen voor woningaankoop, totaal</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Bancaire rentetarieven - Leningen</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Huishoudens</p>"
+        },
+        "2": {
+            "title": "<p>Bedrijven</p>"
+        },
+        "3": {
+            "title": "<p>Samengestelde financieringskosten</p>"
+        }
+    }
+}

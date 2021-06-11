@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Waardepapieren - Beursgenoteerde aandelen",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Standen"
+        },
+        "2": {
+            "title": "Nieuwe uitgiften"
+        },
+        "3": {
+            "title": "Netto uitgiften"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banken, standen",
+            "definition": "Uitstaande bedragen aan beursgenoteerde aandelen uitgegeven door monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Ondernemingen, standen",
+            "definition": "Uitstaande bedragen aan beursgenoteerde aandelen uitgegeven door niet-financiële ondernemingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Overige financiële ondernemingen, standen",
+            "definition": "Uitstaande bedragen aan beursgenoteerde aandelen uitgegeven door financiële ondernemingen anders dan monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Totaal, standen",
+            "definition": "Totaal uitstaande bedragen aan beursgenoteerde aandelen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banken, nieuw",
+            "definition": "Bruto uitgiften beursgenoteerde aandelen door monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Ondernemingen, nieuw",
+            "definition": "Bruto uitgiften beursgenoteerde aandelen door niet-financiële ondernemingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Overige financiële ondernemingen, nieuw",
+            "definition": "Bruto uitgiften beursgenoteerde aandelen door financiële ondernemingen anders dan monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Totaal, nieuw",
+            "definition": "Totaal bruto uitgiften beursgenoteerde aandelen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banken, netto",
+            "definition": "Netto uitgiften beursgenoteerde aandelen door monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Ondernemingen, netto",
+            "definition": "Netto uitgiften beursgenoteerde aandelen door niet-financiële ondernemingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Overige financiële ondernemingen, netto",
+            "definition": "Netto uitgiften beursgenoteerde aandelen door financiële ondernemingen anders dan monetaire financiële instellingen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Totaal, netto",
+            "definition": "Totaal netto uitgiften beursgenoteerde aandelen (marktwaarde, luidende in euro, uitgegeven door ingezetenen)"
+        }
+    }
+}

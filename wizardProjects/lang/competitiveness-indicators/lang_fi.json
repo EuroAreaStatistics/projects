@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Kilpailukykyindikaattorit - Hinnat ja kustannukset",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kilpailukyky"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Kuluttajahintaindeksit",
+            "definition": "Kuluttajahintaindekseihin perustuvat yhdenmukaistetut kilpailukykyindikaattorit (ajanjakson keskiarvo, indeksi: Q1/1999=100). Kuluttajahintaindekseillä mitataan kotitalouksien tyypillisesti ostamista kulutustavaroista ja palveluista koostuvan korin hinnan keskimääräistä muutosta. Yhdenmukaistettujen kilpailukykyindikaattorien avulla voidaan vertailla euroalueen maiden hinta- ja kustannuskilpailukykyä. Indikaattorit ovat vertailukelpoisia myös euron reaalisen efektiivisen valuuttakurssin kanssa, sillä niitä koottaessa käytetään samoja menetelmiä ja lähteitä."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "BKT:n deflaattorit",
+            "definition": "Bruttokansantuotteen (BKT) deflaattoreihin perustuvat yhdenmukaistetut kilpailukykyindikaattorit (ajanjakson keskiarvo, indeksi: Q1/1999=100). BKT on taloudellisen toiminnan mittari, eli se kuvaa taloudessa tuotettujen hyödykkeiden ja palvelujen kokonaisarvoa, johon on lisätty tuote- ja tuontiverot nettomääräisinä ja josta on vähennetty välituotekäyttö. BKT:n deflaattorit johdetaan Eurostatin julkaisemista kansantalouden tilinpidon neljännesvuositiedoista (ajanjakson keskiarvo, indeksi: Q1/1999=100). Yhdenmukaistettujen kilpailukykyindikaattorien avulla voidaan vertailla euroalueen maiden hinta- ja kustannuskilpailukykyä. Indikaattorit ovat vertailukelpoisia myös euron reaalisen efektiivisen valuuttakurssin kanssa, sillä niitä koottaessa käytetään samoja menetelmiä ja lähteitä."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Yksikkötyökustannukset",
+            "definition": "Koko talouden yksikkötyökustannusindeksiin perustuvat yhdenmukaistetut kilpailukykyindikaattorit (ajanjakson keskiarvo, indeksi: Q1/1999=100). Koko talouden yksikkötyökustannukset lasketaan työntekijää kohden laskettujen työvoimakustannusten suhteena työn tuottavuuteen. Työn tuottavuuden mittarina käytetään kiinteähintaista BKT:tä jaettuna työllisten kokonaismäärällä Eurostatin julkaisemien kansantalouden tilinpidon neljännesvuositietojen pohjalta (ajanjakson keskiarvo, indeksi: Q1/1999=100). Yhdenmukaistettujen kilpailukykyindikaattorien avulla voidaan vertailla euroalueen maiden hinta- ja kustannuskilpailukykyä. Indikaattorit ovat vertailukelpoisia myös euron reaalisen efektiivisen valuuttakurssin kanssa, sillä niitä koottaessa käytetään samoja menetelmiä ja lähteitä."
+        }
+    }
+}

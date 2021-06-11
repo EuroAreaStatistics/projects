@@ -1,0 +1,19 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>asdasd</p>",
+            "title": "<p>dadasd</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>asdasd</p>"
+        },
+        "title": "<p>asdasd</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>asdasd</p>"
+        }
+    }
+}

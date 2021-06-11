@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Valores - Acciones cotizadas",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Saldos"
+        },
+        "2": {
+            "title": "Emisiones nuevas"
+        },
+        "3": {
+            "title": "Emisiones netas"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Entidades de crédito, saldos",
+            "definition": "Saldos vivos de acciones cotizadas emitidas por instituciones financieras monetarias (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Sociedades, saldos",
+            "definition": "Saldos vivos de acciones cotizadas emitidas por sociedades no financieras (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Otras instituciones financieras, saldos",
+            "definition": "Saldos vivos de acciones cotizadas emitidas por instituciones financieras distintas de las IFM (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Total, saldos",
+            "definition": "Total de saldos vivos de acciones cotizadas (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Entidades de crédito, nuevos",
+            "definition": "Emisiones brutas de acciones cotizadas de instituciones financieras monetarias (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Sociedades, nuevos",
+            "definition": "Emisiones brutas de acciones cotizadas de sociedades no financieras (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Otras instituciones financieras, nuevos",
+            "definition": "Emisiones brutas de acciones cotizadas de instituciones financieras distintas de las IFM (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Total, nuevos",
+            "definition": "Total de las emisiones brutas de acciones cotizadas (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Entidades de crédito, neto",
+            "definition": "Emisiones netas de acciones cotizadas de instituciones financieras monetarias (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Sociedades, neto",
+            "definition": "Emisiones netas de acciones cotizadas de sociedades no financieras (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Otras instituciones financieras, neto",
+            "definition": "Emisiones netas de acciones cotizadas de instituciones financieras distintas de las IFM (valor de mercado, denominadas en euros, emitidas por residentes)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Total, neto",
+            "definition": "Total de las emisiones netas de acciones cotizadas (valor de mercado, denominadas en euros, emitidas por residentes)"
+        }
+    }
+}

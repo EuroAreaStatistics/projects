@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Rachunek bieżący – saldo obrotów towarowych (eksport minus import, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Rachunek bieżący – eksport towarów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Rachunek bieżący – import towarów (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Rachunek bieżący – saldo usług (eksport minus import, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Rachunek bieżący – eksport usług (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Rachunek bieżący – import usług (transakcje z nierezydentami; dane skumulowane z<em> </em>czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Rachunek bieżący – saldo jako procent PKB w cenach rynkowych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Saldo jako % PKB</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Rachunek bieżący – rozchody jako procent PKB w cenach rynkowych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Rozchody jako % PKB</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Saldo rachunku bieżącego (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Rachunek bieżący – przychody (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Rachunek bieżący – rozchody (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Rachunek bieżący – przychody jako procent PKB w cenach rynkowych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6 i ESA 2010).</p>",
+            "title": "<p>Przychody jako % PKB</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Rachunek bieżący – saldo obrotów towarowych i usług (eksport minus import, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Rachunek bieżący – eksport towarów i usług (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Rachunek bieżący – import towarów i usług (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Import</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Rachunek bieżący – saldo dochodów pierwotnych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Rachunek bieżący – przychody z tytułu dochodów pierwotnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Rachunek bieżący – rozchody z tytułu dochodów pierwotnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Rachunek bieżący – saldo dochodów wtórnych (przychody minus rozchody, transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Rachunek bieżący – przychody z tytułu dochodów wtórnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Przychody</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Rachunek bieżący – rozchody z tytułu dochodów wtórnych (transakcje z nierezydentami; dane skumulowane z czterech kwartałów; bez wyrównań sezonowych i wyrównania dniami roboczymi; zgodnie z BPM6).</p>",
+            "title": "<p>Rozchody</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Sektor zewnętrzny – Rachunek bieżący</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Obroty towarowe</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Usługi</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Ogółem</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Obroty towarowe i usługi</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Dochody pierwotne</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Dochody wtórne</p>"
+        }
+    }
+}

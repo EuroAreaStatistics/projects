@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Tarptautinių investicijų balansas, atsargos (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Tarptautinių investicijų balansas, atsargos BVP procentine dalimi, rinkos kainomis (ketvirčio pabaigoje, nerezidentų atžvilgiu, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal 6-ojo MBV ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto santykis</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Išorės sektorius - Atsargos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Atsargos</p>"
+        }
+    }
+}

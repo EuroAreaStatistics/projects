@@ -1,0 +1,43 @@
+{
+    "charts": {
+        "c1461747765511": {
+            "definition": "<p>test</p>",
+            "title": ""
+        },
+        "c1461748179004": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461748674280": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461751410147": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461751459267": {
+            "definition": "",
+            "title": ""
+        },
+        "1": {
+            "definition": "",
+            "title": ""
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": ""
+    },
+    "tabs": {
+        "t1461748663400": {
+            "teaser": "",
+            "title": ""
+        },
+        "1": {
+            "title": ""
+        }
+    }
+}

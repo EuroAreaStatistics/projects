@@ -1,0 +1,71 @@
+{
+    "charts": {
+        "ICP.M..N.000000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP). Celková inflace (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Celková inflace</p>"
+        },
+        "ICP.M..N.010000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „potraviny a nealkoholické nápoje“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Potraviny a nápoje</p>"
+        },
+        "ICP.M..N.020000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „alkoholické nápoje, tabák“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Alkohol. nápoje, tabák</p>"
+        },
+        "ICP.M..N.030000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „odívání a obuv“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Oděvy, obuv</p>"
+        },
+        "ICP.M..N.040000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „bydlení, voda, elektřina, plyn a další paliva“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Bydlení, elektřina, plyn</p>"
+        },
+        "ICP.M..N.050000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „bytové vybavení, zařízení domácnosti, opravy“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Nábytek atd.</p>"
+        },
+        "ICP.M..N.060000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „zdraví“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Zdravotnictví</p>"
+        },
+        "ICP.M..N.070000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „doprava“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Doprava</p>"
+        },
+        "ICP.M..N.080000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „pošty a telekomunikace“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Komunikace</p>"
+        },
+        "ICP.M..N.090000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „rekreace a kultura“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Rekreace, kultura</p>"
+        },
+        "ICP.M..N.100000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „vzdělávání“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Vzdělání</p>"
+        },
+        "ICP.M..N.110000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „stravování a ubytování“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Stravování, ubytování</p>"
+        },
+        "ICP.M..N.120000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „ostatní zboží a služby“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Ostatní</p>"
+        },
+        "ICP.M..N.XEF000.4.ANR": {
+            "definition": "<p>Harmonizovaný index spotřebitelských cen (HICP) pro podskupinu „všechny položky bez započtení energií a potravin“ (roční tempo růstu). HICP sestavuje Eurostat, statistický úřad Evropské unie, společně s národními statistickými úřady. HICP měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Cílem ECB je zachovat roční míru inflace měřenou HICP ve střednědobém horizontu pod 2 %, ale blízko této úrovně. HICP se rovněž používá k posouzení, zda je některá země připravena zavést euro.</p>",
+            "title": "<p>Inflace bez započtení energií a potravin</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Míra inflace - index spotřebitelských cen</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Inflace</p>"
+        }
+    }
+}

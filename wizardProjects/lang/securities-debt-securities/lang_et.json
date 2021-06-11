@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Väärtpaberid - Võlaväärtpaberid",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Uus emissioon"
+        },
+        "3": {
+            "title": "Netoemissioon"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Pangad, jääk",
+            "definition": "Rahaloomeasutuste emiteeritud võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Pangad, jääk; x ≤ 1A",
+            "definition": "Rahaloomeasutuste emiteeritud lühiajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Pangad, jääk; x &gt; 1A",
+            "definition": "Rahaloomeasutuste emiteeritud pikaajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Ettevõtted, jääk",
+            "definition": "Mittefinantsettevõtete emiteeritud võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Ettevõtted, jääk; x ≤ 1A",
+            "definition": "Mittefinantsettevõtete emiteeritud lühiajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Ettevõtted, jääk; x &gt; 1A",
+            "definition": "Mittefinantsettevõtete emiteeritud pikaajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Valitsussektor, jääk",
+            "definition": "Valitsussektori emiteeritud võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Valitsussektor, jääk; x ≤ 1A",
+            "definition": "Valitsussektori emiteeritud lühiajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Valitsussektor, jääk; x &gt; 1A",
+            "definition": "Valitsussektori emiteeritud pikaajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, jääk",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) emiteeritud võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, jääk; x ≤ 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) emiteeritud lühiajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, jääk; x &gt; 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) emiteeritud pikaajaliste võlaväärtpaberite jääk (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Kokku, jääk",
+            "definition": "Võlaväärtpaberite jääk kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Kokku, jääk; x ≤ 1A",
+            "definition": "Lühiajaliste võlaväärtpaberite jääk kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Kokku, jääk; x &gt; 1A",
+            "definition": "Pikaajaliste võlaväärtpaberite jääk kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Pangad, uus emissioon",
+            "definition": "Rahaloomeasutuste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Pangad, uus emissioon; x ≤ 1A",
+            "definition": "Rahaloomeasutuste lühiajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Pangad, uus emissioon; x &gt; 1A",
+            "definition": "Rahaloomeasutuste pikaajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Ettevõtted, uus emissioon",
+            "definition": "Mittefinantsettevõtete võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Ettevõtted, uus emissioon; x ≤ 1A",
+            "definition": "Mittefinantsettevõtete lühiajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Ettevõtted, uus emissioon; x &gt; 1A",
+            "definition": "Mittefinantsettevõtete pikaajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Valitsussektor, uus emissioon",
+            "definition": "Valitsussektori võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Valitsussektor, uus emissioon; x ≤ 1A",
+            "definition": "Valitsussektori lühiajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Valitsussektor, uus emissioon; x &gt; 1A",
+            "definition": "Valitsussektori pikaajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, uus emissioon",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, uus emissioon; x ≤ 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) lühiajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, uus emissioon; x &gt; 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) pikaajaliste võlaväärtpaberite brutoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Kokku, uus emissioon",
+            "definition": "Võlaväärtpaberite brutoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Kokku, uus emissioon; x &gt; 1A",
+            "definition": "Pikaajaliste võlaväärtpaberite brutoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Kokku, uus emissioon; x ≤ 1A",
+            "definition": "Lühiajaliste võlaväärtpaberite brutoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Pangad, netoemissioon",
+            "definition": "Rahaloomeasutuste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Pangad, netoemissioon; x ≤ 1A",
+            "definition": "Rahaloomeasutuste lühiajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Pangad, netoemissioon; x &gt; 1A",
+            "definition": "Rahaloomeasutuste pikaajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Ettevõtted, netoemissioon",
+            "definition": "Mittefinantsettevõtete võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Ettevõtted, netoemissioon; x ≤ 1A",
+            "definition": "Mittefinantsettevõtete lühiajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Ettevõtted, netoemissioon; x &gt; 1A",
+            "definition": "Mittefinantsettevõtete pikaajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Valitsussektor, netoemissioon",
+            "definition": "Valitsussektori võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Valitsussektor, netoemissioon; x ≤ 1A",
+            "definition": "Valitsussektori lühiajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Valitsussektor, netoemissioon; x &gt; 1A",
+            "definition": "Valitsussektori pikaajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, netoemissioon",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, netoemissioon; x ≤ 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) lühiajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Muud finantsettevõtted, netoemissioon; x &gt; 1A",
+            "definition": "Finantsettevõtete (v.a rahaloomeasutused) pikaajaliste võlaväärtpaberite netoemissioon (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Kokku, netoemissioon",
+            "definition": "Võlaväärtpaberite netoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Kokku, netoemissioon; x ≤ 1A",
+            "definition": "Lühiajaliste võlaväärtpaberite netoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Kokku, netoemissioon; x &gt; 1A",
+            "definition": "Pikaajaliste võlaväärtpaberite netoemissioon kokku (nominaalväärtus, kõik vääringud kokku, eurodes nomineeritud, residentide emiteeritud)"
+        }
+    }
+}

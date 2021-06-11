@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indicatorii de competitivitate - În funcție de prețuri și de costuri",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Competitivitate"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indicii prețurilor de consum",
+            "definition": "Indicatori de competitivitate armonizați (ICA) bazați pe indicii prețurilor de consum (mediile perioadei; indice: T1 1999=100).  Indicii prețurilor de consum măsoară variația medie în timp a prețurilor plătite de populație pentru un anumit coș de bunuri de consum și servicii. Scopul ICA este de a oferi măsurări comparabile ale competitivității prin prețuri și costuri în țările din zona euro, care să fie conforme și cu evoluția cursurilor de schimb efective (CSE) reale ale euro. ICA au la bază metodologia și sursele de date utilizate pentru CSE ale euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflatorii PIB",
+            "definition": "Indicatori de competitivitate armonizați (ICA) bazați pe deflatorii produsului intern brut (PIB) (mediile perioadei; indice: T1 1999=100).  PIB este o măsură a activității economice. Acesta reprezintă valoarea totală a bunurilor și serviciilor produse de economia unei țări, cu excepția consumului intermediar, inclusiv impozitele nete pe produse și pe importuri. Deflatorii PIB sunt derivaţi din conturile naționale trimestriale publicate de Eurostat (mediile perioadei; indice: T1 1999=100). Scopul ICA este de a oferi măsurări comparabile ale competitivității prin prețuri și costuri în țările din zona euro, care să fie conforme și cu evoluția cursurilor de schimb efective (CSE) reale ale euro. ICA au la bază metodologia și sursele de date utilizate pentru CSE ale euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Costurile unitare cu forța de muncă",
+            "definition": "Indicatori de competitivitate armonizați bazați pe indicii costurilor unitare cu forța de muncă la nivelul întregii economii (mediile perioadei; indice: T1 1999=100). Costurile unitare cu forța de muncă la nivelul întregii economii se calculează ca raport între remunerarea pe salariat și productivitatea muncii. Productivitatea muncii se măsoară împărțind PIB calculat la prețuri constante la numărul total de salariați, cu utilizarea conturilor naționale trimestriale publicate de Eurostat (mediile perioadei; indice: T1 1999=100). Scopul ICA este de a oferi măsurări comparabile ale competitivității prin prețuri și costuri în țările din zona euro, care să fie conforme și cu evoluția cursurilor de schimb efective (CSE) reale ale euro. ICA au la bază metodologia și sursele de date utilizate pentru CSE ale euro."
+        }
+    }
+}

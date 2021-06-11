@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: títulos de dívida de curto prazo</p>\r\n<p>Montante total detido: %{sumOut} %{unit}</p>\r\n<p>Montante total emitido: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor detentor: %{from}</p>\r\n<p>Montante detido: %{value} %{unit}</p>\r\n<p>Instrumento: títulos de dívida de curto prazo</p>\r\n<p>Setor emitente: %{to}</p>\r\n<p>Percentagem do total de detenções: %{percentFrom}</p>\r\n<p>Percentagem do total de emissões: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor detentor: %{from}/setor emitente: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: títulos de dívida de longo prazo</p>\r\n<p>Montante total detido: %{sumOut} %{unit}</p>\r\n<p>Montante total emitido: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor detentor: %{from}</p>\r\n<p>Montante detido: %{value} %{unit}</p>\r\n<p>Instrumento: títulos de dívida de longo prazo</p>\r\n<p>Setor emitente: %{to}</p>\r\n<p>Percentagem do total de detenções: %{percentFrom}</p>\r\n<p>Percentagem do total de emissões: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor detentor: %{from}/Setor emitente: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: empréstimos de curto prazo</p>\r\n<p>Montante total disponibilizado: %{sumOut} %{unit}</p>\r\n<p>Montante total tomado em empréstimo: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor mutuante: %{from}</p>\r\n<p>Montante disponibilizado: %{value} %{unit}</p>\r\n<p>Instrumento: empréstimos de curto prazo</p>\r\n<p>Setor mutuário: %{to}</p>\r\n<p>Percentagem do total de empréstimos: %{percentFrom}</p>\r\n<p>Percentagem do total de empréstimos contraídos: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor mutuante: %{from}/Setor mutuário: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: empréstimos de longo prazo</p>\r\n<p>Montante total disponibilizado: %{sumOut} %{unit}</p>\r\n<p>Montante total tomado em empréstimo: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor mutuante: %{from}</p>\r\n<p>Montante disponibilizado: %{value} %{unit}</p>\r\n<p>Instrumento: empréstimos de longo prazo</p>\r\n<p>Setor mutuário: %{to}</p>\r\n<p>Percentagem do total de empréstimos: %{percentFrom}</p>\r\n<p>Percentagem do total de empréstimos contraídos: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor mutuante: %{from}/Setor mutuário: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: depósitos</p>\r\n<p>Montante total colocado: %{sumOut} %{unit}</p>\r\n<p>Montante total recebido: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor de colocação: %{from}</p>\r\n<p>Montante colocado: %{value}%{unit}</p>\r\n<p>Instrumento: depósitos</p>\r\n<p>Setor beneficiário: %{to}</p>\r\n<p>Percentagem do total de depósitos colocados: %{percentFrom}</p>\r\n<p>Percentagem do total de depósitos recebidos: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor de colocação: %{from}/Setor beneficiário: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: ações cotadas:</p>\r\n<p>Montante total detido: %{sumOut} %{unit}</p>\r\n<p>Montante total emitido: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor detentor: %{from}</p>\r\n<p>Montante detido: %{value} %{unit}</p>\r\n<p>Instrumento: ações cotadas:</p>\r\n<p>Setor emitente: %{to}</p>\r\n<p>Percentagem do total de detenções: %{percentFrom}</p>\r\n<p>Percentagem do total de emissões: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor detentor: %{from}/Setor emitente %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks” </em>intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Período: %{date}</p>\r\n<p>Setor: %{name}       </p>\r\n<p>Instrumento: ações/unidades de participação em fundos de investimento</p>\r\n<p>Montante total detido: %{sumOut} %{unit}</p>\r\n<p>Montante total emitido: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Período: %{date}</p>\r\n<p>Setor detentor: %{from}</p>\r\n<p>Montante detido: %{value} %{unit}</p>\r\n<p>Instrumento: ações/unidades de participação em fundos de investimento</p>\r\n<p>Setor emitente: %{to}</p>\r\n<p>Percentagem do total de detenções: %{percentFrom}</p>\r\n<p>Percentagem do total de emissões: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Setor detentor: %{from}/Setor emitente: %{to}</p>",
+                "incoming": "<p>Passivos</p>",
+                "missing": {
+                    "incoming": "<p>– dados inexistentes/não aplicáveis</p>",
+                    "outgoing": "<p>– dados inexistentes/não aplicáveis</p>"
+                },
+                "outgoing": "<p>Ativos</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p><em>“stocks”</em> intrassetor</p>"
+            },
+            "title": "<p>Saldos</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Os dados apresentados no diagrama da rede relativa à “dinâmica do financiamento e do investimento” são retirados das contas setoriais, que fornecem um conjunto de dados trimestrais completo e coerente para todos os setores institucionais residentes. O diagrama exibe as inter-relações financeiras ao nível de cada setor institucional e entre todos os setores, bem como entre os mesmos e o resto do mundo. Apresenta as posições financeiras entre setores (os dados sobre fluxos também estão disponíveis nas bases de dados públicas do BCE). A origem do tipo de financiamento – capital próprio ou dívida – e o destino do mesmo instrumento revelam como os setores procedem à afetação do financiamento. As barras para cada setor mostram os ativos e passivos de um determinado setor para um determinado instrumento. Podem verificar-se saldos negativos devido a vendas a descoberto (“short selling”), ou seja, vendas de títulos ou outros instrumentos financeiros não detidos pelo vendedor. As setas indicam as posições face a outros setores. As posições dentro dos setores são indicadas junto à designação dos setores.</p>\r\n<p>Os dados baseiam-se no Sistema Europeu de Contas 2010 (SEC 2010). Setores: sociedades não financeiras, instituições financeiras monetárias, fundos de investimento (exceto fundos do mercado monetário), outras instituições financeiras, sociedades de seguros, fundos de pensões, administrações públicas, famílias (incluindo instituições sem fim lucrativo ao serviço das famílias), resto do mundo (que se refere a posições entre residentes e não residentes). Instrumentos: depósitos, títulos de dívida de curto prazo, títulos de dívida de longo prazo, empréstimos de curto prazo, empréstimos de longo prazo, ações cotadas, ações/unidades de participação em fundos de investimento. Os dados são apresentados numa base consolidada, ou seja, os totais dos instrumentos e as percentagens incluem posições financeiras intrassetor (por exemplo, empréstimos concedidos por bancos a outros bancos); os saldos do balanço referem-se ao fim do trimestre; os dados não são corrigidos de efeitos de sazonalidade nem de calendário; os montantes são expressos em mil milhões de euros; curto prazo corresponde a um prazo de vencimento inicial até 1 ano; longo prazo corresponde a um prazo de vencimento inicial superior a 1 ano ou não declarado; os dados dizem respeito ao agregado da área do euro; “–” indica que os dados não existem/não são aplicáveis.   </p>\r\n<p>Os instrumentos apresentados não proporcionam um balanço completo dos ativos e passivos financeiros, visto que não são contempladas rubricas como a moeda, ações não cotadas e outros títulos de participação, regimes de seguros e de pensões, derivados financeiros e outros débitos e créditos. Para mais dados, ver: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>BCE</p>"
+        },
+        "title": "<p>Dinâmica do financiamento e do investimento</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Títulos de dívida de curto prazo</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Títulos de dívida de longo prazo</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Empréstimos de curto prazo</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Empréstimos de longo prazo</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Depósitos</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Ações cotadas</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>resto do mundo</p>",
+                "S11": "<p>sociedades não financeiras</p>",
+                "S124": "<p>fundos de investimento</p>",
+                "S128": "<p>sociedades de seguros</p>",
+                "S129": "<p>fundos de pensões</p>",
+                "S12K": "<p>sociedades financeiras</p>",
+                "S12O": "<p>outras instituições financeiras</p>",
+                "S13": "<p>administrações públicas</p>",
+                "S1M": "<p>famílias</p>",
+                "WLD": "<p>total</p>"
+            },
+            "title": "<p>Ações/unidades de participação em fundos de investimento</p>"
+        }
+    }
+}

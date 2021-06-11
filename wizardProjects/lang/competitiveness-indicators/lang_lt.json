@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Konkurencingumo rodikliai - Pagal kainą ir sąnaudas",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurencingumas"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Vartotojų kainų indeksai",
+            "definition": "Pagal vartotojų kainų indeksus suderinti konkurencingumo rodikliai (SKR) (laikotarpių vidurkiai; indeksas: Q1 1999=100). Vartotojų kainų indeksas – tai kainų, už kurias namų ūkiai perka tam tikras vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. SKR leidžia palyginti euro zonos šalių kainų ir sąnaudų konkurencingumą ir yra suderinami su realiuoju euro efektyviuoju kursu (EK). SKR apskaičiuojami taikant tokią pačią metodiką ir tuos pačius duomenų šaltinius, kurie naudojami euro EK apskaičiuoti."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "BVP defliatoriai",
+            "definition": "Pagal bendrojo vidaus produkto (BVP) defliatorius suderinti konkurencingumo rodikliai (SKR) (laikotarpių vidurkiai; indeksas: Q1 1999=100). BVP – ekonominės veiklos matas. Jis apskaičiuojamas prie visų šalyje pagamintų prekių ir suteiktų paslaugų vertės pridėjus gaminiams ir importui taikomus grynuosius mokesčius, atėmus tarpinį vartojimą. BVP defliatoriai apskaičiuojami remiantis duomenimis iš Eurostato skelbiamų ketvirtinių nacionalinių sąskaitų (laikotarpio vidurkiai; indeksas Q1 1999=100). SKR leidžia palyginti euro zonos šalių kainų ir sąnaudų konkurencingumą ir yra suderinami su realiuoju euro efektyviuoju kursu (EK). SKR apskaičiuojami taikant tokią pačią metodiką ir tuos pačius duomenų šaltinius, kurie naudojami euro EK apskaičiuoti."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Vienetinės darbo sąnaudos",
+            "definition": "Suderinti konkurencingumo rodikliai pagal vienetinių darbo sąnaudų šalies ūkyje indeksus (laikotarpio vidurkiai; indeksas: Q1 1999=100). Vienetinės darbo sąnaudos šalies ūkyje apskaičiuojamos kaip atlygio vienam darbuotojui ir darbo našumo santykis. Darbo našumas apskaičiuojamas BVP vertę palyginamosiomis kainomis dalijant iš viso dirbančių žmonių skaičiaus, remiantis Eurostato skelbiamomis ketvirtinėmis nacionalinėmis sąskaitomis (laikotarpio vidurkiai; indeksas: Q1 1999=100). SKR leidžia palyginti euro zonos šalių kainų ir sąnaudų konkurencingumą ir yra suderinami su realiuoju euro efektyviuoju keitimo kursu (EK). SKR apskaičiuojami taikant tokią pačią metodiką ir tuos pačius duomenų šaltinius, kurie naudojami euro EK apskaičiuoti."
+        }
+    }
+}

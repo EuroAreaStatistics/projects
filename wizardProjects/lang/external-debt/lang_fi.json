@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Ulkomainen bruttovelka (koko talouden velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Ulkomainen nettovelka (velat miinus saamiset, koko talouden nettovelka euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Ulkomainen bruttovelka suhteessa BKT:hen (koko talouden velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Bruttovelkasuhde</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Ulkomainen nettovelka suhteessa BKT:hen (velat miinus saamiset, koko talouden nettovelka euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettovelkasuhde</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Ulkomainen bruttovelka (rahalaitosten velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Ulkomainen nettovelka (velat miinus saamiset, rahalaitosten nettovelka euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Ulkomainen bruttovelka suhteessa BKT:hen (rahalaitosten velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Bruttovelkasuhde</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Ulkomainen nettovelka suhteessa BKT:hen (velat miinus saamiset, rahalaitosten nettovelka prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettovelkasuhde</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Ulkomainen bruttovelka (julkisyhteisöjen velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Ulkomainen nettovelka (velat miinus saamiset, julkisyhteisöjen nettovelka euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Ulkomainen bruttovelka suhteessa BKT:hen (julkisyhteisöjen velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Bruttovelkasuhde</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Ulkomainen nettovelka suhteessa BKT:hen (velat miinus saamiset, julkisyhteisöjen nettovelka euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettovelkasuhde</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Ulkomainen bruttovelka (muiden sektorien kuin rahalaitos- ja julkisyhteisösektorien velat euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Brutto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Ulkomainen nettovelka (velat miinus saamiset, muiden sektorien kuin rahalaitos- ja julkisyhteisösektorien nettovelka euroalueen ulkopuolelle, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Ulkomainen bruttovelka suhteessa BKT:hen (muiden sektorien kuin rahalaitos- ja julkisyhteisösektorien velat euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Bruttovelkasuhde</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Ulkomainen nettovelka suhteessa BKT:hen (velat miinus saamiset, muiden sektorien kuin rahalaitos- ja julkisyhteisösektorien nettovelka euroalueen ulkopuolelle prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Nettovelkasuhde</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ulkoinen sektori - Ulkomainen velka</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Koko talous</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Rahalaitokset</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Julkisyhteisöt</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Muut sektorit</p>"
+        }
+    }
+}

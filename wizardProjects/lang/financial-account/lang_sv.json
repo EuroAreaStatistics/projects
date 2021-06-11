@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Finansiell balans netto i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar minus skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS 2010).</p>",
+            "title": "<p>Nettokvot</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Finansiell balans (tillgångar) i procent av bruttonationalprodukt (BNP) till marknadspriser (tillgångar, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS 2010).</p>",
+            "title": "<p>Tillgångskvot</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Finansiell balans (skulder) i procent av bruttonationalprodukt (BNP) till marknadspriser (skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6 och ENS 2010).</p>",
+            "title": "<p>Skuldkvot</p>"
+        },
+        "1": {
+            "definition": "<p>Finansiell balans netto (tillgångar minus skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Finansiell balans tillgångar (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Finansiell balans skulder (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Finansiell balans netto, direktinvesteringar (tillgångar minus skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finansiell balans, direktinvestering tillgångar (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finansiell balans, direktinvestering skulder (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Finansiell balans netto, saldo portföljinvesteringar (tillgångar minus skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finansiell balans, portföljinvesteringar tillgångar (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finansiell balans, portföljinvesteringar skulder (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Finansiell balans netto, övriga investeringar saldo (tillgångar minus skulder, transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finansiell balans, övriga investeringar tillgångar (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Tillgångar</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finansiell balans, övriga investeringar skulder (transaktioner gentemot utlandet, ackumulerat för fyra kvartal, ej säsongsrensat eller kalenderkorrigerat, enligt BPM6).</p>",
+            "title": "<p>Skulder</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Extern sektor - Finansiell balans</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totalt</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Direktinvesteringar</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portföljinvesteringar</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Övriga investeringar</p>"
+        }
+    }
+}

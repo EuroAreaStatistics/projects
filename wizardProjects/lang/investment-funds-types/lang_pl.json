@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Fundusze inwestycyjne - Według typu funduszu",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Przepływy"
+        },
+        "3": {
+            "title": "Stopy wzrostu"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze otwarte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze otwarte (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze zamknięte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze zamknięte (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze otwarte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze otwarte (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze zamknięte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze zamknięte (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze otwarte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze otwarte (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze zamknięte",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg typu funduszu: fundusze zamknięte (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        }
+    }
+}

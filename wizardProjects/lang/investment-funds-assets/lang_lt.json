@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investiciniai fondai - Turtas",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Likučiai"
+        },
+        "2": {
+            "title": "Srautai"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Suteiktos paskolos ir indėliai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: suteiktos paskolos ir indėliai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Skolos vertybiniai popieriai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: vertybiniai popieriai, išskyrus akcijas (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Nuosavybės priemonės",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: akcijos ir kitos nuosavybės priemonės (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Investicinių fondų vienetai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: investicinių fondų akcijos / vienetai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Nefinansinis turtas",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: nefinansinis turtas (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Kitas turtas",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: kitas turtas (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, visas turtas / įsipareigojimai (likučiai laikotarpio pabaigoje, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Suteiktos paskolos ir indėliai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: suteiktos paskolos ir indėliai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Skolos vertybiniai popieriai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: vertybiniai popieriai, išskyrus akcijas (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Nuosavybės priemonės",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: akcijos ir kitos nuosavybės priemonės (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Investicinių fondų vienetai",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: investicinių fondų akcijos / vienetai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Nefinansinis turtas",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: nefinansinis turtas (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Kitas turtas",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, turto klasė: kitas turtas (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Iš viso",
+            "definition": "Investiciniai fondai, išskyrus pinigų rinkos fondus, visas turtas / įsipareigojimai (finansiniai sandoriai, visų terminų, visomis valiutomis kartu, eurais, dėl sezoniškumo nekoreguoti, ketvirčio duomenys)"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "project": {
+        "title": "External sector - Current account",
+        "options": {
+            "dataSource": "a",
+            "dataSourceURL": "a",
+            "relatedPublication": "a",
+            "publicationThumbnail": "a",
+            "publicationWebpage": "a"
+        }
+    },
+    "charts": {
+        "1449848157050": {
+            "title": "Balance ratio",
+            "definition": "Current account balance as percentage of gross domestic product (GDP) at market prices (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1449848222069": {
+            "title": "Debits ratio",
+            "definition": "Current account debits as percentage of gross domestic product (GDP) at market prices (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1449848859297": {
+            "title": "Balance",
+            "definition": "Current account balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1449848889065": {
+            "title": "Credits",
+            "definition": "Current account credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1449848899771": {
+            "title": "Debits",
+            "definition": "Current account debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452074667935": {
+            "title": "Credits ratio",
+            "definition": "Current account credits as percentage of gross domestic product (GDP) at market prices (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 and ESA 2010 standards). "
+        },
+        "1452075262074": {
+            "title": "Balance",
+            "definition": "Current account, goods and services, balance (exports minus imports, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075302996": {
+            "title": "Exports",
+            "definition": "Current account, goods and services, exports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075316620": {
+            "title": "Imports",
+            "definition": "Current account, goods and services, imports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075551630": {
+            "title": "Balance",
+            "definition": "Current account, primary income balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075562630": {
+            "title": "Credits",
+            "definition": "Current account, primary income credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075568709": {
+            "title": "Debits",
+            "definition": "Current account, primary income debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075952750": {
+            "title": "Balance",
+            "definition": "Current account, secondary income balance (credits minus debits, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075961846": {
+            "title": "Credits",
+            "definition": "Current account, secondary income credits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "1452075967901": {
+            "title": "Debits",
+            "definition": "Current account, secondary income debits (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672246073": {
+            "title": "Balance",
+            "definition": "Current account, goods, balance (exports minus imports, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672264338": {
+            "title": "Exports",
+            "definition": "Current account, goods, exports(transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672269375": {
+            "title": "Imports",
+            "definition": "Current account, goods, imports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672321160": {
+            "title": "Balance",
+            "definition": "Current account, services, balance (exports minus imports, transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672322842": {
+            "title": "Exports",
+            "definition": "Current account, services, exports(transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        },
+        "c1571672323643": {
+            "title": "Imports",
+            "definition": "Current account, services, imports (transactions vis-à-vis non-residents; four-quarter cumulated; not seasonally or working day-adjusted; BPM6 standards)."
+        }
+    },
+    "tabs": {
+        "1449847839830": {
+            "title": "Total",
+            "teaser": ""
+        },
+        "1449849086859": {
+            "title": "Goods and services",
+            "teaser": ""
+        },
+        "1452075533276": {
+            "title": "Primary income",
+            "teaser": ""
+        },
+        "1452075926783": {
+            "title": "Secondary income",
+            "teaser": ""
+        },
+        "t1571672238268": {
+            "title": "Goods",
+            "teaser": ""
+        },
+        "t1571672318658": {
+            "title": "Services",
+            "teaser": ""
+        }
+    }
+}

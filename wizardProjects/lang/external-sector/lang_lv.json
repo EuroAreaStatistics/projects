@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>Tekošais konts, preču saldo (eksports mīnus imports, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>Tekošais konts, preču eksports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Eksports</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>Tekošais konts, preču imports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Imports</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>Tekošais konts, pakalpojumu saldo (eksports mīnus imports, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>Tekošais konts, pakalpojumu eksports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Eksports</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>Tekošais konts, pakalpojumu imports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Imports</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>Tekošā konta saldo % no iekšzemes kopprodukta (IKP) tirgus cenās (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Saldo rādītājs</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>Tekošā konta debets % no iekšzemes kopprodukta (IKP) tirgus cenās (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Debeta rādītājs</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>Tekošā konta saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>Tekošā konta kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>Tekošā konta debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>Tekošā konta kredīts % no iekšzemes kopprodukta (IKP) tirgus cenās (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Kredīta rādītājs</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>Tekošais konts – preču un pakalpojumu saldo (eksports mīnus imports, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>Tekošais konts – preču un pakalpojumu eksports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Eksports</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>Tekošais konts – preču un pakalpojumu imports (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Imports</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>Tekošais konts – sākotnējo ienākumu saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>Tekošais konts – sākotnējo ienākumu kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>Tekošais konts – sākotnējo ienākumu debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>Tekošais konts – otrreizējo ienākumu saldo (kredīts mīnus debets, darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>Tekošais konts – otrreizējo ienākumu kredīts (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Kredīts</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>Tekošais konts – otrreizējo ienākumu debets (darījumi ar nerezidentiem; četru ceturkšņu kumulētie dati; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Debets</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Ārējais sektors - tekošais konts</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Preces</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Pakalpojumi</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Kopā</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Preces un pakalpojumi</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Sākotnējie ienākumi</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Otrreizējie ienākumi</p>"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posición de inversión internacional, activos de reserva (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodología MBP6).</p>",
+            "title": "<p>Activos</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Posición de inversión internacional, activos de reserva en porcentaje del PIB a precios de mercado (posición a fin de trimestre frente a no residentes, sin desestacionalizar y sin ajustar por días laborables, metodologías MBP6 y SEC 2010).</p>",
+            "title": "<p>Activos en %</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Sector exterior - Activos de reserva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Activos de reserva</p>"
+        }
+    }
+}

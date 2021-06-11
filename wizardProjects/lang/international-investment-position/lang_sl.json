@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Neto stanje mednarodnih naložb (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Imetja iz naslova mednarodnih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Obveznosti iz naslova mednarodnih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Neto stanje mednarodnih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Imetja iz naslova mednarodnih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Obveznosti iz naslova mednarodnih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Obveznosti kot odstotek BDP</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Stanje mednarodnih naložb, neto neposredne naložbe (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova neposrednih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova neposrednih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Stanje mednarodnih naložb, neto neposredne naložbe kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova neposrednih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova neposrednih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Obveznosti kot odstotek BDP</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Stanje mednarodnih naložb, neto naložbe v vrednostne papirje (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova naložb v vrednostne papirje (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova naložb v vrednostne papirje (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Stanje mednarodnih naložb, neto naložbe v vrednostne papirje kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova naložb v vrednostne papirje kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova naložb v vrednostne papirje kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Obveznosti kot odstotek BDP</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Stanje mednarodnih naložb, neto ostale naložbe (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova ostalih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Imetja</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova ostalih naložb (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Obveznosti</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Stanje mednarodnih naložb, neto ostale naložbe kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (imetja minus obveznosti, pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Saldo kot odstotek BDP</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Stanje mednarodnih naložb, imetja iz naslova ostalih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Imetja kot odstotek BDP</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Stanje mednarodnih naložb, obveznosti iz naslova ostalih naložb kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (pozicija do nerezidentov ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Obveznosti kot odstotek BDP</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Tujina - Stanje mednarodnih naložb</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Skupaj</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Neposredne naložbe</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Naložbe v vrednostne papirje</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Ostale naložbe</p>"
+        }
+    }
+}

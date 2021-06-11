@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Titoli - Azioni quotate",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Consistenze"
+        },
+        "2": {
+            "title": "Nuove emissioni"
+        },
+        "3": {
+            "title": "Emissioni nette"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Banche, consistenze",
+            "definition": "Consistenze di azioni quotate emesse da istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Società, consistenze",
+            "definition": "Consistenze di azioni quotate emesse da società non finanziarie (valore di mercato, euro, residenti)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "AIF, consistenze",
+            "definition": "Consistenze di azioni quotate emesse da società finanziarie diverse dalle istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Totale, consistenze",
+            "definition": "Consistenze totali di azioni quotate (valore di mercato, euro, residenti)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Banche, nuove emissioni",
+            "definition": "Emissioni lorde di azioni quotate di istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Società, nuove emissioni",
+            "definition": "Emissioni lorde di azioni quotate di società non finanziarie (valore di mercato, euro, residenti)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "AIF, nuove emissioni",
+            "definition": "Emissioni lorde di azioni quotate di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Totale, nuove emissioni",
+            "definition": "Emissioni lorde totali di azioni quotate (valore di mercato, euro, residenti)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Banche, emissioni nette",
+            "definition": "Emissioni nette di azioni quotate di istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Società, emissioni nette",
+            "definition": "Emissioni nette di azioni quotate di società non finanziarie (valore di mercato, euro, residenti)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "AIF, emissioni nette",
+            "definition": "Emissioni nette di azioni quotate di società finanziarie diverse dalle istituzioni finanziarie monetarie (valore di mercato, euro, residenti)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Totale, emissioni nette",
+            "definition": "Emissioni nette totali di azioni quotate (valore di mercato, euro, residenti)"
+        }
+    }
+}

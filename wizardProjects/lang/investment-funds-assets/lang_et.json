@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Investeerimisfondid - Varad",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Vood"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Hoiused ja laenunõuded",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: hoiused ja laenunõuded (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Võlaväärtpaberid",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: väärtpaberid (v.a aktsiad) (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Aktsiad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: aktsiad ja muu omakapital, v.a investeerimisfondide aktsiad (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Investeerimisfondide osakud",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: investeerimisfondide aktsiad/osakud (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Mittefinantsvarad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: mittefinantsvarad (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Muud varad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: muud varad (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varad/kohustused kokku (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Hoiused ja laenunõuded",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: hoiused ja laenunõuded (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Võlaväärtpaberid",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: väärtpaberid (v.a aktsiad) (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Aktsiad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: aktsiad ja muu omakapital, v.a investeerimisfondide aktsiad (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Investeerimisfondide osakud",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: investeerimisfondide aktsiad/osakud (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Mittefinantsvarad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: mittefinantsvarad (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Muud varad",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varaklass: muud varad (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), varad/kohustused kokku (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kvartaliandmed)"
+        }
+    }
+}

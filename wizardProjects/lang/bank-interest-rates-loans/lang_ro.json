@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de până la 0,25 milioane EUR; dobândă variabilă sau rată fixă pe o perioadă inițială de până la trei luni pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mici ≤ 0,25; x ≤ 3L</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de până la 1 milion EUR; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mici; x ≤ 1A</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de peste 1 milion EUR; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mari; x ≤ 1A</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de până la 1 milion EUR; rată fixă pe o perioadă inițială de peste un an și până la cinci ani pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mici; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de peste 1 milion EUR; rată fixă pe o perioadă inițială de peste un an și până la cinci ani pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mari; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de până la 1 milion EUR; rată fixă pe o perioadă inițială de peste cinci ani pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mici; x &gt; 5A</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Împrumuturi în euro de peste 1 milion EUR; rată fixă pe o perioadă inițială de peste cinci ani pentru societățile nefinanciare din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi mari; x &gt; 5A</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Credite de consum în euro; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Credite de consum; x ≤ 1A</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Credite de consum în euro; rată fixă pe o perioadă inițială de peste un an și până la cinci ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Credite de consum; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Credite de consum în euro; rată fixă pe o perioadă inițială de peste cinci ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Credite de consum; x &gt; 5A</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicatorul costului compozit al creditului aferent împrumuturilor noi pentru locuințe acordate populației (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Costul creditului pentru populație</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro pentru locuințe; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi pentru locuințe; x ≤ 1A</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro pentru locuințe; rată fixă pe o perioadă inițială de peste un an și până la cinci ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi pentru locuințe; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro pentru locuințe; rată fixă pe o perioadă inițială de peste cinci ani și până la zece ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi pentru locuințe; 5A &lt; x ≤ 10A</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro pentru locuințe; rată fixă pe o perioadă inițială de peste zece ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi pentru locuințe; x &gt; 10A</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro cu alte destinații; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Alte împrumuturi; x ≤ 1A</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Împrumuturi în euro cu alte destinații, inclusiv împrumuturi acordate întreprinderilor individuale și asociațiilor de persoane fără personalitate juridică; dobândă variabilă sau rată fixă pe o perioadă inițială de până la un an pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Alte împrumuturi; întreprinderi individuale; x ≤ 1A</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro cu alte destinații; rată fixă pe o perioadă inițială de peste un an și până la cinci ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Alte împrumuturi; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi în euro cu alte destinații; împrumuturi cu rată fixă pe o perioadă inițială de peste cinci ani pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Alte împrumuturi; x &gt; 5A</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicatorul costului compozit al creditului aferent împrumuturilor noi acordate societăților nefinanciare (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Costul creditului pentru societăți</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicatorul costului compozit al creditului pentru împrumuturile pe termen scurt acordate populației și societăților nefinanciare</p>",
+            "title": "<p>Costul pe termen scurt al creditului</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicatorul costului compozit al creditului pentru împrumuturile pe termen lung acordate populației și societăților nefinanciare</p>",
+            "title": "<p>Costul pe termen lung al creditului</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Împrumuturi reînnoibile automat (revolving) și credite acordate pe descoperit de cont (overdrafts) în euro, credite extinse și de oportunitate acordate societăților nefinanciare din zona euro (% pe an, operațiunile noi și soldurile coincid)</p>",
+            "title": "<p>Împrumuturi reînnoibile automat (revolving) și crediteacordate pe descoperit de cont (overdrafts)</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Împrumuturi reînnoibile automat (revolving) și credite acordate pe descoperit de cont (overdrafts) în euro, credite extinse și de oportunitate acordate populației din zona euro (% pe an, operațiunile noi și soldurile coincid)</p>",
+            "title": "<p>Împrumuturi reînnoibile automat (revolving) și credite acordate pe descoperit de cont (overdrafts)</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Împrumuturi în euro pentru locuințe; dobândă variabilă totală sau rată fixă pe o perioadă inițială pentru populația din zona euro (% pe an, ratele dobânzilor aferente operațiunilor noi)</p>",
+            "title": "<p>Împrumuturi pentru locuințe, total</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Ratele dobânzilor bancare - Credite</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Populație</p>"
+        },
+        "2": {
+            "title": "<p>Societăți</p>"
+        },
+        "3": {
+            "title": "<p>Costul compozit al creditului</p>"
+        }
+    }
+}

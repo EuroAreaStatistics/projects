@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Banku procentu likmes - noguldījumi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Mājsaimniecības"
+        },
+        "2": {
+            "title": "Nefinanšu sabiedrības"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Darījumu uz nakti procentu likmes",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi uz nakti (%; gadā; jauno darījumu apjoms un atlikums sakrīt)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x ≤ 1G",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar noteikto termiņu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x &gt; 1G",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar noteikto termiņu ilgāku par 1 gadu (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; 1G &lt; x ≤ 2G",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar noteikto termiņu 1–2 gadi (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x ≤ 2G",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar noteikto termiņu līdz 2 gadiem (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x &gt; 2G",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Noguldījumi ar brīdin. termiņu; x ≤ 3M",
+            "definition": "Euro denominētie euro zonas mājsaimniecību noguldījumi ar brīdinājuma termiņu par izņemšanu līdz 3 mēnešiem (%; gadā; jauno darījumu apjoms un atlikums sakrīt)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repo darījumi",
+            "definition": "Euro denominētie euro zonas mājsaimniecību un nefinanšu sabiedrību repo darījumi (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Darījumu uz nakti procentu likmes",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi uz nakti (%; gadā; jauno darījumu apjoms un atlikums sakrīt)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x ≤ 1G",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu līdz 1 gadam (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x &gt; 1G",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu ilgāku par 1 gadu (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; 1G &lt; x ≤ 2G",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu 1–2 gadi (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x ≤ 2G",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu līdz 2 gadiem (%; gadā; jauno darījumu procentu likmes)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Noguldījumi ar noteikto termiņu; x &gt; 2G",
+            "definition": "Euro denominētie euro zonas nefinanšu sabiedrību noguldījumi ar noteikto termiņu ilgāku par 2 gadiem (%; gadā; jauno darījumu procentu likmes)"
+        }
+    }
+}

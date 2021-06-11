@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Kapitalbalancen over for udlandet, reserveaktiver (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Aktiver</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>International investeringsposition, reserveaktiver som en procentdel af bruttonationalproduktet (BNP) til markedspriser (stilling ultimo kvartalet over for ikkeresidenter; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ENS 2010-standarder).</p>",
+            "title": "<p>Aktiver (i pct.)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ekstern sektor - Reserveaktiver</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Reserveaktiver</p>"
+        }
+    }
+}

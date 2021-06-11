@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo de la balanza por cuenta corriente en porcentaje del PIB (media móvil de tres años, calculado conforme a las normas internacionales MBP6 y SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es +6% y -4%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Saldo de la balanza por cuenta corriente (3 años)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Posición de inversión internacional neta en porcentaje del PIB (anual, calculada conforme a las normas internacionales MBP6 y SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es -35%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Posición de inversión internacional (anual)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Tipo de cambio real efectivo (deflactado por IAPC/IPC, variación porcentual en 3 años, 41 países industrializados). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es -/+5% para los países de la zona del euro. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Tipo de cambio real efectivo (3 años)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Cuotas en el mercado de exportación (en valor, variación porcentual en 5 años, calculadas conforme a la norma internacional MBP6). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es -6%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Cuotas en el mercado de exportación (5 años)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Costes laborales unitarios nominales (variación porcentual en tres años, basados en el número de personas ocupadas). Los costes laborales unitarios son una medida de los costes laborales totales por unidad de producto, calculados como la ratio entre la remuneración por asalariado y la productividad del trabajo (definida como PIB por persona ocupada). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es +9% para los países de la zona del euro. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Costes laborales unitarios nominales (3 años)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Precios de la vivienda en relación con un deflactor del consumo privado de Eurostat (variación interanual en porcentaje, viviendas nuevas y de segunda mano). El indicador de precios de inmuebles residenciales para la zona del euro es una media de indicadores nacionales no armonizados basada en datos de fuentes nacionales. La cobertura varía ligeramente entre países. De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 6%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Precios de la vivienda</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Flujo de crédito al sector privado en porcentaje del PIB (datos consolidados, calculado conforme a las normas internacionales MBP6 y SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 15%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Flujo de crédito al sector privado</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Deuda del sector privado en porcentaje del PIB (datos consolidados, calculada conforme a las normas internacionales MBP6 y SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 133%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Deuda del sector privado</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Deuda del sector público en porcentaje del PIB (calculada conforme a las normas internacionales MBP6 y SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 60%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Deuda del sector público</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Pasivos totales del sector financiero (variaciones interanuales, datos no consolidados, calculados conforme a la norma internacional SEC-2010). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 16,5%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Pasivos del sector financiero</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Tasa de desempleo armonizada (media móvil de tres años). De acuerdo con la evaluación de la Comisión Europea en el marco del <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Procedimiento de Desequilibrio Macroeconómico</a>, el umbral indicativo para este indicador es 10%. Fuentes: BCE y Comisión Europea (Eurostat y DG Asuntos Económicos y Financieros)</p>",
+            "title": "<p>Tasa de desempleo (3 años)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Cuadro de indicadores macroeconómicos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Indicadores externos y de competitividad</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Indicadores internos</p>"
+        }
+    }
+}

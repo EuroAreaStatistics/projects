@@ -1,0 +1,65 @@
+{
+    "project": {
+        "title": "Macroeconomic Scoreboard",
+        "options": {
+            "dataSourceURL": "",
+            "dataSource": "dummy"
+        }
+    },
+    "charts": {
+        "1": {
+            "title": "Current Account Balance (3Y)",
+            "definition": "Current account balance as percentage of gross domestic product (GDP) (three-year moving average, calculated according to international standards such as BPM6 and ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is +6% and -4%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448622950443": {
+            "title": "International Investment Position (A)",
+            "definition": "Net international investment position as percentage of gross domestic product (GDP) (annual, calculated according to international standards such as BPM6 and ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is -35%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623066566": {
+            "title": "Real Effective Exchange Rate (3Y)",
+            "definition": "Real effective exchange rate (HICP/CPI deflated, percentage change over three years relative to 41 other industrial countries). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is -/+5% for euro area countries. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623114676": {
+            "title": "Export Market Shares (5Y)",
+            "definition": "Export market shares (measured in values, percentage change over five years, calculated according to international standards such as BPM6). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is -6%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623233385": {
+            "title": "Nominal Unit Labour Cost (3Y)",
+            "definition": "Nominal unit labour cost (percentage change over three years, based on persons). Unit labour costs are a measure of total labour costs per unit of output, calculated as the ratio of compensation per employee to labour productivity (defined as GDP per person employed).  According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is +9% for euro area countries. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623431412": {
+            "title": "House Prices",
+            "definition": "House prices relative to a Eurostat private consumption deflator (year-on-year percentage change, new and existing dwellings). The residential property price indicator for the euro area is an average of non-harmonised country indicators based on data from national sources. The coverage varies to some extent across countries. According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 6%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623524257": {
+            "title": "Private Sector Credit Flow",
+            "definition": "Private sector credit flow as percentage of gross domestic product (GDP) (consolidated, calculated according to international standards such as BPM6 and ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 15%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623583187": {
+            "title": "Private Sector Debt",
+            "definition": "Private sector debt as percentage of GDP (consolidated, calculated according to international standards such as BPM6 and ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 133%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623649199": {
+            "title": "General Government Sector Debt ",
+            "definition": "General government sector debt as percentage of gross domestic product (GDP) (calculated according to international standards such as BPM6 and ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 60%. Sources: ECB and European Commission (Eurostat and Economic and Financial Affairs)."
+        },
+        "1448623727896": {
+            "title": "Financial Sector Liabilities",
+            "definition": "Total financial sector liabilities (year-on-year changes, non-consolidated, calculated according to international standards such as ESA 2010). According to the <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 16.5%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        },
+        "1448623789460": {
+            "title": "Unemployment Rate (3Y)",
+            "definition": "Harmonised unemployment rate (three-year moving average). According to the <a href=\" http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Macroeconomic Imbalance Procedure (MIP)</a> assessed by the European Commission, the indicative threshold for this indicator is 10%. Sources: ECB and European Commission (Eurostat and DG Economic and Financial Affairs)."
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "External/competitiveness indicators",
+            "teaser": ""
+        },
+        "1448623414049": {
+            "title": "Internal indicators",
+            "teaser": ""
+        }
+    }
+}

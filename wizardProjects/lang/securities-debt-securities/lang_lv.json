@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Vērtspapīri - parāda vērtspapīri",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Jaunas emisijas"
+        },
+        "3": {
+            "title": "Neto emisijas"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Bankas, atlikumi",
+            "definition": "Monetāro finanšu iestāžu emitēto parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Bankas, atlikumi; x ≤ 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto īstermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Bankas, atlikumi; x &gt; 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto ilgtermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, atlikumi",
+            "definition": "Nefinanšu sabiedrību emitēto parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, atlikumi; x ≤ 1G",
+            "definition": "Nefinanšu sabiedrību emitēto īstermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, atlikumi; x &gt; 1G",
+            "definition": "Nefinanšu sabiedrību emitēto ilgtermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Valdība, atlikumi",
+            "definition": "Valdības emitēto parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Valdība, atlikumi; x ≤ 1G",
+            "definition": "Valdības emitēto īstermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Valdība, atlikumi; x &gt; 1G",
+            "definition": "Valdības emitēto ilgtermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, atlikumi",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, atlikumi; x ≤ 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto īstermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, atlikumi; x &gt; 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto ilgtermiņa parāda vērtspapīru atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Kopā, atlikumi",
+            "definition": "Parāda vērtspapīru emisiju kopējais atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Kopā, atlikumi; x ≤ 1G",
+            "definition": "Īstermiņa parāda vērtspapīru emisiju kopējais atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Kopā, atlikumi; x &gt; 1G",
+            "definition": "Ilgtermiņa parāda vērtspapīru emisiju kopējais atlikums (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Bankas, jauni",
+            "definition": "Monetāro finanšu iestāžu emitēto parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Bankas, jauni; x ≤ 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto īstermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Bankas, jauni; x &gt; 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto ilgtermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, jauni",
+            "definition": "Nefinanšu sabiedrību emitēto parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, jauni; x ≤ 1G",
+            "definition": "Nefinanšu sabiedrību emitēto īstermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, jauni; x &gt; 1G",
+            "definition": "Nefinanšu sabiedrību emitēto ilgtermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Valdība, jauni",
+            "definition": "Valdības emitēto parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Valdība, jauni; x ≤ 1G",
+            "definition": "Valdības emitēto īstermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Valdība, jauni; x &gt; 1G",
+            "definition": "Valdības emitēto ilgtermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, jauni",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, jauni; x ≤ 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto īstermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, jauni; x &gt; 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto ilgtermiņa parāda vērtspapīru bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Kopā, jauni",
+            "definition": "Parāda vērtspapīru emisiju kopējais bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Kopā, jauni; x &gt; 1G",
+            "definition": "Ilgtermiņa parāda vērtspapīru emisiju kopējais bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Kopā, jauni; x ≤ 1G",
+            "definition": "Īstermiņa parāda vērtspapīru emisiju kopējais bruto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Bankas, neto",
+            "definition": "Monetāro finanšu iestāžu emitēto parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Bankas, neto; x ≤ 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto īstermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Bankas, neto; x &gt; 1G",
+            "definition": "Monetāro finanšu iestāžu emitēto ilgtermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, neto",
+            "definition": "Nefinanšu sabiedrību emitēto parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, neto; x ≤ 1G",
+            "definition": "Nefinanšu sabiedrību emitēto īstermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Nefinanšu sabiedrības, neto; x &gt; 1G",
+            "definition": "Nefinanšu sabiedrību emitēto ilgtermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Valdība, neto",
+            "definition": "Valdības emitēto parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Valdība, neto; x ≤ 1G",
+            "definition": "Valdības emitēto īstermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Valdība, neto; x &gt; 1G",
+            "definition": "Valdības emitēto ilgtermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, neto",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, neto; x ≤ 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto īstermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Citas finanšu iestādes, neto; x &gt; 1G",
+            "definition": "Finanšu sabiedrību, kas nav monetārās finanšu iestādes, emitēto ilgtermiņa parāda vērtspapīru neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, emitējuši rezidenti)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Kopā, neto",
+            "definition": "Parāda vērtspapīru emisiju kopējais neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Kopā, neto; x ≤ 1G",
+            "definition": "Īstermiņa parāda vērtspapīru emisiju kopējais neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Kopā, neto; x &gt; 1G",
+            "definition": "Ilgtermiņa parāda vērtspapīru emisiju kopējais neto emisijas apjoms (nominālvērtība, visas valūtas kopā, izteikts euro, rezidentu emitēti)"
+        }
+    }
+}

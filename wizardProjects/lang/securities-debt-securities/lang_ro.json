@@ -1,0 +1,201 @@
+{
+    "project": {
+        "title": "Titluri de valoare - Titluri de natura datoriei",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stocuri"
+        },
+        "2": {
+            "title": "Emisiuni noi"
+        },
+        "3": {
+            "title": "Emisiuni nete"
+        }
+    },
+    "charts": {
+        "M..12A0.F33000.N.1.Z01.E.Z": {
+            "title": "Bănci, stocuri",
+            "definition": "Solduri aferente titlurilor de natura datoriei emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33100.N.1.Z01.E.Z": {
+            "title": "Bănci, stocuri; x ≤ 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen scurt emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33200.N.1.Z01.E.Z": {
+            "title": "Bănci, stocuri; x &gt; 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen lung emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33000.N.1.Z01.E.Z": {
+            "title": "Societăți, stocuri",
+            "definition": "Solduri aferente titlurilor de natura datoriei emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33100.N.1.Z01.E.Z": {
+            "title": "Societăți, stocuri; x ≤ 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen scurt emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33200.N.1.Z01.E.Z": {
+            "title": "Societăți, stocuri; x &gt; 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen lung emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33000.N.1.Z01.E.Z": {
+            "title": "Administrații publice, stocuri",
+            "definition": "Solduri aferente titlurilor de natura datoriei emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33100.N.1.Z01.E.Z": {
+            "title": "Administrații publice, stocuri; x ≤ 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen scurt emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33200.N.1.Z01.E.Z": {
+            "title": "Administrații publice, stocuri; x &gt; 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen lung emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33000.N.1.Z01.E.Z": {
+            "title": "Alte instituții financiare, stocuri",
+            "definition": "Solduri aferente titlurilor de natura datoriei emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33100.N.1.Z01.E.Z": {
+            "title": "Alte instituții financiare, stocuri; x ≤ 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen scurt emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33200.N.1.Z01.E.Z": {
+            "title": "Alte instituții financiare, stocuri; x &gt; 1A",
+            "definition": "Solduri aferente titlurilor de natura datoriei pe termen lung emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33000.N.1.Z01.E.Z": {
+            "title": "Total, stocuri",
+            "definition": "Solduri totale aferente titlurilor de natura datoriei (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33100.N.1.Z01.E.Z": {
+            "title": "Total, stocuri; x ≤ 1A",
+            "definition": "Solduri totale aferente titlurilor de natura datoriei pe termen scurt (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33200.N.1.Z01.E.Z": {
+            "title": "Total, stocuri; x &gt; 1A",
+            "definition": "Solduri totale aferente titlurilor de natura datoriei pe termen lung (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33000.N.2.Z01.E.Z": {
+            "title": "Bănci, noi",
+            "definition": "Emisiuni brute de titluri de natura datoriei emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33100.N.2.Z01.E.Z": {
+            "title": "Bănci, noi; x ≤ 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen scurt emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33200.N.2.Z01.E.Z": {
+            "title": "Bănci, noi; x &gt; 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen lung emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33000.N.2.Z01.E.Z": {
+            "title": "Societăți, noi",
+            "definition": "Emisiuni brute de titluri de natura datoriei emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33100.N.2.Z01.E.Z": {
+            "title": "Societăți, noi; x ≤ 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen scurt emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33200.N.2.Z01.E.Z": {
+            "title": "Societăți, noi; x &gt; 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen lung emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33000.N.2.Z01.E.Z": {
+            "title": "Administrații publice, noi",
+            "definition": "Emisiuni brute de titluri de natura datoriei emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33100.N.2.Z01.E.Z": {
+            "title": "Administrații publice, noi; x ≤ 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen scurt emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33200.N.2.Z01.E.Z": {
+            "title": "Administrații publice, noi; x &gt; 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen lung emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33000.N.2.Z01.E.Z": {
+            "title": "Alte instituții financiare, noi",
+            "definition": "Emisiuni brute de titluri de natura datoriei emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33100.N.2.Z01.E.Z": {
+            "title": "Alte instituții financiare, noi; x ≤ 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen scurt emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33200.N.2.Z01.E.Z": {
+            "title": "Alte instituții financiare, noi; x &gt; 1A",
+            "definition": "Emisiuni brute de titluri de natura datoriei pe termen lung emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33000.N.2.Z01.E.Z": {
+            "title": "Total, noi",
+            "definition": "Emisiuni brute totale de titluri de natura datoriei (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33200.N.2.Z01.E.Z": {
+            "title": "Total, noi; x &gt; 1A",
+            "definition": "Emisiuni brute totale de titluri de natura datoriei pe termen lung (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33100.N.2.Z01.E.Z": {
+            "title": "Total, noi; x ≤ 1A",
+            "definition": "Emisiuni brute totale de titluri de natura datoriei pe termen scurt (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33000.N.4.Z01.E.Z": {
+            "title": "Bănci, nete",
+            "definition": "Emisiuni nete de titluri de natura datoriei emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33100.N.4.Z01.E.Z": {
+            "title": "Bănci, nete; x ≤ 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen scurt emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..12A0.F33200.N.4.Z01.E.Z": {
+            "title": "Bănci, nete; x &gt; 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen lung emise de instituții financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33000.N.4.Z01.E.Z": {
+            "title": "Societăți, nete",
+            "definition": "Emisiuni nete de titluri de natura datoriei emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33100.N.4.Z01.E.Z": {
+            "title": "Societăți, nete; x ≤ 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen scurt emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1100.F33200.N.4.Z01.E.Z": {
+            "title": "Societăți, nete; x &gt; 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen lung emise de societăți nefinanciare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33000.N.4.Z01.E.Z": {
+            "title": "Administrații publice, nete",
+            "definition": "Emisiuni nete de titluri de natura datoriei emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33100.N.4.Z01.E.Z": {
+            "title": "Administrații publice, nete; x ≤ 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen scurt emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1300.F33200.N.4.Z01.E.Z": {
+            "title": "Administrații publice, nete; x &gt; 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen lung emise de administrații publice (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33000.N.4.Z01.E.Z": {
+            "title": "Alte instituții financiare, nete",
+            "definition": "Emisiuni nete de titluri de natura datoriei emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33100.N.4.Z01.E.Z": {
+            "title": "Alte instituții financiare, nete; x≤ 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen scurt emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1235.F33200.N.4.Z01.E.Z": {
+            "title": "Alte instituții financiare, nete; x &gt; 1A",
+            "definition": "Emisiuni nete de titluri de natura datoriei pe termen lung emise de societăți financiare, altele decât instituțiile financiare monetare (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33000.N.4.Z01.E.Z": {
+            "title": "Total, nete",
+            "definition": "Emisiuni nete totale de titluri de natura datoriei (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33100.N.4.Z01.E.Z": {
+            "title": "Total, nete; x ≤ 1A",
+            "definition": "Emisiuni nete totale de titluri de natura datoriei pe termen scurt (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        },
+        "M..1000.F33200.N.4.Z01.E.Z": {
+            "title": "Total, nete; x &gt; 1A",
+            "definition": "Emisiuni nete totale de titluri de natura datoriei pe termen lung (valoare nominală, toate valutele combinate, exprimate în euro, emise de rezidenți)"
+        }
+    }
+}

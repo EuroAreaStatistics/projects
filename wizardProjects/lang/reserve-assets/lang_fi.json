@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Ulkomainen varallisuusasema: valuuttavarantosaamiset euroalueen ulkopuolelta (vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen mukaiset standardit).</p>",
+            "title": "<p>Saamiset</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Ulkomainen varallisuusasema: valuuttavarantosaamiset suhteessa BKT:hen (saamiset euroalueen ulkopuolelta prosentteina markkinahinnoin lasketusta bruttokansantuotteesta, vuosineljänneksen lopun tiedot, kausivaihtelun ja työpäivien määrän vaikutuksesta puhdistamattomat tiedot, maksutasekäsikirjan kuudennen laitoksen ja EKT 2010:n mukaiset standardit).</p>",
+            "title": "<p>Saamisten BKT-suhde</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ulkoinen sektori - Valuuttavaranto</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Valuuttavaranto</p>"
+        }
+    }
+}

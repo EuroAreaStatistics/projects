@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruto zunanji dolg (obveznosti celotnega gospodarstva do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Neto zunanji dolg (obveznosti minus imetja, neto obveznosti celotnega gospodarstva do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti celotnega gospodarstva do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Bruto količnik</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Neto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti minus imetja, neto obveznosti celotnega gospodarstva do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Neto količnik</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruto zunanji dolg (obveznosti denarnih finančnih institucij do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Neto zunanji dolg (obveznosti minus imetja, neto obveznosti denarnih finančnih institucij do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti denarnih finančnih institucij do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Bruto količnik</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Neto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti minus imetja, neto obveznosti denarnih finančnih institucij do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Neto količnik</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruto zunanji dolg (obveznosti širše opredeljene države do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Neto zunanji dolg (obveznosti minus imetja, neto obveznosti širše opredeljene države do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti širše opredeljene države do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Bruto količnik</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Neto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti minus imetja, neto obveznosti širše opredeljene države do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Neto količnik</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruto zunanji dolg (obveznosti ostalih sektorjev do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Neto zunanji dolg (obveznosti minus imetja, neto obveznosti ostalih sektorjev do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6)</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti ostalih sektorjev do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Bruto količnik</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Neto zunanji dolg kot odstotek bruto domačega proizvoda (BDP) po tržnih cenah (obveznosti minus imetja, neto obveznosti ostalih sektorjev do nerezidentov; pozicija ob koncu četrtletja; ni desezonirano ali prilagojeno za število delovnih dni; standardi BPM6 in ESR 2010)</p>",
+            "title": "<p>Neto količnik</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Tujina - Zunanji dolg</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Celotno gospodarstvo</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Denarne finančne institucije</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Širše opredeljena država</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Ostali sektorji</p>"
+        }
+    }
+}

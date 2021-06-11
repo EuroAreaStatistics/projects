@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Ieguldījumu fondi - ieguldījumu politikas dalījumā",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Atlikumi"
+        },
+        "2": {
+            "title": "Plūsmas"
+        },
+        "3": {
+            "title": "Pieauguma temps"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Obligāciju fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: obligāciju fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kapitāla vērtspapīru fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: kapitāla vērtspapīru fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Jauktie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: jauktie fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Nekustamā īpašuma fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: nekustamā īpašuma fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Riska ieguldījumu fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: riska ieguldījumu fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Pārējie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: pārējie fondi (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (atlikums perioda beigās, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Obligāciju fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: obligāciju fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kapitāla vērtspapīru fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: kapitāla vērtspapīru fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Jauktie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: jauktie fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Nekustamā īpašuma fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: nekustamā īpašuma fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Riska ieguldījumu fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: riska ieguldījumu fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Pārējie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: pārējie fondi (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (finanšu darījumi, visi termiņi, visas valūtas kopā, izteikts euro, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Obligāciju fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: obligāciju fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kapitāla vērtspapīru fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: kapitāla vērtspapīru fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Jauktie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: jauktie fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Nekustamā īpašuma fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: nekustamā īpašuma fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Riska ieguldījumu fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: riska ieguldījumu fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Pārējie fondi",
+            "definition": "Ieguldījumu fondu, izņemot naudas tirgus fondus, emitētās ieguldījumu fondu akcijas un daļas dalījumā pēc ieguldījumu politikas: pārējie fondi (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kopā",
+            "definition": "Ieguldījumu fondi, izņemot naudas tirgus fondus, ieguldījumu fondu akcijas un daļas (gada pieauguma temps, visi termiņi, visas valūtas kopā, gada procentuālās pārmaiņas, sezonāli neizlīdzināti dati, mēneša dati)"
+        }
+    }
+}

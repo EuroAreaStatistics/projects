@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Bankräntor - Inlåning",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Hushåll"
+        },
+        "2": {
+            "title": "Företag"
+        }
+    },
+    "charts": {
+        "M..B.L21.A.R.A.2250.EUR.N": {
+            "title": "Dagslåneräntor",
+            "definition": "Dagslån i euro från hushåll i euroområdet (i procent per år, nya avtal och utestående belopp sammanfaller)"
+        },
+        "M..B.L22.F.R.A.2250.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x ≤ 1Y",
+            "definition": "Inlåning i euro med en avtalad löptid på upp till ett år från hushåll i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.K.R.A.2250.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x &gt; 1Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över ett år från hushåll i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.G.R.A.2250.EUR.N": {
+            "title": "Inlåning, avtalad löptid; 1Y &lt; x ≤ 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över ett och upp till två år från hushåll i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.L.R.A.2250.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x ≤ 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på upp till två år från hushåll i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.H.R.A.2250.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x &gt; 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över två år från hushåll i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L23.D.R.A.2250.EUR.N": {
+            "title": "Inlåning med uppsägningstid; x ≤ 3M",
+            "definition": "Inlåning i euro med en uppsägningstid på upp till tre månader från hushåll i euroområdet (i procent per år, nya avtal och utestående belopp sammanfaller)"
+        },
+        "M..B.L24.A.R.A.2230.EUR.N": {
+            "title": "Repor",
+            "definition": "Repor i euro från hushåll och icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L21.A.R.A.2240.EUR.N": {
+            "title": "Dagslåneräntor",
+            "definition": "Dagslån i euro från hushåll i euroområdet (i procent per år, nya avtal och utestående belopp sammanfaller)"
+        },
+        "M..B.L22.F.R.A.2240.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x ≤ 1Y",
+            "definition": "Inlåning i euro med en avtalad löptid på upp till ett år från icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.K.R.A.2240.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x &gt; 1Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över ett år från icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.G.R.A.2240.EUR.N": {
+            "title": "Inlåning, avtalad löptid; 1Y &lt; x ≤ 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över ett och upp till två år från icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.L.R.A.2240.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x ≤ 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på upp till två år från icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        },
+        "M..B.L22.H.R.A.2240.EUR.N": {
+            "title": "Inlåning, avtalad löptid; x &gt; 2Y",
+            "definition": "Inlåning i euro med en avtalad löptid på över två år från icke-finansiella företag i euroområdet (i procent per år, räntor på nya avtal)"
+        }
+    }
+}

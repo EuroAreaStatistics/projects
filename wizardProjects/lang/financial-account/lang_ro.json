@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Contul financiar net ca pondere în produsul intern brut (PIB) la prețurile pieței (active minus pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Pondere netă</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Activele contului financiar ca pondere în produsul intern brut (PIB) la prețurile pieței (active, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea activelor</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Pasivele contului financiar ca pondere în produsul intern brut (PIB) la prețurile pieței (pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6 și SEC 2010).</p>",
+            "title": "<p>Ponderea pasivelor</p>"
+        },
+        "1": {
+            "definition": "<p>Contul financiar net (active minus pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Net</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Activele contului financiar (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Pasivele contului financiar (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Contul financiar net, investiții directe (active minus pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Net</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Contul financiar, active aferente investițiilor directe (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Contul financiar, pasive aferente investițiilor directe (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Contul financiar net, investiții de portofoliu (active minus pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Net</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Contul financiar, active aferente investițiilor de portofoliu (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Contul financiar, pasive aferente investițiilor de portofoliu (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Contul financiar net, alte investiții (active minus pasive, tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Net</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Contul financiar, active aferente altor investiții (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Active</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Contul financiar, pasive aferente altor investiții (tranzacții față de nerezidenți; date cumulate pe patru trimestre; date neajustate sezonier sau cu numărul zilelor lucrătoare; standarde MBP6).</p>",
+            "title": "<p>Pasive</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Sector extern - Contul financiar</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Total</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Investiții directe</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Investiții de portofoliu</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Alte investiții</p>"
+        }
+    }
+}

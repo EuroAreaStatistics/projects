@@ -1,0 +1,172 @@
+{
+    "project": {
+        "title": "Balanço dos bancos - Depósitos",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "<em>Stocks</em>"
+        },
+        "2": {
+            "title": "Fluxos"
+        },
+        "3": {
+            "title": "Taxas de crescimento"
+        },
+        "4": {
+            "title": "Rácio empréstimos/depósitos"
+        }
+    },
+    "charts": {
+        "M..N.A.L20.A.1.U2.2250.Z01.E": {
+            "title": "Famílias: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L21.A.1.U2.2250.Z01.E": {
+            "title": "Famílias: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos à ordem das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L22.L.1.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado até 2 anos das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L22.H.1.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado superior a 2 anos das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L23.D.1.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos reembolsáveis com pré-aviso até 3 meses das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L20.A.1.U2.2240.Z01.E": {
+            "title": "Empresas: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L21.A.1.U2.2240.Z01.E": {
+            "title": "Empresas: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos à ordem das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L22.L.1.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado até 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L22.H.1.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado superior a 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L23.D.1.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos reembolsáveis com pré-aviso até 3 meses das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L20.A.1.U2.2220.Z01.E": {
+            "title": "Seguradoras e fundos de pensões: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das sociedades de seguros e fundos de pensões da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L20.A.1.U2.2210.Z01.E": {
+            "title": "Outros intermediários financeiros: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos de outros intermediários financeiros da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; saldos em fim de período)"
+        },
+        "M..N.A.L20.A.4.U2.2250.Z01.E": {
+            "title": "Famílias: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L21.A.4.U2.2250.Z01.E": {
+            "title": "Famílias: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos à ordem das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L22.L.4.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado até 2 anos das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L22.H.4.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado superior a 2 anos das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L23.D.4.U2.2250.Z01.E": {
+            "title": "Famílias: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos reembolsáveis com pré-aviso até 3 meses das famílias da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L20.A.4.U2.2240.Z01.E": {
+            "title": "Empresas: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L21.A.4.U2.2240.Z01.E": {
+            "title": "Empresas: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos à ordem das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L22.L.4.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado até 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L22.H.4.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos com prazo acordado superior a 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L23.D.4.U2.2240.Z01.E": {
+            "title": "Empresas: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: depósitos reembolsáveis com pré-aviso até 3 meses das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L20.A.4.U2.2220.Z01.E": {
+            "title": "Seguradoras e fundos de pensões: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos das sociedades de seguros e fundos de pensões da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L20.A.4.U2.2210.Z01.E": {
+            "title": "Outros intermediários financeiros: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: total dos depósitos de outros intermediários financeiros da área do euro (conjunto de todas as moedas; todos os prazos; valores expressos em euros, não corrigidos de sazonalidade; transações financeiras)"
+        },
+        "M..N.A.L20.A.I.U2.2250.Z01.A": {
+            "title": "Famílias: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento do total dos depósitos das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L21.A.I.U2.2250.Z01.A": {
+            "title": "Famílias: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos à ordem das famílias da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L22.L.I.U2.2250.Z01.A": {
+            "title": "Famílias: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos com prazo acordado até 2 anos das famílias da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L22.H.I.U2.2250.Z01.A": {
+            "title": "Famílias: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos com prazo acordado superior a 2 anos das famílias da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L23.D.I.U2.2250.Z01.A": {
+            "title": "Famílias: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos reembolsáveis com pré-aviso até 3 meses das famílias da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L20.A.I.U2.2240.Z01.A": {
+            "title": "Empresas: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento do total dos depósitos das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L21.A.I.U2.2240.Z01.A": {
+            "title": "Empresas: depósitos à ordem",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos à ordem das sociedades não financeiras da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L22.L.I.U2.2240.Z01.A": {
+            "title": "Empresas: dep. com prazo acordado ≤ 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos com prazo acordado até 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L22.H.I.U2.2240.Z01.A": {
+            "title": "Empresas: dep. com prazo acordado &gt; 2A",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos com prazo acordado superior a 2 anos das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L23.D.I.U2.2240.Z01.A": {
+            "title": "Empresas: dep. com pré-aviso; x ≤ 3M",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento dos depósitos reembolsáveis com pré-aviso até 3 meses das sociedades não financeiras da área do euro (conjunto de todas as moedas; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L20.A.I.U2.2220.Z01.A": {
+            "title": "Seguradoras e fundos de pensões: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento do total dos depósitos das sociedades de seguros e fundos de pensões da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "M..N.A.L20.A.I.U2.2210.Z01.A": {
+            "title": "Outros intermediários financeiros: total",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: taxas de crescimento do total dos depósitos de outros intermediários financeiros da área do euro (conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; variação homóloga em percentagem)"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "title": "Rácio empréstimos/depósitos",
+            "definition": "Estatísticas do balanço das instituições financeiras monetárias: rácio entre o total dos empréstimos e o total dos depósitos face às sociedades não financeiras e famílias da área do euro, bem como face às sociedades não financeiras, famílias e instituições financeiras não bancárias de países não pertencentes à da área do euro (exceto administrações públicas; conjunto de todas as moedas; todos os prazos; valores não corrigidos de sazonalidade; em percentagem; dados trimestrais)"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Bruto externe schuld (passiva van de totale economie ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452084969422": {
+            "definition": "<p>Netto externe schuld (passiva minus activa, nettopassiva van de totale economie ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452085010488": {
+            "definition": "<p>Bruto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva van de totale economie ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Brutoratio</p>"
+        },
+        "1452085022336": {
+            "definition": "<p>Netto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva minus activa, nettopassiva van de totale economie ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452086278564": {
+            "definition": "<p>Bruto externe schuld (passiva van de monetaire financiële instellingen ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086301523": {
+            "definition": "<p>Netto externe schuld (passiva minus activa, nettopassiva van de monetaire financiële instellingen ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086317723": {
+            "definition": "<p>Bruto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva van de monetaire financiële instellingen ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Brutoratio</p>"
+        },
+        "1452086333332": {
+            "definition": "<p>Netto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva minus activa, nettopassiva van de monetaire financiële instellingen ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452086445464": {
+            "definition": "<p>Bruto externe schuld (passiva van de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086462084": {
+            "definition": "<p>Netto externe schuld (passiva minus activa, nettopassiva van de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086472420": {
+            "definition": "<p>Bruto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva van de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Brutoratio</p>"
+        },
+        "1452086489956": {
+            "definition": "<p>Netto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva minus activa, nettopassiva van de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        },
+        "1452086531957": {
+            "definition": "<p>Bruto externe schuld (passiva van de andere sectoren dan de MFI's en de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Bruto</p>"
+        },
+        "1452086541325": {
+            "definition": "<p>Netto externe schuld (passiva minus activa, nettopassiva van de andere sectoren dan de MFI's en de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6-standaarden).</p>",
+            "title": "<p>Netto</p>"
+        },
+        "1452086545397": {
+            "definition": "<p>Bruto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva van de andere sectoren dan de MFI's en de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Brutoratio</p>"
+        },
+        "1452086552189": {
+            "definition": "<p>Netto externe schuld als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (passiva minus activa, nettopassiva van de andere sectoren dan de MFI's en de overheid ten opzichte van niet-ingezetenen; positie ultimo kwartaal; niet gecorrigeerd voor seizoen en het aantal werkdagen; BPM6- en ESA 2010-standaarden).</p>",
+            "title": "<p>Nettoratio</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Externe sector - Externe schuld</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Totale economie</p>"
+        },
+        "1452086258866": {
+            "title": "<p>Monetaire financiële instellingen</p>"
+        },
+        "1452086360286": {
+            "title": "<p>Overheid</p>"
+        },
+        "1452086518883": {
+            "title": "<p>Overige sectoren</p>"
+        }
+    }
+}

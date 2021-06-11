@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Investeerimisfondid - Fondiliigi alusel",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Vood"
+        },
+        "3": {
+            "title": "Kasvumäärad"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Avatud investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: avatud investeerimisfondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kinnised investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: kinnised investeerimisfondid (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (jääk perioodi lõpus, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Avatud investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: avatud investeerimisfondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kinnised investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: kinnised investeerimisfondid (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (finantstehingud, lõpptähtaeg, kõik vääringud kokku, eurodes nomineeritud, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Avatud investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: avatud investeerimisfondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kinnised investeerimisfondid",
+            "definition": "Investeerimisfondide (v.a  rahaturufondid) emiteeritud investeerimisfondide aktsiad/osakud, jaotatud fondiliigi alusel: kinnised investeerimisfondid (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Kokku",
+            "definition": "Investeerimisfondid (v.a  rahaturufondid), investeerimisfondide aktsiad/osakud (aastane kasvumäär, lõpptähtaeg, kõik vääringud kokku, aastane muutus protsentides, hooajaliselt korrigeerimata, kuuandmed)"
+        }
+    }
+}

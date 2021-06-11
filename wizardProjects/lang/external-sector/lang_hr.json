@@ -1,0 +1,118 @@
+{
+    "charts": {
+        "c1571672246073": {
+            "definition": "<p>tekući račun, roba, saldo (izvoz umanjen za uvoz, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672264338": {
+            "definition": "<p>tekući račun, roba, izvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1571672269375": {
+            "definition": "<p>tekući račun, roba, uvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "c1571672321160": {
+            "definition": "<p>tekući račun, usluge, saldo (izvoz umanjen za uvoz, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1571672322842": {
+            "definition": "<p>tekući račun, usluge, izvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "c1571672323643": {
+            "definition": "<p>tekući račun, usluge, uvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "1449848157050": {
+            "definition": "<p>saldo tekućeg računa kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (prihodi umanjeni za rashode, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010)</p>",
+            "title": "<p>Omjer salda</p>"
+        },
+        "1449848222069": {
+            "definition": "<p>rashodi na tekućem računu kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010)</p>",
+            "title": "<p>Omjer rashoda</p>"
+        },
+        "1449848859297": {
+            "definition": "<p>saldo tekućeg računa (prihodi umanjeni za rashode, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1449848889065": {
+            "definition": "<p>prihodi na tekućem računu (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Prihodi</p>"
+        },
+        "1449848899771": {
+            "definition": "<p>rashodi na tekućem računu (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Rashodi</p>"
+        },
+        "1452074667935": {
+            "definition": "<p>prihodi na tekućem računu kao postotak bruto domaćeg proizvoda (BDP) po tržišnim cijenama (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6 i ESA 2010)</p>",
+            "title": "<p>Omjer prihoda</p>"
+        },
+        "1452075262074": {
+            "definition": "<p>tekući račun, roba i usluge, saldo (izvoz umanjen za uvoz, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075302996": {
+            "definition": "<p>tekući račun, roba i usluge, izvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Izvoz</p>"
+        },
+        "1452075316620": {
+            "definition": "<p>tekući račun, roba i usluge, uvoz (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6).</p>",
+            "title": "<p>Uvoz</p>"
+        },
+        "1452075551630": {
+            "definition": "<p>tekući račun, saldo računa primarnog dohotka (prihodi umanjeni za rashode; transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075562630": {
+            "definition": "<p>tekući račun, prihodi na računu primarnog dohotka (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Prihodi</p>"
+        },
+        "1452075568709": {
+            "definition": "<p>tekući račun, rashodi na računu primarnog dohotka (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Rashodi</p>"
+        },
+        "1452075952750": {
+            "definition": "<p>tekući račun, saldo računa sekundarnog dohotka (prihodi umanjeni za rashode, transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "1452075961846": {
+            "definition": "<p>tekući račun, prihodi na računu sekundarnog dohotka (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Prihodi</p>"
+        },
+        "1452075967901": {
+            "definition": "<p>tekući račun, rashodi na računu sekundarnog dohotka (transakcije s nerezidentima; ukupno za četiri tromjesečja; bez sezonske ili kalendarske prilagodbe; standardi BPM6)</p>",
+            "title": "<p>Rashodi</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>a</p>",
+            "dataSourceURL": "<p>a</p>",
+            "publicationThumbnail": "<p>a</p>",
+            "publicationWebpage": "<p>a</p>",
+            "relatedPublication": "<p>a</p>"
+        },
+        "title": "<p>Vanjski sektor - tekući račun</p>"
+    },
+    "tabs": {
+        "t1571672238268": {
+            "title": "<p>Roba</p>"
+        },
+        "t1571672318658": {
+            "title": "<p>Usluge</p>"
+        },
+        "1449847839830": {
+            "title": "<p>Ukupno</p>"
+        },
+        "1449849086859": {
+            "title": "<p>Roba i usluge</p>"
+        },
+        "1452075533276": {
+            "title": "<p>Primarni dohodak</p>"
+        },
+        "1452075926783": {
+            "title": "<p>Sekundarni dohodak</p>"
+        }
+    }
+}

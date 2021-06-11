@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo bežného účtu ako percento hrubého domáceho produktu (HDP) (trojročný kĺzavý priemer počítaný podľa medzinárodných noriem ako BPM6 a ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa +6 % a -4 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Saldo bežného účtu (3Y)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Čistá medzinárodná investičná pozícia ako percento hrubého domáceho produktu (HDP) (ročná, počítaná podľa medzinárodných noriem ako BPM6 a ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa -35 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Medzinárodná investičná pozícia (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Reálny efektívny výmenný kurz (deflovaný HICP/CPI, percentuálna zmena za tri roky vo vzťahu k 41 iným priemyselným krajinám). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa pre krajiny eurozóny -/+5 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Reálny efektívny výmenný kurz (3Y)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Podiely na vývoznom trhu (v hodnotovom vyjadrení, percentuálne zmeny za päť rokov, počítané podľa medzinárodných noriem ako BPM6). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa -6 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Podiely na vývoznom trhu (5Y)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominálne jednotkové náklady práce (percentuálna zmena za tri roky, na základe počtu zamestnaných). Jednotkové náklady práce predstavujú celkové pracovné náklady na jednotku produkcie a počítajú sa ako pomer kompenzácií na zamestnanca k produktivite práce (definovanej ako HDP na zamestnanca). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa pre krajiny eurozóny +9 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Nominálne jednotkové náklady práce (3Y)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Ceny nehnuteľností na bývanie v pomere k deflátoru súkromnej spotreby Eurostatu (medziročná percentuálna zmena, nové a existujúce nehnuteľnosti). Ukazovateľ cien nehnuteľností na bývanie v eurozóne je priemerom neharmonizovaných ukazovateľov jednotlivých krajín zostavených na základe údajov z národných zdrojov. Ich skladba sa v jednotlivých krajinách do istej miery líši. Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 6 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Ceny nehnuteľností na bývanie</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Úverový tok súkromného sektora ako percento hrubého domáceho produktu (HDP) (konsolidovaný, počítaný podľa medzinárodných noriem ako BPM6 a ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 15 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Úverový tok súkromného sektora</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dlh súkromného sektora ako percento HDP (konsolidovaný, počítaný podľa medzinárodných noriem ako BPM6 a ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 133 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Dlh súkromného sektora</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dlh sektora verejnej správy ako percento hrubého domáceho produktu (HDP) (počítaný podľa medzinárodných noriem ako BPM6 a ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 60 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Dlh sektora verejnej správy</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Celkové záväzky finančného sektora (medziročné zmeny, nekonsolidované, počítané podľa medzinárodných noriem ako ESA 2010). Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">Postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 16,5 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Záväzky finančného sektora</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Harmonizovaná miera nezamestnanosti (trojročný kĺzavý priemer).  Podľa <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\" target=\"_blank\">postupu pri makroekonomickej nerovnováhe (MIP)</a> na základe hodnotenia Európskej komisie je orientačnou prahovou hodnotou tohto ukazovateľa 10 %. Zdroj: ECB a Európska komisia (Eurostat a generálne riaditeľstvo pre hospodárske a finančné záležitosti)</p>",
+            "title": "<p>Miera nezamestnanosti (3Y)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Hodnotiaca tabuľka</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Vonkajšie ukazovatele/ukazovatele konkurencieschopnosti</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Vnútorné ukazovatele</p>"
+        }
+    }
+}

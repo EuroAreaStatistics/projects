@@ -1,0 +1,62 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Saldo tekućeg računa kao postotak bruto domaćeg proizvoda (BDP) (trogodišnji pomični prosjek izračunan prema međunarodnim standardima, na primjer standardima BPM6 i ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je +6 % odnosno –4 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Saldo tekućeg računa (3G)</p>"
+        },
+        "1448622950443": {
+            "definition": "<p>Neto stanje međunarodnih ulaganja kao postotak bruto domaćeg proizvoda (BDP) (godišnje, izračunano prema međunarodnim standardima, na primjer standardima BPM6 i ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je –35 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Stanje međunarodnih ulaganja (A)</p>"
+        },
+        "1448623066566": {
+            "definition": "<p>Realni efektivni tečaj (deflacioniran HIPC-om/IPC-om, postotna promjena u odnosu na 41 drugu industrijsku zemlju za razdoblje od tri godine). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je –/+5 % za zemlje europodručja. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Realni efektivni tečaj (3G)</p>"
+        },
+        "1448623114676": {
+            "definition": "<p>Tržišni udio izvoza (mjereno u vrijednostima, postotna promjena za razdoblje od pet godina izračunana prema međunarodnim standardima, na primjer standardu BPM6). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je –6 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Tržišni udio izvoza (5G)</p>"
+        },
+        "1448623233385": {
+            "definition": "<p>Nominalni jedinični troškovi rada (postotna promjena za razdoblje od tri godine, na temelju broja zaposlenih). Jedinični troškovi rada mjera su ukupnih troškova rada po jedinici proizvoda, izračunani kao omjer naknade po zaposlenome i proizvodnosti rada (koja se definira kao BDP po zaposlenome). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je +9 % za države europodručja. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Nominalni jedinični troškovi rada (3G)</p>"
+        },
+        "1448623431412": {
+            "definition": "<p>Cijene stambenih nekretnina u odnosu na Eurostatov deflator osobne potrošnje (postotna promjena u odnosu na prethodnu godinu, novi i postojeći stambeni objekti). Pokazatelj cijene stambenih nekretnina za europodručje prosjek je neusklađenih pokazatelja za pojedinu državu na temelju podataka iz nacionalnih izvora. Obuhvat se, u određenoj mjeri, razlikuje u pojedinim državama. Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 6 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Cijene stambenih nekretnina</p>"
+        },
+        "1448623524257": {
+            "definition": "<p>Tokovi kredita privatnom sektoru kao postotak domaćeg bruto proizvoda (BDP) (konsolidirani, izračunani prema međunarodnim standardima, na primjer standardima BPM6 i ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 15 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Tokovi kredita privatnom sektoru</p>"
+        },
+        "1448623583187": {
+            "definition": "<p>Dug privatnog sektora kao postotak BDP-a (konsolidiran, izračunan prema međunarodnim standardima, na primjer standardima BPM6 i ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 133 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Dug privatnog sektora</p>"
+        },
+        "1448623649199": {
+            "definition": "<p>Dug sektora opće države kao postotak bruto domaćeg proizvoda (BDP) (izračunan prema međunarodnim standardima, na primjer standardima BPM6 i ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 60 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Dug sektora opće države</p>"
+        },
+        "1448623727896": {
+            "definition": "<p>Ukupne obveze financijskog sektora (promjene u odnosu na prethodnu godinu, nekonsolidirane, izračunane prema međunarodnim standardima, na primjer standardima ESA 2010). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 16,5 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Obveze financijskog sektora</p>"
+        },
+        "1448623789460": {
+            "definition": "<p>Usklađena stopa nezaposlenosti (trogodišnji pomični prosjek). Prema <a href=\"http://ec.europa.eu/economy_finance/economic_governance/macroeconomic_imbalance_procedure/index_en.htm\">proceduri Europske komisije pri makroekonomskim neravnotežama (MIP)</a>, indikativni prag za taj pokazatelj je 10 %. Izvori: ESB i Europska komisija (Eurostat i glavna uprava Gospodarski i financijski poslovi).</p>",
+            "title": "<p>Stopa nezaposlenosti (3G)</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>Makroekonomska tablica rezultata</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Vanjski pokazatelji / pokazatelji konkurentnosti</p>"
+        },
+        "1448623414049": {
+            "title": "<p>Unutarnji pokazatelji</p>"
+        }
+    }
+}

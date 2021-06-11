@@ -1,0 +1,105 @@
+{
+    "project": {
+        "title": "Fundusze inwestycyjne - Według polityki inwestycyjnej",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stany"
+        },
+        "2": {
+            "title": "Przepływy"
+        },
+        "3": {
+            "title": "Stopy wzrostu"
+        }
+    },
+    "charts": {
+        "M..N.20.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze obligacji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze obligacyjne (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.10.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze akcji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze akcyjne (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.30.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze mieszane",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze mieszane (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.40.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze nieruchomości",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze nieruchomości (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.50.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Fundusze hedgingowe",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze hedgingowe (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.60.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Pozostałe fundusze",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: pozostałe fundusze (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (stany na koniec okresu, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.20.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze obligacji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze obligacyjne (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.10.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze akcji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze akcyjne (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.30.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze mieszane",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze mieszane (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.40.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze nieruchomości",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze nieruchomości (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.50.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Fundusze hedgingowe",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze hedgingowe (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.60.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Pozostałe fundusze",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: pozostałe fundusze (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (transakcje finansowe, wszystkie okresy zapadalności, wszystkie waluty, wyrażone w euro, dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.20.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze obligacji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze obligacyjne (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.10.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze akcji",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze akcyjne (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.30.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze mieszane",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze mieszane (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.40.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze nieruchomości",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze nieruchomości (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.50.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Fundusze hedgingowe",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: fundusze hedgingowe (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.60.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Pozostałe fundusze",
+            "definition": "Udziały i jednostki uczestnictwa w funduszach inwestycyjnych innych niż fundusze rynku pieniężnego, podział wg polityki inwestycyjnej: pozostałe fundusze (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Ogółem",
+            "definition": "Fundusze inwestycyjne inne niż fundusze rynku pieniężnego, udziały i jednostki uczestnictwa w funduszach inwestycyjnych (roczna stopa wzrostu, wszystkie okresy zapadalności, wszystkie waluty, zmiany r/r w proc., dane miesięczne, nieodsezonowane)"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Overige financiële ondernemingen, totaal</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Verzekeringen en pensioenen, totaal</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Bedrijven, totaal</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Huishoudens, totaal</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Overige financiële ondernemingen, totaal</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Verzekeringen en pensioenen, totaal</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Bedrijven, totaal</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totale leningen aan huishoudens eurogebied (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Huishoudens, totaal</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers totale leningen aan overige financiële intermediairs eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Overige financiële ondernemingen, totaal</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers totale leningen aan verzekeringsmaatschappijen en pensioenfondsen eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Verzekeringen en pensioenen, totaal</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers totale leningen aan niet-financiële ondernemingen eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Bedrijven, totaal</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers totale leningen aan huishoudens eurogebied (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Huishoudens, totaal</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd t/m 1 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Bedrijven; x ≤ 1j</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd t/m 1 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Bedrijven; x ≤ 1j</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen met looptijd t/m 1 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Bedrijven; x ≤ 1j</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd van meer dan 1 jaar t/m 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Bedrijven; 1 j &lt; x ≤ 5j</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd meer dan 1 jaar t/m 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Bedrijven; 1 j &lt; x ≤ 5j</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen met looptijd meer dan 1 jaar t/m 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Bedrijven; 1 j &lt; x ≤ 5j</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd meer dan 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Bedrijven; x &gt; 5j</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen met looptijd meer dan 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Bedrijven; x &gt; 5j</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen met looptijd meer dan 5 jaar aan niet-financiële ondernemingen eurogebied (alle valuta's samen, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Bedrijven; x &gt; 5j</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan niet-financiële ondernemingen eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Bedrijven, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan huishoudens eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Huishoudens, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan niet-financiële ondernemingen eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Bedrijven, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan huishoudens eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Huishoudens, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan niet-financiële ondernemingen eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, mutaties in procenten per jaar). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Bedrijven, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, totaal leningen aan huishoudens eurogebied gecorrigeerd voor leningverkopen, securitisatie en notional cash-pooling (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, mutaties in procenten per jaar). Leningen  gecorrigeerd voor verkopen en securitisatie omvatten leningen die zijn verkocht of gesecuritiseerd en die niet langer op de balans van banken worden gerapporteerd.</p>",
+            "title": "<p>Huishoudens, totaal (gecorrigeerd)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor consumptie (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Huishoudens, consumptie</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor consumptie (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Huishoudens, consumptie</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen aan huishoudens eurogebied voor consumptie (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Huishoudens, consumptie</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor aankoop woning (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Huishoudens, leningen voor woning</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor aankoop woning (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Huishoudens, leningen voor woning</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen aan huishoudens eurogebied voor aankoop woning (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Huishoudens, leningen voor woning</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor overige doeleinden (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, uitstaande bedragen per einde periode)</p>",
+            "title": "<p>Huishoudens, overige leningen</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, leningen aan huishoudens eurogebied voor overige doeleinden (alle valuta's samen, alle looptijden, luidende in euro, niet seizoengecorrigeerd, financiële transacties)</p>",
+            "title": "<p>Huishoudens, overige leningen</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, groeicijfers leningen aan huishoudens eurogebied voor overige doeleinden (alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, mutaties in procenten per jaar)</p>",
+            "title": "<p>Huishoudens, overige leningen</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Balansstatistieken monetaire financiële instellingen, ratio tussen totale leningen en totale deposito's t.o.v. niet-financiële ondernemingen en huishoudens eurogebied en niet-financiële ondernemingen, huishoudens en niet-bancaire financiële instellingen buiten het eurogebied (exclusief overheid, alle valuta's samen, alle looptijden, niet seizoengecorrigeerd, percentage, op kwartaalbasis)</p>",
+            "title": "<p>Lening/deposito-ratio</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Financierings- en beleggingsdynamiek</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kortlopende schuldbewijzen</p>"
+        },
+        "2": {
+            "title": "<p>Langlopende schuldbewijzen</p>"
+        },
+        "3": {
+            "title": "<p>Kortlopende leningen</p>"
+        },
+        "4": {
+            "title": "<p>Langlopende leningen</p>"
+        }
+    }
+}

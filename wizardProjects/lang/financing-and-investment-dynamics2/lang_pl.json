@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: krótkoterminowe papiery dłużne</p>\r\n<p>Łączny zasób: %{sumOut} %{unit}</p>\r\n<p>Łączna emisja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor posiadający: %{from}</p>\r\n<p>Wartość zasobu: %{value} %{unit}</p>\r\n<p>Instrument: krótkoterminowe papiery dłużne</p>\r\n<p>Sektor emitujący: %{to}</p>\r\n<p>Procent łącznego zasobu: %{percentFrom}</p>\r\n<p>Procent łącznej emisji: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor posiadający: %{from}; sektor emitujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: długoterminowe papiery dłużne</p>\r\n<p>Łączny zasób: %{sumOut} %{unit}</p>\r\n<p>Łączna emisja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor posiadający: %{from}</p>\r\n<p>Wartość zasobu: %{value} %{unit}</p>\r\n<p>Instrument: długoterminowe papiery dłużne</p>\r\n<p>Sektor emitujący: %{to}</p>\r\n<p>Procent łącznego zasobu: %{percentFrom}</p>\r\n<p>Procent łącznej emisji: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor posiadający: %{from}; sektor emitujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kredyty i pożyczki krótkoterm.</p>\r\n<p>Kwoty udzielone łącznie: %{sumOut} %{unit}</p>\r\n<p>Kwoty otrzymane łącznie: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor udzielający: %{from}</p>\r\n<p>Kwota udzielona: %{value} %{unit}</p>\r\n<p>Instrument: kredyty i pożyczki krótkoterm.</p>\r\n<p>Sektor otrzymujący: %{to}</p>\r\n<p>Procent łącznych kwot udzielonych: %{percentFrom}</p>\r\n<p>Procent łącznych kwot otrzymanych: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor udzielający: %{from}; sektor otrzymujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euro</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: kredyty i pożyczki długoterm.</p>\r\n<p>Kwoty udzielone łącznie: %{sumOut} %{unit}</p>\r\n<p>Kwoty otrzymane łącznie: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor udzielający: %{from}</p>\r\n<p>Kwota udzielona: %{value} %{unit}</p>\r\n<p>Instrument: kredyty i pożyczki długoterm.</p>\r\n<p>Sektor otrzymujący: %{to}</p>\r\n<p>Procent łącznych kwot udzielonych: %{percentFrom}</p>\r\n<p>Procent łącznych kwot otrzymanych: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor udzielający: %{from}; sektor otrzymujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: depozyty</p>\r\n<p>Kwoty złożone łącznie: %{sumOut} %{unit}</p>\r\n<p>Kwoty otrzymane łącznie: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor składający: %{from}</p>\r\n<p>Złożona kwota: %{value} %{unit}</p>\r\n<p>Instrument: depozyty</p>\r\n<p>Sektor przyjmujący: %{to}</p>\r\n<p>Procent łącznych kwot złożonych: %{percentFrom}</p>\r\n<p>Procent łącznych kwot przyjętych: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor składający: %{from}; sektor przyjmujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: akcje notowane</p>\r\n<p>Łączny zasób: %{sumOut} %{unit}</p>\r\n<p>Łączna emisja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor posiadający: %{from}</p>\r\n<p>Wartość zasobu: %{value} %{unit}</p>\r\n<p>Instrument: akcje notowane</p>\r\n<p>Sektor emitujący: %{to}</p>\r\n<p>Procent łącznego zasobu: %{percentFrom}</p>\r\n<p>Procent łącznej emisji: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor posiadający: %{from}; sektor emitujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Okres: %{date}</p>\r\n<p>Sektor: %{name}       </p>\r\n<p>Instrument: udziały/jednostki uczestnictwa funduszy inwestycyjnych</p>\r\n<p>Łączny zasób: %{sumOut} %{unit}</p>\r\n<p>Łączna emisja: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Okres: %{date}</p>\r\n<p>Sektor posiadający: %{from}</p>\r\n<p>Wartość zasobu: %{value} %{unit}</p>\r\n<p>Instrument: udziały/jednostki uczestnictwa funduszy inwestycyjnych</p>\r\n<p>Sektor emitujący: %{to}</p>\r\n<p>Procent łącznego zasobu: %{percentFrom}</p>\r\n<p>Procent łącznej emisji: %{percentTo}</p>"
+                },
+                "fromTo": "<p>sektor posiadający: %{from}; sektor emitujący: %{to}</p>",
+                "incoming": "<p>Pasywa</p>",
+                "missing": {
+                    "incoming": "<p>- brak danych/nie dotyczy</p>",
+                    "outgoing": "<p>- brak danych/nie dotyczy</p>"
+                },
+                "outgoing": "<p>Aktywa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>salda wewnątrz sektora</p>"
+            },
+            "title": "<p>Stany</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>Dane na diagramie sieciowym „Dynamika finansowania i inwestycji” pochodzą z rachunków sektorowych, stanowiących kompletny i spójny zestaw danych kwartalnych o wszystkich rezydenckich sektorach instytucjonalnych. Diagram ukazuje finansowe współzależności w obrębie poszczególnych sektorów i między sektorami, a także między tymi sektorami a zagranicą. Przedstawia salda finansowe (stany) między sektorami (w ogólnodostępnych bazach danych EBC znajdują się także dane o przepływach). Dla wszystkich instrumentów przedstawiono typ finansowania – kapitałowe lub dłużne – oraz jego przeznaczenie, widać więc, jak poszczególne sektory dokonują alokacji. Skrajne paski przy nazwach sektorów ukazują wielkość aktywów i pasywów dla danego instrumentu w tym sektorze. Mogą wystąpić salda ujemne, będące wynikiem krótkiej sprzedaży, czyli zbycia papierów wartościowych przez podmiot niebędący ich właścicielem. Strzałki przedstawiają salda wobec innych sektorów. Salda transakcji wewnątrz sektora są podane obok jego nazwy.</p>\r\n<p>Dane opierają się na Europejskim Systemie Rachunków Narodowych i Regionalnych z 2010 roku (ESA2010). Sektory: przedsiębiorstwa niefinansowe; monetarne instytucje finansowe; fundusze inwestycyjne niebędące funduszami rynku pieniężnego; pozostałe instytucje pośrednictwa finansowego; instytucje ubezpieczeniowe; fundusze emerytalno-rentowe; instytucje rządowe i samorządowe; gospodarstwa domowe (w tym instytucje niekomercyjne działające na rzecz gospodarstw domowych); zagranica (czyli salda między rezydentami a nierezydentami). Instrumenty: depozyty; krótkoterminowe papiery dłużne; długoterminowe papiery dłużne; kredyty krótkoterminowe; kredyty długoterminowe; akcje notowane; udziały/jednostki uczestnictwa funduszy inwestycyjnych. Dane nieskonsolidowane, czyli wartości łączne i procentowe obejmują salda finansowe w obrębie sektora (np. pożyczki międzybankowe); salda na koniec okresu dotyczą kwartałów; dane bez wyrównań sezonowych i wyrównania dniami roboczymi; kwoty w mld euro; „krótkoterminowy” oznacza termin pierwotny do jednego roku włącznie; „długoterminowy” oznacza termin pierwotny powyżej jednego roku lub bez wskazanego terminu; dane dla strefy euro zagregowane; „-” oznacza, że danych nie ma lub nie mają one zastosowania do danej pozycji.   </p>\r\n<p>Przedstawione instrumenty nie obejmują wszystkich aktywów i pasywów finansowych – nie ujęto tu gotówki, akcji nienotowanych i innych udziałów kapitałowych, programów ubezpieczeniowych i emerytalnych, finansowych instrumentów pochodnych i pozostałych należności/zobowiązań (wg ESA2010: pozostałe kwoty do otrzymania/zapłacenia). Więcej danych na stronie: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>EBC</p>"
+        },
+        "title": "<p>Dynamika finansowania i inwestycji</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Krótkoterm. papiery dłużne</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Długoterm. papiery dłużne</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Kredyty krótkoterm.</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Kredyty długoterm.</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Depozyty</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Akcje notowane</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>zagranica</p>",
+                "S11": "<p>przedsiębiorstwa</p>",
+                "S124": "<p>fundusze inwestycyjne</p>",
+                "S128": "<p>ubezpieczyciele</p>",
+                "S129": "<p>fundusze emerytalne</p>",
+                "S12K": "<p>banki</p>",
+                "S12O": "<p>inni pośrednicy finansowi</p>",
+                "S13": "<p>inst. rządowe i samorządowe</p>",
+                "S1M": "<p>gospodarstwa domowe</p>",
+                "WLD": "<p>łącznie</p>"
+            },
+            "title": "<p>Jednostki uczest. funduszy</p>"
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Neto starptautisko investīciju bilance (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452078153688": {
+            "definition": "<p>Starptautisko investīciju bilances aktīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452078164312": {
+            "definition": "<p>Starptautisko investīciju bilances pasīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452078474747": {
+            "definition": "<p>Neto starptautisko investīciju bilances % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452078481924": {
+            "definition": "<p>Starptautisko investīciju bilances aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        },
+        "1452078482964": {
+            "definition": "<p>Starptautisko investīciju bilances pasīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Pasīvu rādītājs</p>"
+        },
+        "1452083453379": {
+            "definition": "<p>Starptautisko investīciju bilance – neto tiešās investīcijas (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083458828": {
+            "definition": "<p>Starptautisko investīciju bilance – tiešo investīciju aktīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452083467083": {
+            "definition": "<p>Starptautisko investīciju bilance – tiešo investīciju pasīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452083469652": {
+            "definition": "<p>Starptautisko investīciju bilance – neto tiešās investīcijas % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452083657448": {
+            "definition": "<p>Starptautisko investīciju bilance – tiešo investīciju aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        },
+        "1452083665965": {
+            "definition": "<p>Starptautisko investīciju bilance – tiešo investīciju pasīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Pasīvu rādītājs</p>"
+        },
+        "1452083823790": {
+            "definition": "<p>Starptautisko investīciju bilance – neto portfeļieguldījumi (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083831718": {
+            "definition": "<p>Starptautisko investīciju bilance – portfeļieguldījumu aktīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452083836630": {
+            "definition": "<p>Starptautisko investīciju bilance – portfeļieguldījumu pasīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452083845402": {
+            "definition": "<p>Starptautisko investīciju bilance – neto portfeļieguldījumi % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452083855802": {
+            "definition": "<p>Starptautisko investīciju bilance – portfeļieguldījumu aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        },
+        "1452083862995": {
+            "definition": "<p>Starptautisko investīciju bilance – portfeļieguldījumu pasīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Pasīvu rādītājs</p>"
+        },
+        "1452083953848": {
+            "definition": "<p>Starptautisko investīciju bilance – neto citi ieguldījumi (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Neto</p>"
+        },
+        "1452083961207": {
+            "definition": "<p>Starptautisko investīciju bilance – citu ieguldījumu aktīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Aktīvi</p>"
+        },
+        "1452083967828": {
+            "definition": "<p>Starptautisko investīciju bilance – citu ieguldījumu pasīvi (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 standartiem).</p>",
+            "title": "<p>Pasīvi</p>"
+        },
+        "1452083973260": {
+            "definition": "<p>Starptautisko investīciju bilance – neto citi ieguldījumi % no iekšzemes kopprodukta (IKP) tirgus cenās (aktīvi mīnus pasīvi, atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Neto rādītājs</p>"
+        },
+        "1452083984533": {
+            "definition": "<p>Starptautisko investīciju bilance – citu ieguldījumu aktīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Aktīvu rādītājs</p>"
+        },
+        "1452083988124": {
+            "definition": "<p>Starptautisko investīciju bilance – citu ieguldījumu pasīvi % no iekšzemes kopprodukta (IKP) tirgus cenās (atlikumi ceturkšņa beigās attiecībā pret nerezidentiem; sezonāli un pēc darbadienu skaita neizlīdzināti dati; atbilstoši MBR 6 un EKS 2010 standartiem).</p>",
+            "title": "<p>Pasīvu rādītājs</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "publicationThumbnail": "",
+            "publicationWebpage": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Ārējais sektors - starptautisko investīciju bilance</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Kopā</p>"
+        },
+        "1452083440251": {
+            "title": "<p>Tiešās investīcijas</p>"
+        },
+        "1452083810038": {
+            "title": "<p>Portfeļieguldījumi</p>"
+        },
+        "1452083942063": {
+            "title": "<p>Citi ieguldījumi</p>"
+        }
+    }
+}

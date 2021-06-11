@@ -1,0 +1,121 @@
+{
+    "charts": {
+        "M..B.A2A.D.R.2.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros até €0.25 milhões, com taxa variável ou fixação inicial de taxa até 3 meses, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de pequeno montante ≤ 0.25; x ≤ 3M</p>"
+        },
+        "M..B.A2A.F.R.0.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros até €1 milhão, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de pequeno montante; x ≤ 1A</p>"
+        },
+        "M..B.A2A.F.R.1.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros superiores a €1 milhão, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos ás sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de grande montante; x ≤ 1A</p>"
+        },
+        "M..B.A2A.I.R.0.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros até €1 milhão, com fixação inicial de taxa superior a 1 ano e até 5 anos, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de pequeno montante; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.I.R.1.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros superiores a €1 milhão, com fixação inicial de taxa superior a 1 ano e até 5 anos, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de grande montante; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2A.J.R.0.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros até €1 milhão, com fixação inicial de taxa superior a 5 anos, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de pequeno montante; x &gt; 5A</p>"
+        },
+        "M..B.A2A.J.R.1.2240.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros superiores a €1 milhão, com fixação inicial de taxa superior a 5 anos, concedidos às sociedades não financeiras da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimos de grande montante; x &gt; 5A</p>"
+        },
+        "M..B.A2B.F.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para fins de consumo, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo ao consumo; x ≤ 1A</p>"
+        },
+        "M..B.A2B.I.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para fins de consumo, com fixação inicial de taxa superior a 1 ano e até 5 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo ao consumo; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2B.J.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para fins de consumo, com fixação inicial de taxa superior a 5 anos, concedidos a particulares residentes na área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo ao consumo; x &gt; 5A</p>"
+        },
+        "M..B.A2C.AM.R.A.2250.EUR.N": {
+            "definition": "<p>Indicador dos custos compostos dos empréstimos referente a novos empréstimos às famílias para aquisição de habitação (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Custo dos empréstimos: particulares</p>"
+        },
+        "M..B.A2C.F.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para aquisição de habitação, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo para aquisição de habitação; x ≤ 1A</p>"
+        },
+        "M..B.A2C.I.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para aquisição de habitação, com fixação inicial de taxa superior a 1 ano e até 5 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo para aquisição de habitação; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2C.O.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para aquisição de habitação, com fixação inicial de taxa superior a 5 anos e até 10 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo para aquisição de habitação; 5A&lt; x ≤ 10A</p>"
+        },
+        "M..B.A2C.P.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para aquisição de habitação, com fixação inicial de taxa superior a 10 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Empréstimo para aquisição de habitação; x &gt; 10A</p>"
+        },
+        "M..B.A2D.F.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para outros fins, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Outros empréstimos; x ≤ 1A</p>"
+        },
+        "M..B.A2D.F.R.A.2253.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para outros fins, incluindo empréstimos a empresários em nome individual e a sociedades de pessoas, com taxa variável ou fixação inicial de taxa até 1 ano, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Outros empréstimos: soc. nome individual; x ≤ 1A</p>"
+        },
+        "M..B.A2D.I.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para outros fins, com fixação inicial de taxa superior a 1 ano e até 5 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Outros empréstimos; 1A &lt; x ≤ 5A</p>"
+        },
+        "M..B.A2D.J.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos denominados em euros para outros fins, com fixação inicial de taxa superior a 5 anos, concedidos às famílias da área do euro (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Outros empréstimos; x &gt; 5A</p>"
+        },
+        "M..B.A2I.AM.R.A.2240.EUR.N": {
+            "definition": "<p>Indicador dos custos compostos dos empréstimos referente a novos empréstimos às sociedades não financeiras (percentagens por ano, taxas de juro relativas a novas operações)</p>",
+            "title": "<p>Custo dos empréstimos: empresas</p>"
+        },
+        "M..B.A2J.FM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicador dos custos compostos dos empréstimos referente a empréstimos de curto prazo às famílias e sociedades não financeiras</p>",
+            "title": "<p>Custo dos empréstimos de curto prazo</p>"
+        },
+        "M..B.A2J.KM.R.A.2230.EUR.N": {
+            "definition": "<p>Indicador dos custos compostos dos empréstimos referente a empréstimos de longo prazo às famílias e sociedades não financeiras</p>",
+            "title": "<p>Custo dos empréstimos de longo prazo</p>"
+        },
+        "M..B.A2Z.A.R.A.2240.EUR.N": {
+            "definition": "<p>Empréstimos renováveis e descobertos, crédito de conveniência e extensão de dívida de cartão de crédito, denominados em euros, concedidos às sociedades não financeiras da área do euro (percentagens por ano, novas operações e saldos coincidem)</p>",
+            "title": "<p>Empréstimos renováveis e descobertos</p>"
+        },
+        "M..B.A2Z.A.R.A.2250.EUR.N": {
+            "definition": "<p>Empréstimos renováveis e descobertos, crédito de conveniência e extensão de dívida de cartão de crédito, denominados em euros, concedidos às famílias da área do euro (percentagens por ano, novas operações e saldos coincidem)</p>",
+            "title": "<p>Empréstimos renováveis e descobertos</p>"
+        },
+        "c1457522609150": {
+            "definition": "<p>Empréstimos denominados em euros para aquisição de habitação, taxa variável total ou fixação inicial de taxa aplicável às famílias da área do euro (percentagens por ano, taxas de novas operações)</p>",
+            "title": "<p>Empréstimo para aquisição de habitação, total</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Taxas de juro bancárias – Empréstimos</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Famílias</p>"
+        },
+        "2": {
+            "title": "<p>Sociedades</p>"
+        },
+        "3": {
+            "title": "<p>Custos compostos dos empréstimos</p>"
+        }
+    }
+}

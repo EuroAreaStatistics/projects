@@ -1,0 +1,279 @@
+{
+    "charts": {
+        "1": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: kortlopende schuldbewijzen</p>\r\n<p>Totaal aangehouden bedrag: %{sumOut} %{unit}</p>\r\n<p>Totaal uitgegeven bedrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Aanhoudende sector: %{from}</p>\r\n<p>Aangehouden bedrag: %{value} %{unit}</p>\r\n<p>Instrument: kortlopende schuldbewijzen</p>\r\n<p>Uitgevende sector: %{to}</p>\r\n<p>Aandeel in totale aanhoudingen: %{percentFrom}</p>\r\n<p>Aandeel in totale uitgiften: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aanhoudende sector: %{from}; uitgevende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "2": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: langlopende schuldbewijzen</p>\r\n<p>Totaal aangehouden bedrag: %{sumOut} %{unit}</p>\r\n<p>Totaal uitgegeven bedrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Aanhoudende sector: %{from}</p>\r\n<p>Aangehouden bedrag: %{value} %{unit}</p>\r\n<p>Instrument: langlopende schuldbewijzen</p>\r\n<p>Uitgevende sector: %{to}</p>\r\n<p>Aandeel in totale aanhoudingen: %{percentFrom}</p>\r\n<p>Aandeel in totale uitgiften: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aanhoudende sector: %{from}; uitgevende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "3": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: kortlopende leningen</p>\r\n<p>Totaal bedrag verstrekte leningen: %{sumOut} %{unit}</p>\r\n<p>Totaal bedrag opgenomen leningen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Leningverstrekkende sector: %{from}</p>\r\n<p>Bedrag verstrekte leningen: %{value} %{unit}</p>\r\n<p>Instrument: kortlopende leningen</p>\r\n<p>Leningopnemende sector: %{to}</p>\r\n<p>Aandeel in totaal verstrekte leningen: %{percentFrom}</p>\r\n<p>Aandeel in totaal opgenomen leningen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Leningverstrekkende sector: %{from}; leningopnemende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "4": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: langlopende leningen</p>\r\n<p>Totaal bedrag verstrekte leningen: %{sumOut} %{unit}</p>\r\n<p>Totaal bedrag opgenomen leningen: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Leningverstrekkende sector: %{from}</p>\r\n<p>Bedrag verstrekte leningen: %{value} %{unit}</p>\r\n<p>Instrument: langlopende leningen</p>\r\n<p>Leningopnemende sector: %{to}</p>\r\n<p>Aandeel in totaal verstrekte leningen: %{percentFrom}</p>\r\n<p>Aandeel in totaal opgenomen leningen: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Leningverstrekkende sector: %{from}; leningopnemende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "5": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: deposito's</p>\r\n<p>Totaal geplaatst bedrag: %{sumOut} %{unit}</p>\r\n<p>Totaal ontvangen bedrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Plaatsende sector: %{from}</p>\r\n<p>Geplaatst bedrag: %{value} %{unit}</p>\r\n<p>Instrument: deposito's</p>\r\n<p>Ontvangende sector: %{to}</p>\r\n<p>Aandeel in totale geplaatste deposito's: %{percentFrom}</p>\r\n<p>Aandeel in totale ontvangen deposito's: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Plaatsende sector: %{from}; ontvangende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "6": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: beursgenoteerde aandelen</p>\r\n<p>Totaal aangehouden bedrag: %{sumOut} %{unit}</p>\r\n<p>Totaal uitgegeven bedrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Aanhoudende sector: %{from}</p>\r\n<p>Aangehouden bedrag: %{value} %{unit}</p>\r\n<p>Instrument: beursgenoteerde aandelen</p>\r\n<p>Uitgevende sector: %{to}</p>\r\n<p>Aandeel in totale aanhoudingen: %{percentFrom}</p>\r\n<p>Aandeel in totale uitgiften: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aanhoudende sector: %{from}; uitgevende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        },
+        "7": {
+            "flow": {
+                "context": {
+                    "magnet": "<p>Periode: %{date}</p>\r\n<p>Sector: %{name}       </p>\r\n<p>Instrument: aandelen/participaties beleggingsfondsen</p>\r\n<p>Totaal aangehouden bedrag: %{sumOut} %{unit}</p>\r\n<p>Totaal uitgegeven bedrag: %{sumIn} %{unit}</p>",
+                    "relation": "<p>Periode: %{date}</p>\r\n<p>Aanhoudende sector: %{from}</p>\r\n<p>Aangehouden bedrag: %{value} %{unit}</p>\r\n<p>Instrument: aandelen/participaties beleggingsfondsen</p>\r\n<p>Uitgevende sector: %{to}</p>\r\n<p>Aandeel in totale aanhoudingen: %{percentFrom}</p>\r\n<p>Aandeel in totale uitgiften: %{percentTo}</p>"
+                },
+                "fromTo": "<p>Aanhoudende sector: %{from}; uitgevende sector: %{to}</p>",
+                "incoming": "<p>Passiva</p>",
+                "missing": {
+                    "incoming": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>",
+                    "outgoing": "<p>- geen gegevens voorhanden/gegevens zijn niet van toepassing</p>"
+                },
+                "outgoing": "<p>Activa</p>",
+                "unit": {
+                    "full": "<p>billion euros</p>",
+                    "value": "<p>%{number} bn EUR</p>"
+                }
+            },
+            "indicator": {
+                "title": "<p>Standen binnen sector</p>"
+            },
+            "title": "<p>Uitstaande bedragen</p>"
+        }
+    },
+    "project": {
+        "definition": "<p>De gegevens die worden getoond in de grafiek van het \"Financierings- en beleggingsdynamiek\"-netwerk zijn afkomstig uit de sectorrekeningen, die een volledige en consistente set kwartaalgegevens voor alle ingezeten institutionele sectoren bieden. De grafiek geeft de onderlinge financiële verbanden weer, zowel binnen en tussen institutionele sectoren als tussen deze sectoren en de rest van de wereld. De grafiek toont de financiële posities tussen sectoren (gegevens over stromen zijn ook te vinden in de openbare databases van de ECB). De oorsprong van het financieringstype – eigen vermogen of schuld – en de bestemming van hetzelfde instrument laat zien hoe sectoren financiering toewijzen. De staven voor elke sector tonen de activa en passiva van een bepaalde sector voor een bepaald instrument. Negatieve uitstaande bedragen zouden kunnen ontstaan als gevolg van shortselling, d.w.z. de verkoop van effecten of andere financiële instrumenten die de verkoper niet in bezit heeft. De pijlen geven de posities ten opzichte van andere sectoren aan. Posities binnen sectoren worden aangegeven naast de sectorkopjes.</p>\r\n<p>De gegevens zijn gebaseerd op het Europees Systeem van Rekeningen 2010 (ESR 2010). Sectoren: niet-financiële vennootschappen, monetaire financiële instellingen, beleggingsfondsen (anders dan geldmarktfondsen), overige financiële instellingen, verzekeringsmaatschappijen, pensioenfondsen, overheid, huishoudens (inclusief instellingen zonder winstoogmerk ten behoeve van huishoudens), rest van de wereld (die betrekking heeft op posities tussen ingezetenen en niet-ingezetenen). Instrumenten: deposito's, kortlopende schuldbewijzen, langlopende schuldbewijzen, kortlopende leningen, langlopende leningen, beursgenoteerde aandelen, aandelen/participaties beleggingsfondsen. De gegevens zijn op niet-geconsolideerde basis, d.w.z. instrumenttotalen en - percentages omvatten financiële posities binnen de sector (bijv. door banken aan andere banken verstrekte leningen); eindbalansposities zijn per einde kwartaal; gegevens zijn niet gecorrigeerd voor seizoen- en kalendereffecten; bedragen luiden in miljarden euro; kortlopende oorspronkelijke looptijd is t/m één jaar, langlopende oorspronkelijke looptijd is langer dan één jaar of zonder vermelde looptijd; de gegevens betreffen het eurogebiedtotaal, \"-\" betekent dat de gegevens niet voorhanden of niet van toepassing zijn.   </p>\r\n<p>De getoonde instrumenten geven geen volledig beeld van alle financiële activa en passiva, aangezien chartaal geld, niet-beursgenoteerde aandelen en overige eigenvermogensinstrumenten, verzekerings- en pensioenregelingen, financiële derivaten en overige te ontvangen/te betalen posten niet worden getoond. Voor nadere gegevens zie: <a href=\"http://sdw.ecb.europa.eu/browse.do?node=9689710\">http://sdw.ecb.europa.eu/browse.do?node=9689710</a>.</p>",
+        "options": {
+            "dataSource": "<p>ECB</p>"
+        },
+        "title": "<p>Financierings- en beleggingsdynamiek</p>"
+    },
+    "tabs": {
+        "1": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenfondsen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Kortlopende schuldbewijzen</p>"
+        },
+        "2": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Langlopende schuldbewijzen</p>"
+        },
+        "3": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Kortlopende leningen</p>"
+        },
+        "4": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Langlopende leningen</p>"
+        },
+        "5": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Deposito’s</p>"
+        },
+        "6": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Beursgenoteerde aandelen</p>"
+        },
+        "7": {
+            "labels": {
+                "ROW": "<p>rest van de wereld</p>",
+                "S11": "<p>bedrijven</p>",
+                "S124": "<p>beleggingsfondsen</p>",
+                "S128": "<p>verzekeraars</p>",
+                "S129": "<p>pensioenen</p>",
+                "S12K": "<p>banken</p>",
+                "S12O": "<p>overige financiële instellingen</p>",
+                "S13": "<p>overheid</p>",
+                "S1M": "<p>huishoudens</p>",
+                "WLD": "<p>totaal</p>"
+            },
+            "title": "<p>Aandelen/participaties beleggingsfondsen</p>"
+        }
+    }
+}

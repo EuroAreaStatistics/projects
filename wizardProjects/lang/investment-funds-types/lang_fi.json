@@ -1,0 +1,57 @@
+{
+    "project": {
+        "title": "Sijoitusrahastot - Rahastotyyppi",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Kannat"
+        },
+        "2": {
+            "title": "Virrat"
+        },
+        "3": {
+            "title": "Kehitys (prosenttimuutos)"
+        }
+    },
+    "charts": {
+        "M..N.TA.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Avoimet rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahastotyypin mukaan: avoimet rahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.TB.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Suljetut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahastotyypin mukaan: suljetut rahastot (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet (kanta euroina ajanjakson lopussa, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.TA.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Avoimet rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahastotyypin mukaan: avoimet rahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.TB.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Suljetut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet rahastotyypin mukaan: suljetut rahastot (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuudet (virrat euroina, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.TA.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Avoimet rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahastotyypin mukaan: avoimet rahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.TB.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Suljetut rahastot",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys rahastotyypin mukaan: suljetut rahastot (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        },
+        "M..N.T0.L30.A.I.Z5.0000.Z01.A": {
+            "title": "Yhteensä",
+            "definition": "Sijoitusrahastojen (pl. rahamarkkinarahastot) rahasto-osuuksien kehitys (vuotuinen prosenttimuutos, kaikki maturiteetit, kaikki valuutat, kausivaihtelun vaikutuksesta puhdistamattomat kuukausitiedot)"
+        }
+    }
+}

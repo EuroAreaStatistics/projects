@@ -1,0 +1,81 @@
+{
+    "charts": {
+        "c1542702636664": {
+            "definition": "<p>Grynoji finansinė sąskaita bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas minus įsipareigojimai, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Grynasis rodiklis</p>"
+        },
+        "c1542702638198": {
+            "definition": "<p>Finansinės sąskaitos turtas bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (turtas, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Turto rodiklis</p>"
+        },
+        "c1542702639166": {
+            "definition": "<p>Finansinės sąskaitos įsipareigojimai bendrojo vidaus produkto (BVP) procentine dalimi, rinkos kainomis (įsipareigojimai, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 ir 2010 m. ESS standartus).</p>",
+            "title": "<p>Įsipareigojimų rodiklis</p>"
+        },
+        "1": {
+            "definition": "<p>Grynoji finansinė sąskaita (turtas minus įsipareigojimai, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Grynoji suma</p>"
+        },
+        "1452076605570": {
+            "definition": "<p>Finansinės sąskaitos turtas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452076612489": {
+            "definition": "<p>Finansinės sąskaitos įsipareigojimai (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452077490778": {
+            "definition": "<p>Grynoji finansinė sąskaita, tiesioginės investicijos (turtas minus įsipareigojimai, nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Grynoji suma</p>"
+        },
+        "1452077522557": {
+            "definition": "<p>Finansinė sąskaita, tiesioginių užsienio investicijų turtas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452077529556": {
+            "definition": "<p>Finansinė sąskaita, tiesioginių užsienio investicijų įsipareigojimai (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452077585632": {
+            "definition": "<p>Grynoji finansinė sąskaita, portfelinės investicijos (turtas minus įsipareigojimai, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Grynoji suma</p>"
+        },
+        "1452077591544": {
+            "definition": "<p>Finansinė sąskaita, portfelinių investicijų turtas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452077597455": {
+            "definition": "<p>Finansinė sąskaita, portfelinių investicijų įsipareigojimai (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        },
+        "1452077944808": {
+            "definition": "<p>Grynoji finansinė sąskaita, kitos investicijos (turtas minus įsipareigojimai, sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Grynoji suma</p>"
+        },
+        "1452077955440": {
+            "definition": "<p>Finansinė sąskaita, kitų investicijų turtas (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Turtas</p>"
+        },
+        "1452077959600": {
+            "definition": "<p>Finansinė sąskaita, kitų investicijų įsipareigojimai (sandoriai nerezidentų atžvilgiu, keturių ketvirčių suma, dėl sezoniškumo ar darbo dienų skaičiaus nekoreguota, pagal MBV6 standartus).</p>",
+            "title": "<p>Įsipareigojimai</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Išorės sektorius - Finansinė sąskaita</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Iš viso</p>"
+        },
+        "1452076650857": {
+            "title": "<p>Tiesioginės investicijos</p>"
+        },
+        "1452077565108": {
+            "title": "<p>Portfelinės investicijos</p>"
+        },
+        "1452077929773": {
+            "title": "<p>Kitos investicijos</p>"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "project": {
+        "title": "Fondos de inversión - Activos",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Saldos"
+        },
+        "2": {
+            "title": "Flujos"
+        }
+    },
+    "charts": {
+        "Q..N.T0.A20.A.1.Z5.0000.Z01.E": {
+            "title": "Depósitos y préstamos",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: depósitos y préstamos (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A30.A.1.Z5.0000.Z01.E": {
+            "title": "Valores representativos de deuda",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: valores distintos de acciones (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A5A.A.1.Z5.0000.Z01.E": {
+            "title": "Participaciones en el capital",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: acciones y otras participaciones (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A52.A.1.Z5.0000.Z01.E": {
+            "title": "Participaciones en fondos de inversión",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: participaciones en fondos de inversión (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A60.A.1.Z5.0000.Z01.E": {
+            "title": "Activos no financieros",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: activos no financieros (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.AT1.A.1.Z5.0000.Z01.E": {
+            "title": "Otros activos",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: otros activos (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, activos/pasivos totales (saldos vivos a fin de período, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A20.A.4.Z5.0000.Z01.E": {
+            "title": "Depósitos y préstamos",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: depósitos y préstamos (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A30.A.4.Z5.0000.Z01.E": {
+            "title": "Valores representativos de deuda",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: valores distintos de acciones (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A5A.A.4.Z5.0000.Z01.E": {
+            "title": "Participaciones en el capital",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: acciones y otras participaciones (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A52.A.4.Z5.0000.Z01.E": {
+            "title": "Participaciones en fondos de inversión",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: participaciones en fondos de inversión (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.A60.A.4.Z5.0000.Z01.E": {
+            "title": "Activos no financieros",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: activos no financieros (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.AT1.A.4.Z5.0000.Z01.E": {
+            "title": "Otros activos",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, categoría de activos: otros activos (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Total",
+            "definition": "Fondos de inversión distintos de los fondos del mercado monetario, activos/pasivos totales (operaciones financieras, vencimiento total, en todas las monedas, denominados en euros, sin desestacionalizar, datos trimestrales)"
+        }
+    }
+}

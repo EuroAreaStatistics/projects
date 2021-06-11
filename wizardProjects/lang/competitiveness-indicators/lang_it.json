@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Indicatori di competitività - Prezzo e costo",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Competitività"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indici dei prezzi al consumo",
+            "definition": "Indicatori di competitività armonizzati (ICA) basati sugli indici dei prezzi al consumo (medie del periodo; indice: T1 1999=100). Gli indici dei prezzi al consumo misurano le variazioni medie nel tempo dei prezzi corrisposti dalle famiglie per un determinato paniere di beni e servizi di consumo. Con gli ICA si intendono fornire misure comparabili della competitività di prezzo e di costo dei paesi dell’area dell’euro che siano anche coerenti con i tassi di cambio effettivi (TCE) reali dell’euro. Gli ICA sono costruiti ricorrendo alla stessa metodologia e alle stesse fonti di dati utilizzate per i TCE dell’euro."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflatori del PIL",
+            "definition": "Indicatori di competitività armonizzati (ICA) basati sui deflatori del prodotto interno lordo, ossia PIL, (medie del periodo; indice: T1 1999=100). Il PIL è una misura dell’attività economica. Rappresenta il valore della produzione complessiva di beni e servizi di un’economia, più le imposte nette sui prodotti e sulle importazioni e al netto dei consumi intermedi. I deflatori del PIL sono derivati dai conti nazionali trimestrali pubblicati dall’Eurostat (medie del periodo; indice: T1 1999=100). Con gli ICA si intendono fornire misure comparabili della competitività di prezzo e di costo dei paesi dell’area dell’euro che siano anche coerenti con i tassi di cambio effettivi (TCE) reali dell’euro. Gli ICA sono costruiti ricorrendo alla stessa metodologia e alle stesse fonti di dati utilizzate per i TCE dell’euro."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Costo del lavoro per unità di prodotto",
+            "definition": "Indicatori di competitività armonizzati (ICA) basati sugli indici del costo del lavoro per unità di prodotto per l’intera economia (medie del periodo; indice: T1 1999=100). Il costo del lavoro per unità di prodotto per l’intera economia è calcolato come rapporto fra redditi per occupato e produttività del lavoro. Quest’ultima è misurata dividendo il PIL a prezzi costanti per il numero complessivo di occupati sulla base dei conti nazionali trimestrali pubblicati dall’Eurostat (medie del periodo; indice: T1 1999=100). Con gli ICA si intendono fornire misure comparabili della competitività di prezzo e di costo dei paesi dell’area dell’euro che siano anche coerenti con i tassi di cambio effettivi (TCE) reali dell’euro. Gli ICA sono costruiti ricorrendo alla stessa metodologia e alle stesse fonti di dati utilizzate per i TCE dell’euro."
+        }
+    }
+}

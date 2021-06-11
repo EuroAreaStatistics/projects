@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "Ukazatele konkurenceschopnosti - Podle cen a nákladů",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Konkurenceschopnost"
+        }
+    },
+    "charts": {
+        "EXR.M.H10..NRC0.A": {
+            "title": "Indexy spotřebitelských cen",
+            "definition": "Harmonizované ukazatele konkurenceschopnosti (HCI) založené na indexech spotřebitelských cen (průměry za období; index: Q1 1999=100).  Indexy spotřebitelských cen měří průměrnou změnu cen v čase placených domácnostmi za určitý koš spotřebního zboží a služeb. Účelem HCI je poskytnout srovnatelné ukazatele cenové a nákladové konkurenceschopnosti zemí eurozóny, jež jsou rovněž konzistentní s reálnými efektivními směnnými kurzy (EER) eura. HCI jsou sestaveny za použití stejné metodiky a zdrojů údajů, které se používají pro EER eura."
+        },
+        "EXR.Q.H11..NRD0.A": {
+            "title": "Deflátory HDP",
+            "definition": "Harmonizované ukazatele konkurenceschopnosti (HCI) založené na deflátorech hrubého domácího produktu (HDP) (průměry za období; index: Q1 1999=100).  HDP je ukazatelem hospodářské aktivity. Je to hodnota celkové produkce zboží a služeb v ekonomice zvýšená o čisté daně z výrobků a dovozu a snížená o mezispotřebu. Deflátory HDP jsou odvozeny ze čtvrtletních národních účtů zveřejněných Eurostatem (průměry za období; index Q1 1999=100) Účelem HCI je poskytnout srovnatelné ukazatele cenové a nákladové konkurenceschopnosti zemí eurozóny, jež jsou rovněž konzistentní s reálnými efektivními směnnými kurzy (EER) eura. HCI jsou sestaveny za použití stejné metodiky a zdrojů údajů, které se používají pro EER eura."
+        },
+        "EXR.Q.H11..NRU1.A": {
+            "title": "Jednotkové mzdové náklady",
+            "definition": "Harmonizované ukazatele konkurenceschopnosti založené na indexech jednotkových mzdových nákladů za celou ekonomiku (průměry za období; index: Q1 1999=100). Jednotkové mzdové náklady za celou ekonomiku jsou vypočteny jako poměr náhrady na zaměstnance k produktivitě práce. Produktivita práce je měřena jako HDP v konstantních cenách dělený celkovým počtem zaměstnaných osob za použití čtvrtletních národních účtů zveřejněných Eurostatem (průměry za období; index: Q1 1999=100). Účelem HCI je poskytnout srovnatelné ukazatele cenové a nákladové konkurenceschopnosti zemí eurozóny, jež jsou rovněž konzistentní s reálnými efektivními směnnými kurzy (EER) eura. HCI jsou sestaveny za použití stejné metodiky a zdrojů údajů, které se používají pro EER eura."
+        }
+    }
+}

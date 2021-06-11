@@ -1,0 +1,172 @@
+{
+    "charts": {
+        "M..N.A.A20.A.1.U2.2210.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Egyéb pénzügyi, összesen</p>"
+        },
+        "M..N.A.A20.A.1.U2.2220.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány</p>",
+            "title": "<p>Biztosítás és nyugdíj, összesen</p>"
+        },
+        "M..N.A.A20.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Vállalatok, összesen</p>"
+        },
+        "M..N.A.A20.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Háztartások, összesen</p>"
+        },
+        "M..N.A.A20.A.4.U2.2210.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Egyéb pénzügyi, összesen</p>"
+        },
+        "M..N.A.A20.A.4.U2.2220.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Biztosítás és nyugdíj, összesen</p>"
+        },
+        "M..N.A.A20.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Vállalatok, összesen</p>"
+        },
+        "M..N.A.A20.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Háztartások, összesen</p>"
+        },
+        "M..N.A.A20.A.I.U2.2210.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti egyéb pénzügyi közvetítők teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Egyéb pénzügyi, összesen</p>"
+        },
+        "M..N.A.A20.A.I.U2.2220.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti biztosítók és nyugdíjpénztárak teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Biztosítás és nyugdíj, összesen</p>"
+        },
+        "M..N.A.A20.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Vállalatok, összesen</p>"
+        },
+        "M..N.A.A20.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Háztartások, összesen</p>"
+        },
+        "M..N.A.A20.F.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb egyéves lejáratú hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Vállalatok; x ≤ 1É</p>"
+        },
+        "M..N.A.A20.F.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb egyéves lejáratú hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Vállalatok; x ≤ 1É</p>"
+        },
+        "M..N.A.A20.F.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok legfeljebb egyéves lejáratú hitelállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Vállalatok; x ≤ 1É</p>"
+        },
+        "M..N.A.A20.I.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egy évnél hosszabb, de legfeljebb öt év futamidejű hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Vállalatok; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..N.A.A20.I.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egy évnél hosszabb, de legfeljebb öt év futamidejű hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Vállalatok; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..N.A.A20.I.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok egy évnél hosszabb, de legfeljebb öt év futamidejű hitelállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Vállalatok; 1É &lt; x ≤ 5É</p>"
+        },
+        "M..N.A.A20.J.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok öt évnél hosszabb futamidejű hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Vállalatok; x &gt; 5É</p>"
+        },
+        "M..N.A.A20.J.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok öt évnél hosszabb futamidejű hiteleinek állománya (összes pénznem együttvéve, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Vállalatok; x &gt; 5É</p>"
+        },
+        "M..N.A.A20.J.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok öt évnél hosszabb futamidejű hitelállományának növekedési üteme (összes pénznem együttvéve, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Vállalatok; x &gt; 5É</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Vállalatok, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A20T.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Háztartások, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2240.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Vállalatok, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A20T.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Háztartások, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2240.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatok hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Vállalatok, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A20T.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások hitelértékesítéssel, értékpapírosítással és fiktív „cash poolinggal” kiigazított teljes hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás). Az értékesítéssel és értékpapírosítással kiigazított hitelállományba az értékesített vagy értékpapírosított, a bank mérlegében már fel nem tüntetett hitelek is beletartoznak.</p>",
+            "title": "<p>Háztartások, összes (kiigazítva)</p>"
+        },
+        "M..N.A.A21.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások fogyasztási hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Háztartások, fogyasztás</p>"
+        },
+        "M..N.A.A21.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások fogyasztási hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Háztartások, fogyasztás</p>"
+        },
+        "M..N.A.A21.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások fogyasztási hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Háztartások, fogyasztás</p>"
+        },
+        "M..N.A.A22.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások lakásvásárlási hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Háztartások, lakáshitel</p>"
+        },
+        "M..N.A.A22.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások lakásvásárlási hitelállománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Háztartások, lakáshitel</p>"
+        },
+        "M..N.A.A22.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások lakásvásárlási hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Háztartások, lakáshitel</p>"
+        },
+        "M..N.A.A23.A.1.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egyéb célra felvett hiteleinek állománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, időszak végi állomány)</p>",
+            "title": "<p>Háztartások, egyéb hitel</p>"
+        },
+        "M..N.A.A23.A.4.U2.2250.Z01.E": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egyéb célra felvett hiteleinek állománya (összes pénznem együttvéve, minden futamidő, euróban denominálva, szezonális kiigazítás nélkül, pénzügyi tranzakciók)</p>",
+            "title": "<p>Háztartások, egyéb hitel</p>"
+        },
+        "M..N.A.A23.A.I.U2.2250.Z01.A": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti háztartások egyéb célra felvett hitelállományának növekedési üteme (összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, éves százalékos változás)</p>",
+            "title": "<p>Háztartások, egyéb hitel</p>"
+        },
+        "Q..N.A.LTD.A.X.Z5.0000.Z01.Z": {
+            "definition": "<p>Monetáris pénzügyi intézményi mérlegstatisztika, az euroövezeti nem pénzügyi vállalatoknak és háztartásoknak az euroövezeten kívüli nem pénzügyi vállalatokkal, háztartásokkal és nem banki pénzügyi intézményekkel szembeni teljes hitelállományának a teljes betétállományhoz viszonyított aránya (államháztartás nélkül, összes pénznem együttvéve, minden futamidő, szezonális kiigazítás nélkül, százalékos arány, negyedéves)</p>",
+            "title": "<p>Hitel-betét arány</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Banki mérleg - Hitel</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Állomány</p>"
+        },
+        "2": {
+            "title": "<p>Állományváltozás</p>"
+        },
+        "3": {
+            "title": "<p>Növekedési ütem</p>"
+        },
+        "4": {
+            "title": "<p>Hitel-betét arány</p>"
+        }
+    }
+}

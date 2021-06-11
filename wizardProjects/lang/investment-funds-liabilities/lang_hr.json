@@ -1,0 +1,50 @@
+{
+    "project": {
+        "title": "Investicijski fondovi - obveze",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Stanje"
+        },
+        "2": {
+            "title": "Tokovi"
+        }
+    },
+    "charts": {
+        "Q..N.T0.L30.A.1.Z5.0000.Z01.E": {
+            "title": "Udjeli investicijskih fondova",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: dionice/udjeli investicijskih fondova (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.L20.A.1.Z5.0000.Z01.E": {
+            "title": "Primljeni krediti i depoziti",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: primljeni krediti i depoziti (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.LT1.A.1.Z5.0000.Z01.E": {
+            "title": "Ostale obveze",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: ostale obveze (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.T00.A.1.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, ukupna imovina/obveze (stanje na kraju razdoblja, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.L30.A.4.Z5.0000.Z01.E": {
+            "title": "Udjeli investicijskih fondova",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: dionice/udjeli investicijskih fondova (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.L20.A.4.Z5.0000.Z01.E": {
+            "title": "Primljeni krediti i depoziti",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: primljeni krediti i depoziti (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.LT1.A.4.Z5.0000.Z01.E": {
+            "title": "Ostale obveze",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, kategorija obveza: ostale obveze (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        },
+        "Q..N.T0.T00.A.4.Z5.0000.Z01.E": {
+            "title": "Ukupno",
+            "definition": "Investicijski fondovi koji nisu novčani fondovi, ukupna imovina/obveze (financijske transakcije, svi rokovi dospijeća, sve valute, izraženo u eurima, nedesezonirano, tromjesečni podatci)"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Løbende poster (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Løbende poster (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo på de løbende poster som procentdel af bruttonationalproduktet (BNP) i markedspriser (kredit minus debet, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ESA 2010-standarder).</p>",
+            "title": "<p>Saldo (i pct.)</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Løbende poster (kredit) som procentdel af bruttonationalproduktet (BNP) i markedspriser, (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ESA 2010-standarder).</p>",
+            "title": "<p>Kredit (i pct.)</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Løbende poster (debet) som procentdel af bruttonationalproduktet (BNP) i markedspriser, (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6- og ESA 2010-standarder).</p>",
+            "title": "<p>Debet (i pct.)</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Løbende poster, varer, saldo (eksport minus import, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Løbende poster, varer, eksport (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Løbende poster, varer, import (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Løbende poster, tjenester, saldo (eksport minus import, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Løbende poster, tjenester, eksport (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Eksport</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Løbende poster, tjenester, import (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Import</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Løbende poster, saldo for primær indkomst (kredit minus debet, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Løbende poster, primær indkomst (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Løbende poster, primær indkomst (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Løbende poster, saldo for sekundær indkomst (kredit minus debet, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Løbende poster, sekundær indkomst (kredit) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Kredit</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Løbende poster, sekundær indkomst (debet) (transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Debet</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo på de løbende poster (kredit minus debet, transaktioner med ikkeresidenter; 4-kvartalers akkumuleret; hverken sæsonkorrigeret eller korrigeret for antal arbejdsdage; BPM6-standarder).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Løbende poster i euroområdet – pr. vigtigste modpart</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Varer</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Tjenester</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Primær indkomst</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Sekundær indkomst</p>"
+        },
+        "1": {
+            "title": "<p>I alt</p>"
+        }
+    }
+}

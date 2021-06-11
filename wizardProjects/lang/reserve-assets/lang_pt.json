@@ -1,0 +1,25 @@
+{
+    "charts": {
+        "1": {
+            "definition": "<p>Posição de investimento internacional: ativos de reserva (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6)</p>",
+            "title": "<p>Ativos</p>"
+        },
+        "1452173895267": {
+            "definition": "<p>Posição de investimento internacional: ativos de reserva em percentagem do PIB a preços de mercado (posição no final do trimestre face a não residentes; sem correção de sazonalidade e de dias úteis; normas do MBP6 e do SEC 2010)</p>",
+            "title": "<p>Rácio dos ativos</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "",
+            "dataSourceURL": "",
+            "relatedPublication": ""
+        },
+        "title": "<p>Setor externo - Ativos de reserva</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Ativos de reserva</p>"
+        }
+    }
+}

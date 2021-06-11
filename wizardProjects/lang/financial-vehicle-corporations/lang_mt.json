@@ -1,0 +1,43 @@
+{
+    "charts": {
+        "c1461747765511": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461748179004": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461748674280": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461751410147": {
+            "definition": "",
+            "title": ""
+        },
+        "c1461751459267": {
+            "definition": "",
+            "title": ""
+        },
+        "1": {
+            "definition": "<p>denominati f'euro</p>",
+            "title": "<p>denominati f'euro</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": ""
+        },
+        "title": "<p>denominati f'euro</p>"
+    },
+    "tabs": {
+        "t1461748663400": {
+            "teaser": "",
+            "title": ""
+        },
+        "1": {
+            "title": "<p>denominati f'euro</p>"
+        }
+    }
+}

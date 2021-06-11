@@ -1,0 +1,71 @@
+{
+    "charts": {
+        "ICP.M..N.000000.4.ANR": {
+            "definition": "<p>Suderintas vartotojų kainų indeksas (SVKI). Bendrosios infliacijos lygis (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Bendroji infliacija</p>"
+        },
+        "ICP.M..N.010000.4.ANR": {
+            "definition": "<p>Kategorijos „Maistas ir nealkoholiniai gėrimai“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Maistas ir gėrimai</p>"
+        },
+        "ICP.M..N.020000.4.ANR": {
+            "definition": "<p>Kategorijos „Alkoholiniai gėrimai ir tabakas“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Alkoholis ir tabakas</p>"
+        },
+        "ICP.M..N.030000.4.ANR": {
+            "definition": "<p>Kategorijos „Apranga ir avalynė“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Apranga ir avalynė</p>"
+        },
+        "ICP.M..N.040000.4.ANR": {
+            "definition": "<p>Kategorijos „Būstas, vanduo, elektra, dujos ir kitas kuras“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Būstas, elektra, dujos ir kitas kuras</p>"
+        },
+        "ICP.M..N.050000.4.ANR": {
+            "definition": "<p>Kategorijos „Būsto apstatymo, namų ūkio įranga ir kasdienė namų priežiūra“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Baldai ir kt.</p>"
+        },
+        "ICP.M..N.060000.4.ANR": {
+            "definition": "<p>Kategorijos „Sveikata“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Sveikata</p>"
+        },
+        "ICP.M..N.070000.4.ANR": {
+            "definition": "<p>Kategorijos „Transportas“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Transportas</p>"
+        },
+        "ICP.M..N.080000.4.ANR": {
+            "definition": "<p>Kategorijos „Ryšiai“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Ryšiai</p>"
+        },
+        "ICP.M..N.090000.4.ANR": {
+            "definition": "<p>Kategorijos „Poilsis ir kultūra“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Poilsis ir kultūra</p>"
+        },
+        "ICP.M..N.100000.4.ANR": {
+            "definition": "<p>Kategorijos „Švietimas“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Švietimas</p>"
+        },
+        "ICP.M..N.110000.4.ANR": {
+            "definition": "<p>Kategorijos „Restoranai ir viešbučiai“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Restoranai ir viešbučiai</p>"
+        },
+        "ICP.M..N.120000.4.ANR": {
+            "definition": "<p>Kategorijos „Įvairios prekės ir paslaugos“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Įvairios prekės ir paslaugos</p>"
+        },
+        "ICP.M..N.XEF000.4.ANR": {
+            "definition": "<p>Kategorijos „Visos sudedamosios dalys, neįskaitant energijos išteklių ir maisto kainų“ suderintas vartotojų kainų indeksas (SVKI) (metinis pokytis). SVKI apskaičiuoja Europos Sąjungos statistikos tarnyba Eurostatas ir nacionalinės statistikos institucijos. Šis indeksas – tai kainų, už kurias namų ūkiai perka vartotojo krepšelį sudarančias prekes ir paslaugas, vidutinio pokyčio per tam tikrą laiką matas. ECB siekia vidutinės trukmės laikotarpiu išlaikyti šiek tiek mažesnį kaip 2 %, bet jam artimą metinį infliacijos lygį pagal SVKI. Pagal SVKI taip pat vertinama, ar šalis pasirengusi stoti į euro zoną.</p>",
+            "title": "<p>Infliacija, neįsk. energijos išteklių ir maisto kainų</p>"
+        }
+    },
+    "project": {
+        "options": {
+            "dataSource": "<p>dummy</p>"
+        },
+        "title": "<p>Infliacijos lygis - Vartotojų kainų indeksas</p>"
+    },
+    "tabs": {
+        "1": {
+            "title": "<p>Infliacija</p>"
+        }
+    }
+}

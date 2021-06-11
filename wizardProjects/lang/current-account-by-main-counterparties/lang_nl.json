@@ -1,0 +1,96 @@
+{
+    "charts": {
+        "c1564068909178": {
+            "definition": "<p>Creditmutaties op de lopende rekening (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Creditmutaties</p>"
+        },
+        "c1564068910267": {
+            "definition": "<p>Debetmutaties op de lopende rekening (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Debetmutaties</p>"
+        },
+        "c1564068912843": {
+            "definition": "<p>Saldo lopende rekening als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (creditmutaties minus debetmutaties, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Ratio lopende rekening</p>"
+        },
+        "c1564068914122": {
+            "definition": "<p>Creditmutaties op de lopende rekening als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Ratio creditmutaties</p>"
+        },
+        "c1564068923105": {
+            "definition": "<p>Debetmutaties op de lopende rekening als percentage van het bruto binnenlands product (bbp) tegen marktprijzen (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6- en ESR 2010-standaarden).</p>",
+            "title": "<p>Ratio debetmutaties</p>"
+        },
+        "c1564069009278": {
+            "definition": "<p>Lopende rekening, goederen, saldo (uitvoer minus invoer, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069010262": {
+            "definition": "<p>Lopende rekening, goederen, uitvoer (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Uitvoer</p>"
+        },
+        "c1564069011133": {
+            "definition": "<p>Lopende rekening, goederen, invoer (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Invoer</p>"
+        },
+        "c1564069099259": {
+            "definition": "<p>Lopende rekening, diensten, saldo (uitvoer minus invoer, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069100395": {
+            "definition": "<p>Lopende rekening, diensten, uitvoer (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Uitvoer</p>"
+        },
+        "c1564069101212": {
+            "definition": "<p>Lopende rekening, diensten, invoer (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Invoer</p>"
+        },
+        "c1564069138405": {
+            "definition": "<p>Lopende rekening, saldo primair inkomen (inkomend minus uitgaand, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069139195": {
+            "definition": "<p>Lopende rekening, inkomende primaire inkomens (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Inkomend</p>"
+        },
+        "c1564069140068": {
+            "definition": "<p>Lopende rekening, uitgaande primaire inkomens (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Uitgaand</p>"
+        },
+        "c1564069182310": {
+            "definition": "<p>Lopende rekening, saldo secundair inkomen (inkomend minus uitgaand, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        },
+        "c1564069183037": {
+            "definition": "<p>Lopende rekening, inkomende secundaire inkomens (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Inkomend</p>"
+        },
+        "c1564069183806": {
+            "definition": "<p>Lopende rekening, uitgaande secundaire inkomens (transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Uitgaand</p>"
+        },
+        "1": {
+            "definition": "<p>Saldo lopende rekening (creditmutaties minus debetmutaties, transacties ten opzichte van niet-ingezetenen; gecumuleerd over vier kwartalen; niet voor seizoen of aantal werkdagen gecorrigeerd; BPM6-standaarden).</p>",
+            "title": "<p>Saldo</p>"
+        }
+    },
+    "project": {
+        "title": "<p>Lopende rekening naar belangrijkste tegenpartijen</p>"
+    },
+    "tabs": {
+        "t1564068865672": {
+            "title": "<p>Goederen</p>"
+        },
+        "t1564068866815": {
+            "title": "<p>Diensten</p>"
+        },
+        "t1564068868407": {
+            "title": "<p>Primair inkomen</p>"
+        },
+        "t1564068869622": {
+            "title": "<p>Secundair inkomen</p>"
+        },
+        "1": {
+            "title": "<p>Totaal</p>"
+        }
+    }
+}

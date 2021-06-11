@@ -1,0 +1,69 @@
+{
+    "project": {
+        "title": "Väärtpaberid - Noteeritud aktsiad",
+        "options": {
+            "dataSource": "dummy"
+        }
+    },
+    "tabs": {
+        "1": {
+            "title": "Jääk"
+        },
+        "2": {
+            "title": "Uus emissioon"
+        },
+        "3": {
+            "title": "Netoemissioon"
+        }
+    },
+    "charts": {
+        "M..1220.F51100.M.1.EUR.E.Z": {
+            "title": "Pangad, jääk",
+            "definition": "Rahaloomeasutuste noteeritud aktsiate jääk (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F51100.M.1.EUR.E.Z": {
+            "title": "Ettevõtted, jääk",
+            "definition": "Mittefinantsettevõtete noteeritud aktsiate jääk (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F51100.M.1.EUR.E.Z": {
+            "title": "Muud finantsettevõtted, jääk",
+            "definition": "Finantsettevõtete (v.a. rahaloomeasutused) noteeritud aktsiate jääk (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F51100.M.1.EUR.E.Z": {
+            "title": "Kokku, jääk",
+            "definition": "Noteeritud aktsiate jääk kokku (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1220.F51100.M.2.EUR.E.Z": {
+            "title": "Pangad, uus emissioon",
+            "definition": "Rahaloomeasutuste noteeritud aktsiate brutoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F51100.M.2.EUR.E.Z": {
+            "title": "Ettevõtted, uus emissioon",
+            "definition": "Mittefinantsettevõtete noteeritud aktsiate brutoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F51100.M.2.EUR.E.Z": {
+            "title": "Muud finantsettevõtted, uus emissioon",
+            "definition": "Finantsettevõtete (v.a. rahaloomeasutused) noteeritud aktsiate brutoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F51100.M.2.EUR.E.Z": {
+            "title": "Kokku, uus emissioon",
+            "definition": "Noteeritud aktsiate brutoemissioon kokku (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1220.F51100.M.4.EUR.E.Z": {
+            "title": "Pangad, netoemissioon",
+            "definition": "Rahaloomeasutuste noteeritud aktsiate netoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1100.F51100.M.4.EUR.E.Z": {
+            "title": "Ettevõtted, netoemissioon",
+            "definition": "Mittefinantsettevõtete noteeritud aktsiate netoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1235.F51100.M.4.EUR.E.Z": {
+            "title": "Muud finantsettevõtted, netoemissioon",
+            "definition": "Finantsettevõtete (v.a. rahaloomeasutused) noteeritud aktsiate netoemissioon (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        },
+        "M..1000.F51100.M.4.EUR.E.Z": {
+            "title": "Kokku, netoemissioon",
+            "definition": "Noteeritud aktsiate netoemissioon kokku (turuväärtus, eurodes nomineeritud, residentide emiteeritud)"
+        }
+    }
+}
