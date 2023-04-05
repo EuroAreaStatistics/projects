@@ -19,7 +19,7 @@ $ConfigEdit = array(
     'langtheme' => '<strong><em><br><a>',
     'langmain' => '<strong><em><br><a>',
     'lang' => '<strong><em><br><a>',
-    'wizard' => '<p><h4><strong><em><a>',
+    'wizard' => '<p><h4><strong><em><a><img><ul><li>',
   ),
   'projects' => array(),
 );
