@@ -276,7 +276,7 @@ if ($force) {
   echo "Checking 1 project for data updates up to ", $upto->format(DateTime::ATOM), ".\n";
 }
 updateProjects(array('macro-economic-indicators'),
-  array("MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY" => "https://sdw-wsrest.ecb.europa.eu/service/data/MNA/Q.S+Y.AT+BE+CY+DE+EE+ES+FI+FR+GR+IE+IT+LT+LU+LV+MT+NL+PT+SI+SK+I8.W2.S1.S1.B.B1GQ._Z._Z._Z.EUR+XDC.LR.GY?startPeriod=2000",
+  array("MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.XDC.LR.GY" => "https://sdw-wsrest.ecb.europa.eu/service/data/MNA/Q.Y.AT+BE+CY+DE+EE+ES+FI+FR+GR+IE+IT+LT+LU+LV+MT+NL+PT+SI+SK+I8.W2.S1.S1.B.B1GQ._Z._Z._Z.EUR+XDC.LR.GY?startPeriod=2000",
         "MNA.Q.Y..W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N" => "https://sdw-wsrest.ecb.europa.eu/service/data/MNA/Q.S+Y.AT+BE+CY+DE+EE+ES+FI+FR+GR+IE+IT+LT+LU+LV+MT+NL+PT+SI+SK+I8.W2.S1.S1.B.B1GQ._Z._Z._Z.EUR.LR.N?startPeriod=2000"),
   $upto,
   $force,

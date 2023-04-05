@@ -148,7 +148,7 @@ function refreshData($oldData, $xmlStr, $countryMap) {
 }
 
 function updateProjects($projectsWizard, $urls, $upto, $force, $ConfigEdit) {
-  $countryMap = array("EUR"=>"EUR","ATS"=>"AUT","BEF"=>"BEL","CYP"=>"CYP","DEM"=>"DEU","EEK"=>"EST","ESP"=>"ESP","FIM"=>"FIN","FRF"=>"FRA","GRD"=>"GRC","IEP"=>"IRL","ITL"=>"ITA","LTL"=>"LTU","LUF"=>"LUX","LVL"=>"LVA","MTL"=>"MLT","NLG"=>"NLD","PTE"=>"PRT","SIT"=>"SVN","SKK"=>"SVK");
+  $countryMap = array("EUR"=>"EUR","ATS"=>"AUT","BEF"=>"BEL","CYP"=>"CYP","DEM"=>"DEU","EEK"=>"EST","ESP"=>"ESP","FIM"=>"FIN","FRF"=>"FRA","GRD"=>"GRC","HRK"=>"HRV","IEP"=>"IRL","ITL"=>"ITA","LTL"=>"LTU","LUF"=>"LUX","LVL"=>"LVA","MTL"=>"MLT","NLG"=>"NLD","PTE"=>"PRT","SIT"=>"SVN","SKK"=>"SVK");
   $ch = setUpCurl();
   foreach ($projectsWizard as $project) {
     $file = PROJECTS_DIR . '/config/' . $project . '.json';
@@ -266,9 +266,9 @@ if ($force) {
   echo "Checking 1 project for data updates up to ", $upto->format(DateTime::ATOM), ".\n";
 }
 updateProjects(array('competitiveness-indicators'),
-  array("EXR.M.H10..NRC0.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/M.E7+H10.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERC0+NRC0.A?startPeriod=2000",
-        "EXR.Q.H11..NRD0.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/Q.E5+H11.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERD0+NRD0.A?startPeriod=2000",
-        "EXR.Q.H11..NRU1.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/Q.E5+H11.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERU1+NRU1.A?startPeriod=2000"),
+  array("EXR.M.H10..NRC0.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/M.E03+H03.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+HRK+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERC0+NRC0.A?startPeriod=2000",
+        "EXR.Q.H11..NRD0.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/Q.E02+H02.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERD0+NRD0.A?startPeriod=2000",
+        "EXR.Q.H11..NRU1.A" => "https://sdw-wsrest.ecb.europa.eu/service/data/EXR/Q.E02+H02.EUR+ATS+BEF+CYP+DEM+EEK+ESP+FIM+FRF+GRD+IEP+ITL+LTL+LUF+LVL+MTL+NLG+PTE+SIT+SKK.ERU1+NRU1.A?startPeriod=2000"),
   $upto,
   $force,
   $ConfigEdit);
