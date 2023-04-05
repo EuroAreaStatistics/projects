@@ -7,60 +7,60 @@
     },
     "charts": {
         "ICP.M..N.000000.4.ANR": {
-            "title": "Overall inflation",
-            "definition": "The Harmonised Index of Consumer Prices (HICP). Overall inflation rate (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Overall index",
+            "definition": "The Harmonised Index of Consumer Prices (HICP). Overall inflation rate (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.010000.4.ANR": {
-            "title": "Food and beverages",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"food and non-alcoholic beverages\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Food and non-alcoholic beverages",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"food and non-alcoholic beverages\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.020000.4.ANR": {
-            "title": "Alcohol, tobacco",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"alcoholic beverages, tobacco\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Alcoholic beverages, tobacco",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"alcoholic beverages, tobacco\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.030000.4.ANR": {
-            "title": "Clothing, shoes",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"clothing and footwear\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Clothing and footwear",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"clothing and footwear\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.040000.4.ANR": {
-            "title": "Housing, elect., gas",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"housing, water, electricity, gas and other fuels\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Housing, water, electricity, gas and other fuels",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"housing, water, electricity, gas and other fuels\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.050000.4.ANR": {
-            "title": "Furniture etc.",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"furnishings, household equipment and routine house maintenance\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Furnishings, household equipment and routine household maintenance",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"furnishings, household equipment and routine household maintenance\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.060000.4.ANR": {
             "title": "Health",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"health\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"health\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.070000.4.ANR": {
             "title": "Transport",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"transport\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"transport\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.080000.4.ANR": {
             "title": "Communication",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"communication\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"communication\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.090000.4.ANR": {
-            "title": "Recreation, culture",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"recreation and culture\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Recreation and culture",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"recreation and culture\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.100000.4.ANR": {
             "title": "Education",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"education\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"education\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.110000.4.ANR": {
-            "title": "Restaurants, hotels",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"restaurants and hotels\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Restaurants and hotels",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"restaurants and hotels\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.120000.4.ANR": {
-            "title": "Miscellaneous",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"miscellaneous goods and services\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "title": "Miscellaneous goods and services",
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"miscellaneous goods and services\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         },
         "ICP.M..N.XEF000.4.ANR": {
             "title": "Inflation excl. energy and food",
-            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"all items excluding energy and food\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services. The ECB aims to maintain annual inflation rates as measured by the HICP below, but close to, 2% over the medium term. The HICP is also used to assess whether a country is ready to join the euro area."
+            "definition": "The Harmonised Index of Consumer Prices (HICP) for the sub-group \"all items excluding energy and food\" (annual rate of change). The HICP is produced by Eurostat, the statistical office of the European Union, together with the national statistical institutes. It measures the average change over time in the prices paid by households for a basket of consumer goods and services."
         }
     },
     "tabs": {

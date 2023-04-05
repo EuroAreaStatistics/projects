@@ -1,60 +1,60 @@
 {
     "charts": {
         "ICP.M..N.000000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP): inflacja ogółem (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP: inflacja ogółem (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Inflacja ogółem</p>"
         },
         "ICP.M..N.010000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Żywność i napoje bezalkoholowe” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Żywność i napoje</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Żywność i napoje bezalkoholowe” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Żywność i napoje</p>"
         },
         "ICP.M..N.020000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Napoje alkoholowe i wyroby tytoniowe” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Napoje alkoholowe i wyroby tytoniowe</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Napoje alkoholowe i wyroby tytoniowe” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Napoje alkoholowe i wyroby tytoniowe</p>"
         },
         "ICP.M..N.030000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Odzież i obuwie” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Odzież i obuwie</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Odzież i obuwie” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Odzież i obuwie</p>"
         },
         "ICP.M..N.040000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Użytkowanie mieszkania lub domu i nośniki energii” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Użytkowanie mieszkania lub domu i nośniki energii” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Opłaty mieszkaniowe, nośniki energii</p>"
         },
         "ICP.M..N.050000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Wyposażenie mieszkania i prowadzenie gospodarstwa domowego” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Wyposażenie mieszkania i prowadzenie gospodarstwa domowego” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Wyposażenie mieszkania</p>"
         },
         "ICP.M..N.060000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Zdrowie” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Zdrowie” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Zdrowie</p>"
         },
         "ICP.M..N.070000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Transport” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Transport” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Transport</p>"
         },
         "ICP.M..N.080000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Łączność” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Łączność” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Łączność</p>"
         },
         "ICP.M..N.090000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Rekreacja i kultura” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Rekreacja i kultura</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Rekreacja i kultura” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Rekreacja i kultura</p>"
         },
         "ICP.M..N.100000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Edukacja” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Edukacja” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
             "title": "<p>Edukacja</p>"
         },
         "ICP.M..N.110000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Restauracje i hotele” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Restauracje i hotele</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Restauracje i hotele” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Restauracje i hotele</p>"
         },
         "ICP.M..N.120000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Inne towary i usługi” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Inne towary i usługi</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Inne towary i usługi” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Inne towary i usługi</p>"
         },
         "ICP.M..N.XEF000.4.ANR": {
-            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych (HICP) dla podgrupy „Inflacja po wyłączeniu cen energii i żywności” (rok do roku). HICP jest opracowywany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za koszyk towarów i usług konsumpcyjnych. EBC dąży do utrzymania rocznej stopy inflacji mierzonej wskaźnikiem HICP na poziomie poniżej, ale blisko 2% w średnim okresie. Wskaźnik HICP jest też stosowany do oceny, czy dany kraj jest gotowy do przystąpienia do strefy euro.</p>",
-            "title": "<p>Inflacja po wyłączeniu cen energii i żywności</p>"
+            "definition": "<p>Zharmonizowany wskaźnik cen konsumpcyjnych HICP dla podgrupy „Inflacja bez cen energii i żywności” (rok do roku). HICP jest obliczany przez Eurostat – urząd statystyczny Unii Europejskiej – we współpracy z krajowymi urzędami statystycznymi. Wskaźnik ten mierzy, jak średnio zmieniają się w czasie ceny płacone przez gospodarstwa domowe za towary i usługi z tzw. koszyka inflacyjnego.</p>",
+            "title": "<p>Inflacja bez cen energii i żywności</p>"
         }
     },
     "project": {
@@ -65,6 +65,7 @@
     },
     "tabs": {
         "1": {
+            "teaser": "",
             "title": "<p>Inflacja</p>"
         }
     }

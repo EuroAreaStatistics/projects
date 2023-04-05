@@ -1,59 +1,59 @@
 {
     "charts": {
         "ICP.M..N.000000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP). Rata tal-inflazzjoni ġenerali (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP). Rata tal-inflazzjoni ġenerali (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Inflazzjoni ġenerali</p>"
         },
         "ICP.M..N.010000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"ikel u xorb mhux alkoħoliku\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta'prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"ikel u xorb mhux alkoħoliku\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta'prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Ikel u xorb</p>"
         },
         "ICP.M..N.020000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"xorb alkoħoliku, tabakk\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"xorb alkoħoliku, tabakk\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Alkoħol, tabakk</p>"
         },
         "ICP.M..N.030000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"ħwejjeġ u żraben\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"ħwejjeġ u żraben\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Ħwejjeġ, żraben</p>"
         },
         "ICP.M..N.040000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"djar, ilma, dawl, gass u fjuwils oħra\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"djar, ilma, dawl, gass u fjuwils oħra\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Djar, elettriku, gass</p>"
         },
         "ICP.M..N.050000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"għamara, apparat domestiku u manutenzjoni ordinarja tad-djar\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"għamara, apparat domestiku u manutenzjoni ordinarja tad-djar\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Għamara eċċ.</p>"
         },
         "ICP.M..N.060000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"saħħa\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"saħħa\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Saħħa</p>"
         },
         "ICP.M..N.070000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"trasport\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"trasport\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Trasport</p>"
         },
         "ICP.M..N.080000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"komunikazzjoni\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"komunikazzjoni\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Komunikazzjoni</p>"
         },
         "ICP.M..N.090000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"divertiment u kultura\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"divertiment u kultura\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Divertiment, kultura</p>"
         },
         "ICP.M..N.100000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"edukazzjoni\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"edukazzjoni\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Edukazzjoni</p>"
         },
         "ICP.M..N.110000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"restoranti u lukandi\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"restoranti u lukandi\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Restoranti, lukandi</p>"
         },
         "ICP.M..N.120000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"prodotti u servizzi varji\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"prodotti u servizzi varji\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>Varji</p>"
         },
         "ICP.M..N.XEF000.4.ANR": {
-            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"il-partiti kollha minbarra l-enerġija u l-ikel\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum. Il-BĊE għandu l-għan li jżomm ir-rati tal-inflazzjoni annwali kif imkejla bl-HICP taħt iżda qrib 2% għal żmien medju. L-HICP jintuża wkoll biex jitqies jekk pajjiż ikunx imħejji għal sħubija fiż-żona tal-euro.</p>",
+            "definition": "<p>L-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP) għas-subgrupp \"il-partiti kollha minbarra l-enerġija u l-ikel\" (rata annwali ta' bidla). L-HICP joħroġ mill-Eurostat, l-uffiċċju tal-istatistika tal-Unjoni Ewropea, flimkien mal-istituti nazzjonali tal-istatistika. Ikejjel il-bidla medja maż-żmien fil-prezzijiet imħallsa mill-unitajiet domestiċi għal basket ta' prodotti u servizzi ta' konsum.</p>",
             "title": "<p>L-inflazzjoni, esklużi l-enerġija u l-ikel</p>"
         }
     },
@@ -65,6 +65,7 @@
     },
     "tabs": {
         "1": {
+            "teaser": "",
             "title": "<p>Inflazzjoni</p>"
         }
     }
